@@ -1,0 +1,640 @@
+﻿{
+	"Scenario": [
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x000033FC",
+			"FOA_Rva": "0x0003F197"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x00003408",
+			"FOA_Rva": "0x0003F19E"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x00019C42",
+			"FOA_Rva": "0x0003FFA4"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x00019C4E",
+			"FOA_Rva": "0x0003FFAB"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x0001AC98",
+			"FOA_Rva": "0x000400A3"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x0001ACA4",
+			"FOA_Rva": "0x000400AA"
+		},
+		{
+			"Text_Raw": "- 優里本筋０８－０２ -",
+			"Text_Tra": "Main Route - Yuri 08-02",
+			"FOA_Ptr": "0x0003D7DC",
+			"FOA_Rva": "0x00040563"
+		},
+		{
+			"Text_Raw": "「もっと先の未来、か」",
+			"Text_Tra": "『You said... something further in the future.』",
+			"FOA_Ptr": "0x0003D80A",
+			"FOA_Rva": "0x0004057A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003D822",
+			"FOA_Rva": "0x00040592"
+		},
+		{
+			"Text_Raw": "優里の言葉を、そのまま素直に心に受け入れる。",
+			"Text_Tra": "Yuri's words strike a chord in my heart.",
+			"FOA_Ptr": "0x0003D862",
+			"FOA_Rva": "0x00040599"
+		},
+		{
+			"Text_Raw": "それは未来で。",
+			"Text_Tra": "That's the future.",
+			"FOA_Ptr": "0x0003D8EE",
+			"FOA_Rva": "0x000405C8"
+		},
+		{
+			"Text_Raw": "だから、希望だ。",
+			"Text_Tra": "That's hope.",
+			"FOA_Ptr": "0x0003D946",
+			"FOA_Rva": "0x000405D9"
+		},
+		{
+			"Text_Raw": "「いいな」",
+			"Text_Tra": "『I like that.』",
+			"FOA_Ptr": "0x0003D99E",
+			"FOA_Rva": "0x000405EC"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003D9B6",
+			"FOA_Rva": "0x000405F8"
+		},
+		{
+			"Text_Raw": "それは……いいなぁ。",
+			"Text_Tra": "That sounds good.",
+			"FOA_Ptr": "0x0003D9F6",
+			"FOA_Rva": "0x000405FF"
+		},
+		{
+			"Text_Raw": "もちろん、希望などと呼ぶものに明確な形はなく、求めたことで逆に後悔することもあるだろう。",
+			"Text_Tra": "Of course, “hope” doesn't have a clear-cut form. Seeking it may only lead to regret.",
+			"FOA_Ptr": "0x0003DA4E",
+			"FOA_Rva": "0x00040616"
+		},
+		{
+			"Text_Raw": "しかし、それは目的地を定めない旅につきまとう期待と不安のようなものだ。",
+			"Text_Tra": "But those are the expectations and anxiety that come with a journey with no fixed destination.",
+			"FOA_Ptr": "0x0003DAA6",
+			"FOA_Rva": "0x00040671"
+		},
+		{
+			"Text_Raw": "１枚のコインの裏表のようなもの。",
+			"Text_Tra": "Like two sides of the same coin.",
+			"FOA_Ptr": "0x0003DAFE",
+			"FOA_Rva": "0x000406BA"
+		},
+		{
+			"Text_Raw": "足が前に進むのであれば、希望も後悔も、どちらも楽しめばいい。",
+			"Text_Tra": "If I'm going to carry on into the future, then I have to enjoy both the hope and the regret.",
+			"FOA_Ptr": "0x0003DB56",
+			"FOA_Rva": "0x000406DD"
+		},
+		{
+			"Text_Raw": "「うん。僕は見せるよ」",
+			"Text_Tra": "『Okay. I can show you that.』",
+			"FOA_Ptr": "0x0003DC82",
+			"FOA_Rva": "0x0004071C"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003DC9A",
+			"FOA_Rva": "0x00040734"
+		},
+		{
+			"Text_Raw": "声が漏れ出していた。",
+			"Text_Tra": "My voice finally just kind of dribbles out.",
+			"FOA_Ptr": "0x0003DCDA",
+			"FOA_Rva": "0x0004073B"
+		},
+		{
+			"Text_Raw": "自分が話し出したことを理解し、心のままに続ける。",
+			"Text_Tra": "I realize what I just said, and push onward, speaking from my heart.",
+			"FOA_Ptr": "0x0003DD32",
+			"FOA_Rva": "0x00040752"
+		},
+		{
+			"Text_Raw": "「優里だけでなく、カントのみんなにも、僕自身も含めて――」",
+			"Text_Tra": "『Not just you, Yuri. Everyone in Kanto, including myself-』",
+			"FOA_Ptr": "0x0003DD8A",
+			"FOA_Rva": "0x00040785"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003DDA2",
+			"FOA_Rva": "0x000407C1"
+		},
+		{
+			"Text_Raw": "「“もっと先にある未来を見せる”」",
+			"Text_Tra": "«I'll show you more of the future.»",
+			"FOA_Ptr": "0x0003DE26",
+			"FOA_Rva": "0x000407C8"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003DE3E",
+			"FOA_Rva": "0x000407EC"
+		},
+		{
+			"Text_Raw": "断定が言霊になる。",
+			"Text_Tra": "My declaration becomes Kotodama.",
+			"FOA_Ptr": "0x0003DEAA",
+			"FOA_Rva": "0x000407F3"
+		},
+		{
+			"Text_Raw": "「はい。見せてください」",
+			"Text_Tra": "『Yes. Please show me.』",
+			"FOA_Ptr": "0x0003DF02",
+			"FOA_Rva": "0x00040808"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003DF1A",
+			"FOA_Rva": "0x00040831"
+		},
+		{
+			"Text_Raw": "優里も笑顔のまま、小さく、それでいて力強くうなずいてくれる。",
+			"Text_Tra": "Yuri keeps her smile, giving me a short but powerful nod.",
+			"FOA_Ptr": "0x0003DF5A",
+			"FOA_Rva": "0x00040838"
+		},
+		{
+			"Text_Raw": "こうして僕はさらに一歩を踏み出した。",
+			"Text_Tra": "With this, I take another step.",
+			"FOA_Ptr": "0x0003DFB2",
+			"FOA_Rva": "0x00040877"
+		},
+		{
+			"Text_Raw": "選んだ。",
+			"Text_Tra": "I have chosen.",
+			"FOA_Ptr": "0x0003E00A",
+			"FOA_Rva": "0x0004089E"
+		},
+		{
+			"Text_Raw": "選んでしまった。",
+			"Text_Tra": "I've done it. I've made my choice.",
+			"FOA_Ptr": "0x0003E062",
+			"FOA_Rva": "0x000408A9"
+		},
+		{
+			"Text_Raw": "「うーん……それでも、もったいない……すごくもったいない」",
+			"Text_Tra": "『Hmmm. Still, this feels like a waste. Such a waste of potential!』",
+			"FOA_Ptr": "0x0003E0BA",
+			"FOA_Rva": "0x000408BC"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E0D2",
+			"FOA_Rva": "0x000408F8"
+		},
+		{
+			"Text_Raw": "わかっていても、がっくりと肩が落ちてしまう。",
+			"Text_Tra": "I know I have to continue, but my shoulders still slump.",
+			"FOA_Ptr": "0x0003E112",
+			"FOA_Rva": "0x000408FF"
+		},
+		{
+			"Text_Raw": "「なんです？　もったいない？」",
+			"Text_Tra": "『What do you mean? A waste of what?』",
+			"FOA_Ptr": "0x0003E16A",
+			"FOA_Rva": "0x0004092E"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E182",
+			"FOA_Rva": "0x0004095D"
+		},
+		{
+			"Text_Raw": "「いや、優里を選ばなかったことが、ね」",
+			"Text_Tra": "『I mean, not choosing you, Yuri.』",
+			"FOA_Ptr": "0x0003E1C2",
+			"FOA_Rva": "0x00040964"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E1DA",
+			"FOA_Rva": "0x0004098C"
+		},
+		{
+			"Text_Raw": "当然だ。",
+			"Text_Tra": "Of course I wish I could choose her.",
+			"FOA_Ptr": "0x0003E21A",
+			"FOA_Rva": "0x00040993"
+		},
+		{
+			"Text_Raw": "これほど可愛い女の子に、僕がなにか新しいことをする以上に、自分が独占しますと言われていたのだ。",
+			"Text_Tra": "She's so cute, and she's telling me that she wants to keep me all to herself even more than she wants me to do great things.",
+			"FOA_Ptr": "0x0003E272",
+			"FOA_Rva": "0x0004099E"
+		},
+		{
+			"Text_Raw": "独占されたかった。",
+			"Text_Tra": "I want to let her have me all to herself.",
+			"FOA_Ptr": "0x0003E2CA",
+			"FOA_Rva": "0x000409FF"
+		},
+		{
+			"Text_Raw": "滅茶苦茶にされたかった。",
+			"Text_Tra": "I wanted to get all up in her-business.",
+			"FOA_Ptr": "0x0003E322",
+			"FOA_Rva": "0x00040A14"
+		},
+		{
+			"Text_Raw": "だって、ほら、優里のような固い子は、お布団のうえではものすごく乱れそうだし――",
+			"Text_Tra": "I bet a hard-ass chick like Yuri would be a freaking firecracker in the sheets-",
+			"FOA_Ptr": "0x0003E37A",
+			"FOA_Rva": "0x00040A2F"
+		},
+		{
+			"Text_Raw": "「……あの、なにか不穏なことを考えていませんか？」",
+			"Text_Tra": "『I'm sorry, but are you thinking something crude again?』",
+			"FOA_Ptr": "0x0003E3D2",
+			"FOA_Rva": "0x00040A80"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E3EA",
+			"FOA_Rva": "0x00040AC3"
+		},
+		{
+			"Text_Raw": "「そ、そんなことないあるよ」",
+			"Text_Tra": "『Hah, as if... Of course I am!』",
+			"FOA_Ptr": "0x0003E42A",
+			"FOA_Rva": "0x00040ACA"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E442",
+			"FOA_Rva": "0x00040AE8"
+		},
+		{
+			"Text_Raw": "「どっちですか！？」",
+			"Text_Tra": "『Which is it?!』",
+			"FOA_Ptr": "0x0003E482",
+			"FOA_Rva": "0x00040AEF"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E49A",
+			"FOA_Rva": "0x00040B14"
+		},
+		{
+			"Text_Raw": "「いや、嘘がつけなくて」",
+			"Text_Tra": "『I can't lie, that's the issue.』",
+			"FOA_Ptr": "0x0003E4DA",
+			"FOA_Rva": "0x00040B1B"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E4F2",
+			"FOA_Rva": "0x00040B35"
+		},
+		{
+			"Text_Raw": "思わず苦笑いしてしまう。",
+			"Text_Tra": "I give a wry laugh.",
+			"FOA_Ptr": "0x0003E532",
+			"FOA_Rva": "0x00040B3C"
+		},
+		{
+			"Text_Raw": "「まったく。こんなときまで……仕方のない人ですね」",
+			"Text_Tra": "『Look at you. Even now. There's no stopping you.』",
+			"FOA_Ptr": "0x0003E58A",
+			"FOA_Rva": "0x00040B57"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E5A2",
+			"FOA_Rva": "0x00040B9A"
+		},
+		{
+			"Text_Raw": "「でも、その……私を選ばなかったことをもったいないと肩を落とすほど残念に思ってくれていることは、すごく嬉しい、です」",
+			"Text_Tra": "『But I'm happy, too. Happy that not choosing me makes your shoulders slump like that.』",
+			"FOA_Ptr": "0x0003E5E2",
+			"FOA_Rva": "0x00040BA1"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E5FA",
+			"FOA_Rva": "0x00040C26"
+		},
+		{
+			"Text_Raw": "嘘をつけない優里も、照れ臭そうというより、くすぐったそうに笑う。",
+			"Text_Tra": "Yuri can't lie either, and she gives a laugh that's more ticklish than it is embarrassed.",
+			"FOA_Ptr": "0x0003E63A",
+			"FOA_Rva": "0x00040C2D"
+		},
+		{
+			"Text_Raw": "ありがとう。",
+			"Text_Tra": "Thank you.",
+			"FOA_Ptr": "0x0003E692",
+			"FOA_Rva": "0x00040C70"
+		},
+		{
+			"Text_Raw": "「ありがとう、優里」",
+			"Text_Tra": "『Thank you, Yuri.』",
+			"FOA_Ptr": "0x0003E6EA",
+			"FOA_Rva": "0x00040C7F"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E702",
+			"FOA_Rva": "0x00040C95"
+		},
+		{
+			"Text_Raw": "「ありがとう、信様」",
+			"Text_Tra": "『Thank you, Master Shin.』",
+			"FOA_Ptr": "0x0003E742",
+			"FOA_Rva": "0x00040C9C"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E75A",
+			"FOA_Rva": "0x00040CC1"
+		},
+		{
+			"Text_Raw": "互いに感謝を告げる。",
+			"Text_Tra": "We express our gratitude to each other.",
+			"FOA_Ptr": "0x0003E79A",
+			"FOA_Rva": "0x00040CC8"
+		},
+		{
+			"Text_Raw": "「それなら、私も新しい目標に向かって進みます」",
+			"Text_Tra": "『In that case, I'll start toward a new goal myself.』",
+			"FOA_Ptr": "0x0003E7F2",
+			"FOA_Rva": "0x00040CDF"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E80A",
+			"FOA_Rva": "0x00040D1E"
+		},
+		{
+			"Text_Raw": "「新しい目標？」",
+			"Text_Tra": "『Oh? Like what?』",
+			"FOA_Ptr": "0x0003E84A",
+			"FOA_Rva": "0x00040D25"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E862",
+			"FOA_Rva": "0x00040D37"
+		},
+		{
+			"Text_Raw": "「春姫様から話を頂いたのですが、私を中心に、八剣とは別に護衛隊というものを組織したいんだそうです」",
+			"Text_Tra": "『Lady Haruhime has suggested that we form a new defensive force, centered on me, and separate from the Swords.』",
+			"FOA_Ptr": "0x0003E8A2",
+			"FOA_Rva": "0x00040D3E"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E8BA",
+			"FOA_Rva": "0x00040DB1"
+		},
+		{
+			"Text_Raw": "「ああ、あれか」",
+			"Text_Tra": "『Yeah, I heard about that.』",
+			"FOA_Ptr": "0x0003E8FA",
+			"FOA_Rva": "0x00040DB8"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E912",
+			"FOA_Rva": "0x00040DCA"
+		},
+		{
+			"Text_Raw": "警察や軍隊に繋がる機構。",
+			"Text_Tra": "Something to eventually lead into a police force or military.",
+			"FOA_Ptr": "0x0003E952",
+			"FOA_Rva": "0x00040DD1"
+		},
+		{
+			"Text_Raw": "「あの話、優里は請けるつもりなんだ」",
+			"Text_Tra": "『And you're going to take her up on that offer?』",
+			"FOA_Ptr": "0x0003E9AA",
+			"FOA_Rva": "0x00040DEC"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E9C2",
+			"FOA_Rva": "0x00040E12"
+		},
+		{
+			"Text_Raw": "「そうしようと思います」",
+			"Text_Tra": "『I'm thinking I will.』",
+			"FOA_Ptr": "0x0003EA02",
+			"FOA_Rva": "0x00040E19"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003EA1A",
+			"FOA_Rva": "0x00040E42"
+		},
+		{
+			"Text_Raw": "優里がうなずく。",
+			"Text_Tra": "Yuri gives a nod.",
+			"FOA_Ptr": "0x0003EA5A",
+			"FOA_Rva": "0x00040E49"
+		},
+		{
+			"Text_Raw": "「あなたや春姫様が剣であり前を向いているとき、護衛隊は盾として背中をお守りいたします」",
+			"Text_Tra": "『If Lady Haruhime and you are the Swords, pointing outward, this new force will be a shield, protecting your backs.』",
+			"FOA_Ptr": "0x0003EAB2",
+			"FOA_Rva": "0x00040E5C"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003EACA",
+			"FOA_Rva": "0x00040EC3"
+		},
+		{
+			"Text_Raw": "「優里が守ってくれるなら、なんの心配もないね」",
+			"Text_Tra": "『With you covering my back, Yuri, I've got nothing to worry about.』",
+			"FOA_Ptr": "0x0003EB0A",
+			"FOA_Rva": "0x00040ECA"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003EB22",
+			"FOA_Rva": "0x00040EFA"
+		},
+		{
+			"Text_Raw": "寄り添っていてくれるという言葉を彼女は果たすつもりなのだ。",
+			"Text_Tra": "She asked to remain close to me, whatever I chose, and she seems ready to stand by that.",
+			"FOA_Ptr": "0x0003EB62",
+			"FOA_Rva": "0x00040F01"
+		},
+		{
+			"Text_Raw": "それならもう、背後を振り向く必要もない。",
+			"Text_Tra": "I won't need to worry about checking behind me with her there.",
+			"FOA_Ptr": "0x0003EBBA",
+			"FOA_Rva": "0x00040F3E"
+		},
+		{
+			"Text_Raw": "「まあ、護衛隊ってことで普段は背中を守りつつ、八剣が暴走したら取り締まるのも仕事の内だろうけどね」",
+			"Text_Tra": "『Well, in addition to protecting the Swords, part of your job will also be to take us down if one of us goes on some kind of rampage.』",
+			"FOA_Ptr": "0x0003EC12",
+			"FOA_Rva": "0x00040F69"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003EC2A",
+			"FOA_Rva": "0x00040FCD"
+		},
+		{
+			"Text_Raw": "その力や技術は、優里に学んでもらった。",
+			"Text_Tra": "Yuri has the strength and skills to pull that off now.",
+			"FOA_Ptr": "0x0003EC6A",
+			"FOA_Rva": "0x00040FD4"
+		},
+		{
+			"Text_Raw": "僕の補足に、優里がずっと浮かべていた笑顔をひっこめる。",
+			"Text_Tra": "The smile slips a little from Yuri's face at my suggestion.",
+			"FOA_Ptr": "0x0003ECC2",
+			"FOA_Rva": "0x00040FFD"
+		},
+		{
+			"Text_Raw": "「もう。余計な一言を……どうしてあなたは、気分よくすっきり同意してくれないのでしょうね」",
+			"Text_Tra": "『You always have to take things too far, don't you? Can't you just smile happily and go along with what I'm saying?』",
+			"FOA_Ptr": "0x0003ED1A",
+			"FOA_Rva": "0x00041036"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003ED32",
+			"FOA_Rva": "0x0004109F"
+		},
+		{
+			"Text_Raw": "「あはは。それが僕だからね」",
+			"Text_Tra": "『Hahaha. That's just who I am, I'm afraid.』",
+			"FOA_Ptr": "0x0003ED72",
+			"FOA_Rva": "0x000410A6"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003ED8A",
+			"FOA_Rva": "0x000410C4"
+		},
+		{
+			"Text_Raw": "冗談のように笑うが――実際は真剣だった。",
+			"Text_Tra": "I laugh like it's a joke-but I was being serious.",
+			"FOA_Ptr": "0x0003EDCA",
+			"FOA_Rva": "0x000410CB"
+		},
+		{
+			"Text_Raw": "僕や春姫だって間違いは犯すだろう。",
+			"Text_Tra": "I could make mistakes. Even Haruhime could.",
+			"FOA_Ptr": "0x0003EE22",
+			"FOA_Rva": "0x000410F6"
+		},
+		{
+			"Text_Raw": "その時、八剣であろうとも間違いを正してくれる存在があればこそ、僕らの肩の荷が少しは軽くなるのだ。",
+			"Text_Tra": "Having something in place to correct those mistakes, even coming from the Eight Swords, helps lightens the load on our shoulders.",
+			"FOA_Ptr": "0x0003EE7A",
+			"FOA_Rva": "0x0004111B"
+		},
+		{
+			"Text_Raw": "「とにかく、明日からは喫茶店をやりつつ、護衛隊の設立までは僕も手伝うよ」",
+			"Text_Tra": "『Okay. We'll work at the café from tomorrow, while also laying the groundwork to establish this guard force.』",
+			"FOA_Ptr": "0x0003EED2",
+			"FOA_Rva": "0x0004117E"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003EEEA",
+			"FOA_Rva": "0x000411C8"
+		},
+		{
+			"Text_Raw": "「それからは、あなたもご自身の夢を見つけるのですね」",
+			"Text_Tra": "『And you also need to find your own dream.』",
+			"FOA_Ptr": "0x0003EF2A",
+			"FOA_Rva": "0x000411CF"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003EF42",
+			"FOA_Rva": "0x00041214"
+		},
+		{
+			"Text_Raw": "「うん」",
+			"Text_Tra": "『That's right.』",
+			"FOA_Ptr": "0x0003EF82",
+			"FOA_Rva": "0x0004121B"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003EF9A",
+			"FOA_Rva": "0x00041225"
+		},
+		{
+			"Text_Raw": "笑顔で想いをはせる。",
+			"Text_Tra": "I smile, giving that some thought.",
+			"FOA_Ptr": "0x0003EFDA",
+			"FOA_Rva": "0x0004122C"
+		},
+		{
+			"Text_Raw": "僕は何者になるのだろう？",
+			"Text_Tra": "What will I become, I wonder.",
+			"FOA_Ptr": "0x0003F032",
+			"FOA_Rva": "0x00041243"
+		},
+		{
+			"Text_Raw": "新しい一歩は、本当のスタートラインを見つけることから始めよう。",
+			"Text_Tra": "At the moment, it's not even about taking the first step; I need to find the point to start from.",
+			"FOA_Ptr": "0x0003F08A",
+			"FOA_Rva": "0x0004125E"
+		}
+	]
+}

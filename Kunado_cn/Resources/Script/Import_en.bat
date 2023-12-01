@@ -1,0 +1,63 @@
+set insert_code_page=932
+set json_text_foler=Text_en\\
+set org_script_folder=Script_jp_v1.02\\
+set out_script_folder=Script_en_v1.02\\
+
+PS3TextEditor.exe %org_script_folder%intproc.ps3 %json_text_foler%intproc.ps3.json %out_script_folder%intproc.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%logo.ps3 %json_text_foler%logo.ps3.json %out_script_folder%logo.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%main.ps3 %json_text_foler%main.ps3.json %out_script_folder%main.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%menu.ps3 %json_text_foler%menu.ps3.json %out_script_folder%menu.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%omake.ps3 %json_text_foler%omake.ps3.json %out_script_folder%omake.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%op.ps3 %json_text_foler%op.ps3.json %out_script_folder%op.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1010.ps3 %json_text_foler%sn1010.ps3.json %out_script_folder%sn1010.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1020.ps3 %json_text_foler%sn1020.ps3.json %out_script_folder%sn1020.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1030.ps3 %json_text_foler%sn1030.ps3.json %out_script_folder%sn1030.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1040.ps3 %json_text_foler%sn1040.ps3.json %out_script_folder%sn1040.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1050.ps3 %json_text_foler%sn1050.ps3.json %out_script_folder%sn1050.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1060.ps3 %json_text_foler%sn1060.ps3.json %out_script_folder%sn1060.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1071.ps3 %json_text_foler%sn1071.ps3.json %out_script_folder%sn1071.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1072.ps3 %json_text_foler%sn1072.ps3.json %out_script_folder%sn1072.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1080.ps3 %json_text_foler%sn1080.ps3.json %out_script_folder%sn1080.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1090.ps3 %json_text_foler%sn1090.ps3.json %out_script_folder%sn1090.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1100.ps3 %json_text_foler%sn1100.ps3.json %out_script_folder%sn1100.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1110.ps3 %json_text_foler%sn1110.ps3.json %out_script_folder%sn1110.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1120.ps3 %json_text_foler%sn1120.ps3.json %out_script_folder%sn1120.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1131.ps3 %json_text_foler%sn1131.ps3.json %out_script_folder%sn1131.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1132.ps3 %json_text_foler%sn1132.ps3.json %out_script_folder%sn1132.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1141.ps3 %json_text_foler%sn1141.ps3.json %out_script_folder%sn1141.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1142.ps3 %json_text_foler%sn1142.ps3.json %out_script_folder%sn1142.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1150.ps3 %json_text_foler%sn1150.ps3.json %out_script_folder%sn1150.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1160.ps3 %json_text_foler%sn1160.ps3.json %out_script_folder%sn1160.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1170.ps3 %json_text_foler%sn1170.ps3.json %out_script_folder%sn1170.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1180.ps3 %json_text_foler%sn1180.ps3.json %out_script_folder%sn1180.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1191.ps3 %json_text_foler%sn1191.ps3.json %out_script_folder%sn1191.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1192.ps3 %json_text_foler%sn1192.ps3.json %out_script_folder%sn1192.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1200.ps3 %json_text_foler%sn1200.ps3.json %out_script_folder%sn1200.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1210.ps3 %json_text_foler%sn1210.ps3.json %out_script_folder%sn1210.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1220.ps3 %json_text_foler%sn1220.ps3.json %out_script_folder%sn1220.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1230.ps3 %json_text_foler%sn1230.ps3.json %out_script_folder%sn1230.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1240.ps3 %json_text_foler%sn1240.ps3.json %out_script_folder%sn1240.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1251.ps3 %json_text_foler%sn1251.ps3.json %out_script_folder%sn1251.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1252.ps3 %json_text_foler%sn1252.ps3.json %out_script_folder%sn1252.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1253.ps3 %json_text_foler%sn1253.ps3.json %out_script_folder%sn1253.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn1260.ps3 %json_text_foler%sn1260.ps3.json %out_script_folder%sn1260.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn2010.ps3 %json_text_foler%sn2010.ps3.json %out_script_folder%sn2010.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn2020.ps3 %json_text_foler%sn2020.ps3.json %out_script_folder%sn2020.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn2030.ps3 %json_text_foler%sn2030.ps3.json %out_script_folder%sn2030.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn2040.ps3 %json_text_foler%sn2040.ps3.json %out_script_folder%sn2040.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn2050.ps3 %json_text_foler%sn2050.ps3.json %out_script_folder%sn2050.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn2060.ps3 %json_text_foler%sn2060.ps3.json %out_script_folder%sn2060.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn3010.ps3 %json_text_foler%sn3010.ps3.json %out_script_folder%sn3010.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn3020.ps3 %json_text_foler%sn3020.ps3.json %out_script_folder%sn3020.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn3030.ps3 %json_text_foler%sn3030.ps3.json %out_script_folder%sn3030.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn3040.ps3 %json_text_foler%sn3040.ps3.json %out_script_folder%sn3040.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn3050.ps3 %json_text_foler%sn3050.ps3.json %out_script_folder%sn3050.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn3060.ps3 %json_text_foler%sn3060.ps3.json %out_script_folder%sn3060.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn3070.ps3 %json_text_foler%sn3070.ps3.json %out_script_folder%sn3070.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn7120.ps3 %json_text_foler%sn7120.ps3.json %out_script_folder%sn7120.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn7130.ps3 %json_text_foler%sn7130.ps3.json %out_script_folder%sn7130.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn7340.ps3 %json_text_foler%sn7340.ps3.json %out_script_folder%sn7340.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn7510.ps3 %json_text_foler%sn7510.ps3.json %out_script_folder%sn7510.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%sn7710.ps3 %json_text_foler%sn7710.ps3.json %out_script_folder%sn7710.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%staff.ps3 %json_text_foler%staff.ps3.json %out_script_folder%staff.ps3 %insert_code_page%
+PS3TextEditor.exe %org_script_folder%start.ps3 %json_text_foler%start.ps3.json %out_script_folder%start.ps3 %insert_code_page%

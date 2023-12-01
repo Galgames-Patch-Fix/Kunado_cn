@@ -1,0 +1,4 @@
+～ GBK  A1AB  Unicode 5EFF
+〜 SJIS 8160  Unicode 1C30
+· GBK   A1A4  Unicode B700
+・ SJIS  8145  Unicode FB30

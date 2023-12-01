@@ -1,0 +1,112 @@
+﻿{
+	"Scenario": [
+		{
+			"Text_Raw": "data\\music\\",
+			"Text_Tra": "data\\music\\",
+			"FOA_Ptr": "0x0000010C",
+			"FOA_Rva": "0x00001789"
+		},
+		{
+			"Text_Raw": "data\\video\\",
+			"Text_Tra": "data\\video\\",
+			"FOA_Ptr": "0x00000126",
+			"FOA_Rva": "0x00001795"
+		},
+		{
+			"Text_Raw": "save\\",
+			"Text_Tra": "save\\",
+			"FOA_Ptr": "0x00000134",
+			"FOA_Rva": "0x000017A1"
+		},
+		{
+			"Text_Raw": "data\\pack\\update.cpz",
+			"Text_Tra": "data\\pack\\update.cpz",
+			"FOA_Ptr": "0x00000172",
+			"FOA_Rva": "0x000017A7"
+		},
+		{
+			"Text_Raw": "data\\pack\\script.cpz",
+			"Text_Tra": "data\\pack\\script.cpz",
+			"FOA_Ptr": "0x000001BC",
+			"FOA_Rva": "0x000017BC"
+		},
+		{
+			"Text_Raw": "data\\pack\\se.cpz",
+			"Text_Tra": "data\\pack\\se.cpz",
+			"FOA_Ptr": "0x00000206",
+			"FOA_Rva": "0x000017D1"
+		},
+		{
+			"Text_Raw": "data\\pack\\voice2.cpz",
+			"Text_Tra": "data\\pack\\voice2.cpz",
+			"FOA_Ptr": "0x00000250",
+			"FOA_Rva": "0x000017E2"
+		},
+		{
+			"Text_Raw": "data\\pack\\voice.cpz",
+			"Text_Tra": "data\\pack\\voice.cpz",
+			"FOA_Ptr": "0x0000029A",
+			"FOA_Rva": "0x000017F7"
+		},
+		{
+			"Text_Raw": "data\\pack\\update.cpz",
+			"Text_Tra": "data\\pack\\update.cpz",
+			"FOA_Ptr": "0x000002E4",
+			"FOA_Rva": "0x0000180B"
+		},
+		{
+			"Text_Raw": "data\\pack\\chip.cpz",
+			"Text_Tra": "data\\pack\\chip.cpz",
+			"FOA_Ptr": "0x0000032E",
+			"FOA_Rva": "0x00001820"
+		},
+		{
+			"Text_Raw": "data\\pack\\bg.cpz",
+			"Text_Tra": "data\\pack\\bg.cpz",
+			"FOA_Ptr": "0x00000378",
+			"FOA_Rva": "0x00001833"
+		},
+		{
+			"Text_Raw": "data\\pack\\event.cpz",
+			"Text_Tra": "data\\pack\\event.cpz",
+			"FOA_Ptr": "0x000003C2",
+			"FOA_Rva": "0x00001844"
+		},
+		{
+			"Text_Raw": "data\\pack\\stand.cpz",
+			"Text_Tra": "data\\pack\\stand.cpz",
+			"FOA_Ptr": "0x0000040C",
+			"FOA_Rva": "0x00001858"
+		},
+		{
+			"Text_Raw": "data\\pack\\up.cpz",
+			"Text_Tra": "data\\pack\\up.cpz",
+			"FOA_Ptr": "0x00000456",
+			"FOA_Rva": "0x0000186C"
+		},
+		{
+			"Text_Raw": "data\\pack\\balloon.cpz",
+			"Text_Tra": "data\\pack\\balloon.cpz",
+			"FOA_Ptr": "0x000004A0",
+			"FOA_Rva": "0x0000187D"
+		},
+		{
+			"Text_Raw": "data\\pack\\video.cpz",
+			"Text_Tra": "data\\pack\\video.cpz",
+			"FOA_Ptr": "0x000004EA",
+			"FOA_Rva": "0x00001893"
+		},
+		{
+			"Text_Raw": "クナド国記[ver.1.02]",
+			"Text_Tra": "Kunado Chronicles[ver.1.02]",
+			"FOA_Ptr": "0x0000169E",
+			"FOA_Rva": "0x000018A7"
+		},
+		{
+			"Text_Raw": "kunado.ico",
+			"Text_Tra": "kunado.ico",
+			"FOA_Ptr": "0x0000171C",
+			"FOA_Rva": "0x000018BC"
+		}
+	]
+}

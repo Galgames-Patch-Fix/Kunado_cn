@@ -1,0 +1,9 @@
+[UPDATE_VER]
+NAME=クナド国記
+VER=1.02
+DAY=2022/02/04
+
+[UPDATE_FILE]
+FILE001=102/start.ps3,data\pack\start.ps3,1629,b822e3722677ba1637fe0de6b5490293
+FILE002=102/update.cpz,data\pack\update.cpz,2093538,46b277e498577278168d00a660f9cafa
+

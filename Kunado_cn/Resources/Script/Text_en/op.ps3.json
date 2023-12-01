@@ -1,0 +1,46 @@
+﻿{
+	"Scenario": [
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x000033FC",
+			"FOA_Rva": "0x0003D90D"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー～",
+			"FOA_Ptr": "0x00003408",
+			"FOA_Rva": "0x0003D914"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x00019C42",
+			"FOA_Rva": "0x0003E71A"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー～",
+			"FOA_Ptr": "0x00019C4E",
+			"FOA_Rva": "0x0003E721"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x0001AC98",
+			"FOA_Rva": "0x0003E819"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー～",
+			"FOA_Ptr": "0x0001ACA4",
+			"FOA_Rva": "0x0003E820"
+		},
+		{
+			"Text_Raw": "- オープニング -",
+			"Text_Tra": "- OP -",
+			"FOA_Ptr": "0x0003D7EA",
+			"FOA_Rva": "0x0003ECD9"
+		}
+	]
+}

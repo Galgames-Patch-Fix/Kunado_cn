@@ -1,0 +1,46 @@
+﻿{
+	"Scenario": [
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x0000340C",
+			"FOA_Rva": "0x0004052F"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー～",
+			"FOA_Ptr": "0x00003418",
+			"FOA_Rva": "0x00040536"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x00019C52",
+			"FOA_Rva": "0x0004133C"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー～",
+			"FOA_Ptr": "0x00019C5E",
+			"FOA_Rva": "0x00041343"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x0001ACA8",
+			"FOA_Rva": "0x0004143B"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー～",
+			"FOA_Ptr": "0x0001ACB4",
+			"FOA_Rva": "0x00041442"
+		},
+		{
+			"Text_Raw": "- メイン -",
+			"Text_Tra": "- 主菜单 -",
+			"FOA_Ptr": "0x0003FBB8",
+			"FOA_Rva": "0x00041945"
+		}
+	]
+}

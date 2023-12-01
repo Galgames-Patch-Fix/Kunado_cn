@@ -1,0 +1,3574 @@
+﻿{
+	"Scenario": [
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x000033FC",
+			"FOA_Rva": "0x00046EB7"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x00003408",
+			"FOA_Rva": "0x00046EBE"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x00019C42",
+			"FOA_Rva": "0x00047CC4"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x00019C4E",
+			"FOA_Rva": "0x00047CCB"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x0001AC98",
+			"FOA_Rva": "0x00047DC3"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x0001ACA4",
+			"FOA_Rva": "0x00047DCA"
+		},
+		{
+			"Text_Raw": "- 優里本筋０１ -",
+			"Text_Tra": "Main Route - Yuri 01",
+			"FOA_Ptr": "0x0003D7DC",
+			"FOA_Rva": "0x00048283"
+		},
+		{
+			"Text_Raw": "そして、物語は新しい展開を迎える――",
+			"Text_Tra": "And so, our story heads in a new direction.",
+			"FOA_Ptr": "0x0003D87A",
+			"FOA_Rva": "0x00048294"
+		},
+		{
+			"Text_Raw": "あくる日。",
+			"Text_Tra": "Some time passes.",
+			"FOA_Ptr": "0x0003D8D2",
+			"FOA_Rva": "0x000482BB"
+		},
+		{
+			"Text_Raw": "カントがさらなる変化を迎える日のことだ。",
+			"Text_Tra": "A day arrives that brings further changes to Kanto.",
+			"FOA_Ptr": "0x0003D92A",
+			"FOA_Rva": "0x000482C8"
+		},
+		{
+			"Text_Raw": "「……私は大きな勘違いをしていました」",
+			"Text_Tra": "『It seems I've made a terrible mistake.』",
+			"FOA_Ptr": "0x0003DA8A",
+			"FOA_Rva": "0x000482F3"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003DAA2",
+			"FOA_Rva": "0x0004832A"
+		},
+		{
+			"Text_Raw": "優里が真剣な表情でつぶやく。",
+			"Text_Tra": "Yuri mutters with a serious expression on her face.",
+			"FOA_Ptr": "0x0003DAE2",
+			"FOA_Rva": "0x00048331"
+		},
+		{
+			"Text_Raw": "僕に話しかけているのかと思ったが、彼女はうつむき、瞳はうつろで、独り言のようだった。",
+			"Text_Tra": "For a moment I think she's talking to me, but she's looking down, her eyes unfocused. She's talking to herself.",
+			"FOA_Ptr": "0x0003DB3A",
+			"FOA_Rva": "0x00048350"
+		},
+		{
+			"Text_Raw": "緊張、というより極度のストレスで、顔を真っ青にしていた。",
+			"Text_Tra": "Nerves-or maybe intense stress-are making her face pale.",
+			"FOA_Ptr": "0x0003DB92",
+			"FOA_Rva": "0x000483A7"
+		},
+		{
+			"Text_Raw": "「あの日、私になんだこうだ言ったくせに、ひとりで鉄鬼に立ち向かったあなたに、少しは感心や尊敬のようなものを抱いたんです」",
+			"Text_Tra": "『That day, after everything you said to me, you still headed into battle against that Tekki. Alone. That made me feel... something for you. Respect, maybe.』",
+			"FOA_Ptr": "0x0003DBEA",
+			"FOA_Rva": "0x000483E2"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003DC02",
+			"FOA_Rva": "0x0004846B"
+		},
+		{
+			"Text_Raw": "「ええ……不覚にも、抱いて、しまったんです」",
+			"Text_Tra": "『Yes. I hate to admit it, but that's what it was.』",
+			"FOA_Ptr": "0x0003DC42",
+			"FOA_Rva": "0x00048472"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003DC5A",
+			"FOA_Rva": "0x000484AF"
+		},
+		{
+			"Text_Raw": "「さらに、今日までの１週間、あなたが必死になって私のために尽くしてくださったことには、一生をかけて感謝しても足りないほどに感謝していました」",
+			"Text_Tra": "『Then there was all the studying you've helped me with this week. I can't thank you enough for that.』",
+			"FOA_Ptr": "0x0003DC9A",
+			"FOA_Rva": "0x000484B6"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003DCB2",
+			"FOA_Rva": "0x00048553"
+		},
+		{
+			"Text_Raw": "「しかし、それも気のせいでした」",
+			"Text_Tra": "『But I was mistaken.』",
+			"FOA_Ptr": "0x0003DCF2",
+			"FOA_Rva": "0x0004855A"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003DD0A",
+			"FOA_Rva": "0x0004858B"
+		},
+		{
+			"Text_Raw": "「別にいいんです。あなたについては、意外なことではなく、『やっぱりな』という気分ですので」",
+			"Text_Tra": "『It doesn't matter. It just means my first estimation of you was correct.』",
+			"FOA_Ptr": "0x0003DD66",
+			"FOA_Rva": "0x00048592"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003DD7E",
+			"FOA_Rva": "0x000485FD"
+		},
+		{
+			"Text_Raw": "「話の途中なんだろうけど、僕の評価が楽しいことになっているね」",
+			"Text_Tra": "『I know you aren't finished yet, but your evaluation of me seems to be developing in unexpected ways.』",
+			"FOA_Ptr": "0x0003DDBE",
+			"FOA_Rva": "0x00048604"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003DDD6",
+			"FOA_Rva": "0x00048644"
+		},
+		{
+			"Text_Raw": "思わずツッコミを入れてしまう。",
+			"Text_Tra": "I can't help but cut in.",
+			"FOA_Ptr": "0x0003DE16",
+			"FOA_Rva": "0x0004864B"
+		},
+		{
+			"Text_Raw": "優里はそれすら聞こえていないようで、視線をさまよわせる。",
+			"Text_Tra": "Yuri's eyes are shifting from side to side, as though she didn't even hear my carefully crafted comment.",
+			"FOA_Ptr": "0x0003DE6E",
+			"FOA_Rva": "0x0004866C"
+		},
+		{
+			"Text_Raw": "「でも、それはあなたがおかしいだけで、他の八剣様は素晴らしい方々だと思っていたんです」",
+			"Text_Tra": "『My problem is, I thought you were just a weirdo, and the rest of the Swords wonderful people.』",
+			"FOA_Ptr": "0x0003DEC6",
+			"FOA_Rva": "0x000486A7"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003DEDE",
+			"FOA_Rva": "0x0004870E"
+		},
+		{
+			"Text_Raw": "「特に春姫様は」",
+			"Text_Tra": "『Lady Haruhime, in particular.』",
+			"FOA_Ptr": "0x0003DF1E",
+			"FOA_Rva": "0x00048715"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003DF36",
+			"FOA_Rva": "0x00048736"
+		},
+		{
+			"Text_Raw": "「それが、なぜ……こんな決断を下されたのか、まったく理解できません」",
+			"Text_Tra": "『That's why I can't understand why she'd make this kind of decision.』",
+			"FOA_Ptr": "0x0003DF76",
+			"FOA_Rva": "0x0004873D"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003DF8E",
+			"FOA_Rva": "0x00048792"
+		},
+		{
+			"Text_Raw": "「ああ。なにが言いたいのかと思ったけど、{愚痴/・・}だね」",
+			"Text_Tra": "『Ah, gotcha. I was wondering where this was going-complaining about the boss.』",
+			"FOA_Ptr": "0x0003DFCE",
+			"FOA_Rva": "0x00048799"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003DFE6",
+			"FOA_Rva": "0x000487D4"
+		},
+		{
+			"Text_Raw": "具体的な悩みなら真面目に答えようと思っていたが、安心した。",
+			"Text_Tra": "If it had been a more serious issue, I'd have answered more seriously. Instead I'm put at ease.",
+			"FOA_Ptr": "0x0003E026",
+			"FOA_Rva": "0x000487DB"
+		},
+		{
+			"Text_Raw": "そこで優里は、ようやく目の焦点を僕に合わせて睨む。",
+			"Text_Tra": "Yuri finally looks at me, and her eyes are glaring.",
+			"FOA_Ptr": "0x0003E07E",
+			"FOA_Rva": "0x00048818"
+		},
+		{
+			"Text_Raw": "「……あなたは最低です、鬼畜です、変態です」",
+			"Text_Tra": "『...You suck. You're a beast. A pervert.』",
+			"FOA_Ptr": "0x0003E0D6",
+			"FOA_Rva": "0x0004884D"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E0EE",
+			"FOA_Rva": "0x0004888A"
+		},
+		{
+			"Text_Raw": "「まあまあ」",
+			"Text_Tra": "『Hey. Take it easy.』",
+			"FOA_Ptr": "0x0003E12E",
+			"FOA_Rva": "0x00048891"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E146",
+			"FOA_Rva": "0x0004889F"
+		},
+		{
+			"Text_Raw": "女の子の冷たい視線には興奮してしまう、が――そろそろ機嫌を直してもらわないと困る。",
+			"Text_Tra": "A cold look from a cute girl does turn me on-but I really need her to get back to some kind of normalcy.",
+			"FOA_Ptr": "0x0003E186",
+			"FOA_Rva": "0x000488A6"
+		},
+		{
+			"Text_Raw": "今日の主役は優里なのだから。",
+			"Text_Tra": "Yuri is the star for today.",
+			"FOA_Ptr": "0x0003E1DE",
+			"FOA_Rva": "0x000488FB"
+		},
+		{
+			"Text_Raw": "「何度も説明したけれど、これはカントの発展のための大事な仕事なんだよ」",
+			"Text_Tra": "『I know I've explained this already, but this is an important task. The future of Kanto is at stake here.』",
+			"FOA_Ptr": "0x0003E236",
+			"FOA_Rva": "0x0004891A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E24E",
+			"FOA_Rva": "0x00048962"
+		},
+		{
+			"Text_Raw": "「それは……わかって、います」",
+			"Text_Tra": "『I understand that. I do.』",
+			"FOA_Ptr": "0x0003E28E",
+			"FOA_Rva": "0x00048969"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E2A6",
+			"FOA_Rva": "0x00048998"
+		},
+		{
+			"Text_Raw": "それを彼女自身が認めてここにいることを、優里も理解している。",
+			"Text_Tra": "Yuri is here because she's accepted the need for this.",
+			"FOA_Ptr": "0x0003E2E6",
+			"FOA_Rva": "0x0004899F"
+		},
+		{
+			"Text_Raw": "わかっていても漏れるから愚痴なのだ。",
+			"Text_Tra": "Her need to complain must be powerful, in the face of that.",
+			"FOA_Ptr": "0x0003E33E",
+			"FOA_Rva": "0x000489DE"
+		},
+		{
+			"Text_Raw": "「まあ、僕を罵ることで優里の気分が晴れるなら、いくらでも受け入れるからさ」",
+			"Text_Tra": "『Well, if ragging on me makes you feel better, go ahead. Rag away.』",
+			"FOA_Ptr": "0x0003E396",
+			"FOA_Rva": "0x00048A05"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E3AE",
+			"FOA_Rva": "0x00048A51"
+		},
+		{
+			"Text_Raw": "「受け入れるというか……あなたは、そういう扱いを好んでいるのでしょう？」",
+			"Text_Tra": "『You're just going to accept it? You like being treated like this, don't you?!』",
+			"FOA_Ptr": "0x0003E3EE",
+			"FOA_Rva": "0x00048A58"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E406",
+			"FOA_Rva": "0x00048AB1"
+		},
+		{
+			"Text_Raw": "「まさか、そんなことはありえない」",
+			"Text_Tra": "『Not at all. Impossible.』",
+			"FOA_Ptr": "0x0003E446",
+			"FOA_Rva": "0x00048AB8"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E45E",
+			"FOA_Rva": "0x00048ADC"
+		},
+		{
+			"Text_Raw": "「……言霊で誓ってください」",
+			"Text_Tra": "『...Swear it, using the Kotodama.』",
+			"FOA_Ptr": "0x0003E49E",
+			"FOA_Rva": "0x00048AE3"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E4B6",
+			"FOA_Rva": "0x00048B10"
+		},
+		{
+			"Text_Raw": "「それは無理」",
+			"Text_Tra": "『Nope. That I can't do.』",
+			"FOA_Ptr": "0x0003E4F6",
+			"FOA_Rva": "0x00048B17"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E50E",
+			"FOA_Rva": "0x00048B27"
+		},
+		{
+			"Text_Raw": "「やっぱり罵られて喜んでるんじゃないですか！？」",
+			"Text_Tra": "『I knew it! You like being debased!』",
+			"FOA_Ptr": "0x0003E5B6",
+			"FOA_Rva": "0x00048B2E"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E5CE",
+			"FOA_Rva": "0x00048B6F"
+		},
+		{
+			"Text_Raw": "「まあまあ」",
+			"Text_Tra": "『Hey, c'mon now. Take it easy.』",
+			"FOA_Ptr": "0x0003E61E",
+			"FOA_Rva": "0x00048B76"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E636",
+			"FOA_Rva": "0x00048B84"
+		},
+		{
+			"Text_Raw": "そろそろ勢い任せに首でも絞められそうなので、手をかざして牽制しておく。",
+			"Text_Tra": "It feels like she's about to start throttling me, so I put my hands up and try to cool her off.",
+			"FOA_Ptr": "0x0003E69E",
+			"FOA_Rva": "0x00048B8B"
+		},
+		{
+			"Text_Raw": "「冗談はともかく、性癖とは関係なく、可愛い子が相手なら罵られても悪い気分じゃないだけだよ」",
+			"Text_Tra": "『Joking around is one thing. I'm not talking about sex stuff; just having a cute girl debase you is always fun.』",
+			"FOA_Ptr": "0x0003E6F6",
+			"FOA_Rva": "0x00048BD4"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E70E",
+			"FOA_Rva": "0x00048C30"
+		},
+		{
+			"Text_Raw": "「可愛い――！　ん？　え？　かわ？　え？」",
+			"Text_Tra": "『Cute-! Huh? Hold on? Cu-! Cute?!』",
+			"FOA_Ptr": "0x0003E8A2",
+			"FOA_Rva": "0x00048C37"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E8BA",
+			"FOA_Rva": "0x00048C72"
+		},
+		{
+			"Text_Raw": "いつものように反射的に怒りかけ、僕の言葉の意味に気づき、優里が顔を赤くする。",
+			"Text_Tra": "Yuri starts with her normal reflexive anger, but then realizes what I actually said and her face flames red.",
+			"FOA_Ptr": "0x0003E90A",
+			"FOA_Rva": "0x00048C79"
+		},
+		{
+			"Text_Raw": "「い、いえ、ダメです！　私だって慣れましたよ！　もう、そういう言葉で誤魔化されたりしません！」",
+			"Text_Tra": "『No, no! I'm desensitized to this! You can't throw me off by saying things like that!』",
+			"FOA_Ptr": "0x0003E962",
+			"FOA_Rva": "0x00048CC8"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E97A",
+			"FOA_Rva": "0x00048D37"
+		},
+		{
+			"Text_Raw": "「可愛いって言葉こそ、ただの本音なんだけどね」",
+			"Text_Tra": "『I don't have an agenda. When I say 'cute,' I mean it.』",
+			"FOA_Ptr": "0x0003E9BA",
+			"FOA_Rva": "0x00048D3E"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E9D2",
+			"FOA_Rva": "0x00048D6E"
+		},
+		{
+			"Text_Raw": "余計に怒られそうなので、それは小さくつぶやくに留める。",
+			"Text_Tra": "I don't want to rile her up any more, so I keep my reply to just a mutter.",
+			"FOA_Ptr": "0x0003EA12",
+			"FOA_Rva": "0x00048D75"
+		},
+		{
+			"Text_Raw": "「ねえ、優里」",
+			"Text_Tra": "『Look, Yuri.』",
+			"FOA_Ptr": "0x0003EA6A",
+			"FOA_Rva": "0x00048DAE"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003EA82",
+			"FOA_Rva": "0x00048DBE"
+		},
+		{
+			"Text_Raw": "彼女が事情を理解しているのを承知のうえで、僕は改めて、ゆっくりと説明する。",
+			"Text_Tra": "I know she understands the situation, but I take a moment to explain it all again.",
+			"FOA_Ptr": "0x0003EAC2",
+			"FOA_Rva": "0x00048DC5"
+		},
+		{
+			"Text_Raw": "「この{喫茶店/・・・}は、カントに経済や娯楽の考え方を広げるための、大事な試金石なんだ」",
+			"Text_Tra": "『This café is going to be an important touchstone for spreading the ideas of economy and entertainment across Kanto.』",
+			"FOA_Ptr": "0x0003EB1A",
+			"FOA_Rva": "0x00048E12"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003EB32",
+			"FOA_Rva": "0x00048E6B"
+		},
+		{
+			"Text_Raw": "そう、ここは『喫茶店』。",
+			"Text_Tra": "That's right. This is our café.",
+			"FOA_Ptr": "0x0003EB72",
+			"FOA_Rva": "0x00048E72"
+		},
+		{
+			"Text_Raw": "住人に配った『お金』と交換に、『飲食』と『娯楽』を提供する場所。",
+			"Text_Tra": "A place to provide food, drink, and pleasure to the residents of Kanto, in exchange for the money distributed to them.",
+			"FOA_Ptr": "0x0003EBCA",
+			"FOA_Rva": "0x00048E8D"
+		},
+		{
+			"Text_Raw": "それだけでは今のカントに『経済』の価値が伝わりづらいだろうが、『八剣と接することが可能な場』という特殊なメリットが存在するのだ。",
+			"Text_Tra": "That alone probably won't be enough to impart the value of an economy, but the place also has the special merit of being somewhere to come into contact with the Swords.",
+			"FOA_Ptr": "0x0003EC22",
+			"FOA_Rva": "0x00048ED0"
+		},
+		{
+			"Text_Raw": "「わ、わかって、います……！　でも……でも……！」",
+			"Text_Tra": "『I know! I understand that, but... but...』",
+			"FOA_Ptr": "0x0003ECDA",
+			"FOA_Rva": "0x00048F53"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003ECF2",
+			"FOA_Rva": "0x00048F96"
+		},
+		{
+			"Text_Raw": "「なにが問題なの？」",
+			"Text_Tra": "『Do you still have a problem?』",
+			"FOA_Ptr": "0x0003ED32",
+			"FOA_Rva": "0x00048F9D"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003ED4A",
+			"FOA_Rva": "0x00048FB3"
+		},
+		{
+			"Text_Raw": "僕は穏やかに訊ねる。",
+			"Text_Tra": "I ask, as gently as I can.",
+			"FOA_Ptr": "0x0003ED8A",
+			"FOA_Rva": "0x00048FBA"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x0003EDE2",
+			"FOA_Rva": "0x00048FD1"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003EDFA",
+			"FOA_Rva": "0x00048FEE"
+		},
+		{
+			"Text_Raw": "「なにが……？」",
+			"Text_Tra": "『Do I?』",
+			"FOA_Ptr": "0x0003EE3A",
+			"FOA_Rva": "0x00048FF5"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003EE52",
+			"FOA_Rva": "0x00049016"
+		},
+		{
+			"Text_Raw": "「なにが問題なの、か……？」",
+			"Text_Tra": "『Do I still have a problem?』",
+			"FOA_Ptr": "0x0003EE92",
+			"FOA_Rva": "0x0004901D"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003EEAA",
+			"FOA_Rva": "0x0004904A"
+		},
+		{
+			"Text_Raw": "「なにが問題かぁ！？」",
+			"Text_Tra": "『Why do you think I'd have a problem?!』",
+			"FOA_Ptr": "0x0003EF52",
+			"FOA_Rva": "0x00049051"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003EF6A",
+			"FOA_Rva": "0x00049078"
+		},
+		{
+			"Text_Raw": "優里がさらに顔を赤くし、ほとんど涙目になりながら胸に手を当てる。",
+			"Text_Tra": "Yuri puts her hand on her chest, her face blushing redder, with tears creeping out of the corners of her eyes.",
+			"FOA_Ptr": "0x0003EFBA",
+			"FOA_Rva": "0x0004907F"
+		},
+		{
+			"Text_Raw": "「どうして！？　なぜ！？　私だけが、こんな服なんですか！？」",
+			"Text_Tra": "『Maybe! Because! I'm the only one dressed like this?!』",
+			"FOA_Ptr": "0x0003F15A",
+			"FOA_Rva": "0x000490C2"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003F172",
+			"FOA_Rva": "0x0004910F"
+		},
+		{
+			"Text_Raw": "「うーん」",
+			"Text_Tra": "『Hmmm.』",
+			"FOA_Ptr": "0x0003F1C2",
+			"FOA_Rva": "0x00049116"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003F1DA",
+			"FOA_Rva": "0x00049122"
+		},
+		{
+			"Text_Raw": "もっともな指摘すぎて、反論や説得を思いつかない。",
+			"Text_Tra": "She makes such a good point, I don't really have a reply.",
+			"FOA_Ptr": "0x0003F21A",
+			"FOA_Rva": "0x00049129"
+		},
+		{
+			"Text_Raw": "事実、他のメンバーは学校の制服姿で統一したが、優里だけ特別仕様である。",
+			"Text_Tra": "Everyone else is wearing their school uniforms, but Yuri is wearing something special.",
+			"FOA_Ptr": "0x0003F2AE",
+			"FOA_Rva": "0x0004915C"
+		},
+		{
+			"Text_Raw": "その決定には、複雑な思考のプロセスと、綿密な計画と、深遠なる英知が存在していた。",
+			"Text_Tra": "The reasons for this lie in a complicated thought process, a carefully formed plan, and profound wisdom.",
+			"FOA_Ptr": "0x0003F306",
+			"FOA_Rva": "0x000491A5"
+		},
+		{
+			"Text_Raw": "つまり――『僕の趣味』だ。",
+			"Text_Tra": "In other words-my personal tastes.",
+			"FOA_Ptr": "0x0003F35E",
+			"FOA_Rva": "0x000491F8"
+		},
+		{
+			"Text_Raw": "正直に答えたら、今度こそ本当に殺されそうである。",
+			"Text_Tra": "If I give an honest reply, this time she's highly likely to kill me.",
+			"FOA_Ptr": "0x0003F3B6",
+			"FOA_Rva": "0x00049215"
+		},
+		{
+			"Text_Raw": "まあ、優里にだけ特別な服を用意しようと思いつき、つい、染さんとデザインで盛り上がってしまったのだが……。",
+			"Text_Tra": "Well, after deciding to make a special outfit for Yuri, I did get Somé to make this.",
+			"FOA_Ptr": "0x0003F40E",
+			"FOA_Rva": "0x00049248"
+		},
+		{
+			"Text_Raw": "「待てよ……優里が恥ずかしがっているままのほうが需要が高い気がするな」",
+			"Text_Tra": "『Hold on. An embarrassed reaction might actually foster greater demand!』",
+			"FOA_Ptr": "0x0003F49A",
+			"FOA_Rva": "0x000492B3"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003F4B2",
+			"FOA_Rva": "0x000492FB"
+		},
+		{
+			"Text_Raw": "これはこれで、素人アイドルのようで、ありではないか？",
+			"Text_Tra": "Like a newbie pop singer taking to the stage for the first time.",
+			"FOA_Ptr": "0x0003F502",
+			"FOA_Rva": "0x00049302"
+		},
+		{
+			"Text_Raw": "ありだな。",
+			"Text_Tra": "Yep. That'd work too.",
+			"FOA_Ptr": "0x0003F55A",
+			"FOA_Rva": "0x00049339"
+		},
+		{
+			"Text_Raw": "「よし。その初々しい反応のままでいこう！」",
+			"Text_Tra": "『Okay. Don't get too comfortable! That's the reaction we want!』",
+			"FOA_Ptr": "0x0003F5B2",
+			"FOA_Rva": "0x00049346"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003F5CA",
+			"FOA_Rva": "0x00049372"
+		},
+		{
+			"Text_Raw": "「あなたを殺して、私も死ぬ！」",
+			"Text_Tra": "『I'm gonna kill you, then kill myself!』",
+			"FOA_Ptr": "0x0003F70A",
+			"FOA_Rva": "0x00049379"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003F722",
+			"FOA_Rva": "0x000493A8"
+		},
+		{
+			"Text_Raw": "涙目のままの優里に首を掴まれた。",
+			"Text_Tra": "Yuri grabs my neck, still with tears caught in her eyes.",
+			"FOA_Ptr": "0x0003F772",
+			"FOA_Rva": "0x000493AF"
+		},
+		{
+			"Text_Raw": "女の子の細腕だが、怪力の能力のせいで、あっという間に意識が飛びかける。",
+			"Text_Tra": "She has the delicate arms of a girl, but her enhanced strength means I'm already about to pass out.",
+			"FOA_Ptr": "0x0003F7E6",
+			"FOA_Rva": "0x000493D2"
+		},
+		{
+			"Text_Raw": "あ、これは、本当にヤバイかもしれない。",
+			"Text_Tra": "Hold on. This could be really bad.",
+			"FOA_Ptr": "0x0003F83E",
+			"FOA_Rva": "0x0004941B"
+		},
+		{
+			"Text_Raw": "視界が白く染まる。",
+			"Text_Tra": "The edges of my vision start to turn white.",
+			"FOA_Ptr": "0x0003F8CE",
+			"FOA_Rva": "0x00049444"
+		},
+		{
+			"Text_Raw": "ここに至るまでの出来事が、走馬灯のようにきらめく。",
+			"Text_Tra": "Everything that brought me to this point flashes through my mind-brilliant sparkles of the past.",
+			"FOA_Ptr": "0x0003F926",
+			"FOA_Rva": "0x00049459"
+		},
+		{
+			"Text_Raw": "まずは、あの日――職人街での鉄鬼騒動と、染さんの出産のあれこれが、ひと段落したあとのことだ。",
+			"Text_Tra": "It all started on that day-the day after the Tekki attack in the crafters' district, and the birth of Somé's child.",
+			"FOA_Ptr": "0x0003F97E",
+			"FOA_Rva": "0x0004948E"
+		},
+		{
+			"Text_Raw": "王宮に戻った僕は、布団のある自室へ向かわず、西の廊下を歩いていた。",
+			"Text_Tra": "After returning to the palace, I don't head toward my room and my bed, but down the western corridor.",
+			"FOA_Ptr": "0x0003FA92",
+			"FOA_Rva": "0x000494ED"
+		},
+		{
+			"Text_Raw": "「えーと……ここだったかな？」",
+			"Text_Tra": "『Okay. I think this was the place?』",
+			"FOA_Ptr": "0x0003FAEA",
+			"FOA_Rva": "0x00049532"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003FB02",
+			"FOA_Rva": "0x00049552"
+		},
+		{
+			"Text_Raw": "特徴のない木戸をくぐり、暗い階段をおりる。",
+			"Text_Tra": "I pass through an unremarkable wooden door, and down a dark staircase inside.",
+			"FOA_Ptr": "0x0003FB42",
+			"FOA_Rva": "0x00049559"
+		},
+		{
+			"Text_Raw": "夏の暑さから隔絶された部屋。",
+			"Text_Tra": "I arrive at a room removed from the warmth of the summer.",
+			"FOA_Ptr": "0x0003FC86",
+			"FOA_Rva": "0x00049586"
+		},
+		{
+			"Text_Raw": "機械文明の息吹が残る空間。",
+			"Text_Tra": "A space where the breath of the mechanical age can still be felt.",
+			"FOA_Ptr": "0x0003FCDE",
+			"FOA_Rva": "0x000495A5"
+		},
+		{
+			"Text_Raw": "目覚めてから１０日ほどだが、ロウソクや提灯の火で夜を過ごすと、電灯の明るさがまぶしすぎた。",
+			"Text_Tra": "It's only been about ten days since I awoke, but the electric lights feel too bright after living by candle and lantern light.",
+			"FOA_Ptr": "0x0003FD36",
+			"FOA_Rva": "0x000495C2"
+		},
+		{
+			"Text_Raw": "「おや、君か」",
+			"Text_Tra": "『Oh my. Hello there.』",
+			"FOA_Ptr": "0x0003FDF6",
+			"FOA_Rva": "0x0004961F"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x0003FE0E",
+			"FOA_Rva": "0x0004963E"
+		},
+		{
+			"Text_Raw": "僕が目を細めていると、部屋の主が声をあげながら寄ってくる。",
+			"Text_Tra": "I narrow my eyes to keep the white light out, and the owner of the room speaks up and moves over to me.",
+			"FOA_Ptr": "0x0003FE4E",
+			"FOA_Rva": "0x00049645"
+		},
+		{
+			"Text_Raw": "彼女は以前と変わらず、着物に白衣という不思議な服装だった。",
+			"Text_Tra": "She looks unchanged from before, wearing the same strange white clothing.",
+			"FOA_Ptr": "0x0003FEA6",
+			"FOA_Rva": "0x00049682"
+		},
+		{
+			"Text_Raw": "「えーと、識さん」",
+			"Text_Tra": "『Hey, Shiki.』",
+			"FOA_Ptr": "0x0003FEFE",
+			"FOA_Rva": "0x000496BF"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003FF16",
+			"FOA_Rva": "0x000496D3"
+		},
+		{
+			"Text_Raw": "「親しみをこめて博士と呼んでくれたまえ」",
+			"Text_Tra": "『Please, we're all friends here. Call me Prof.』",
+			"FOA_Ptr": "0x0003FF56",
+			"FOA_Rva": "0x000496DA"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x0003FF6E",
+			"FOA_Rva": "0x00049713"
+		},
+		{
+			"Text_Raw": "むふん、と嬉しそうに彼女が胸をはる。",
+			"Text_Tra": "She happily thrusts out her chest with this proclamation.",
+			"FOA_Ptr": "0x0003FFAE",
+			"FOA_Rva": "0x0004971A"
+		},
+		{
+			"Text_Raw": "おっぱいは素敵なんだよな、おっぱいは。",
+			"Text_Tra": "She's got a great rack, I'll give her that. Her tits aren't the problem.",
+			"FOA_Ptr": "0x00040006",
+			"FOA_Rva": "0x00049741"
+		},
+		{
+			"Text_Raw": "「親しみはこめられませんが、博士、僕や鉄鬼のことで話をしてもいいですか？」",
+			"Text_Tra": "『I dunno about friends, but okay. Prof, can we talk about the connection between the Tekki and me?』",
+			"FOA_Ptr": "0x0004005E",
+			"FOA_Rva": "0x0004976A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040076",
+			"FOA_Rva": "0x000497B6"
+		},
+		{
+			"Text_Raw": "「いいよ。いつでもいい。望むところだ。というか、今は何時だ？　もう外は朝になっているのかな？」",
+			"Text_Tra": "『Sure we can. Any time. I'd love to. Oh, what time is it? Is it morning out there yet?』",
+			"FOA_Ptr": "0x000400EE",
+			"FOA_Rva": "0x000497BD"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00040106",
+			"FOA_Rva": "0x0004982C"
+		},
+		{
+			"Text_Raw": "博士がきょろきょろと視線を動かす――地下室にあるはずのない窓を探すように。",
+			"Text_Tra": "The Prof looks around intently-as though searching the basement for a window.",
+			"FOA_Ptr": "0x00040146",
+			"FOA_Rva": "0x00049833"
+		},
+		{
+			"Text_Raw": "癖なのか、ネタでやっているのか、いまいちわからない人だ。",
+			"Text_Tra": "I'm not sure if this is a tic of hers, or if she's making a joke. I can never tell with her.",
+			"FOA_Ptr": "0x0004019E",
+			"FOA_Rva": "0x00049880"
+		},
+		{
+			"Text_Raw": "「今は、まだ午前３時くらいだと思いますよ」",
+			"Text_Tra": "『It's still around 3 in the morning.』",
+			"FOA_Ptr": "0x000401F6",
+			"FOA_Rva": "0x000498BB"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004020E",
+			"FOA_Rva": "0x000498E7"
+		},
+		{
+			"Text_Raw": "「そうか。なるほど。今の時間なんてどうでもいいがね」",
+			"Text_Tra": "『I see. Okay then. The time doesn't matter anyway.』",
+			"FOA_Ptr": "0x0004024E",
+			"FOA_Rva": "0x000498EE"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00040266",
+			"FOA_Rva": "0x00049933"
+		},
+		{
+			"Text_Raw": "彼女は机のへりに寄り掛かって、肩をすくめた。",
+			"Text_Tra": "She leans down on her desk, shrugging her shoulders.",
+			"FOA_Ptr": "0x000402A6",
+			"FOA_Rva": "0x0004993A"
+		},
+		{
+			"Text_Raw": "「どうでもいいなら、なんで時間を聞いたんです？」",
+			"Text_Tra": "『If it doesn't matter, why did you ask?』",
+			"FOA_Ptr": "0x000402FE",
+			"FOA_Rva": "0x00049969"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040316",
+			"FOA_Rva": "0x0004999B"
+		},
+		{
+			"Text_Raw": "「知りたかったのは{経過時間/・・・・}だよ。君が自分の正体を知ってからここへ来るまでの時間さ」",
+			"Text_Tra": "『All I wanted to know was how long has passed. How long it took you to come here, after learning of your true nature.』",
+			"FOA_Ptr": "0x00040356",
+			"FOA_Rva": "0x000499A2"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x0004036E",
+			"FOA_Rva": "0x00049A10"
+		},
+		{
+			"Text_Raw": "博士が手をパタパタと振り、それを僕に向けた。",
+			"Text_Tra": "The Prof flaps her hands around, waving them at me.",
+			"FOA_Ptr": "0x000403AE",
+			"FOA_Rva": "0x00049A17"
+		},
+		{
+			"Text_Raw": "「私の予想では、１日か２日経って落ち着いてから、姫様と一緒に君がここへ来ると予想していたんだ」",
+			"Text_Tra": "『I was expecting you to come here with the Princess, after a day or two had passed. Once things had calmed down.』",
+			"FOA_Ptr": "0x00040406",
+			"FOA_Rva": "0x00049A46"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x0004041E",
+			"FOA_Rva": "0x00049AB5"
+		},
+		{
+			"Text_Raw": "「実際には即断即決だったね」",
+			"Text_Tra": "『But look at you. So decisive.』",
+			"FOA_Ptr": "0x0004045E",
+			"FOA_Rva": "0x00049ABC"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00040476",
+			"FOA_Rva": "0x00049AE9"
+		},
+		{
+			"Text_Raw": "「思ったよりも賢いのか、思ったよりも愚かなのか――どちらも似たようなものだが」",
+			"Text_Tra": "『Maybe you're smarter than I thought, and maybe you're super dumb. I guess it doesn't matter either way.』",
+			"FOA_Ptr": "0x000404B6",
+			"FOA_Rva": "0x00049AF0"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x000404CE",
+			"FOA_Rva": "0x00049B4F"
+		},
+		{
+			"Text_Raw": "博士の勝手な納得に、僕は少し驚いた。",
+			"Text_Tra": "I'm a little surprised at how easily the Prof accepts such varied possibilities.",
+			"FOA_Ptr": "0x0004050E",
+			"FOA_Rva": "0x00049B56"
+		},
+		{
+			"Text_Raw": "「ここに籠もっているのに、職人街でなにが起こったのかを知っているんですか？」",
+			"Text_Tra": "『You're shut up down here, but you know what happened in the crafters' district?』",
+			"FOA_Ptr": "0x00040566",
+			"FOA_Rva": "0x00049B7D"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004057E",
+			"FOA_Rva": "0x00049BCB"
+		},
+		{
+			"Text_Raw": "「私は嫌われているけれど、鉄鬼についてはカントで一番の知恵者だからね。情報だけはすぐに届くんだよ」",
+			"Text_Tra": "『I'm not well liked, but I also know the most about the Tekki in all of Kanto. I get reports sent here right away.』",
+			"FOA_Ptr": "0x000405BE",
+			"FOA_Rva": "0x00049BD2"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x000405D6",
+			"FOA_Rva": "0x00049C45"
+		},
+		{
+			"Text_Raw": "「なるほど」",
+			"Text_Tra": "『Makes sense.』",
+			"FOA_Ptr": "0x00040616",
+			"FOA_Rva": "0x00049C4C"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004062E",
+			"FOA_Rva": "0x00049C5A"
+		},
+		{
+			"Text_Raw": "それなら、博士が僕の来訪を予期していたのは納得だ。",
+			"Text_Tra": "That also explains how she predicted my arrival.",
+			"FOA_Ptr": "0x0004066E",
+			"FOA_Rva": "0x00049C61"
+		},
+		{
+			"Text_Raw": "「説明する手間が省けます」",
+			"Text_Tra": "『That will save me some time.』",
+			"FOA_Ptr": "0x000406C6",
+			"FOA_Rva": "0x00049C96"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000406DE",
+			"FOA_Rva": "0x00049CB2"
+		},
+		{
+			"Text_Raw": "僕はそのへんにあったパイプ椅子に足を引っかけ、自分のほうに寄せて、座る。",
+			"Text_Tra": "I drag a nearby pipe chair over with one foot, and then sit down.",
+			"FOA_Ptr": "0x0004080A",
+			"FOA_Rva": "0x00049CB9"
+		},
+		{
+			"Text_Raw": "「あと、ここへ来るのが早かったのは、あんなことの直後で眠れるほど図太くないからです。要するに時間が余ったからです」",
+			"Text_Tra": "『I'm here so soon because I'm too delicate to sleep after something like that. I had some time on my hands.』",
+			"FOA_Ptr": "0x00040862",
+			"FOA_Rva": "0x00049D04"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004087A",
+			"FOA_Rva": "0x00049D78"
+		},
+		{
+			"Text_Raw": "「ふーん。興奮して眠れない、か。心臓まで鉄で出来ているわりに繊細だ」",
+			"Text_Tra": "『Hmmm. Too excited to sleep! Delicate indeed, to say you've got a heart of steel.』",
+			"FOA_Ptr": "0x0004091A",
+			"FOA_Rva": "0x00049D7F"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00040932",
+			"FOA_Rva": "0x00049DD4"
+		},
+		{
+			"Text_Raw": "「上手いこと言いますね」",
+			"Text_Tra": "『Hey. That was funny.』",
+			"FOA_Ptr": "0x00040972",
+			"FOA_Rva": "0x00049DDB"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004098A",
+			"FOA_Rva": "0x00049DF5"
+		},
+		{
+			"Text_Raw": "「ただの事実だろう？」",
+			"Text_Tra": "『I'm just telling the truth.』",
+			"FOA_Ptr": "0x000409CA",
+			"FOA_Rva": "0x00049DFC"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x000409E2",
+			"FOA_Rva": "0x00049E23"
+		},
+		{
+			"Text_Raw": "「ああ、冗談ですらないんですね」",
+			"Text_Tra": "『I know. It's hardly a joke.』",
+			"FOA_Ptr": "0x00040A22",
+			"FOA_Rva": "0x00049E2A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040A3A",
+			"FOA_Rva": "0x00049E4C"
+		},
+		{
+			"Text_Raw": "まあ、軽口はこんなところか。",
+			"Text_Tra": "Well, enough banter.",
+			"FOA_Ptr": "0x00040A7A",
+			"FOA_Rva": "0x00049E53"
+		},
+		{
+			"Text_Raw": "本題に入ろう。",
+			"Text_Tra": "Let's get down to business.",
+			"FOA_Ptr": "0x00040AD2",
+			"FOA_Rva": "0x00049E72"
+		},
+		{
+			"Text_Raw": "「今日まで――日付が代わっているから昨日まで、僕の正体を隠していたなら、伏せられていた情報があるんじゃないですか？」",
+			"Text_Tra": "『There's information you've been keeping from me, along with the truth of my body, isn't there?』",
+			"FOA_Ptr": "0x00040B2A",
+			"FOA_Rva": "0x00049E83"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040B42",
+			"FOA_Rva": "0x00049EF9"
+		},
+		{
+			"Text_Raw": "「大事な情報が」",
+			"Text_Tra": "『Important information.』",
+			"FOA_Ptr": "0x00040B82",
+			"FOA_Rva": "0x00049F00"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040B9A",
+			"FOA_Rva": "0x00049F12"
+		},
+		{
+			"Text_Raw": "「道理だね。もちろんあるよ」",
+			"Text_Tra": "『You bet. Some real juicy stuff.』",
+			"FOA_Ptr": "0x00040BDA",
+			"FOA_Rva": "0x00049F19"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00040BF2",
+			"FOA_Rva": "0x00049F46"
+		},
+		{
+			"Text_Raw": "博士がにっこりと笑う。",
+			"Text_Tra": "The Prof gives a grin.",
+			"FOA_Ptr": "0x00040C32",
+			"FOA_Rva": "0x00049F4D"
+		},
+		{
+			"Text_Raw": "「正確には、伏せていたのではなく、君が鉄鬼であるという自覚を得てからでないと確認できない重要な事柄がある、だね」",
+			"Text_Tra": "『To be more accurate, it's not that we were keeping anything from you. These were more things we couldn't confirm until you were aware of being a Tekki.』",
+			"FOA_Ptr": "0x00040C8A",
+			"FOA_Rva": "0x00049F66"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00040CA2",
+			"FOA_Rva": "0x00049FE7"
+		},
+		{
+			"Text_Raw": "「それを聞きかせてください」",
+			"Text_Tra": "『So go ahead. I'm listening.』",
+			"FOA_Ptr": "0x00040CE2",
+			"FOA_Rva": "0x00049FEE"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040CFA",
+			"FOA_Rva": "0x0004A00C"
+		},
+		{
+			"Text_Raw": "「素直だ。いやはや、カントの人間より、鉄鬼に作られた人形のほうが、私の話を真面目に聞いてくれるというのは面白い」",
+			"Text_Tra": "『Very nice. Amusing how a doll created by the Tekki is more willing to listen to me than the people of Kanto.』",
+			"FOA_Ptr": "0x00040D3A",
+			"FOA_Rva": "0x0004A013"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00040D52",
+			"FOA_Rva": "0x0004A094"
+		},
+		{
+			"Text_Raw": "博士がわずかにテンションを上げながら言う。",
+			"Text_Tra": "The Prof is starting to get excited.",
+			"FOA_Ptr": "0x00040D92",
+			"FOA_Rva": "0x0004A09B"
+		},
+		{
+			"Text_Raw": "ちなみに、『あなたは余計なことを言わないと話が出来ないのか？』という冗談を思いついたが――",
+			"Text_Tra": "I almost ask if she's unable to have a normal discussion without all the quips and comments-",
+			"FOA_Ptr": "0x00040DEA",
+			"FOA_Rva": "0x0004A0C8"
+		},
+		{
+			"Text_Raw": "僕にブーメランが刺さるのでやめておこう。",
+			"Text_Tra": "But that's a big boomerang that would end up smacking me in my own dumb forehead, so I resist the urge.",
+			"FOA_Ptr": "0x00040E42",
+			"FOA_Rva": "0x0004A125"
+		},
+		{
+			"Text_Raw": "「さて、重要な事柄だね」",
+			"Text_Tra": "『Here we go. Crunch time.』",
+			"FOA_Ptr": "0x00040E9A",
+			"FOA_Rva": "0x0004A150"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00040EB2",
+			"FOA_Rva": "0x0004A179"
+		},
+		{
+			"Text_Raw": "僕が黙って待っていると、博士が踏みこんでくる。",
+			"Text_Tra": "I sit waiting, saying nothing. The Prof steps toward me.",
+			"FOA_Ptr": "0x00040EF2",
+			"FOA_Rva": "0x0004A180"
+		},
+		{
+			"Text_Raw": "「君、鉄鬼の声は聞こえるかね？」",
+			"Text_Tra": "『Can you hear the voice of the Tekki?』",
+			"FOA_Ptr": "0x00040F4A",
+			"FOA_Rva": "0x0004A1B1"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00040F62",
+			"FOA_Rva": "0x0004A1E2"
+		},
+		{
+			"Text_Raw": "「……鉄鬼の声？」",
+			"Text_Tra": "『...The voice?』",
+			"FOA_Ptr": "0x00040FA2",
+			"FOA_Rva": "0x0004A1E9"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040FBA",
+			"FOA_Rva": "0x0004A1FD"
+		},
+		{
+			"Text_Raw": "意味がわからず単語を繰り返してしまう。",
+			"Text_Tra": "I repeat part of the question, without understanding it.",
+			"FOA_Ptr": "0x00040FFA",
+			"FOA_Rva": "0x0004A204"
+		},
+		{
+			"Text_Raw": "「鉄鬼たちの思考や力の繋がり、と言うべきか。それらしい言葉がないので私は『鉄鬼の声』と呼んでいる」",
+			"Text_Tra": "『Sorry, you need more context. When I say 'voice,' I mean the connection that links the thoughts and powers of the Tekki.』",
+			"FOA_Ptr": "0x00041052",
+			"FOA_Rva": "0x0004A22D"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x0004106A",
+			"FOA_Rva": "0x0004A2A0"
+		},
+		{
+			"Text_Raw": "博士が僕の手元を指さす。",
+			"Text_Tra": "The Prof points at my wrist.",
+			"FOA_Ptr": "0x000410AA",
+			"FOA_Rva": "0x0004A2A7"
+		},
+		{
+			"Text_Raw": "「君が身につけているその腕輪に遺されていた、古代人の話にも、それらしいものがあっただろう？」",
+			"Text_Tra": "『That voice message from the ancients, contained in your bracelet. It mentions something like that, correct?』",
+			"FOA_Ptr": "0x00041102",
+			"FOA_Rva": "0x0004A2C2"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x0004111A",
+			"FOA_Rva": "0x0004A32F"
+		},
+		{
+			"Text_Raw": "「ん？」",
+			"Text_Tra": "『It does?』",
+			"FOA_Ptr": "0x0004115A",
+			"FOA_Rva": "0x0004A336"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041172",
+			"FOA_Rva": "0x0004A340"
+		},
+		{
+			"Text_Raw": "僕は示された腕輪に手をあてる。",
+			"Text_Tra": "I place a hand on the bracelet.",
+			"FOA_Ptr": "0x000411B2",
+			"FOA_Rva": "0x0004A347"
+		},
+		{
+			"Text_Raw": "目覚めてすぐに春姫から託されたもので、暇なときに何度か聞いていたが――",
+			"Text_Tra": "Haruhime gave it to me soon after I awoke, and I've often listened to it in free moments since-",
+			"FOA_Ptr": "0x0004120A",
+			"FOA_Rva": "0x0004A368"
+		},
+		{
+			"Text_Raw": "「あれか」",
+			"Text_Tra": "『Oh, right.』",
+			"FOA_Ptr": "0x00041262",
+			"FOA_Rva": "0x0004A3B1"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004127A",
+			"FOA_Rva": "0x0004A3BD"
+		},
+		{
+			"Text_Raw": "該当する言葉を思い出す。",
+			"Text_Tra": "I recall the part she's talking about.",
+			"FOA_Ptr": "0x000412BA",
+			"FOA_Rva": "0x0004A3C4"
+		},
+		{
+			"Text_Raw": "『おそらく――研究する設備や人員はありませんが、内臓器官のない鉄鬼は振動によって動いていると推測しています』",
+			"Text_Tra": "『In all likelihood-and there are no facilities or scientists studying this anymore-but as Tekki have no internal organs, it's likely they operate via vibrations.』",
+			"FOA_Ptr": "0x000413A6",
+			"FOA_Rva": "0x0004A3DF"
+		},
+		{
+			"Text_Raw": "小　島",
+			"Text_Tra": "Kojima",
+			"FOA_Ptr": "0x000413BE",
+			"FOA_Rva": "0x0004A45C"
+		},
+		{
+			"Text_Raw": "『人間や動植物が電気信号で動いているように、彼らは、なにかからの共振によってエネルギーや行動原理となるプログラムを得ていると考えています』",
+			"Text_Tra": "『Like how humans, plants, and animals move via electrical signals, it's believed the Tekki get their energy and movement patterns-their programming-from vibrations.』",
+			"FOA_Ptr": "0x000413FE",
+			"FOA_Rva": "0x0004A463"
+		},
+		{
+			"Text_Raw": "小　島",
+			"Text_Tra": "Kojima",
+			"FOA_Ptr": "0x00041416",
+			"FOA_Rva": "0x0004A4FE"
+		},
+		{
+			"Text_Raw": "『電気も光も、突き詰めれば波でありエネルギーですから』",
+			"Text_Tra": "『Electricity, light; when you get down to it, they're all waves. All just energy, in the end.』",
+			"FOA_Ptr": "0x00041456",
+			"FOA_Rva": "0x0004A505"
+		},
+		{
+			"Text_Raw": "小　島",
+			"Text_Tra": "Kojima",
+			"FOA_Ptr": "0x0004146E",
+			"FOA_Rva": "0x0004A54C"
+		},
+		{
+			"Text_Raw": "『現状の打開策は、その共振の原因となっているモノを――それが本当に存在するなら、見つけることでしょう』",
+			"Text_Tra": "『The only way to change our situation would be to find whatever it is that sends those vibrations out-if such a thing really exists.』",
+			"FOA_Ptr": "0x000414AE",
+			"FOA_Rva": "0x0004A553"
+		},
+		{
+			"Text_Raw": "小　島",
+			"Text_Tra": "Kojima",
+			"FOA_Ptr": "0x000414C6",
+			"FOA_Rva": "0x0004A5CA"
+		},
+		{
+			"Text_Raw": "共振。",
+			"Text_Tra": "Vibrations.",
+			"FOA_Ptr": "0x00041506",
+			"FOA_Rva": "0x0004A5D1"
+		},
+		{
+			"Text_Raw": "鉄鬼の声。",
+			"Text_Tra": "The voice of the Tekki.",
+			"FOA_Ptr": "0x0004155E",
+			"FOA_Rva": "0x0004A5DA"
+		},
+		{
+			"Text_Raw": "「……鉄鬼のネットワークか」",
+			"Text_Tra": "『You mean like the Tekki network.』",
+			"FOA_Ptr": "0x0004166E",
+			"FOA_Rva": "0x0004A5E7"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041686",
+			"FOA_Rva": "0x0004A605"
+		},
+		{
+			"Text_Raw": "博士の言いたいことを理解して、シリアスにうめいてしまう。",
+			"Text_Tra": "I understand what the Prof is trying to say, and give a serious reply.",
+			"FOA_Ptr": "0x000416C6",
+			"FOA_Rva": "0x0004A60C"
+		},
+		{
+			"Text_Raw": "言われてみれば、鉄鬼に作られた{人形/ボク}が、そのネットワークにアクセスしているのは確実だ。",
+			"Text_Tra": "She makes a good point. A doll-her word-created by the Tekki has to be accessing that network.",
+			"FOA_Ptr": "0x0004171E",
+			"FOA_Rva": "0x0004A647"
+		},
+		{
+			"Text_Raw": "敵対行動をとらなければ鉄鬼に襲われないことや、鉄鬼の力を利用できることが、それを証明している。",
+			"Text_Tra": "The fact the Tekki ignored me until I attacked it, and the fact I can use Tekki powers, are proof enough.",
+			"FOA_Ptr": "0x00041776",
+			"FOA_Rva": "0x0004A6A5"
+		},
+		{
+			"Text_Raw": "繋がりは、間違いなく、ある。",
+			"Text_Tra": "There's some kind of link there.",
+			"FOA_Ptr": "0x000417CE",
+			"FOA_Rva": "0x0004A706"
+		},
+		{
+			"Text_Raw": "「とはいえ……」",
+			"Text_Tra": "『That said...』",
+			"FOA_Ptr": "0x00041826",
+			"FOA_Rva": "0x0004A725"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004183E",
+			"FOA_Rva": "0x0004A737"
+		},
+		{
+			"Text_Raw": "「その様子では、自覚的に声が聞けるということはなさそうだね」",
+			"Text_Tra": "『It doesn't look like you're hearing them directly.』",
+			"FOA_Ptr": "0x0004187E",
+			"FOA_Rva": "0x0004A73E"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00041896",
+			"FOA_Rva": "0x0004A78B"
+		},
+		{
+			"Text_Raw": "「理解は出来ましたけど、感覚的にはさっぱりわかりません」",
+			"Text_Tra": "『I understand what you mean, but I definitely can't tap into it.』",
+			"FOA_Ptr": "0x000418D6",
+			"FOA_Rva": "0x0004A792"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000418EE",
+			"FOA_Rva": "0x0004A7CC"
+		},
+		{
+			"Text_Raw": "お手上げだと、実際に両手をあげてしまう。",
+			"Text_Tra": "I throw my hands up-literally.",
+			"FOA_Ptr": "0x0004192E",
+			"FOA_Rva": "0x0004A7D3"
+		},
+		{
+			"Text_Raw": "「僕の思考や身体の働きは、自分で判断する限り、ごく普通の人間とまったく変わりません」",
+			"Text_Tra": "『My thoughts, the movements of my body, are-as far as I can tell-no different from those of a normal human.』",
+			"FOA_Ptr": "0x00041986",
+			"FOA_Rva": "0x0004A7FE"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004199E",
+			"FOA_Rva": "0x0004A854"
+		},
+		{
+			"Text_Raw": "「そのようだね。人と変わらず腹が減り、小便もするし、勃起までするようで」",
+			"Text_Tra": "『I concur. You seem to get hungry, use the toilet, and even get an erection just like a normal guy.』",
+			"FOA_Ptr": "0x000419DE",
+			"FOA_Rva": "0x0004A85B"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x000419F6",
+			"FOA_Rva": "0x0004A8B4"
+		},
+		{
+			"Text_Raw": "八剣が僕を観察していた情報が集約されているのだろうが……。",
+			"Text_Tra": "All information gathered from the Eight Swords' observations of me must have passed through her hands, but still.",
+			"FOA_Ptr": "0x00041A36",
+			"FOA_Rva": "0x0004A8BB"
+		},
+		{
+			"Text_Raw": "「あの……勃起とか言わないでくれませんか？」",
+			"Text_Tra": "『Can you please not mention 'erections?'』",
+			"FOA_Ptr": "0x00041A8E",
+			"FOA_Rva": "0x0004A8F8"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041AA6",
+			"FOA_Rva": "0x0004A926"
+		},
+		{
+			"Text_Raw": "「ん？　ああ、男性の前で失礼だったか。私はその手のことに疎くてね」",
+			"Text_Tra": "『Oh? Ah, sorry, that was rude in front of a man. I'm a little ignorant when it comes to the social graces.』",
+			"FOA_Ptr": "0x00041B46",
+			"FOA_Rva": "0x0004A92D"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00041B5E",
+			"FOA_Rva": "0x0004A980"
+		},
+		{
+			"Text_Raw": "博士が妙な謝罪をする。",
+			"Text_Tra": "The Prof makes a slightly odd apology.",
+			"FOA_Ptr": "0x00041B9E",
+			"FOA_Rva": "0x0004A987"
+		},
+		{
+			"Text_Raw": "そういえばカントでは、性についての男女の感覚は逆だった。",
+			"Text_Tra": "Then I recall that what I consider normal attitudes to sex are reversed in Kanto.",
+			"FOA_Ptr": "0x00041BF6",
+			"FOA_Rva": "0x0004A9A0"
+		},
+		{
+			"Text_Raw": "今の博士の発言は、男女を逆にすると、僕が女性の前で『乳首が立っている』などと言っていることになる。",
+			"Text_Tra": "Transposing what she just said into my standards, it would be like me saying “your nips look nice and erect.』",
+			"FOA_Ptr": "0x00041C4E",
+			"FOA_Rva": "0x0004A9DB"
+		},
+		{
+			"Text_Raw": "「……千年前なら確実にセクハラで訴えられているな」",
+			"Text_Tra": "『You'd get sued for that for sexual harassment 1,000 years ago. No question.』",
+			"FOA_Ptr": "0x00041CA6",
+			"FOA_Rva": "0x0004AA40"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041CBE",
+			"FOA_Rva": "0x0004AA74"
+		},
+		{
+			"Text_Raw": "「続けていいかな？」",
+			"Text_Tra": "『May I continue?』",
+			"FOA_Ptr": "0x00041CFE",
+			"FOA_Rva": "0x0004AA7B"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00041D16",
+			"FOA_Rva": "0x0004AAA0"
+		},
+		{
+			"Text_Raw": "「どうぞ」",
+			"Text_Tra": "『Please do.』",
+			"FOA_Ptr": "0x00041D56",
+			"FOA_Rva": "0x0004AAA7"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041D6E",
+			"FOA_Rva": "0x0004AAB3"
+		},
+		{
+			"Text_Raw": "「先に伝えておくが――君が鉄鬼の声を聞くことが出来たとき、我々が最優先で得たい知見は２つある」",
+			"Text_Tra": "『Just to be clear. Once you can hear the voice of the Tekki, there are two pieces of information we want you to prioritize.』",
+			"FOA_Ptr": "0x00041DAE",
+			"FOA_Rva": "0x0004AABA"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00041DC6",
+			"FOA_Rva": "0x0004AB29"
+		},
+		{
+			"Text_Raw": "「１つ目は、鉄鬼の共振源がどこにあり、どういう存在で、どうすれば打倒できるのか」",
+			"Text_Tra": "『The first is anything about the source of the Tekki vibrations; where it is, what it is, and how we can defeat it.』",
+			"FOA_Ptr": "0x00041E06",
+			"FOA_Rva": "0x0004AB30"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00041E1E",
+			"FOA_Rva": "0x0004AB91"
+		},
+		{
+			"Text_Raw": "「すなわち、鉄鬼を殲滅するための根幹的な知見だ」",
+			"Text_Tra": "『In other words-fundamental information on how to eradicate the Tekki.』",
+			"FOA_Ptr": "0x00041E5E",
+			"FOA_Rva": "0x0004AB98"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00041E76",
+			"FOA_Rva": "0x0004ABD9"
+		},
+		{
+			"Text_Raw": "「わかります」",
+			"Text_Tra": "『Understood.』",
+			"FOA_Ptr": "0x00041EB6",
+			"FOA_Rva": "0x0004ABE0"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041ECE",
+			"FOA_Rva": "0x0004ABF0"
+		},
+		{
+			"Text_Raw": "まさしく最重要の情報だろう。",
+			"Text_Tra": "Critical info, for sure.",
+			"FOA_Ptr": "0x00041F0E",
+			"FOA_Rva": "0x0004ABF7"
+		},
+		{
+			"Text_Raw": "鉄鬼についての情報はどれも貴重だが、他のすべてが解明されずとも、共振源さえ叩けば戦いは終わるのだ。",
+			"Text_Tra": "Any info on Tekki would be welcome, but we won't need every last detail if we can just defeat the great vibrator.",
+			"FOA_Ptr": "0x00041F66",
+			"FOA_Rva": "0x0004AC16"
+		},
+		{
+			"Text_Raw": "「ただし、これも先に伝えるが、急がなくていい」",
+			"Text_Tra": "『But there's something else to I need to tell you-that there's no need to hurry.』",
+			"FOA_Ptr": "0x00041FBE",
+			"FOA_Rva": "0x0004AC7B"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00041FD6",
+			"FOA_Rva": "0x0004ACBA"
+		},
+		{
+			"Text_Raw": "「ん？」",
+			"Text_Tra": "『There isn't?』",
+			"FOA_Ptr": "0x00042016",
+			"FOA_Rva": "0x0004ACC1"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004202E",
+			"FOA_Rva": "0x0004ACCB"
+		},
+		{
+			"Text_Raw": "不思議な忠告に、首をかしげてしまう。",
+			"Text_Tra": "I tilt my head at this unexpected comment.",
+			"FOA_Ptr": "0x0004206E",
+			"FOA_Rva": "0x0004ACD2"
+		},
+		{
+			"Text_Raw": "「鉄鬼の根源についての情報を引き出すのは、早ければ早いほど、よくないですか？」",
+			"Text_Tra": "『Surely the sooner we can uncover info on the source of the Tekki, the better?』",
+			"FOA_Ptr": "0x000420C6",
+			"FOA_Rva": "0x0004ACF9"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000420DE",
+			"FOA_Rva": "0x0004AD49"
+		},
+		{
+			"Text_Raw": "「私もそう思うよ。出来ればこう言いたい、『君、{疾/と}く鉄鬼に戻りたまへ』と」",
+			"Text_Tra": "『I agree. I'd command you to turn back to being a Tekki right here and now, if I had my way.』",
+			"FOA_Ptr": "0x0004217E",
+			"FOA_Rva": "0x0004AD50"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00042196",
+			"FOA_Rva": "0x0004ADAE"
+		},
+		{
+			"Text_Raw": "「しかし、姫様が慎重でね」",
+			"Text_Tra": "『But the Princess is more cautious.』",
+			"FOA_Ptr": "0x000421D6",
+			"FOA_Rva": "0x0004ADB5"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x000421EE",
+			"FOA_Rva": "0x0004ADE0"
+		},
+		{
+			"Text_Raw": "博士が肩をすくめる。",
+			"Text_Tra": "The Prof gives a shrug.",
+			"FOA_Ptr": "0x0004222E",
+			"FOA_Rva": "0x0004ADE7"
+		},
+		{
+			"Text_Raw": "「君が鉄鬼の声を聞けるようになれば、それはすなわち、人間への害意を抱くようになるだろうと考えているわけだ」",
+			"Text_Tra": "『She believes that once you start hearing the voice of the Tekki, you'll probably want to start hurting humans, as well.』",
+			"FOA_Ptr": "0x00042286",
+			"FOA_Rva": "0x0004ADFE"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x0004229E",
+			"FOA_Rva": "0x0004AE79"
+		},
+		{
+			"Text_Raw": "「ああ」",
+			"Text_Tra": "『Ulp.』",
+			"FOA_Ptr": "0x000422DE",
+			"FOA_Rva": "0x0004AE80"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000422F6",
+			"FOA_Rva": "0x0004AE8A"
+		},
+		{
+			"Text_Raw": "とぼけた声をあげてしまう。",
+			"Text_Tra": "I make a dumb noise.",
+			"FOA_Ptr": "0x00042336",
+			"FOA_Rva": "0x0004AE91"
+		},
+		{
+			"Text_Raw": "「そうか……暴走してるときの状態がデフォルトになりかねないのか」",
+			"Text_Tra": "『I see her point. That state I go into, that rampage-that could become my default.』",
+			"FOA_Ptr": "0x0004238E",
+			"FOA_Rva": "0x0004AEAE"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000423A6",
+			"FOA_Rva": "0x0004AEF0"
+		},
+		{
+			"Text_Raw": "あれでは会話にならない。",
+			"Text_Tra": "We wouldn't have much of a discussion like that.",
+			"FOA_Ptr": "0x000423E6",
+			"FOA_Rva": "0x0004AEF7"
+		},
+		{
+			"Text_Raw": "「そこで、言霊の出番だ」",
+			"Text_Tra": "『That's where the Kotodama comes into it.』",
+			"FOA_Ptr": "0x0004243E",
+			"FOA_Rva": "0x0004AF12"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00042456",
+			"FOA_Rva": "0x0004AF3B"
+		},
+		{
+			"Text_Raw": "博士が、こめかみに指をあてる。",
+			"Text_Tra": "The Prof presses a finger to my temple.",
+			"FOA_Ptr": "0x00042496",
+			"FOA_Rva": "0x0004AF42"
+		},
+		{
+			"Text_Raw": "「鉄鬼に戻りながら、同時に、言霊で人の意志を保つんだよ。２つの力を拮抗させるということだな」",
+			"Text_Tra": "『While returning to being a Tekki, you must also use the Kotodama to retain your human mind. Pit the two powers against each other.』",
+			"FOA_Ptr": "0x000424EE",
+			"FOA_Rva": "0x0004AF63"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00042506",
+			"FOA_Rva": "0x0004AFD0"
+		},
+		{
+			"Text_Raw": "「そんなこと出来るんですかね？」",
+			"Text_Tra": "『Is that even possible?』",
+			"FOA_Ptr": "0x00042546",
+			"FOA_Rva": "0x0004AFD7"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004255E",
+			"FOA_Rva": "0x0004AFF9"
+		},
+		{
+			"Text_Raw": "「正直、わからん。姫様は『出来ます』と言っていたが、言霊使いの感覚は常人には理解できん」",
+			"Text_Tra": "『To be honest, I don't know. The Princess says so, but a regular person can't understand the sensibilities of a Kotodama user.』",
+			"FOA_Ptr": "0x0004259E",
+			"FOA_Rva": "0x0004B000"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x000425B6",
+			"FOA_Rva": "0x0004B069"
+		},
+		{
+			"Text_Raw": "博士が投げやりに言う。",
+			"Text_Tra": "The Prof is quick to pass the buck.",
+			"FOA_Ptr": "0x000425F6",
+			"FOA_Rva": "0x0004B070"
+		},
+		{
+			"Text_Raw": "「それも同意しておきます」",
+			"Text_Tra": "『I agree.』",
+			"FOA_Ptr": "0x0004264E",
+			"FOA_Rva": "0x0004B089"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042666",
+			"FOA_Rva": "0x0004B0A5"
+		},
+		{
+			"Text_Raw": "僕も使っている言霊だが、曖昧すぎる能力であることは確かだ。",
+			"Text_Tra": "I can use the Kotodama myself and I'm still in complete agreement that it's a vague and crazy power.",
+			"FOA_Ptr": "0x000426A6",
+			"FOA_Rva": "0x0004B0AC"
+		},
+		{
+			"Text_Raw": "ただ、春姫が僕を言霊使いとして鍛えようとしていた理由は、ようやくわかった。",
+			"Text_Tra": "At least now I understand why Haruhime has been trying to train me to use it.",
+			"FOA_Ptr": "0x000426FE",
+			"FOA_Rva": "0x0004B0E9"
+		},
+		{
+			"Text_Raw": "人としての意識を保ちながら鉄鬼のネットワークにアクセスする――これが最終目標なのだ。",
+			"Text_Tra": "Maintaining my human mind while accessing the Tekki network-that's our ultimate goal.",
+			"FOA_Ptr": "0x00042756",
+			"FOA_Rva": "0x0004B136"
+		},
+		{
+			"Text_Raw": "「具体的な方針として、言霊は春姫から学ぶとして、鉄鬼の感覚を引き出すほうをどうするかですね」",
+			"Text_Tra": "『Okay, so I can learn about the Kotodama from Haruhime. But what about learning to draw out my Tekki side?』",
+			"FOA_Ptr": "0x000427AE",
+			"FOA_Rva": "0x0004B18D"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000427C6",
+			"FOA_Rva": "0x0004B1EB"
+		},
+		{
+			"Text_Raw": "「仮説だが、鉄鬼の力を使いこなす訓練を続ければ、いずれ鉄鬼の声が聞こえてくるだろう」",
+			"Text_Tra": "『It's only a theory, but we think training your Tekki powers will eventually allow you to hear the Tekki voice.』",
+			"FOA_Ptr": "0x00042806",
+			"FOA_Rva": "0x0004B1F2"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x0004281E",
+			"FOA_Rva": "0x0004B257"
+		},
+		{
+			"Text_Raw": "「まあ、そんな感じですかね」",
+			"Text_Tra": "『Well, that sounds like a reasonable assumption.』",
+			"FOA_Ptr": "0x0004285E",
+			"FOA_Rva": "0x0004B25E"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042876",
+			"FOA_Rva": "0x0004B27C"
+		},
+		{
+			"Text_Raw": "返事は軽いが、内容は重い。",
+			"Text_Tra": "My reply is light, but the subject matter is heavy.",
+			"FOA_Ptr": "0x000428B6",
+			"FOA_Rva": "0x0004B283"
+		},
+		{
+			"Text_Raw": "鉄鬼の声＝鉄鬼のネットワークに強く結びついているだろう機能は、僕の中にあることが、すでに確認されている。",
+			"Text_Tra": "I've already confirmed that there's a function inside me closely linked to the voice of the Tekki = the Tekki network.",
+			"FOA_Ptr": "0x0004290E",
+			"FOA_Rva": "0x0004B2A0"
+		},
+		{
+			"Text_Raw": "暴走する理性。",
+			"Text_Tra": "My rampaging logic.",
+			"FOA_Ptr": "0x00042966",
+			"FOA_Rva": "0x0004B30B"
+		},
+		{
+			"Text_Raw": "日常的な『僕』とは切り離された、まさしくブラックボックスだ。",
+			"Text_Tra": "A true black box, separated completely from the everyday me.",
+			"FOA_Ptr": "0x000429BE",
+			"FOA_Rva": "0x0004B31C"
+		},
+		{
+			"Text_Raw": "アレを、僕自身の力として制御するわけか……。",
+			"Text_Tra": "And I have to learn to control that for myself.",
+			"FOA_Ptr": "0x00042A16",
+			"FOA_Rva": "0x0004B35B"
+		},
+		{
+			"Text_Raw": "「……まさしく言うは易し、だな」",
+			"Text_Tra": "『...Easier said than done, that's for sure.』",
+			"FOA_Ptr": "0x00042A6E",
+			"FOA_Rva": "0x0004B38A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042A86",
+			"FOA_Rva": "0x0004B3AC"
+		},
+		{
+			"Text_Raw": "「助言としてだが、鉄鬼の力を学ぶには二之神に鍛えてもらうことをお勧めしておこう」",
+			"Text_Tra": "『If I might make a recommendation? Training with the Ni-no-Kami might be the best way to unlock your Tekki powers.』",
+			"FOA_Ptr": "0x00042AC6",
+			"FOA_Rva": "0x0004B3B3"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00042ADE",
+			"FOA_Rva": "0x0004B414"
+		},
+		{
+			"Text_Raw": "「双子ちゃん？」",
+			"Text_Tra": "『The twins?』",
+			"FOA_Ptr": "0x00042B1E",
+			"FOA_Rva": "0x0004B41B"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042B36",
+			"FOA_Rva": "0x0004B42D"
+		},
+		{
+			"Text_Raw": "意外な人選に首をかしげてしまう。",
+			"Text_Tra": "I tilt my head again. That's an unexpected choice.",
+			"FOA_Ptr": "0x00042B76",
+			"FOA_Rva": "0x0004B434"
+		},
+		{
+			"Text_Raw": "「鉄鬼の力はあくまでも技術的なものであり、単純な力の制御という点では、今のカントであの２人に勝る者はいない」",
+			"Text_Tra": "『Your Tekki powers are ultimately technological. From the perspective of pure control of such power, no others in Kanto can rival those two.』",
+			"FOA_Ptr": "0x00042BCE",
+			"FOA_Rva": "0x0004B457"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00042BE6",
+			"FOA_Rva": "0x0004B4D4"
+		},
+		{
+			"Text_Raw": "「つまり、双子ちゃんにいじめられろ、と……」",
+			"Text_Tra": "『You're telling me to go get picked on by the twins?』",
+			"FOA_Ptr": "0x00042C26",
+			"FOA_Rva": "0x0004B4DB"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042C3E",
+			"FOA_Rva": "0x0004B509"
+		},
+		{
+			"Text_Raw": "僕は真剣につぶやいてしまう。",
+			"Text_Tra": "I mutter to myself, my face serious.",
+			"FOA_Ptr": "0x00042C7E",
+			"FOA_Rva": "0x0004B510"
+		},
+		{
+			"Text_Raw": "「……いやいや、本当はやりたくはないけれど、仕方なくでも、がんばってやります！」",
+			"Text_Tra": "『...Okay, okay. I don't want to do it-I really don't-but do I have a choice? Nope! Time to take one for the team! I'll give it my best shot!』",
+			"FOA_Ptr": "0x00042CD6",
+			"FOA_Rva": "0x0004B52F"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042CEE",
+			"FOA_Rva": "0x0004B581"
+		},
+		{
+			"Text_Raw": "「君、なんだか口調のわりに、嬉しそうじゃないかい？」",
+			"Text_Tra": "『You sound happier about it than your words suggest.』",
+			"FOA_Ptr": "0x00042D2E",
+			"FOA_Rva": "0x0004B588"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00042D46",
+			"FOA_Rva": "0x0004B5CD"
+		},
+		{
+			"Text_Raw": "「まさか。あんな可愛い女の子たちにいじめられて喜ぶなんて、ただの変態じゃないですか！？」",
+			"Text_Tra": "『You must be hearing things. I'm not some kind of pervert, reveling in the prospect of being picked on by two cute girls!』",
+			"FOA_Ptr": "0x00042D86",
+			"FOA_Rva": "0x0004B5D4"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042D9E",
+			"FOA_Rva": "0x0004B62E"
+		},
+		{
+			"Text_Raw": "「そうだね。いや、実地は任せるよ」",
+			"Text_Tra": "『Whatever you say. They can deal with that quagmire.』",
+			"FOA_Ptr": "0x00042DDE",
+			"FOA_Rva": "0x0004B635"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00042DF6",
+			"FOA_Rva": "0x0004B668"
+		},
+		{
+			"Text_Raw": "博士が二本目の投げやりを放る。",
+			"Text_Tra": "The Prof passes the buck again.",
+			"FOA_Ptr": "0x00042E36",
+			"FOA_Rva": "0x0004B66F"
+		},
+		{
+			"Text_Raw": "「で、２つ目はなんですか？」",
+			"Text_Tra": "『And what's the second thing?』",
+			"FOA_Ptr": "0x00042E8E",
+			"FOA_Rva": "0x0004B690"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042EA6",
+			"FOA_Rva": "0x0004B6AE"
+		},
+		{
+			"Text_Raw": "「ん？」",
+			"Text_Tra": "『Excuse me?』",
+			"FOA_Ptr": "0x00042EE6",
+			"FOA_Rva": "0x0004B6B5"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00042EFE",
+			"FOA_Rva": "0x0004B6CE"
+		},
+		{
+			"Text_Raw": "「鉄鬼から引き出したい重要な情報が２つあるって言ってましたよね？」",
+			"Text_Tra": "『You said there were two important pieces of information you wanted me to extract.』",
+			"FOA_Ptr": "0x00042F3E",
+			"FOA_Rva": "0x0004B6D5"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042F56",
+			"FOA_Rva": "0x0004B719"
+		},
+		{
+			"Text_Raw": "「ああ」",
+			"Text_Tra": "『Two. That's right.』",
+			"FOA_Ptr": "0x00042F96",
+			"FOA_Rva": "0x0004B720"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00042FAE",
+			"FOA_Rva": "0x0004B739"
+		},
+		{
+			"Text_Raw": "そこで、博士が言葉を切り、視線を左右に揺らす。",
+			"Text_Tra": "The Prof stops talking, her eyes shifting left and right.",
+			"FOA_Ptr": "0x00042FEE",
+			"FOA_Rva": "0x0004B740"
+		},
+		{
+			"Text_Raw": "すぐに話し出すと思った。",
+			"Text_Tra": "I thought she'd spill the beans at once.",
+			"FOA_Ptr": "0x00043046",
+			"FOA_Rva": "0x0004B771"
+		},
+		{
+			"Text_Raw": "僕以上に、止めない限り話し続けるような人だから。",
+			"Text_Tra": "She's worse than me for just running her mouth until someone stops her.",
+			"FOA_Ptr": "0x0004309E",
+			"FOA_Rva": "0x0004B78C"
+		},
+		{
+			"Text_Raw": "が、博士の無言は１０秒も続いた。",
+			"Text_Tra": "But she stays silent for more than ten seconds.",
+			"FOA_Ptr": "0x000430F6",
+			"FOA_Rva": "0x0004B7BF"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x0004314E",
+			"FOA_Rva": "0x0004B7E2"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00043166",
+			"FOA_Rva": "0x0004B7FF"
+		},
+		{
+			"Text_Raw": "「……どうしました？」",
+			"Text_Tra": "『...What happened? Your brain crashed?』",
+			"FOA_Ptr": "0x000431A6",
+			"FOA_Rva": "0x0004B806"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000431BE",
+			"FOA_Rva": "0x0004B81E"
+		},
+		{
+			"Text_Raw": "「いや……これは個人的な頼みでもあるのだが、鉄鬼の力を人間が利用する方法がわかったら、すぐに教えて欲しい」",
+			"Text_Tra": "『No... But this is a personal request. If you find a way for humans to use Tekki power, I want you to tell me right away.』",
+			"FOA_Ptr": "0x000431FE",
+			"FOA_Rva": "0x0004B825"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00043216",
+			"FOA_Rva": "0x0004B8A0"
+		},
+		{
+			"Text_Raw": "「なるほど。言われてみれば確かに重要ですね」",
+			"Text_Tra": "『Gotcha. That does sound important.』",
+			"FOA_Ptr": "0x00043256",
+			"FOA_Rva": "0x0004B8A7"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004326E",
+			"FOA_Rva": "0x0004B8D5"
+		},
+		{
+			"Text_Raw": "共振源の情報が鉄鬼殲滅のためなら、こちらは人間の生活にとって最大の恩恵になる情報だ。",
+			"Text_Tra": "If information on the vibration source is key to wiping out the Tekki, such information would bring the biggest benefits to human life.",
+			"FOA_Ptr": "0x000432AE",
+			"FOA_Rva": "0x0004B8DC"
+		},
+		{
+			"Text_Raw": "鉄鬼を動かしているエネルギーを、人間が技術として扱えるようになれば、カントの生活水準を劇的に向上させられる。",
+			"Text_Tra": "If the energy driving the Tekki could be used by human technology, the standard of living in Kanto would jump up dramatically.",
+			"FOA_Ptr": "0x00043306",
+			"FOA_Rva": "0x0004B933"
+		},
+		{
+			"Text_Raw": "蒸気機関や電気に等しい発明だろう。",
+			"Text_Tra": "An invention equal to the steam engine or electricity.",
+			"FOA_Ptr": "0x0004335E",
+			"FOA_Rva": "0x0004B9A2"
+		},
+		{
+			"Text_Raw": "僕の理解に、しかし、博士は微妙な表情で補足した。",
+			"Text_Tra": "The Prof makes a strange expression, faced with my interpretation.",
+			"FOA_Ptr": "0x000433B6",
+			"FOA_Rva": "0x0004B9C7"
+		},
+		{
+			"Text_Raw": "「あの力を武器として利用できれば最高だな」",
+			"Text_Tra": "『It would be great if I could use that power as a weapon.』",
+			"FOA_Ptr": "0x0004340E",
+			"FOA_Rva": "0x0004B9FA"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00043426",
+			"FOA_Rva": "0x0004BA35"
+		},
+		{
+			"Text_Raw": "「あ、そっちですか」",
+			"Text_Tra": "『Oh. Okay. That's what you're thinking.』",
+			"FOA_Ptr": "0x00043466",
+			"FOA_Rva": "0x0004BA3C"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004347E",
+			"FOA_Rva": "0x0004BA52"
+		},
+		{
+			"Text_Raw": "こちらも戦いのための話か。",
+			"Text_Tra": "Even she's talking about using it for violence.",
+			"FOA_Ptr": "0x000434BE",
+			"FOA_Rva": "0x0004BA59"
+		},
+		{
+			"Text_Raw": "「でもまあ、僕が暴走したときのレーザー兵器は鉄鬼を貫通したから、それが誰にでも使えるようになれば状況は一変して……」",
+			"Text_Tra": "『Well, I guess if we could give everyone one of those lasers I busted out it would make quite the difference...』",
+			"FOA_Ptr": "0x00043516",
+			"FOA_Rva": "0x0004BA76"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004352E",
+			"FOA_Rva": "0x0004BAEC"
+		},
+		{
+			"Text_Raw": "そこで、僕はひとつの気づきを得て、言葉を止めてしまう。",
+			"Text_Tra": "I trail off as I realize something.",
+			"FOA_Ptr": "0x0004356E",
+			"FOA_Rva": "0x0004BAF3"
+		},
+		{
+			"Text_Raw": "考える。",
+			"Text_Tra": "Then I start thinking.",
+			"FOA_Ptr": "0x000435C6",
+			"FOA_Rva": "0x0004BB2C"
+		},
+		{
+			"Text_Raw": "自分の思いつきが間違いでないことを検討する。",
+			"Text_Tra": "I need to try and confirm I have the correct idea.",
+			"FOA_Ptr": "0x0004361E",
+			"FOA_Rva": "0x0004BB37"
+		},
+		{
+			"Text_Raw": "もしも、この考えが正しければ――",
+			"Text_Tra": "If I'm right about this-",
+			"FOA_Ptr": "0x00043676",
+			"FOA_Rva": "0x0004BB66"
+		},
+		{
+			"Text_Raw": "僕は今、カントを滅ぼすほどの大きな間違いを犯そうとしていることになる。",
+			"Text_Tra": "I might be about to make a mistake that could lead to the destruction of Kanto itself.",
+			"FOA_Ptr": "0x000436CE",
+			"FOA_Rva": "0x0004BB89"
+		},
+		{
+			"Text_Raw": "「ふむ」",
+			"Text_Tra": "『Hmmm.』",
+			"FOA_Ptr": "0x00043726",
+			"FOA_Rva": "0x0004BBD2"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x0004373E",
+			"FOA_Rva": "0x0004BBEB"
+		},
+		{
+			"Text_Raw": "シリアスに考えこむ僕を、博士が面白そうに見つめていた。",
+			"Text_Tra": "The Prof peers at my serious expression with interest.",
+			"FOA_Ptr": "0x0004377E",
+			"FOA_Rva": "0x0004BBF2"
+		},
+		{
+			"Text_Raw": "僕は考えをまとめあげ、彼女の目を見る。",
+			"Text_Tra": "I collate my thoughts and then meet her eyes.",
+			"FOA_Ptr": "0x000437D6",
+			"FOA_Rva": "0x0004BC2B"
+		},
+		{
+			"Text_Raw": "「……博士、あなたも、やはりカントの人間なんですね」",
+			"Text_Tra": "『...Prof. You're still one of those Kanto folk, through and through.』",
+			"FOA_Ptr": "0x0004382E",
+			"FOA_Rva": "0x0004BC54"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043846",
+			"FOA_Rva": "0x0004BC8A"
+		},
+		{
+			"Text_Raw": "「どういうことかな？」",
+			"Text_Tra": "『Which means what?』",
+			"FOA_Ptr": "0x00043886",
+			"FOA_Rva": "0x0004BC91"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x0004389E",
+			"FOA_Rva": "0x0004BCB8"
+		},
+		{
+			"Text_Raw": "彼女は笑ったまま答え合わせを要求してくる。",
+			"Text_Tra": "She still has a smile on her face as she asks for more details.",
+			"FOA_Ptr": "0x000438DE",
+			"FOA_Rva": "0x0004BCBF"
+		},
+		{
+			"Text_Raw": "「僕は今まで、あなたが鉄鬼の研究をしているのは、好奇心旺盛だとか、学者肌だとか、そういう性格なんだと思っていました」",
+			"Text_Tra": "『I thought your research into the Tekki was out of curiosity, or some innate nature as a scientist. Some facet of your personality.』",
+			"FOA_Ptr": "0x00043936",
+			"FOA_Rva": "0x0004BCEC"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004394E",
+			"FOA_Rva": "0x0004BD62"
+		},
+		{
+			"Text_Raw": "「でも、性格なんて一言で考えていたのは、間違いかもしれない」",
+			"Text_Tra": "『But it was a mistake to categorize it so simply.』",
+			"FOA_Ptr": "0x0004398E",
+			"FOA_Rva": "0x0004BD69"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000439A6",
+			"FOA_Rva": "0x0004BDA7"
+		},
+		{
+			"Text_Raw": "「間違いとは？」",
+			"Text_Tra": "『What kind of mistake?』",
+			"FOA_Ptr": "0x000439E6",
+			"FOA_Rva": "0x0004BDAE"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x000439FE",
+			"FOA_Rva": "0x0004BDCF"
+		},
+		{
+			"Text_Raw": "博士は表情を変えない。",
+			"Text_Tra": "The Prof's expression doesn't change.",
+			"FOA_Ptr": "0x00043A3E",
+			"FOA_Rva": "0x0004BDD6"
+		},
+		{
+			"Text_Raw": "「あなたは無能力者に生まれて、いつ殺されてもおかしくなかったと言っていた」",
+			"Text_Tra": "『You told me you were born without powers, and could have been killed at any time.』",
+			"FOA_Ptr": "0x00043A96",
+			"FOA_Rva": "0x0004BDEF"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043AAE",
+			"FOA_Rva": "0x0004BE3B"
+		},
+		{
+			"Text_Raw": "「でも、なんの抵抗もせず殺されてやるつもりはなかったんでしょう？」",
+			"Text_Tra": "『But you weren't going to just lie down and let them kill you. Were you? Die without any resistance?』",
+			"FOA_Ptr": "0x00043AEE",
+			"FOA_Rva": "0x0004BE42"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043B06",
+			"FOA_Rva": "0x0004BE86"
+		},
+		{
+			"Text_Raw": "「君がそうであるように」",
+			"Text_Tra": "『You didn't lie down. Why would I?』",
+			"FOA_Ptr": "0x00043B46",
+			"FOA_Rva": "0x0004BE8D"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00043B5E",
+			"FOA_Rva": "0x0004BEB6"
+		},
+		{
+			"Text_Raw": "僕がそうであるように。",
+			"Text_Tra": "I didn't lie down.",
+			"FOA_Ptr": "0x00043B9E",
+			"FOA_Rva": "0x0004BEBD"
+		},
+		{
+			"Text_Raw": "「あなたは鉄鬼のことを知りたくて研究をしているんじゃない」",
+			"Text_Tra": "『You aren't doing all this because you want to learn about the Tekki.』",
+			"FOA_Ptr": "0x00043BF6",
+			"FOA_Rva": "0x0004BED6"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043C0E",
+			"FOA_Rva": "0x0004BF12"
+		},
+		{
+			"Text_Raw": "「あなたが求めているのは、鉄鬼の力そのもので――」",
+			"Text_Tra": "『You want the power of the Tekki for yourself.』",
+			"FOA_Ptr": "0x00043C4E",
+			"FOA_Rva": "0x0004BF19"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043C66",
+			"FOA_Rva": "0x0004BF4D"
+		},
+		{
+			"Text_Raw": "「その技術による、カントの能力者たちへの復讐が目的なんじゃないですか？」",
+			"Text_Tra": "『And beyond that... to use it to take revenge against the Powered of Kanto. Am I right?』",
+			"FOA_Ptr": "0x00043CA6",
+			"FOA_Rva": "0x0004BF54"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043CBE",
+			"FOA_Rva": "0x0004BF9E"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x00043CFE",
+			"FOA_Rva": "0x0004BFA5"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00043D16",
+			"FOA_Rva": "0x0004BFC2"
+		},
+		{
+			"Text_Raw": "僕の“答え”に、博士は口元に笑顔を浮かべたままだった。",
+			"Text_Tra": "The Prof just keeps a smile on her face at my reply.",
+			"FOA_Ptr": "0x00043D56",
+			"FOA_Rva": "0x0004BFC9"
+		},
+		{
+			"Text_Raw": "「そうであれば、あなたはカントにとって“最悪の裏切り者”かもしれない」",
+			"Text_Tra": "『If I'm right, you could be the worst kind of traitor to Kanto.』",
+			"FOA_Ptr": "0x00043DAE",
+			"FOA_Rva": "0x0004C002"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043DC6",
+			"FOA_Rva": "0x0004C04A"
+		},
+		{
+			"Text_Raw": "「うん。その通りだ」",
+			"Text_Tra": "『Yes. You're right.』",
+			"FOA_Ptr": "0x00043E06",
+			"FOA_Rva": "0x0004C051"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00043E1E",
+			"FOA_Rva": "0x0004C076"
+		},
+		{
+			"Text_Raw": "博士はあっさりと認める。",
+			"Text_Tra": "The Prof admits it, with a pause but without preamble.",
+			"FOA_Ptr": "0x00043E5E",
+			"FOA_Rva": "0x0004C07D"
+		},
+		{
+			"Text_Raw": "「私は鉄鬼の力を手に入れて、私を見下していた者たちに復讐したい」",
+			"Text_Tra": "『I want to obtain the power of the Tekki, and take revenge on those who have looked down on me.』",
+			"FOA_Ptr": "0x00043EB6",
+			"FOA_Rva": "0x0004C098"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00043ECE",
+			"FOA_Rva": "0x0004C0E9"
+		},
+		{
+			"Text_Raw": "「いやはや、姫様もそこまで気づいてはいなかったのだが。まさか君に気づかれるとは思わなかった。驚いたね。本当に驚いた」",
+			"Text_Tra": "『Even Princess hasn't penetrated so deep into my plans. I certainly didn't expect you to. Surprising. Very surprising.』",
+			"FOA_Ptr": "0x00043F0E",
+			"FOA_Rva": "0x0004C0F0"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00043F26",
+			"FOA_Rva": "0x0004C175"
+		},
+		{
+			"Text_Raw": "「……あれ？」",
+			"Text_Tra": "『Wait. What?』",
+			"FOA_Ptr": "0x00043F66",
+			"FOA_Rva": "0x0004C17C"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043F7E",
+			"FOA_Rva": "0x0004C18C"
+		},
+		{
+			"Text_Raw": "なんだか軽い様子に、僕がきょとんとしてしまう。",
+			"Text_Tra": "I'm surprised by how light her tone is.",
+			"FOA_Ptr": "0x00043FBE",
+			"FOA_Rva": "0x0004C193"
+		},
+		{
+			"Text_Raw": "「えーと、あの……復讐ですよね？」",
+			"Text_Tra": "『Just to confirm... this is revenge we're talking about?』",
+			"FOA_Ptr": "0x00044016",
+			"FOA_Rva": "0x0004C1C4"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004402E",
+			"FOA_Rva": "0x0004C1E8"
+		},
+		{
+			"Text_Raw": "「うん。そうだと認めているじゃないか。なにを再確認しているんだい？」",
+			"Text_Tra": "『Yes. I already affirmed it. Why are you asking again?』",
+			"FOA_Ptr": "0x0004406E",
+			"FOA_Rva": "0x0004C1EF"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00044086",
+			"FOA_Rva": "0x0004C244"
+		},
+		{
+			"Text_Raw": "博士の様子は変わらない。",
+			"Text_Tra": "The Prof's attitude doesn't change.",
+			"FOA_Ptr": "0x000440C6",
+			"FOA_Rva": "0x0004C24B"
+		},
+		{
+			"Text_Raw": "「え？　あれ？」",
+			"Text_Tra": "『Huh? Now I'm really confused.』",
+			"FOA_Ptr": "0x0004411E",
+			"FOA_Rva": "0x0004C266"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044136",
+			"FOA_Rva": "0x0004C278"
+		},
+		{
+			"Text_Raw": "なにがズレているんだ？",
+			"Text_Tra": "Something is out of whack here.",
+			"FOA_Ptr": "0x00044176",
+			"FOA_Rva": "0x0004C27F"
+		},
+		{
+			"Text_Raw": "「博士の言う復讐は、みんなを見返してやりたいだけで、誰かを殺したいとか敵意ではないんですかね？」",
+			"Text_Tra": "『So you're talking about just showing them you've got the goods? Not wiping them all out?』",
+			"FOA_Ptr": "0x000441CE",
+			"FOA_Rva": "0x0004C298"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000441E6",
+			"FOA_Rva": "0x0004C2FA"
+		},
+		{
+			"Text_Raw": "「いや。この国は私のような無能力者に生きる価値がないとされているんだ。可能であれば皆殺しにしてやりたいよ」",
+			"Text_Tra": "『No. This country has determined that those like me, without powers, don't deserve to live. I'd love to kill them all, if I could.』",
+			"FOA_Ptr": "0x00044226",
+			"FOA_Rva": "0x0004C301"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x0004423E",
+			"FOA_Rva": "0x0004C37C"
+		},
+		{
+			"Text_Raw": "博士はひらひらと手を振りながら言う。",
+			"Text_Tra": "The Prof waves her hands around as she talks.",
+			"FOA_Ptr": "0x0004427E",
+			"FOA_Rva": "0x0004C383"
+		},
+		{
+			"Text_Raw": "やっぱり軽い。",
+			"Text_Tra": "She's so casual about it.",
+			"FOA_Ptr": "0x000442D6",
+			"FOA_Rva": "0x0004C3AA"
+		},
+		{
+			"Text_Raw": "「ふむ……なるほど。君は本質を突いたのに誤解したのか」",
+			"Text_Tra": "『Hmmm. You reached the stick of truth, but then grabbed the wrong end.』",
+			"FOA_Ptr": "0x0004432E",
+			"FOA_Rva": "0x0004C3BB"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00044346",
+			"FOA_Rva": "0x0004C402"
+		},
+		{
+			"Text_Raw": "「誤解？　僕のほうが？」",
+			"Text_Tra": "『Me? I've got this wrong?』",
+			"FOA_Ptr": "0x00044386",
+			"FOA_Rva": "0x0004C409"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004439E",
+			"FOA_Rva": "0x0004C423"
+		},
+		{
+			"Text_Raw": "「確かに私の目的は復讐だが、本気ではない」",
+			"Text_Tra": "『My goal is revenge, that's true, but I'm not serious about it.』",
+			"FOA_Ptr": "0x000443DE",
+			"FOA_Rva": "0x0004C42A"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x000443F6",
+			"FOA_Rva": "0x0004C465"
+		},
+		{
+			"Text_Raw": "「本気じゃない？」",
+			"Text_Tra": "『You aren't?』",
+			"FOA_Ptr": "0x00044436",
+			"FOA_Rva": "0x0004C46C"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004444E",
+			"FOA_Rva": "0x0004C480"
+		},
+		{
+			"Text_Raw": "「いや、最初は本気だったし、今でもその考えを捨てたわけではない」",
+			"Text_Tra": "『I was, to start with. And I haven't totally cast aside such daydreams.』",
+			"FOA_Ptr": "0x0004448E",
+			"FOA_Rva": "0x0004C487"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x000444A6",
+			"FOA_Rva": "0x0004C4D8"
+		},
+		{
+			"Text_Raw": "博士は普通というか、むしろ楽しくなってきたというように話す。",
+			"Text_Tra": "The Prof seems to actually be getting into this. She's enjoying sharing this with me.",
+			"FOA_Ptr": "0x000444E6",
+			"FOA_Rva": "0x0004C4DF"
+		},
+		{
+			"Text_Raw": "「しかししかし、だがしかし、私が鉄鬼の力を手に入れたところで、八剣に勝てるものではないことも痛感しているのだよ」",
+			"Text_Tra": "『But, but-a big old but-I came to realize, painfully, that even if I got the power of the Tekki, I wouldn't be able to defeat the Eight Swords.』",
+			"FOA_Ptr": "0x0004453E",
+			"FOA_Rva": "0x0004C51E"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00044556",
+			"FOA_Rva": "0x0004C59F"
+		},
+		{
+			"Text_Raw": "「勝てるかどうかというより、{あんなもの/・・・・・}と戦うのは恐ろしい、と表現するのが正確だろう」",
+			"Text_Tra": "『Although it would be more scientifically accurate to say that it isn't a case or winning or losing-more a case of being terrified to even try fighting them.』",
+			"FOA_Ptr": "0x00044596",
+			"FOA_Rva": "0x0004C5A6"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x000445AE",
+			"FOA_Rva": "0x0004C618"
+		},
+		{
+			"Text_Raw": "「ああ……怖い怖い……想像するだけでゾッとするね」",
+			"Text_Tra": "『Oh boy... So scary, so freaking scary! Simply imagining the prospect makes me shudder.』",
+			"FOA_Ptr": "0x000445EE",
+			"FOA_Rva": "0x0004C61F"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00044606",
+			"FOA_Rva": "0x0004C662"
+		},
+		{
+			"Text_Raw": "博士が自分の身体を抱く。",
+			"Text_Tra": "The Prof hugs her own body.",
+			"FOA_Ptr": "0x00044646",
+			"FOA_Rva": "0x0004C669"
+		},
+		{
+			"Text_Raw": "そういうことか。",
+			"Text_Tra": "That makes more sense.",
+			"FOA_Ptr": "0x00044702",
+			"FOA_Rva": "0x0004C693"
+		},
+		{
+			"Text_Raw": "博士の根源にあるものは『能力者への復讐』で正解だった。",
+			"Text_Tra": "I was right that her primary motivation is revenge against the Powered.",
+			"FOA_Ptr": "0x0004475A",
+			"FOA_Rva": "0x0004C6A6"
+		},
+		{
+			"Text_Raw": "しかし、最優先事項が『死にたくない』であれば、『復讐』は実行されることのないただの願望でしかない。",
+			"Text_Tra": "But she prioritizes avoiding death higher than that, meaning she'll never instigate that revenge. It's just a dream to her.",
+			"FOA_Ptr": "0x000447B2",
+			"FOA_Rva": "0x0004C6DF"
+		},
+		{
+			"Text_Raw": "そんなリスクを犯すのは愚かだと、博士は素直に認めているわけだ。",
+			"Text_Tra": "The Prof realizes that taking such a risk would simply be ridiculous.",
+			"FOA_Ptr": "0x0004480A",
+			"FOA_Rva": "0x0004C744"
+		},
+		{
+			"Text_Raw": "僕が言霊の力をもっていても、それで春姫や双子ちゃんに悪さをしようとは思わないのと一緒だ。",
+			"Text_Tra": "It's the same reason why I'd never think of using the powers of the Kotodama to play tricks on Haruhime or the twins.",
+			"FOA_Ptr": "0x00044862",
+			"FOA_Rva": "0x0004C785"
+		},
+		{
+			"Text_Raw": "そんなことをしたら、あとが怖い。",
+			"Text_Tra": "The consequences would be terrifying.",
+			"FOA_Ptr": "0x000448BA",
+			"FOA_Rva": "0x0004C7E0"
+		},
+		{
+			"Text_Raw": "『カントは力によって平定されている』",
+			"Text_Tra": "Kanto is ruled purely by strength.",
+			"FOA_Ptr": "0x00044912",
+			"FOA_Rva": "0x0004C803"
+		},
+		{
+			"Text_Raw": "千年前の世界――複雑に絡まったシステムによって統治された世界を知っていると、カントの単純さには清々しさすら覚える。",
+			"Text_Tra": "For someone with an understanding of the world from 1,000 years ago-an age ruled by the interplay of complex systems-the simplicity of this place is brutally refreshing.",
+			"FOA_Ptr": "0x0004496A",
+			"FOA_Rva": "0x0004C82A"
+		},
+		{
+			"Text_Raw": "まあ、長期的には破綻が目に見える単純さだが……。",
+			"Text_Tra": "But it also can't hold up over the long-term.",
+			"FOA_Ptr": "0x000449C2",
+			"FOA_Rva": "0x0004C89F"
+		},
+		{
+			"Text_Raw": "「わかりました。そういう事情なら、博士の気持ちに無遠慮に踏み込んだことは謝ります」",
+			"Text_Tra": "『Gotcha. If that's all it is, then I apologize for trampling all over your feelings.』",
+			"FOA_Ptr": "0x00044A4E",
+			"FOA_Rva": "0x0004C8D2"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044A66",
+			"FOA_Rva": "0x0004C926"
+		},
+		{
+			"Text_Raw": "「謝る必要があることだったかな？」",
+			"Text_Tra": "『Did you do anything requiring an apology?』",
+			"FOA_Ptr": "0x00044AA6",
+			"FOA_Rva": "0x0004C92D"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00044ABE",
+			"FOA_Rva": "0x0004C960"
+		},
+		{
+			"Text_Raw": "「いや……謝らなくていいなら、別にいいですけど」",
+			"Text_Tra": "『Well... if you think it isn't needed, then no problem.』",
+			"FOA_Ptr": "0x00044AFE",
+			"FOA_Rva": "0x0004C967"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044B16",
+			"FOA_Rva": "0x0004C999"
+		},
+		{
+			"Text_Raw": "デリカシーとか本当にない人だな。",
+			"Text_Tra": "She really lacks delicacy.",
+			"FOA_Ptr": "0x00044B56",
+			"FOA_Rva": "0x0004C9A0"
+		},
+		{
+			"Text_Raw": "納得し、僕は立ち上がる。",
+			"Text_Tra": "Accepting the situation, I stand up.",
+			"FOA_Ptr": "0x00044BAE",
+			"FOA_Rva": "0x0004C9C3"
+		},
+		{
+			"Text_Raw": "「色々と話をありがとうございました。ひとまずの方針は、僕が鉄鬼の声を聞けるようになることですね」",
+			"Text_Tra": "『Thanks for the chat. Sounds like I need to focus on hearing voices. Tekki voices.』",
+			"FOA_Ptr": "0x00044C06",
+			"FOA_Rva": "0x0004C9DE"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044C1E",
+			"FOA_Rva": "0x0004CA40"
+		},
+		{
+			"Text_Raw": "「うむ」",
+			"Text_Tra": "『That's right.』",
+			"FOA_Ptr": "0x00044C5E",
+			"FOA_Rva": "0x0004CA47"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00044C76",
+			"FOA_Rva": "0x0004CA60"
+		},
+		{
+			"Text_Raw": "「それじゃあ、僕は部屋に戻ります。また、なにかあれば――」",
+			"Text_Tra": "『Then I'll get back to my room. If you need anything else-』",
+			"FOA_Ptr": "0x00044CB6",
+			"FOA_Rva": "0x0004CA67"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044CCE",
+			"FOA_Rva": "0x0004CAA3"
+		},
+		{
+			"Text_Raw": "「なにを言っているのかね？」",
+			"Text_Tra": "『Whatever do you mean?』",
+			"FOA_Ptr": "0x00044D0E",
+			"FOA_Rva": "0x0004CAAA"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00044D26",
+			"FOA_Rva": "0x0004CAD7"
+		},
+		{
+			"Text_Raw": "突然、がっしりと手首を掴まれてしまった。",
+			"Text_Tra": "She suddenly, swiftly grabs my wrist.",
+			"FOA_Ptr": "0x00044D66",
+			"FOA_Rva": "0x0004CADE"
+		},
+		{
+			"Text_Raw": "「え？　いや、そろそろ部屋に帰って寝ようかと――」",
+			"Text_Tra": "『Huh? I mean... I'm heading back to get some sleep-』",
+			"FOA_Ptr": "0x00044DBE",
+			"FOA_Rva": "0x0004CB09"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044DD6",
+			"FOA_Rva": "0x0004CB3D"
+		},
+		{
+			"Text_Raw": "「だから、なにを言ってるんだ。まだ{君の話/・・・}が終わっただけじゃないか」",
+			"Text_Tra": "『And I'm asking, whatever do you mean? We've only finished talking about you.』",
+			"FOA_Ptr": "0x00044E16",
+			"FOA_Rva": "0x0004CB44"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00044E2E",
+			"FOA_Rva": "0x0004CBA0"
+		},
+		{
+			"Text_Raw": "「ここからは{私の話/・・・}だろう？」",
+			"Text_Tra": "『Now we have to talk about me.』",
+			"FOA_Ptr": "0x00044E6E",
+			"FOA_Rva": "0x0004CBA7"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00044E86",
+			"FOA_Rva": "0x0004CBDD"
+		},
+		{
+			"Text_Raw": "「……嫌なんですけど？」",
+			"Text_Tra": "『...Nope. No thanks.』",
+			"FOA_Ptr": "0x00044EC6",
+			"FOA_Rva": "0x0004CBE4"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044EDE",
+			"FOA_Rva": "0x0004CBFE"
+		},
+		{
+			"Text_Raw": "「そこまで、はっきりと言うのは、酷いな」",
+			"Text_Tra": "『You could have softened that a little.』",
+			"FOA_Ptr": "0x00044F1E",
+			"FOA_Rva": "0x0004CC05"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00044F36",
+			"FOA_Rva": "0x0004CC3E"
+		},
+		{
+			"Text_Raw": "博士は、へこたれない。",
+			"Text_Tra": "The Prof doesn't back down.",
+			"FOA_Ptr": "0x00044F76",
+			"FOA_Rva": "0x0004CC45"
+		},
+		{
+			"Text_Raw": "一瞬、言霊でどうにかしようかと思ってしまったが……それはよくないな。",
+			"Text_Tra": "For a moment I almost use the Kotodama, but that wouldn't be fair.",
+			"FOA_Ptr": "0x00044FCE",
+			"FOA_Rva": "0x0004CC5E"
+		},
+		{
+			"Text_Raw": "きちんと説明して納得してもらおう。",
+			"Text_Tra": "I need to explain how I'm feeling and have her accept my departure.",
+			"FOA_Ptr": "0x00045026",
+			"FOA_Rva": "0x0004CCA5"
+		},
+		{
+			"Text_Raw": "「あの、博士へのお礼に話を聞くのはやぶさかではないんですけど、ちょっと、真面目な話が長いと疲れるんですよ」",
+			"Text_Tra": "『Maybe I should listen, in gratitude, but I think a long and serious chat now would just wear me out.』",
+			"FOA_Ptr": "0x0004507E",
+			"FOA_Rva": "0x0004CCCA"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00045096",
+			"FOA_Rva": "0x0004CD36"
+		},
+		{
+			"Text_Raw": "「眠れないのなら、ちょうどいいだろう？」",
+			"Text_Tra": "『If you can't sleep, isn't that what you want?』",
+			"FOA_Ptr": "0x000450D6",
+			"FOA_Rva": "0x0004CD3D"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x000450EE",
+			"FOA_Rva": "0x0004CD76"
+		},
+		{
+			"Text_Raw": "「真面目な話をしたら眠くなってきましたし、せめて花のある女の子をいじって幸せになりたいです」",
+			"Text_Tra": "『You've made me sleepy enough already. Just give me a hot girl to tease a little and I'll be set.』",
+			"FOA_Ptr": "0x0004512E",
+			"FOA_Rva": "0x0004CD7D"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00045146",
+			"FOA_Rva": "0x0004CDDB"
+		},
+		{
+			"Text_Raw": "思わず、原液のカルピスくらい薄めていない本音が漏れてしまう。",
+			"Text_Tra": "I can't keep my true feelings from slipping out, as weak and unfiltered as they sound.",
+			"FOA_Ptr": "0x00045186",
+			"FOA_Rva": "0x0004CDE2"
+		},
+		{
+			"Text_Raw": "「私をいじればいいじゃないか！」",
+			"Text_Tra": "『So tease me!』",
+			"FOA_Ptr": "0x000451DE",
+			"FOA_Rva": "0x0004CE21"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x000451F6",
+			"FOA_Rva": "0x0004CE52"
+		},
+		{
+			"Text_Raw": "博士が楽しそうに言う。",
+			"Text_Tra": "The Prof is still enjoying herself.",
+			"FOA_Ptr": "0x00045236",
+			"FOA_Rva": "0x0004CE59"
+		},
+		{
+			"Text_Raw": "「自分ではよくわからないが、姫様からは『博士は女として見た目も肉付きも悪くないのに』と言われているぞ？」",
+			"Text_Tra": "『I can't tell these things for myself, but even the Princess says that I look great. She compliments my curves all the time, saying it's such a shame.』",
+			"FOA_Ptr": "0x0004528E",
+			"FOA_Rva": "0x0004CE72"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x000452A6",
+			"FOA_Rva": "0x0004CEEB"
+		},
+		{
+			"Text_Raw": "「その『悪くないのに』の部分、絶対、ため息まじりに言われてますよね？」",
+			"Text_Tra": "『And I bet she sighs and shakes her head when she says the shame part.』",
+			"FOA_Ptr": "0x000452E6",
+			"FOA_Rva": "0x0004CEF2"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000452FE",
+			"FOA_Rva": "0x0004CF3A"
+		},
+		{
+			"Text_Raw": "「うむ。姫様は自分の貧相な身体と比べてしまったのだろうな」",
+			"Text_Tra": "『Hmmm. I'm sure she's comparing her small, underdeveloped body to my own.』",
+			"FOA_Ptr": "0x0004533E",
+			"FOA_Rva": "0x0004CF41"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00045356",
+			"FOA_Rva": "0x0004CF8C"
+		},
+		{
+			"Text_Raw": "「そういうところだけ無駄に前向きだな！」",
+			"Text_Tra": "『You've got a real blind spot there!』",
+			"FOA_Ptr": "0x00045396",
+			"FOA_Rva": "0x0004CF93"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000453AE",
+			"FOA_Rva": "0x0004CFBD"
+		},
+		{
+			"Text_Raw": "思わずツッコミをいれてしまう。",
+			"Text_Tra": "I can't help but put the boot in.",
+			"FOA_Ptr": "0x000453EE",
+			"FOA_Rva": "0x0004CFC4"
+		},
+		{
+			"Text_Raw": "いや、確かに、博士は見た目はいいのだ。",
+			"Text_Tra": "The Prof's not wrong, though-she is pretty hot.",
+			"FOA_Ptr": "0x00045446",
+			"FOA_Rva": "0x0004CFE5"
+		},
+		{
+			"Text_Raw": "そんな女性から『私をいじればいい』なんて言われると、思わず興奮……。",
+			"Text_Tra": "Having a woman like that asking me to tease her, I can't help but get turned on-",
+			"FOA_Ptr": "0x0004549E",
+			"FOA_Rva": "0x0004D00E"
+		},
+		{
+			"Text_Raw": "興奮……うーん……。",
+			"Text_Tra": "Hmmm... I guess I can help it.",
+			"FOA_Ptr": "0x000454F6",
+			"FOA_Rva": "0x0004D055"
+		},
+		{
+			"Text_Raw": "やっぱり素直に興奮しづらいな、この人。",
+			"Text_Tra": "I'm faced with the difficult truth again. She just doesn't do it for me.",
+			"FOA_Ptr": "0x0004554E",
+			"FOA_Rva": "0x0004D06C"
+		},
+		{
+			"Text_Raw": "「また今度、そんなに時間をあけずに来ますから、今日は解放してくれませんかね？」",
+			"Text_Tra": "『I'll come again, without keeping you waiting for too long. Can you just let me leave today?』",
+			"FOA_Ptr": "0x000455A6",
+			"FOA_Rva": "0x0004D095"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000455BE",
+			"FOA_Rva": "0x0004D0E5"
+		},
+		{
+			"Text_Raw": "「ふむ。仕方ない。そういえば君も八剣だったな」",
+			"Text_Tra": "『Okay. If you insist. You're a Sword too, in the end.』",
+			"FOA_Ptr": "0x000455FE",
+			"FOA_Rva": "0x0004D0EC"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00045616",
+			"FOA_Rva": "0x0004D12B"
+		},
+		{
+			"Text_Raw": "死すら命令できる八剣の権限。",
+			"Text_Tra": "The Eight Swords have the authority to even order death.",
+			"FOA_Ptr": "0x00045656",
+			"FOA_Rva": "0x0004D132"
+		},
+		{
+			"Text_Raw": "そういうところの常識はあるらしく、博士が腕を離してくれる。",
+			"Text_Tra": "The Prof knows how things work. She lets my arm go.",
+			"FOA_Ptr": "0x000456AE",
+			"FOA_Rva": "0x0004D151"
+		},
+		{
+			"Text_Raw": "「一応、今のは命令じゃありませんよ？」",
+			"Text_Tra": "『Just to be clear, that wasn't an order.』",
+			"FOA_Ptr": "0x00045706",
+			"FOA_Rva": "0x0004D18E"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004571E",
+			"FOA_Rva": "0x0004D1B6"
+		},
+		{
+			"Text_Raw": "「構わないさ。やるべきことも、考えるべきことも、ここでは尽きることがない」",
+			"Text_Tra": "『I don't mind either way. There's more to do down here, more to think about than I could cover in my whole lifetime.』",
+			"FOA_Ptr": "0x0004575E",
+			"FOA_Rva": "0x0004D1BD"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00045776",
+			"FOA_Rva": "0x0004D218"
+		},
+		{
+			"Text_Raw": "言葉通り、博士の視線は過去の遺物に目移りしていて、僕への興味をあっさりと失っていた。",
+			"Text_Tra": "Her eyes have already drifted over to the artifacts from the past. She's lost interest in me, just like that.",
+			"FOA_Ptr": "0x000457B6",
+			"FOA_Rva": "0x0004D21F"
+		},
+		{
+			"Text_Raw": "そんなものかと思いながら、僕は部屋を出ていこうとする。",
+			"Text_Tra": "Shrugging my shoulders at her whimsy, I move to leave the room.",
+			"FOA_Ptr": "0x0004580E",
+			"FOA_Rva": "0x0004D276"
+		},
+		{
+			"Text_Raw": "しかし――最後に伝えておくべきことを思いついた。",
+			"Text_Tra": "But then I think of one last thing I need to tell her.",
+			"FOA_Ptr": "0x00045866",
+			"FOA_Rva": "0x0004D2AF"
+		},
+		{
+			"Text_Raw": "「博士」",
+			"Text_Tra": "『Prof.』",
+			"FOA_Ptr": "0x000458BE",
+			"FOA_Rva": "0x0004D2E2"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000458D6",
+			"FOA_Rva": "0x0004D2EC"
+		},
+		{
+			"Text_Raw": "「なんだい？」",
+			"Text_Tra": "『What?』",
+			"FOA_Ptr": "0x00045916",
+			"FOA_Rva": "0x0004D2F3"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x0004592E",
+			"FOA_Rva": "0x0004D312"
+		},
+		{
+			"Text_Raw": "「あなたが今後、鉄鬼の力の使い方を理解して、やっぱり誰かを殺したいと思ったら――」",
+			"Text_Tra": "『If you do work out how to use the Tekki power, and decide you want to start killing folks after all-』",
+			"FOA_Ptr": "0x0004596E",
+			"FOA_Rva": "0x0004D319"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00045986",
+			"FOA_Rva": "0x0004D36D"
+		},
+		{
+			"Text_Raw": "「それを実行する前に、僕へ連絡をください」",
+			"Text_Tra": "『Please talk to me before you actually do anything.』",
+			"FOA_Ptr": "0x000459C6",
+			"FOA_Rva": "0x0004D374"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000459DE",
+			"FOA_Rva": "0x0004D3A0"
+		},
+		{
+			"Text_Raw": "「止めるのかい？」",
+			"Text_Tra": "『You're going to stop me?』",
+			"FOA_Ptr": "0x00045A1E",
+			"FOA_Rva": "0x0004D3A7"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00045A36",
+			"FOA_Rva": "0x0004D3CA"
+		},
+		{
+			"Text_Raw": "「止めますよ。そんなことで、あなたを失いたくない」",
+			"Text_Tra": "『Yes, I'll stop you. I don't want to lose you over something like that.』",
+			"FOA_Ptr": "0x00045A76",
+			"FOA_Rva": "0x0004D3D1"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00045A8E",
+			"FOA_Rva": "0x0004D405"
+		},
+		{
+			"Text_Raw": "「そう思うなら、君、私が恐れるくらいに強くなりたまえ。それでこそ八剣だ」",
+			"Text_Tra": "『If that's your plan, you'll need to become strong enough to strike fear into my heart. That's when I'll know you're a Sword.』",
+			"FOA_Ptr": "0x00045ACE",
+			"FOA_Rva": "0x0004D40C"
+		},
+		{
+			"Text_Raw": "　識　",
+			"Text_Tra": "Shiki",
+			"FOA_Ptr": "0x00045AE6",
+			"FOA_Rva": "0x0004D465"
+		},
+		{
+			"Text_Raw": "博士が気のない返事をする。",
+			"Text_Tra": "The Prof makes a casual reply.",
+			"FOA_Ptr": "0x00045B26",
+			"FOA_Rva": "0x0004D46C"
+		},
+		{
+			"Text_Raw": "なるほど。",
+			"Text_Tra": "It fits with her world view.",
+			"FOA_Ptr": "0x00045B7E",
+			"FOA_Rva": "0x0004D489"
+		},
+		{
+			"Text_Raw": "「ごもっとも」",
+			"Text_Tra": "『You've got a point.』",
+			"FOA_Ptr": "0x00045BD6",
+			"FOA_Rva": "0x0004D496"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00045BEE",
+			"FOA_Rva": "0x0004D4A6"
+		},
+		{
+			"Text_Raw": "僕も同意して、今度こそ部屋を出た。",
+			"Text_Tra": "I agree with her, and this time I leave the room.",
+			"FOA_Ptr": "0x00045C2E",
+			"FOA_Rva": "0x0004D4AD"
+		},
+		{
+			"Text_Raw": "そして、視界の効かない階段で地上を目指す――が。",
+			"Text_Tra": "I head up the dim stairway toward the surface. Then-",
+			"FOA_Ptr": "0x00045CCA",
+			"FOA_Rva": "0x0004D4D2"
+		},
+		{
+			"Text_Raw": "「……ん？」",
+			"Text_Tra": "『...Huh?』",
+			"FOA_Ptr": "0x00045D22",
+			"FOA_Rva": "0x0004D505"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00045D3A",
+			"FOA_Rva": "0x0004D513"
+		},
+		{
+			"Text_Raw": "奇妙なものが目に留まった。",
+			"Text_Tra": "Something strange catches my eye.",
+			"FOA_Ptr": "0x00045D7A",
+			"FOA_Rva": "0x0004D51A"
+		},
+		{
+			"Text_Raw": "暗がりの中に、小さな緑色の光を見た。",
+			"Text_Tra": "I see a small green light in the darkness.",
+			"FOA_Ptr": "0x00045DD2",
+			"FOA_Rva": "0x0004D537"
+		},
+		{
+			"Text_Raw": "蛍？",
+			"Text_Tra": "A firefly?",
+			"FOA_Ptr": "0x00045E2A",
+			"FOA_Rva": "0x0004D55E"
+		},
+		{
+			"Text_Raw": "気のせいかとも思ったが、どうも、左腕につけている腕輪のなにかが光っているようだった。",
+			"Text_Tra": "I almost think I'm imagining things, but it seems something's glowing on the bracelet on my right arm.",
+			"FOA_Ptr": "0x00045E82",
+			"FOA_Rva": "0x0004D565"
+		},
+		{
+			"Text_Raw": "「……なんだろう？」",
+			"Text_Tra": "『...What now?』",
+			"FOA_Ptr": "0x00045F66",
+			"FOA_Rva": "0x0004D5BC"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00045F7E",
+			"FOA_Rva": "0x0004D5D2"
+		},
+		{
+			"Text_Raw": "地上に出て、月明かりの下で、改めて腕輪を確認する。",
+			"Text_Tra": "I climb up the steps, and check the bracelet again under the light of the moon.",
+			"FOA_Ptr": "0x00045FBE",
+			"FOA_Rva": "0x0004D5D9"
+		},
+		{
+			"Text_Raw": "操作ボタンの端のほうで、緑色の光が点滅していた。",
+			"Text_Tra": "A green light is flashing to the side of the control buttons.",
+			"FOA_Ptr": "0x00046016",
+			"FOA_Rva": "0x0004D60E"
+		},
+		{
+			"Text_Raw": "反射的に浮かんだのは、スマホやノートパソコンなどのバッテリーが満タンになったサイン。",
+			"Text_Tra": "It reminds me, reflexively, of the symbol on a smartphone or PC indicating that the battery is full.",
+			"FOA_Ptr": "0x0004606E",
+			"FOA_Rva": "0x0004D641"
+		},
+		{
+			"Text_Raw": "赤なら故障や危険の意味だろうが――今回は緑だ。",
+			"Text_Tra": "If it was red, that would mean a malfunction, or something dangerous-but this is green.",
+			"FOA_Ptr": "0x000460C6",
+			"FOA_Rva": "0x0004D698"
+		},
+		{
+			"Text_Raw": "『緑は安全』という常識が、僕の知らない時代で変わっていなければだが。",
+			"Text_Tra": "That's probably okay-unless the concept that “green = safe” has changed in the time I've been asleep.",
+			"FOA_Ptr": "0x0004611E",
+			"FOA_Rva": "0x0004D6C9"
+		},
+		{
+			"Text_Raw": "と。",
+			"Text_Tra": "As I'm thinking-",
+			"FOA_Ptr": "0x00046176",
+			"FOA_Rva": "0x0004D710"
+		},
+		{
+			"Text_Raw": "「あ、消えた」",
+			"Text_Tra": "『Ah. It's gone.』",
+			"FOA_Ptr": "0x000461CE",
+			"FOA_Rva": "0x0004D717"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000461E6",
+			"FOA_Rva": "0x0004D727"
+		},
+		{
+			"Text_Raw": "それ以上、なにかを確認する前に、点滅が消えてしまった。",
+			"Text_Tra": "Before I can confirm anything else, the flashing light stops flashing.",
+			"FOA_Ptr": "0x00046226",
+			"FOA_Rva": "0x0004D72E"
+		},
+		{
+			"Text_Raw": "念のため再生ボタンを押すと、過去の研究者の声が問題なく再生された。",
+			"Text_Tra": "I press the play button, just to make sure. The voice of the researcher plays, without any problems.",
+			"FOA_Ptr": "0x0004627E",
+			"FOA_Rva": "0x0004D767"
+		},
+		{
+			"Text_Raw": "「……なんだったんだ？　そういえばこの腕輪、鉄鬼と戦っていたときも、つけっぱなしだったな」",
+			"Text_Tra": "『What was that? Hmmm. I still had this thing on when I fought the Tekki.』",
+			"FOA_Ptr": "0x000462D6",
+			"FOA_Rva": "0x0004D7AC"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000462EE",
+			"FOA_Rva": "0x0004D808"
+		},
+		{
+			"Text_Raw": "あの戦闘で根本的に壊れなかっただけ、運がよかったか。",
+			"Text_Tra": "It seems pretty lucky it didn't get trashed when my arm got taken off.",
+			"FOA_Ptr": "0x0004632E",
+			"FOA_Rva": "0x0004D80F"
+		},
+		{
+			"Text_Raw": "「まあ、また明日、覚えてたら確認しよう」",
+			"Text_Tra": "『Well, I'll take another look tomorrow. If I remember.』",
+			"FOA_Ptr": "0x00046386",
+			"FOA_Rva": "0x0004D846"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004639E",
+			"FOA_Rva": "0x0004D870"
+		},
+		{
+			"Text_Raw": "ふわぁ、とあくびをしながら脳内予定に入れておく。",
+			"Text_Tra": "I slide it into the schedule in my brain while giving a yawn.",
+			"FOA_Ptr": "0x000463DE",
+			"FOA_Rva": "0x0004D877"
+		},
+		{
+			"Text_Raw": "強い眠気が訪れている。",
+			"Text_Tra": "I'm finally feeling sleepy.",
+			"FOA_Ptr": "0x00046436",
+			"FOA_Rva": "0x0004D8AA"
+		},
+		{
+			"Text_Raw": "気が高ぶって眠れなかっただけで、身体も精神も、とっくに疲労の限界を迎えているはずだ。",
+			"Text_Tra": "I was just so pumped, it was keeping me awake; my body and mind are far beyond exhaustion.",
+			"FOA_Ptr": "0x0004648E",
+			"FOA_Rva": "0x0004D8C3"
+		},
+		{
+			"Text_Raw": "東の空が、わずかに明るくなっているのを横目に、部屋に戻る。",
+			"Text_Tra": "With a faint light blooming in the east, I return to my room.",
+			"FOA_Ptr": "0x0004657A",
+			"FOA_Rva": "0x0004D91A"
+		},
+		{
+			"Text_Raw": "さっさと布団を敷いて寝転ぶ。",
+			"Text_Tra": "I get out my bedding and throw myself down onto it.",
+			"FOA_Ptr": "0x00046666",
+			"FOA_Rva": "0x0004D957"
+		},
+		{
+			"Text_Raw": "「うーむ、うむ」",
+			"Text_Tra": "『Hmm-mmm.』",
+			"FOA_Ptr": "0x000466F2",
+			"FOA_Rva": "0x0004D976"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004670A",
+			"FOA_Rva": "0x0004D988"
+		},
+		{
+			"Text_Raw": "日が昇れば今日も暑くなるだろうという予感を覚えながら、今はまだひんやりとしている布団に、顔をうずめる。",
+			"Text_Tra": "While thinking about how hot it's going to get again once the sun rises, I sink my face into the currently cool pillow.",
+			"FOA_Ptr": "0x0004674A",
+			"FOA_Rva": "0x0004D98F"
+		},
+		{
+			"Text_Raw": "「うん……眠れそう」",
+			"Text_Tra": "『Yep... I can sleep now.』",
+			"FOA_Ptr": "0x000467A2",
+			"FOA_Rva": "0x0004D9F8"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000467BA",
+			"FOA_Rva": "0x0004DA0E"
+		},
+		{
+			"Text_Raw": "『何時に起きられますか？』",
+			"Text_Tra": "『What time would you like to wake up?』",
+			"FOA_Ptr": "0x0004683E",
+			"FOA_Rva": "0x0004DA15"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x00046856",
+			"FOA_Rva": "0x0004DA40"
+		},
+		{
+			"Text_Raw": "「今が５時くらいだろうから、昼まで……ん？」",
+			"Text_Tra": "『If it's about five now, I'd at least like to sleep until noon... Huh?』",
+			"FOA_Ptr": "0x000468B2",
+			"FOA_Rva": "0x0004DA47"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000468CA",
+			"FOA_Rva": "0x0004DA75"
+		},
+		{
+			"Text_Raw": "片目だけを開けてあたりを見渡す。",
+			"Text_Tra": "I open one eye and look around.",
+			"FOA_Ptr": "0x00046976",
+			"FOA_Rva": "0x0004DA7C"
+		},
+		{
+			"Text_Raw": "誰もいない。",
+			"Text_Tra": "There's no one here.",
+			"FOA_Ptr": "0x000469CE",
+			"FOA_Rva": "0x0004DA9F"
+		},
+		{
+			"Text_Raw": "声が聞こえた気がして、なにも考えず返事をしたのだが――",
+			"Text_Tra": "I thought I heard someone, and answered without thinking-",
+			"FOA_Ptr": "0x00046A26",
+			"FOA_Rva": "0x0004DAAE"
+		},
+		{
+			"Text_Raw": "「……寝ぼけているのかな？」",
+			"Text_Tra": "『...I really must be tired.』",
+			"FOA_Ptr": "0x00046AB2",
+			"FOA_Rva": "0x0004DAE7"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00046ACA",
+			"FOA_Rva": "0x0004DB05"
+		},
+		{
+			"Text_Raw": "どうやら、自分で思っている以上に疲れているようだ。",
+			"Text_Tra": "Even more tired than I thought. I'm hearing voices already?",
+			"FOA_Ptr": "0x00046B0A",
+			"FOA_Rva": "0x0004DB0C"
+		},
+		{
+			"Text_Raw": "僕は目を閉じる。",
+			"Text_Tra": "I close my eyes again.",
+			"FOA_Ptr": "0x00046B96",
+			"FOA_Rva": "0x0004DB41"
+		},
+		{
+			"Text_Raw": "おやすみなさい。",
+			"Text_Tra": "Good night, one and all.",
+			"FOA_Ptr": "0x00046BEE",
+			"FOA_Rva": "0x0004DB54"
+		},
+		{
+			"Text_Raw": "どうか、明日は、平和な日でありますように。",
+			"Text_Tra": "Please let tomorrow be a quiet, peaceful day.",
+			"FOA_Ptr": "0x00046C46",
+			"FOA_Rva": "0x0004DB67"
+		},
+		{
+			"Text_Raw": "……無理だな。",
+			"Text_Tra": "...Nope. Not going to happen.",
+			"FOA_Ptr": "0x00046CE2",
+			"FOA_Rva": "0x0004DB94"
+		},
+		{
+			"Text_Raw": "………………",
+			"Text_Tra": ".........",
+			"FOA_Ptr": "0x00046D3A",
+			"FOA_Rva": "0x0004DBA5"
+		},
+		{
+			"Text_Raw": "…………",
+			"Text_Tra": "......",
+			"FOA_Ptr": "0x00046D92",
+			"FOA_Rva": "0x0004DBB4"
+		},
+		{
+			"Text_Raw": "……",
+			"Text_Tra": "...",
+			"FOA_Ptr": "0x00046DEA",
+			"FOA_Rva": "0x0004DBBF"
+		}
+	]
+}

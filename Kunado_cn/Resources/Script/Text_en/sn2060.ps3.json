@@ -1,0 +1,1936 @@
+﻿{
+	"Scenario": [
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x000033FC",
+			"FOA_Rva": "0x00043025"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x00003408",
+			"FOA_Rva": "0x0004302C"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x00019C42",
+			"FOA_Rva": "0x00043E32"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x00019C4E",
+			"FOA_Rva": "0x00043E39"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x0001AC98",
+			"FOA_Rva": "0x00043F31"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x0001ACA4",
+			"FOA_Rva": "0x00043F38"
+		},
+		{
+			"Text_Raw": "- 優里エピローグ -",
+			"Text_Tra": "Yuri Epilogue",
+			"FOA_Ptr": "0x0003D7DC",
+			"FOA_Rva": "0x000443F1"
+		},
+		{
+			"Text_Raw": "『お別れを告げに参りました』",
+			"Text_Tra": "『I have come to say goodbye.』",
+			"FOA_Ptr": "0x0003D9A2",
+			"FOA_Rva": "0x00044404"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003D9BA",
+			"FOA_Rva": "0x00044431"
+		},
+		{
+			"Text_Raw": "突然、鉄の夢が訪れた。",
+			"Text_Tra": "A dream of steel suddenly visits itself upon me.",
+			"FOA_Ptr": "0x0003DA16",
+			"FOA_Rva": "0x00044438"
+		},
+		{
+			"Text_Raw": "突然、彼女に別れを告げられた。",
+			"Text_Tra": "A woman suddenly tells me goodbye.",
+			"FOA_Ptr": "0x0003DA6E",
+			"FOA_Rva": "0x00044451"
+		},
+		{
+			"Text_Raw": "「別れ？」",
+			"Text_Tra": "『Goodbye?』",
+			"FOA_Ptr": "0x0003DAC6",
+			"FOA_Rva": "0x00044472"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003DADE",
+			"FOA_Rva": "0x0004447E"
+		},
+		{
+			"Text_Raw": "奇妙な話に、きょとんとしてしまう。",
+			"Text_Tra": "This turn of events-all so very sudden-really puzzles me.",
+			"FOA_Ptr": "0x0003DB1E",
+			"FOA_Rva": "0x00044485"
+		},
+		{
+			"Text_Raw": "「まだ、あなたとは出会ってもいませんが？」",
+			"Text_Tra": "『I'm sorry. I don't think we've ever met before.』",
+			"FOA_Ptr": "0x0003DB76",
+			"FOA_Rva": "0x000444AA"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003DB8E",
+			"FOA_Rva": "0x000444D6"
+		},
+		{
+			"Text_Raw": "『こうして夢では顔を合わせております』",
+			"Text_Tra": "『We've met in this dream space before.』",
+			"FOA_Ptr": "0x0003DBCE",
+			"FOA_Rva": "0x000444DD"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003DBE6",
+			"FOA_Rva": "0x00044514"
+		},
+		{
+			"Text_Raw": "彼女自身、自分でもおかしなことを言っているという自覚のある様子で、笑う。",
+			"Text_Tra": "She gives a laugh, seemingly aware that she sounds quite crazy.",
+			"FOA_Ptr": "0x0003DC26",
+			"FOA_Rva": "0x0004451B"
+		},
+		{
+			"Text_Raw": "『お別れとは、このまま――私は夢のまま終わるということです』",
+			"Text_Tra": "『When I say 'goodbye,' I mean-I'm going out as a dream.』",
+			"FOA_Ptr": "0x0003DC7E",
+			"FOA_Rva": "0x00044566"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003DC96",
+			"FOA_Rva": "0x000445B3"
+		},
+		{
+			"Text_Raw": "『あの黒神を連れて、私は現世から消えます』",
+			"Text_Tra": "『I'll take the Kurokami with me and vanish from this world of the living.』",
+			"FOA_Ptr": "0x0003DCE6",
+			"FOA_Rva": "0x000445BA"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003DCFE",
+			"FOA_Rva": "0x000445F5"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x0003DD3E",
+			"FOA_Rva": "0x000445FC"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003DD56",
+			"FOA_Rva": "0x0004460A"
+		},
+		{
+			"Text_Raw": "なんと答えてよいかわからず、沈黙してしまう。",
+			"Text_Tra": "I don't know how to respond to any of this, and just remain silent.",
+			"FOA_Ptr": "0x0003DD96",
+			"FOA_Rva": "0x00044611"
+		},
+		{
+			"Text_Raw": "突然であり、僕の手にあまる規模の大きすぎる話であり――",
+			"Text_Tra": "It's all so sudden, and far beyond my comprehension-",
+			"FOA_Ptr": "0x0003DDEE",
+			"FOA_Rva": "0x00044640"
+		},
+		{
+			"Text_Raw": "動揺するほどには彼女と親しい間柄になっていない。",
+			"Text_Tra": "But more importantly, I don't even know her, so her leaving doesn't really make much of an impression.",
+			"FOA_Ptr": "0x0003DE46",
+			"FOA_Rva": "0x00044679"
+		},
+		{
+			"Text_Raw": "「消えるとは、どういう意味です？」",
+			"Text_Tra": "『What do you mean, 'vanish?'』",
+			"FOA_Ptr": "0x0003DE9E",
+			"FOA_Rva": "0x000446AC"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003DEB6",
+			"FOA_Rva": "0x000446D0"
+		},
+		{
+			"Text_Raw": "実際になにが起こるのかを確認する。",
+			"Text_Tra": "I want to confirm exactly what to expect here.",
+			"FOA_Ptr": "0x0003DEF6",
+			"FOA_Rva": "0x000446D7"
+		},
+		{
+			"Text_Raw": "『言葉の通りです。現世に残っている黒神の残骸は、私とともに物質として消滅するでしょう』",
+			"Text_Tra": "『Just as it sounds. The remains of the Kurokami still left in the physical world will vanish along with me.』",
+			"FOA_Ptr": "0x0003DF52",
+			"FOA_Rva": "0x000446FC"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003DF6A",
+			"FOA_Rva": "0x00044763"
+		},
+		{
+			"Text_Raw": "『それで、春やあなたが懸念している、黒神再生の可能性はひとまず{潰/ついえ}えます』",
+			"Text_Tra": "『That will prevent one of the things Haru and you are concerned about-the regeneration of the Kurokami. At least for now.』",
+			"FOA_Ptr": "0x0003DFAA",
+			"FOA_Rva": "0x0004476A"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003DFC2",
+			"FOA_Rva": "0x000447CC"
+		},
+		{
+			"Text_Raw": "「ひとまず？」",
+			"Text_Tra": "『For now?』",
+			"FOA_Ptr": "0x0003E002",
+			"FOA_Rva": "0x000447D3"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E01A",
+			"FOA_Rva": "0x000447E3"
+		},
+		{
+			"Text_Raw": "『命あるものはいずれ困難な状況を克服し、新たなる道を歩き出します』",
+			"Text_Tra": "『Like the great man said-life finds a way. It will always push to find a new path.』",
+			"FOA_Ptr": "0x0003E076",
+			"FOA_Rva": "0x000447EA"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003E08E",
+			"FOA_Rva": "0x0004483D"
+		},
+		{
+			"Text_Raw": "『私や自然からすれば、鉄鬼であってもその権利を有しています』",
+			"Text_Tra": "『From my perspective-from the perspective of nature itself-the Tekki have that same right.』",
+			"FOA_Ptr": "0x0003E0CE",
+			"FOA_Rva": "0x00044844"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003E0E6",
+			"FOA_Rva": "0x00044891"
+		},
+		{
+			"Text_Raw": "『生まれてからたった千年しか経っていない生命である彼らの新しい道が、人間との共存に至れるよう、私が付き添います』",
+			"Text_Tra": "『They have only been alive for 1,000 years. A new form of life. I will try to aid them in choosing coexistence with mankind.』",
+			"FOA_Ptr": "0x0003E126",
+			"FOA_Rva": "0x00044898"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003E13E",
+			"FOA_Rva": "0x00044919"
+		},
+		{
+			"Text_Raw": "『どれだけ長い時間がかかるかわかりませんが、私を介して、鉄鬼に言葉を教えることが出来ればと願います』",
+			"Text_Tra": "『I don't know how long it will take, but I hope to be able to share the words of the Tekki with you in the future.』",
+			"FOA_Ptr": "0x0003E17E",
+			"FOA_Rva": "0x00044920"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003E196",
+			"FOA_Rva": "0x00044995"
+		},
+		{
+			"Text_Raw": "彼女が静かにうなずく。",
+			"Text_Tra": "She gives a quiet nod.",
+			"FOA_Ptr": "0x0003E1D6",
+			"FOA_Rva": "0x0004499C"
+		},
+		{
+			"Text_Raw": "鉄鬼との対話か。",
+			"Text_Tra": "Talking with the Tekki, huh?",
+			"FOA_Ptr": "0x0003E22E",
+			"FOA_Rva": "0x000449B5"
+		},
+		{
+			"Text_Raw": "「それは、何十年もかかるという話ですか？」",
+			"Text_Tra": "『How many decades do you expect this to take?』",
+			"FOA_Ptr": "0x0003E286",
+			"FOA_Rva": "0x000449C8"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E29E",
+			"FOA_Rva": "0x000449F4"
+		},
+		{
+			"Text_Raw": "『何十年か、何百年か、何千年か……わかりません』",
+			"Text_Tra": "『Decades, centuries, millennia. I don't know.』",
+			"FOA_Ptr": "0x0003E2DE",
+			"FOA_Rva": "0x000449FB"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003E2F6",
+			"FOA_Rva": "0x00044A3C"
+		},
+		{
+			"Text_Raw": "「あなたの意識は、それだけの長い時間に耐えられるのですか？」",
+			"Text_Tra": "『Will your awareness last that long?』",
+			"FOA_Ptr": "0x0003E336",
+			"FOA_Rva": "0x00044A43"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E34E",
+			"FOA_Rva": "0x00044A81"
+		},
+		{
+			"Text_Raw": "『わかりません』",
+			"Text_Tra": "『I don't know that either.』",
+			"FOA_Ptr": "0x0003E38E",
+			"FOA_Rva": "0x00044A88"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003E3A6",
+			"FOA_Rva": "0x00044AA9"
+		},
+		{
+			"Text_Raw": "彼女がゆるゆると首を振る。",
+			"Text_Tra": "She gently shakes her head.",
+			"FOA_Ptr": "0x0003E3E6",
+			"FOA_Rva": "0x00044AB0"
+		},
+		{
+			"Text_Raw": "そこで……眉を寄せてしまう。",
+			"Text_Tra": "And then furrows her brows.",
+			"FOA_Ptr": "0x0003E43E",
+			"FOA_Rva": "0x00044ACD"
+		},
+		{
+			"Text_Raw": "「……本来であれば、鉄鬼に言葉を教えるというのは、僕の役目だったのではないのですか？」",
+			"Text_Tra": "『It almost feels like teaching the Tekki was supposed to be my job.』",
+			"FOA_Ptr": "0x0003E496",
+			"FOA_Rva": "0x00044AEC"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E4AE",
+			"FOA_Rva": "0x00044B44"
+		},
+		{
+			"Text_Raw": "『そうであるとも言えますし、そうではないとも言えます』",
+			"Text_Tra": "『You could say that, and also couldn't say that at all.』",
+			"FOA_Ptr": "0x0003E4EE",
+			"FOA_Rva": "0x00044B4B"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003E506",
+			"FOA_Rva": "0x00044B92"
+		},
+		{
+			"Text_Raw": "彼女は落ち着いたまま、首を斜めに傾ける。",
+			"Text_Tra": "She tilts her neck to the side, still calm and relaxed.",
+			"FOA_Ptr": "0x0003E546",
+			"FOA_Rva": "0x00044B99"
+		},
+		{
+			"Text_Raw": "『私があなたにお願いしたことは、あの子たちと手をとりあい、希望や幸せを教えてあげて欲しいということです』",
+			"Text_Tra": "『My wish was for you to join hands with these girls, and teach them about hope and happiness.』",
+			"FOA_Ptr": "0x0003E59E",
+			"FOA_Rva": "0x00044BC4"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003E5B6",
+			"FOA_Rva": "0x00044C3D"
+		},
+		{
+			"Text_Raw": "『その過程で、鉄鬼の共振源に至る道もあったでしょうが――本題ではありません』",
+			"Text_Tra": "『As part of that process, there might have been a path to reach the Tekki vibration source-but that was never the main purpose.』",
+			"FOA_Ptr": "0x0003E5F6",
+			"FOA_Rva": "0x00044C44"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003E60E",
+			"FOA_Rva": "0x00044CA1"
+		},
+		{
+			"Text_Raw": "『あなたは約束を果たしてくださいました』",
+			"Text_Tra": "『And you have kept that promise.』",
+			"FOA_Ptr": "0x0003E64E",
+			"FOA_Rva": "0x00044CA8"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003E666",
+			"FOA_Rva": "0x00044CE1"
+		},
+		{
+			"Text_Raw": "『今度は、私があなたたちに報いる番です』",
+			"Text_Tra": "『Now it's time for me to reward you.』",
+			"FOA_Ptr": "0x0003E6A6",
+			"FOA_Rva": "0x00044CE8"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003E6BE",
+			"FOA_Rva": "0x00044D21"
+		},
+		{
+			"Text_Raw": "彼女が微笑む。",
+			"Text_Tra": "She gives a smile.",
+			"FOA_Ptr": "0x0003E6FE",
+			"FOA_Rva": "0x00044D28"
+		},
+		{
+			"Text_Raw": "『私のことまで気遣ってくれるあなたは、優しい子ですね』",
+			"Text_Tra": "『You're very kind, to even think about me.』",
+			"FOA_Ptr": "0x0003E756",
+			"FOA_Rva": "0x00044D39"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003E76E",
+			"FOA_Rva": "0x00044D80"
+		},
+		{
+			"Text_Raw": "「いや……そんなことは」",
+			"Text_Tra": "『Oh... I wouldn't say that.』",
+			"FOA_Ptr": "0x0003E7AE",
+			"FOA_Rva": "0x00044D87"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E7C6",
+			"FOA_Rva": "0x00044DA1"
+		},
+		{
+			"Text_Raw": "『謙遜の必要もありません。どのみち、すでに私の肉体は現世になく、カントの平穏と平行してこの役目を果たせるのも私しかいません』",
+			"Text_Tra": "『No need to be so humble. In any case, my body is no longer in this world, and I'm the only one who can complete this mission while keeping the peace in Kanto.』",
+			"FOA_Ptr": "0x0003E806",
+			"FOA_Rva": "0x00044DA8"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003E81E",
+			"FOA_Rva": "0x00044E35"
+		},
+		{
+			"Text_Raw": "『お別れです』",
+			"Text_Tra": "『Goodbye.』",
+			"FOA_Ptr": "0x0003E85E",
+			"FOA_Rva": "0x00044E3C"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003E876",
+			"FOA_Rva": "0x00044E5B"
+		},
+		{
+			"Text_Raw": "彼女が重ねて告げる。",
+			"Text_Tra": "She repeats herself again.",
+			"FOA_Ptr": "0x0003E8B6",
+			"FOA_Rva": "0x00044E62"
+		},
+		{
+			"Text_Raw": "静かに頭をさげる。",
+			"Text_Tra": "Then she quietly lowers her head.",
+			"FOA_Ptr": "0x0003E90E",
+			"FOA_Rva": "0x00044E79"
+		},
+		{
+			"Text_Raw": "僕は……なにも言えない。",
+			"Text_Tra": "I can't say anything.",
+			"FOA_Ptr": "0x0003E966",
+			"FOA_Rva": "0x00044E8E"
+		},
+		{
+			"Text_Raw": "彼女まで救ったハッピーエンドを迎える手段を、思いつかない。",
+			"Text_Tra": "I can't think of a happy end that also includes saving her.",
+			"FOA_Ptr": "0x0003E9BE",
+			"FOA_Rva": "0x00044EA9"
+		},
+		{
+			"Text_Raw": "「せめて、僕と優里のカントで初めての結婚式を見届けてから去ることは出来ませんか？」",
+			"Text_Tra": "『Why don't you at least see the wedding between Yuri and me before you leave? The first wedding in Kanto.』",
+			"FOA_Ptr": "0x0003EA16",
+			"FOA_Rva": "0x00044EE6"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003EA2E",
+			"FOA_Rva": "0x00044F3A"
+		},
+		{
+			"Text_Raw": "今日、この後、目覚めてから行われる祝い。",
+			"Text_Tra": "That celebration is going to take place once I awaken today.",
+			"FOA_Ptr": "0x0003EA6E",
+			"FOA_Rva": "0x00044F41"
+		},
+		{
+			"Text_Raw": "「あなたが見たかった、カントの希望と幸せの結果です」",
+			"Text_Tra": "『It's the result of the hope and happiness that you wanted to see.』",
+			"FOA_Ptr": "0x0003EAC6",
+			"FOA_Rva": "0x00044F6C"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003EADE",
+			"FOA_Rva": "0x00044FA2"
+		},
+		{
+			"Text_Raw": "『…………』",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x0003EB1E",
+			"FOA_Rva": "0x00044FA9"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003EB36",
+			"FOA_Rva": "0x00044FC6"
+		},
+		{
+			"Text_Raw": "夏姫は静かに黙ったまま、立ち尽くす。",
+			"Text_Tra": "Natsuhime stands there quietly for a moment.",
+			"FOA_Ptr": "0x0003EB76",
+			"FOA_Rva": "0x00044FCD"
+		},
+		{
+			"Text_Raw": "それから、首を振った。",
+			"Text_Tra": "Then she shakes her head.",
+			"FOA_Ptr": "0x0003EBCE",
+			"FOA_Rva": "0x00044FF4"
+		},
+		{
+			"Text_Raw": "『未練になるかもしれませんし、やめておきます』",
+			"Text_Tra": "『I'd better not. It will only make this harder.』",
+			"FOA_Ptr": "0x0003EC26",
+			"FOA_Rva": "0x0004500D"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003EC3E",
+			"FOA_Rva": "0x0004504C"
+		},
+		{
+			"Text_Raw": "『私は、酸っぱい味が苦手なのです』",
+			"Text_Tra": "『I don't like sour flavors.』",
+			"FOA_Ptr": "0x0003EC7E",
+			"FOA_Rva": "0x00045053"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003EC96",
+			"FOA_Rva": "0x00045086"
+		},
+		{
+			"Text_Raw": "「そう、ですか」",
+			"Text_Tra": "『Oh...』",
+			"FOA_Ptr": "0x0003ECD6",
+			"FOA_Rva": "0x0004508D"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003ECEE",
+			"FOA_Rva": "0x0004509F"
+		},
+		{
+			"Text_Raw": "狐が自分がとれなかった葡萄はきっと酸っぱいものだったと言う、そんな寓話があったか。",
+			"Text_Tra": "I vaguely recall a story about a fox proclaiming that the grapes he couldn't reach must therefore be sour.",
+			"FOA_Ptr": "0x0003ED2E",
+			"FOA_Rva": "0x000450A6"
+		},
+		{
+			"Text_Raw": "イソップ物語だったかな。",
+			"Text_Tra": "Aesop's Fables, maybe?",
+			"FOA_Ptr": "0x0003ED86",
+			"FOA_Rva": "0x000450FB"
+		},
+		{
+			"Text_Raw": "『幸せになってくださいね』",
+			"Text_Tra": "『Be happy. For me.』",
+			"FOA_Ptr": "0x0003EDDE",
+			"FOA_Rva": "0x00045116"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003EDF6",
+			"FOA_Rva": "0x00045141"
+		},
+		{
+			"Text_Raw": "『あなたは私の……いえ、これも未練ですね』",
+			"Text_Tra": "『You're my-ah, but that would make this harder too.』",
+			"FOA_Ptr": "0x0003EE36",
+			"FOA_Rva": "0x00045148"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "???",
+			"FOA_Ptr": "0x0003EE4E",
+			"FOA_Rva": "0x00045183"
+		},
+		{
+			"Text_Raw": "彼女が笑い、傘を振った。",
+			"Text_Tra": "She gives a laugh and waves her parasol.",
+			"FOA_Ptr": "0x0003EEB6",
+			"FOA_Rva": "0x0004518A"
+		},
+		{
+			"Text_Raw": "傘で隠れた部分から彼女の身体が消えていき、ことりと、傘だけが床に残された。",
+			"Text_Tra": "Her body vanishes as the parasol passes over her, and finally it's the only thing left, dropping to the floor with no hands to hold it.",
+			"FOA_Ptr": "0x0003EF66",
+			"FOA_Rva": "0x000451A5"
+		},
+		{
+			"Text_Raw": "そして、周囲の鉄の教室も消えていく。",
+			"Text_Tra": "Then the surrounding steel classroom vanishes as well.",
+			"FOA_Ptr": "0x0003F002",
+			"FOA_Rva": "0x000451F2"
+		},
+		{
+			"Text_Raw": "僕は傘を拾う。",
+			"Text_Tra": "I pick up the parasol.",
+			"FOA_Ptr": "0x0003F05A",
+			"FOA_Rva": "0x00045219"
+		},
+		{
+			"Text_Raw": "小さな傘で、僕がさしても、雨で片方の肩が濡れてしまいそうだった。",
+			"Text_Tra": "It's so small, it wouldn't keep the rain off both shoulders if I put it up.",
+			"FOA_Ptr": "0x0003F0B2",
+			"FOA_Rva": "0x0004522A"
+		},
+		{
+			"Text_Raw": "こんな小さな傘をさした少女に、どれだけの運命がのしかかっていたのだろう。",
+			"Text_Tra": "And yet the girl who used this small parasol carried such a weight on her back.",
+			"FOA_Ptr": "0x0003F10A",
+			"FOA_Rva": "0x0004526D"
+		},
+		{
+			"Text_Raw": "「さようなら、カントの英雄」",
+			"Text_Tra": "『Farewell, Hero of Kanto.』",
+			"FOA_Ptr": "0x0003F162",
+			"FOA_Rva": "0x000452B8"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003F17A",
+			"FOA_Rva": "0x000452D6"
+		},
+		{
+			"Text_Raw": "あなたの眠りが、せめて、僕の眠りよりは短い時間で済むことを祈ろう。",
+			"Text_Tra": "I just hope she doesn't have to sleep for quite as long as I did.",
+			"FOA_Ptr": "0x0003F1BA",
+			"FOA_Rva": "0x000452DD"
+		},
+		{
+			"Text_Raw": "………………",
+			"Text_Tra": "......",
+			"FOA_Ptr": "0x0003F222",
+			"FOA_Rva": "0x00045322"
+		},
+		{
+			"Text_Raw": "…………",
+			"Text_Tra": "...",
+			"FOA_Ptr": "0x0003F27A",
+			"FOA_Rva": "0x00045331"
+		},
+		{
+			"Text_Raw": "……",
+			"Text_Tra": "...",
+			"FOA_Ptr": "0x0003F2D2",
+			"FOA_Rva": "0x0004533C"
+		},
+		{
+			"Text_Raw": "「――というわけで、驚くべきことですが、今朝から黒神の姿が見えなくなったそうです！」",
+			"Text_Tra": "『-And we're still not sure why, but the remains of the Kurokami were completely gone this morning!』",
+			"FOA_Ptr": "0x0003F41E",
+			"FOA_Rva": "0x00045343"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003F436",
+			"FOA_Rva": "0x000453A8"
+		},
+		{
+			"Text_Raw": "「へえ」",
+			"Text_Tra": "『Oh, wow.』",
+			"FOA_Ptr": "0x0003F476",
+			"FOA_Rva": "0x000453AF"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003F48E",
+			"FOA_Rva": "0x000453B9"
+		},
+		{
+			"Text_Raw": "僕は王宮を出たところで青空を眺めながら、ぼんやりと春姫の報告を聞いていた。",
+			"Text_Tra": "I'm looking up at the blue sky outside the palace, listening distractedly to Haruhime's report.",
+			"FOA_Ptr": "0x0003F4EA",
+			"FOA_Rva": "0x000453C0"
+		},
+		{
+			"Text_Raw": "「足の速い者を見に行かせましたが。どういうことでしょう……」",
+			"Text_Tra": "『I've sent some of our fastest movers over to take a look, but what do you think it means?』",
+			"FOA_Ptr": "0x0003F542",
+			"FOA_Rva": "0x0004540D"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003F55A",
+			"FOA_Rva": "0x0004545A"
+		},
+		{
+			"Text_Raw": "「安心していい。黒神は本当に消えたんだよ」",
+			"Text_Tra": "『It's nothing to worry about. The Kurokami really has gone.』",
+			"FOA_Ptr": "0x0003F5D2",
+			"FOA_Rva": "0x00045461"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003F5EA",
+			"FOA_Rva": "0x0004548D"
+		},
+		{
+			"Text_Raw": "僕は視線をおろす。",
+			"Text_Tra": "I bring my eyes back down.",
+			"FOA_Ptr": "0x0003F6FE",
+			"FOA_Rva": "0x00045494"
+		},
+		{
+			"Text_Raw": "春姫はこちらをじっと見つめていた。",
+			"Text_Tra": "Haruhime is looking at me intently.",
+			"FOA_Ptr": "0x0003F756",
+			"FOA_Rva": "0x000454A9"
+		},
+		{
+			"Text_Raw": "「黒神が蘇って動き出したという可能性もあるでしょうに、お兄様は妙に落ち着いていますね。なにか知っているのですか？」",
+			"Text_Tra": "『Or maybe it has revived and started moving around again. How can you be so calm, Brother? Do you know something?』",
+			"FOA_Ptr": "0x0003F7AE",
+			"FOA_Rva": "0x000454CE"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003F7C6",
+			"FOA_Rva": "0x00045551"
+		},
+		{
+			"Text_Raw": "「いや。なにも知らない。だけど、もう安心してもいいと感じる」",
+			"Text_Tra": "『Nope. Not a thing. But it just feels like we don't have to worry.』",
+			"FOA_Ptr": "0x0003F806",
+			"FOA_Rva": "0x00045558"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003F81E",
+			"FOA_Rva": "0x00045596"
+		},
+		{
+			"Text_Raw": "鉄鬼のすべてが活動をやめたわけではないが、カントの潜在的な脅威だった黒神は消えた。",
+			"Text_Tra": "The Tekki haven't stopped completely, but the latent threat to Kanto of the Kurokami coming back, that's been resolved.",
+			"FOA_Ptr": "0x0003F85E",
+			"FOA_Rva": "0x0004559D"
+		},
+		{
+			"Text_Raw": "しばらくは平穏な日々を過ごせるだろう。",
+			"Text_Tra": "It's going to be peaceful for a while.",
+			"FOA_Ptr": "0x0003F8B6",
+			"FOA_Rva": "0x000455F2"
+		},
+		{
+			"Text_Raw": "「今日は祝いの日だからね。黒神の消滅は、鉄鬼からのお祝いさ」",
+			"Text_Tra": "『Today is a special day. One of celebration. The Kurokami vanishing is the Tekki's gift to us.』",
+			"FOA_Ptr": "0x0003F90E",
+			"FOA_Rva": "0x0004561B"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003F926",
+			"FOA_Rva": "0x00045659"
+		},
+		{
+			"Text_Raw": "「……そういうものですかね」",
+			"Text_Tra": "『...That seems like a pretty simplistic appraisal.』",
+			"FOA_Ptr": "0x0003F966",
+			"FOA_Rva": "0x00045660"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003F97E",
+			"FOA_Rva": "0x0004568D"
+		},
+		{
+			"Text_Raw": "どのみち報告待ちだと、春姫が議論を放り投げる。",
+			"Text_Tra": "In any case, Haruhime has to wait for the report, so she's happy to leave it at that.",
+			"FOA_Ptr": "0x0003F9BE",
+			"FOA_Rva": "0x00045694"
+		},
+		{
+			"Text_Raw": "「優里を待たせてはいけませんね。行きましょうか」",
+			"Text_Tra": "『We can't keep Yuri waiting. Come on.』",
+			"FOA_Ptr": "0x0003FA16",
+			"FOA_Rva": "0x000456C5"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003FA2E",
+			"FOA_Rva": "0x00045706"
+		},
+		{
+			"Text_Raw": "黒神消滅という急報で王宮に呼び出されたが、僕の花嫁はカントの中心である職人街にいる。",
+			"Text_Tra": "We were called to the palace due to the Kurokami suddenly vanishing, but my bride-to-be is waiting in the heart of Kanto, the crafters' district.",
+			"FOA_Ptr": "0x0003FAA2",
+			"FOA_Rva": "0x0004570D"
+		},
+		{
+			"Text_Raw": "僕らは並んで歩き出した。",
+			"Text_Tra": "So we set out there together.",
+			"FOA_Ptr": "0x0003FAFA",
+			"FOA_Rva": "0x00045764"
+		},
+		{
+			"Text_Raw": "世は事もなく平穏に。",
+			"Text_Tra": "The world is at peace.",
+			"FOA_Ptr": "0x0003FB52",
+			"FOA_Rva": "0x0004577F"
+		},
+		{
+			"Text_Raw": "命は新しい道を歩き続ける。",
+			"Text_Tra": "Life is finding a new way.",
+			"FOA_Ptr": "0x0003FBAA",
+			"FOA_Rva": "0x00045796"
+		},
+		{
+			"Text_Raw": "さて――道の先、双子の家の前で、男がひとり待っていた。",
+			"Text_Tra": "As we proceed, we reach the twins' house to find a man standing there.",
+			"FOA_Ptr": "0x0003FCB2",
+			"FOA_Rva": "0x000457B3"
+		},
+		{
+			"Text_Raw": "「……どうも、一之神様、八之神様」",
+			"Text_Tra": "『...Hello. Lady Ichi-no-Kami, Master Hachi-no-Kami.』",
+			"FOA_Ptr": "0x0003FD72",
+			"FOA_Rva": "0x000457EC"
+		},
+		{
+			"Text_Raw": "狐面１",
+			"Text_Tra": "Fox Mask 1",
+			"FOA_Ptr": "0x0003FD8A",
+			"FOA_Rva": "0x0004581F"
+		},
+		{
+			"Text_Raw": "その声で、彼、優里の父だと知る。",
+			"Text_Tra": "His voice tells me that it's Yuri's father.",
+			"FOA_Ptr": "0x0003FDCA",
+			"FOA_Rva": "0x00045826"
+		},
+		{
+			"Text_Raw": "「こんにちは」",
+			"Text_Tra": "『Hello.』",
+			"FOA_Ptr": "0x0003FE22",
+			"FOA_Rva": "0x00045849"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003FE3A",
+			"FOA_Rva": "0x00045859"
+		},
+		{
+			"Text_Raw": "「噂に聞いた優里のお父上ですね。古代の風習では、花嫁と呼ばれる女性に父親が付き添うのではないのですか？」",
+			"Text_Tra": "『You must be Yuri's father. In the ancient customs, the father of the bride would give her away. Is that right?』",
+			"FOA_Ptr": "0x0003FF4E",
+			"FOA_Rva": "0x00045860"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003FF66",
+			"FOA_Rva": "0x000458D9"
+		},
+		{
+			"Text_Raw": "「そんな感じだったと思うけど、何事にも例外はある」",
+			"Text_Tra": "『I'm pretty sure that was the case, but there's always exceptions.』",
+			"FOA_Ptr": "0x0003FFB6",
+			"FOA_Rva": "0x000458E0"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003FFCE",
+			"FOA_Rva": "0x00045914"
+		},
+		{
+			"Text_Raw": "「そもそも、お兄様がもっていた古代の結婚の知識は、雑なものでしたね」",
+			"Text_Tra": "『Your knowledge of ancient weddings is spotty at best, Brother.』",
+			"FOA_Ptr": "0x0004000E",
+			"FOA_Rva": "0x0004591B"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00040026",
+			"FOA_Rva": "0x00045970"
+		},
+		{
+			"Text_Raw": "「仕方ない。僕の素体になった人間くらいの年齢では結婚なんて馴染みがないことだし、宗教によっても色々あるんだ――」",
+			"Text_Tra": "『It can't be helped. My past self wasn't the age to have much involvement with weddings, and the practice differs between religions, too.』",
+			"FOA_Ptr": "0x00040066",
+			"FOA_Rva": "0x00045977"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004007E",
+			"FOA_Rva": "0x000459E9"
+		},
+		{
+			"Text_Raw": "「いや、１つだけ、詳しく説明できる結婚の流れもあるけど」",
+			"Text_Tra": "『Although there's one kind of wedding I can probably explain in detail.』",
+			"FOA_Ptr": "0x000400BE",
+			"FOA_Rva": "0x000459F0"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000400D6",
+			"FOA_Rva": "0x00045A2A"
+		},
+		{
+			"Text_Raw": "「なんですか、それ？」",
+			"Text_Tra": "『Which would be?』",
+			"FOA_Ptr": "0x00040116",
+			"FOA_Rva": "0x00045A31"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004012E",
+			"FOA_Rva": "0x00045A58"
+		},
+		{
+			"Text_Raw": "「できちゃった婚」",
+			"Text_Tra": "『A shotgun wedding.』",
+			"FOA_Ptr": "0x0004016E",
+			"FOA_Rva": "0x00045A5F"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040186",
+			"FOA_Rva": "0x00045A73"
+		},
+		{
+			"Text_Raw": "そんな冗談はさておき。",
+			"Text_Tra": "Another joke, at the expense of a reference no one will get.",
+			"FOA_Ptr": "0x000401C6",
+			"FOA_Rva": "0x00045A7A"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x0004023A",
+			"FOA_Rva": "0x00045A93"
+		},
+		{
+			"Text_Raw": "狐面１",
+			"Text_Tra": "Fox Mask 1",
+			"FOA_Ptr": "0x00040252",
+			"FOA_Rva": "0x00045AB0"
+		},
+		{
+			"Text_Raw": "僕らの軽口の間も、彼は黙って待っていた。",
+			"Text_Tra": "Yuri's father remains quiet. He hasn't learned to banter yet.",
+			"FOA_Ptr": "0x00040292",
+			"FOA_Rva": "0x00045AB7"
+		},
+		{
+			"Text_Raw": "まあ、八剣の前で、気軽に口を挟むわけにもいかないだろう。",
+			"Text_Tra": "Well, he's not really the type to joke around with the Swords.",
+			"FOA_Ptr": "0x000402EA",
+			"FOA_Rva": "0x00045AE2"
+		},
+		{
+			"Text_Raw": "「失礼しました。なにか御用ですか？」",
+			"Text_Tra": "『I'm sorry about him. Can we help you with something?』",
+			"FOA_Ptr": "0x00040342",
+			"FOA_Rva": "0x00045B1D"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004035A",
+			"FOA_Rva": "0x00045B52"
+		},
+		{
+			"Text_Raw": "春姫が男へ用件を聞く。",
+			"Text_Tra": "Haruhime asks Yuri's father.",
+			"FOA_Ptr": "0x0004039A",
+			"FOA_Rva": "0x00045B59"
+		},
+		{
+			"Text_Raw": "男が小さく会釈する。",
+			"Text_Tra": "He gives a small nod in return.",
+			"FOA_Ptr": "0x000403F2",
+			"FOA_Rva": "0x00045B72"
+		},
+		{
+			"Text_Raw": "「……八之神様へ、改めて感謝をと思いまして」",
+			"Text_Tra": "『...I just wanted to thank the Hachi-no-Kami again.』",
+			"FOA_Ptr": "0x0004044A",
+			"FOA_Rva": "0x00045B89"
+		},
+		{
+			"Text_Raw": "狐面１",
+			"Text_Tra": "Fox Mask 1",
+			"FOA_Ptr": "0x00040462",
+			"FOA_Rva": "0x00045BC6"
+		},
+		{
+			"Text_Raw": "優里との仲をとりもってくれたことへの感謝か。",
+			"Text_Tra": "Gratitude for bringing him and Yuri together.",
+			"FOA_Ptr": "0x000404A2",
+			"FOA_Rva": "0x00045BCD"
+		},
+		{
+			"Text_Raw": "「お気になさらず」",
+			"Text_Tra": "『Don't mention it.』",
+			"FOA_Ptr": "0x000404FA",
+			"FOA_Rva": "0x00045BFC"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040512",
+			"FOA_Rva": "0x00045C10"
+		},
+		{
+			"Text_Raw": "「……気にしないことなど無理です。私のような者に出来ることがあるかわかりませんが、残った一生をかけてでもあなたの恩に報いたいと思います」",
+			"Text_Tra": "『...But I must. I'm not sure what I can do for you, but I will spend the rest of my life attempting to repay this debt.』",
+			"FOA_Ptr": "0x0004056E",
+			"FOA_Rva": "0x00045C17"
+		},
+		{
+			"Text_Raw": "狐面１",
+			"Text_Tra": "Fox Mask 1",
+			"FOA_Ptr": "0x00040586",
+			"FOA_Rva": "0x00045CB0"
+		},
+		{
+			"Text_Raw": "「まあ、そう感じるでしょうね」",
+			"Text_Tra": "『Well, I can see why you would feel that way.』",
+			"FOA_Ptr": "0x000405C6",
+			"FOA_Rva": "0x00045CB7"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000405DE",
+			"FOA_Rva": "0x00045CE6"
+		},
+		{
+			"Text_Raw": "春姫が当然だとうなずく。",
+			"Text_Tra": "Haruhime gives a nod. That all sounds normal to her.",
+			"FOA_Ptr": "0x0004061E",
+			"FOA_Rva": "0x00045CED"
+		},
+		{
+			"Text_Raw": "「いやまあ、いいんですよ、本当に」",
+			"Text_Tra": "『No, well, no need for that. Really.』",
+			"FOA_Ptr": "0x00040676",
+			"FOA_Rva": "0x00045D08"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004068E",
+			"FOA_Rva": "0x00045D2C"
+		},
+		{
+			"Text_Raw": "年上の人にそこまで礼を尽くされても、恐縮してしまう。",
+			"Text_Tra": "I'm not sure how to handle someone so much older than me saying things like this.",
+			"FOA_Ptr": "0x000406CE",
+			"FOA_Rva": "0x00045D33"
+		},
+		{
+			"Text_Raw": "僕への恩に報いる必要など、まるでないのだが……。",
+			"Text_Tra": "There's no need for him to feel indebted to me, no need at all.",
+			"FOA_Ptr": "0x00040726",
+			"FOA_Rva": "0x00045D6A"
+		},
+		{
+			"Text_Raw": "しかし、なんらかの答えを出さなければ彼が納得することはないだろうことも、わかる。",
+			"Text_Tra": "But I also understand that he's not going to accept this unless I give him something.",
+			"FOA_Ptr": "0x0004077E",
+			"FOA_Rva": "0x00045D9D"
+		},
+		{
+			"Text_Raw": "なにせ、彼、昔の優里とそっくりだからな。",
+			"Text_Tra": "Because he's just like Yuri used to be.",
+			"FOA_Ptr": "0x000407D6",
+			"FOA_Rva": "0x00045DF0"
+		},
+		{
+			"Text_Raw": "「そうだな。あなたに頼んでみたいことがあった」",
+			"Text_Tra": "『Well, okay. There's one thing I'd like to ask of you.』",
+			"FOA_Ptr": "0x0004082E",
+			"FOA_Rva": "0x00045E1B"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040846",
+			"FOA_Rva": "0x00045E4B"
+		},
+		{
+			"Text_Raw": "「……なんでしょう？」",
+			"Text_Tra": "『...What can I do?』",
+			"FOA_Ptr": "0x00040886",
+			"FOA_Rva": "0x00045E52"
+		},
+		{
+			"Text_Raw": "狐面１",
+			"Text_Tra": "Fox Mask 1",
+			"FOA_Ptr": "0x0004089E",
+			"FOA_Rva": "0x00045E79"
+		},
+		{
+			"Text_Raw": "「僕は色々なことをカントでやっているんですけど、人手が足りないんです。喫茶店か学校か、どちらか手伝ってくれませんかね？」",
+			"Text_Tra": "『I've done a lot for Kanto, but we need more staff on the ground. Could you help out with the café or the school?』",
+			"FOA_Ptr": "0x000408DE",
+			"FOA_Rva": "0x00045E80"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000408F6",
+			"FOA_Rva": "0x00045EFA"
+		},
+		{
+			"Text_Raw": "「……喫茶店のほうはわかりますが、ガッコ？」",
+			"Text_Tra": "『...I know what the café is, but what's the school?』",
+			"FOA_Ptr": "0x00040936",
+			"FOA_Rva": "0x00045F01"
+		},
+		{
+			"Text_Raw": "狐面１",
+			"Text_Tra": "Fox Mask 1",
+			"FOA_Ptr": "0x0004094E",
+			"FOA_Rva": "0x00045F3E"
+		},
+		{
+			"Text_Raw": "「ああ、そういえば学校は、一般にはまだ知られていないか」",
+			"Text_Tra": "『Ah, of course. We haven't really told people about that yet.』",
+			"FOA_Ptr": "0x0004098E",
+			"FOA_Rva": "0x00045F45"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000409A6",
+			"FOA_Rva": "0x00045F7F"
+		},
+		{
+			"Text_Raw": "「今後、カントの子どもたちを一か所に集め、平等に、様々な知識や技術を学ばせる集まりのことです」",
+			"Text_Tra": "『We are bringing the children of Kanto together and teaching them equally, in both knowledge and practical skills.』",
+			"FOA_Ptr": "0x000409E6",
+			"FOA_Rva": "0x00045F86"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000409FE",
+			"FOA_Rva": "0x00045FF5"
+		},
+		{
+			"Text_Raw": "「……素晴らしいことですが。どちらも、私にそんな大役を務められるとは思えません」",
+			"Text_Tra": "『...That does sound wonderful, but I don't think I can do much to help with that either.』",
+			"FOA_Ptr": "0x00040A3E",
+			"FOA_Rva": "0x00045FFC"
+		},
+		{
+			"Text_Raw": "狐面１",
+			"Text_Tra": "Fox Mask 1",
+			"FOA_Ptr": "0x00040A56",
+			"FOA_Rva": "0x0004605D"
+		},
+		{
+			"Text_Raw": "男は人づきあいが苦手だという声でうめく。",
+			"Text_Tra": "He doesn't like interacting with people much.",
+			"FOA_Ptr": "0x00040A96",
+			"FOA_Rva": "0x00046064"
+		},
+		{
+			"Text_Raw": "狐面の下の苦渋に満ちた顔を見れないのが残念だ。",
+			"Text_Tra": "I wish I could see his face beneath that mask, I really do.",
+			"FOA_Ptr": "0x00040AEE",
+			"FOA_Rva": "0x0004608F"
+		},
+		{
+			"Text_Raw": "「恩を返すということなら、がんばってください」",
+			"Text_Tra": "『If you really wish to repay me, I hope you'll give it a try.』",
+			"FOA_Ptr": "0x00040B46",
+			"FOA_Rva": "0x000460C0"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040B5E",
+			"FOA_Rva": "0x000460F0"
+		},
+		{
+			"Text_Raw": "「……ううむ。言いましたね」",
+			"Text_Tra": "『...Hmmm. You went right there.』",
+			"FOA_Ptr": "0x00040B9E",
+			"FOA_Rva": "0x000460F7"
+		},
+		{
+			"Text_Raw": "狐面１",
+			"Text_Tra": "Fox Mask 1",
+			"FOA_Ptr": "0x00040BB6",
+			"FOA_Rva": "0x00046124"
+		},
+		{
+			"Text_Raw": "男がうなる。",
+			"Text_Tra": "The man's voice sounds strained.",
+			"FOA_Ptr": "0x00040BF6",
+			"FOA_Rva": "0x0004612B"
+		},
+		{
+			"Text_Raw": "「大役ですが、喫茶店も学校もカントで初めての試みです。誰がやってもがんばってもらうしかありません」",
+			"Text_Tra": "『It's important work, but both the café and the school are firsts for Kanto. Whoever takes part is going to have to work hard.』",
+			"FOA_Ptr": "0x00040C4E",
+			"FOA_Rva": "0x0004613A"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00040C66",
+			"FOA_Rva": "0x000461AD"
+		},
+		{
+			"Text_Raw": "「……あの、これは、一之神様も含めた八剣様のご命令ですか？」",
+			"Text_Tra": "『...Is this an order from the Swords? Including you, Lady Ichi-no-Kami?』",
+			"FOA_Ptr": "0x00040CA6",
+			"FOA_Rva": "0x000461B4"
+		},
+		{
+			"Text_Raw": "狐面１",
+			"Text_Tra": "Fox Mask 1",
+			"FOA_Ptr": "0x00040CBE",
+			"FOA_Rva": "0x00046201"
+		},
+		{
+			"Text_Raw": "男が問うてくる。",
+			"Text_Tra": "Yuri's father persists a little longer.",
+			"FOA_Ptr": "0x00040CFE",
+			"FOA_Rva": "0x00046208"
+		},
+		{
+			"Text_Raw": "僕と春姫は顔をあわせてしまう。",
+			"Text_Tra": "Haruhime and I look at each other.",
+			"FOA_Ptr": "0x00040D7E",
+			"FOA_Rva": "0x0004621B"
+		},
+		{
+			"Text_Raw": "どこかの誰か――彼の娘の反応とそっくりだ。",
+			"Text_Tra": "He's responding exactly like someone else we know.",
+			"FOA_Ptr": "0x00040DD6",
+			"FOA_Rva": "0x0004623C"
+		},
+		{
+			"Text_Raw": "「命令です」\\n\\t「命令です♪」",
+			"Text_Tra": "『It's an order!”\\n“It's an order!』",
+			"FOA_Ptr": "0x00040E84",
+			"FOA_Rva": "0x00046269"
+		},
+		{
+			"Text_Raw": "信＆春姫",
+			"Text_Tra": "Shin & Haruhime",
+			"FOA_Ptr": "0x00040E9C",
+			"FOA_Rva": "0x00046298"
+		},
+		{
+			"Text_Raw": "「命令です♪」",
+			"Text_Tra": "『It's an order♪』",
+			"FOA_Ptr": "0x00040EF2",
+			"FOA_Rva": "0x000462A1"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00040F0A",
+			"FOA_Rva": "0x000462C0"
+		},
+		{
+			"Text_Raw": "「命令です」",
+			"Text_Tra": "『It's an order!』",
+			"FOA_Ptr": "0x00040F3E",
+			"FOA_Rva": "0x000462C7"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040F56",
+			"FOA_Rva": "0x000462D5"
+		},
+		{
+			"Text_Raw": "僕らは揃って答えた。",
+			"Text_Tra": "We both reply together.",
+			"FOA_Ptr": "0x00040F9A",
+			"FOA_Rva": "0x000462DC"
+		},
+		{
+			"Text_Raw": "このタイプの人には、命令だと言ってやるほうが本人が責任を感じずに済むこともある。",
+			"Text_Tra": "For this kind of personality, making it an order can help to alleviate his own sense of responsibility.",
+			"FOA_Ptr": "0x00040FF2",
+			"FOA_Rva": "0x000462F3"
+		},
+		{
+			"Text_Raw": "「……わ、わかりました。私が必要なときはお声をかけてください」",
+			"Text_Tra": "『...Very well. Please let me know when you need me.』",
+			"FOA_Ptr": "0x0004104A",
+			"FOA_Rva": "0x00046346"
+		},
+		{
+			"Text_Raw": "狐面１",
+			"Text_Tra": "Fox Mask 1",
+			"FOA_Ptr": "0x00041062",
+			"FOA_Rva": "0x00046395"
+		},
+		{
+			"Text_Raw": "男が自信なさそうに答え、頭を下げ、階段をおりていった。",
+			"Text_Tra": "He lacks confidence in his reply, then lowers his head and starts off down the steps.",
+			"FOA_Ptr": "0x0004114A",
+			"FOA_Rva": "0x0004639C"
+		},
+		{
+			"Text_Raw": "「よし、身元が保証されてて、信用できる人手が増えたな」",
+			"Text_Tra": "『Good. That's someone else we can vouch for, someone trustworthy to help out.』",
+			"FOA_Ptr": "0x000411D6",
+			"FOA_Rva": "0x000463D5"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000411EE",
+			"FOA_Rva": "0x0004640D"
+		},
+		{
+			"Text_Raw": "「なにを言っていますか。喫茶店と学校、どちらを選んでも優里がいる場所ではありませんか」",
+			"Text_Tra": "『Whatever do you mean? You gave him those options because whether he chooses the café or the school, Yuri wil be there, did you not?』",
+			"FOA_Ptr": "0x0004125A",
+			"FOA_Rva": "0x00046414"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00041272",
+			"FOA_Rva": "0x0004647B"
+		},
+		{
+			"Text_Raw": "『状況が整えば、親子が一緒の場所で働くことが出来ますね』",
+			"Text_Tra": "『That will allow father and daughter to work together in the same location.』",
+			"FOA_Ptr": "0x000412B2",
+			"FOA_Rva": "0x00046482"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x000412CA",
+			"FOA_Rva": "0x000464CB"
+		},
+		{
+			"Text_Raw": "春姫とＹＯＵが、僕の所業を追及してくる。",
+			"Text_Tra": "Haruhime and Yu both point out that they know exactly what I was doing.",
+			"FOA_Ptr": "0x0004130A",
+			"FOA_Rva": "0x000464D2"
+		},
+		{
+			"Text_Raw": "僕は笑ってしまう。",
+			"Text_Tra": "I give a laugh.",
+			"FOA_Ptr": "0x00041362",
+			"FOA_Rva": "0x000464FD"
+		},
+		{
+			"Text_Raw": "「そういう考え方も可能だね」",
+			"Text_Tra": "『That's one way of thinking about it.』",
+			"FOA_Ptr": "0x000413BA",
+			"FOA_Rva": "0x00046512"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000413D2",
+			"FOA_Rva": "0x00046530"
+		},
+		{
+			"Text_Raw": "あの人は、学校であれば体育の先生をしてもらおうかな。",
+			"Text_Tra": "If he picks the school, he can be the gym teacher.",
+			"FOA_Ptr": "0x00041412",
+			"FOA_Rva": "0x00046537"
+		},
+		{
+			"Text_Raw": "あと、能力抜きならカントで最強の近接格闘家として、学校の警備員としても完璧だ。",
+			"Text_Tra": "He'd also make perfect security, as the strongest martial artist in Kanto-when powers aren't involved.",
+			"FOA_Ptr": "0x0004146A",
+			"FOA_Rva": "0x0004656E"
+		},
+		{
+			"Text_Raw": "「まあ、僕にとっても義理の父親だし、家族水入らずでがんばっていこう」",
+			"Text_Tra": "『Well, he is my step-father. I don't want anything to come between family.』",
+			"FOA_Ptr": "0x000414C2",
+			"FOA_Rva": "0x000465BF"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000414DA",
+			"FOA_Rva": "0x00046605"
+		},
+		{
+			"Text_Raw": "職人街へつくと、通りには人が溢れ、わいわいと賑やかだった。",
+			"Text_Tra": "We arrive in the crafters' district to find the street bustling with people.",
+			"FOA_Ptr": "0x0004162E",
+			"FOA_Rva": "0x0004660C"
+		},
+		{
+			"Text_Raw": "祝いとして酒と食べ物が配られているのだ。",
+			"Text_Tra": "Sake and food have been given out as part of the celebrations.",
+			"FOA_Ptr": "0x00041686",
+			"FOA_Rva": "0x00046649"
+		},
+		{
+			"Text_Raw": "ついでに、桜の花びらが降っている。",
+			"Text_Tra": "Cherry petals are falling around us too.",
+			"FOA_Ptr": "0x000416DE",
+			"FOA_Rva": "0x00046674"
+		},
+		{
+			"Text_Raw": "「……なんで、木のないところでまで桜が降っているんだ？」",
+			"Text_Tra": "『...Where are these petals coming from? There aren't even cherry trees nearby.』",
+			"FOA_Ptr": "0x00041736",
+			"FOA_Rva": "0x00046699"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004174E",
+			"FOA_Rva": "0x000466D3"
+		},
+		{
+			"Text_Raw": "通りのそこら中で降りしきる桜に、首をかげてしまう。",
+			"Text_Tra": "I tilt my head as I watch the pink snowfall.",
+			"FOA_Ptr": "0x0004178E",
+			"FOA_Rva": "0x000466DA"
+		},
+		{
+			"Text_Raw": "「結婚式では花を撒いて華やかにするということで、桜の花びら満載の籠をかついだ双子に、屋根の上を飛び回らせています」",
+			"Text_Tra": "『You mentioned the use of flowers like this at a wedding, so I've got the twins running around on the roof tops with baskets of petals.』",
+			"FOA_Ptr": "0x0004188A",
+			"FOA_Rva": "0x0004670F"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000418A2",
+			"FOA_Rva": "0x00046792"
+		},
+		{
+			"Text_Raw": "「楽しそうだ。今度、別の誰かの結婚式があったら、僕がそれをやりたい」",
+			"Text_Tra": "『That sounds like fun. When someone else gets married, dibs on giving that a try.』",
+			"FOA_Ptr": "0x000418F2",
+			"FOA_Rva": "0x00046799"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004190A",
+			"FOA_Rva": "0x000467DF"
+		},
+		{
+			"Text_Raw": "「わたしが先です」",
+			"Text_Tra": "『Me first.』",
+			"FOA_Ptr": "0x0004194A",
+			"FOA_Rva": "0x000467E6"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00041962",
+			"FOA_Rva": "0x00046809"
+		},
+		{
+			"Text_Raw": "「ずるい」",
+			"Text_Tra": "『No fair.』",
+			"FOA_Ptr": "0x000419A2",
+			"FOA_Rva": "0x00046810"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000419BA",
+			"FOA_Rva": "0x0004681C"
+		},
+		{
+			"Text_Raw": "「統治者の特権です」",
+			"Text_Tra": "『I have authority as ruler.』",
+			"FOA_Ptr": "0x000419FA",
+			"FOA_Rva": "0x00046823"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00041A12",
+			"FOA_Rva": "0x00046848"
+		},
+		{
+			"Text_Raw": "「ずるすぎる」",
+			"Text_Tra": "『Super no fair.』",
+			"FOA_Ptr": "0x00041A52",
+			"FOA_Rva": "0x0004684F"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041A6A",
+			"FOA_Rva": "0x0004685F"
+		},
+		{
+			"Text_Raw": "「君たち、みんな待ちくたびれているよ」",
+			"Text_Tra": "『Everyone is waiting for you.』",
+			"FOA_Ptr": "0x00041B46",
+			"FOA_Rva": "0x00046866"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x00041B5E",
+			"FOA_Rva": "0x0004689D"
+		},
+		{
+			"Text_Raw": "冬人が、のらりくらりとやってきた妹と義弟に声をかけてくる。",
+			"Text_Tra": "Fuyuhito comes over to his sister and “brother,” obviously not pleased with our tardiness.",
+			"FOA_Ptr": "0x00041BAE",
+			"FOA_Rva": "0x000468A4"
+		},
+		{
+			"Text_Raw": "「結婚式の準備はいかがですか、冬人兄さん？」",
+			"Text_Tra": "『How are the preparations going, Fuyuhito?』",
+			"FOA_Ptr": "0x00041C22",
+			"FOA_Rva": "0x000468E1"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00041C3A",
+			"FOA_Rva": "0x0004691E"
+		},
+		{
+			"Text_Raw": "「言われていた通りにしてある。どこまで正しく準備出来ているかはわからないが――」",
+			"Text_Tra": "『I've done everything you asked. I don't know how close it is to what you wanted-』",
+			"FOA_Ptr": "0x00041C7A",
+			"FOA_Rva": "0x00046925"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x00041C92",
+			"FOA_Rva": "0x00046986"
+		},
+		{
+			"Text_Raw": "「男女の永遠の愛を神様の前で誓うという儀式は、上手くいくものなのか？」",
+			"Text_Tra": "『But the idea of a man and woman swearing their love in front of the gods seems like a fickle affair to me.』",
+			"FOA_Ptr": "0x00041CD2",
+			"FOA_Rva": "0x0004698D"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x00041CEA",
+			"FOA_Rva": "0x000469E4"
+		},
+		{
+			"Text_Raw": "冬人が眉をしかめる。",
+			"Text_Tra": "Fuyuhito frowns.",
+			"FOA_Ptr": "0x00041D2A",
+			"FOA_Rva": "0x000469EB"
+		},
+		{
+			"Text_Raw": "「カントの神様は猫ですよね。なにか問題がありますか？」",
+			"Text_Tra": "『Cats are the gods in Kanto. Is that causing a problem?』",
+			"FOA_Ptr": "0x00041D82",
+			"FOA_Rva": "0x00046A02"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041D9A",
+			"FOA_Rva": "0x00046A3A"
+		},
+		{
+			"Text_Raw": "どこにでもいるのだから、連れてくるのは簡単だと思うのだが。",
+			"Text_Tra": "There are cats everywhere here. It shouldn't be hard to find one.",
+			"FOA_Ptr": "0x00041DDA",
+			"FOA_Rva": "0x00046A41"
+		},
+		{
+			"Text_Raw": "「……用意した祭壇に神様をのせてはみるのだが、じっとしていてくれないので、すでに３匹に逃げられて４匹目に入れ替わっている」",
+			"Text_Tra": "『...We tried placing a god on the dais we arranged for them, but they keep on running away. I think the fourth one might finally be settled.』",
+			"FOA_Ptr": "0x00041E92",
+			"FOA_Rva": "0x00046A7E"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x00041EAA",
+			"FOA_Rva": "0x00046B09"
+		},
+		{
+			"Text_Raw": "「……ああ、神様はじっとしていてくれませんか」",
+			"Text_Tra": "『...I see. Can't keep a good god still.』",
+			"FOA_Ptr": "0x00041EEA",
+			"FOA_Rva": "0x00046B10"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041F02",
+			"FOA_Rva": "0x00046B40"
+		},
+		{
+			"Text_Raw": "それもそうだという問題点だった。",
+			"Text_Tra": "A problem I didn't really think of.",
+			"FOA_Ptr": "0x00041F42",
+			"FOA_Rva": "0x00046B47"
+		},
+		{
+			"Text_Raw": "「神様をその場に留めたまま愛を誓えるか、その難しさこそ、結婚式に必要な要素なのでは？」",
+			"Text_Tra": "『Surely the difficulty of keeping a god in place long enough to swear your love to it is all part of the ceremony?』",
+			"FOA_Ptr": "0x00041F9A",
+			"FOA_Rva": "0x00046B6A"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00041FB2",
+			"FOA_Rva": "0x00046BD1"
+		},
+		{
+			"Text_Raw": "「そうか。古代の試練か」",
+			"Text_Tra": "『I see. An ancient test.』",
+			"FOA_Ptr": "0x00041FF2",
+			"FOA_Rva": "0x00046BD8"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x0004200A",
+			"FOA_Rva": "0x00046C01"
+		},
+		{
+			"Text_Raw": "兄妹が真面目な顔でボケ倒している。",
+			"Text_Tra": "I'm pretty sure the siblings aren't joking.",
+			"FOA_Ptr": "0x0004204A",
+			"FOA_Rva": "0x00046C08"
+		},
+		{
+			"Text_Raw": "誤解が広がっているような気がするが――",
+			"Text_Tra": "I don't want strange ideas getting spread around again.",
+			"FOA_Ptr": "0x000420A2",
+			"FOA_Rva": "0x00046C2D"
+		},
+		{
+			"Text_Raw": "「まあ、結婚式のディティールは、今回の反省を参考にして改善していこう」",
+			"Text_Tra": "『Well, we can polish the details after we see how things go today.』",
+			"FOA_Ptr": "0x000420FA",
+			"FOA_Rva": "0x00046C56"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042112",
+			"FOA_Rva": "0x00046C9E"
+		},
+		{
+			"Text_Raw": "『猫がいけないだけだと思いますが？』",
+			"Text_Tra": "『Maybe just leave the felines out of it?』",
+			"FOA_Ptr": "0x00042152",
+			"FOA_Rva": "0x00046CA5"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x0004216A",
+			"FOA_Rva": "0x00046CDA"
+		},
+		{
+			"Text_Raw": "ＹＯＵのツッコミはさておき。",
+			"Text_Tra": "Thanks to Yu for that contribution.",
+			"FOA_Ptr": "0x000421AA",
+			"FOA_Rva": "0x00046CE1"
+		},
+		{
+			"Text_Raw": "僕は通りの真ん中に立っている、今日の主役を見つける。",
+			"Text_Tra": "Then I spot the star of the ceremony, standing in the middle of the road.",
+			"FOA_Ptr": "0x00042256",
+			"FOA_Rva": "0x00046D00"
+		},
+		{
+			"Text_Raw": "僕の愛する優里。",
+			"Text_Tra": "My beloved Yuri.",
+			"FOA_Ptr": "0x000422AE",
+			"FOA_Rva": "0x00046D37"
+		},
+		{
+			"Text_Raw": "彼女はすでに、僕のほうをまっすぐに見つめていた。",
+			"Text_Tra": "She's already looking right at me.",
+			"FOA_Ptr": "0x00042306",
+			"FOA_Rva": "0x00046D4A"
+		},
+		{
+			"Text_Raw": "染さんの用意してくれた純白のドレスに身を包み。",
+			"Text_Tra": "She's wearing the white dress prepared for her by Somé.",
+			"FOA_Ptr": "0x0004235E",
+			"FOA_Rva": "0x00046D7D"
+		},
+		{
+			"Text_Raw": "面をかぶっている。",
+			"Text_Tra": "And she has a mask on.",
+			"FOA_Ptr": "0x000423B6",
+			"FOA_Rva": "0x00046DAE"
+		},
+		{
+			"Text_Raw": "狐の嫁入り。",
+			"Text_Tra": "A Japanese fox bride.",
+			"FOA_Ptr": "0x0004240E",
+			"FOA_Rva": "0x00046DC3"
+		},
+		{
+			"Text_Raw": "ただし洋風ドレスバージョンか。",
+			"Text_Tra": "In a western wedding dress.",
+			"FOA_Ptr": "0x00042466",
+			"FOA_Rva": "0x00046DD2"
+		},
+		{
+			"Text_Raw": "独特なセンスで似合っているようでもあり、食い合わせがとても悪いとも言えるが。",
+			"Text_Tra": "It's a potent combination, I have to admit.",
+			"FOA_Ptr": "0x000424BE",
+			"FOA_Rva": "0x00046DF3"
+		},
+		{
+			"Text_Raw": "どのみち、あの面は象徴だ。",
+			"Text_Tra": "The mask in particular.",
+			"FOA_Ptr": "0x00042516",
+			"FOA_Rva": "0x00046E42"
+		},
+		{
+			"Text_Raw": "彼女もわかっているので、面を外し、それを夏の青空に向って放り投げた。",
+			"Text_Tra": "She understands, because she takes the mask off and throws it up toward the summer sky.",
+			"FOA_Ptr": "0x0004256E",
+			"FOA_Rva": "0x00046E5F"
+		},
+		{
+			"Text_Raw": "「信さまー！」",
+			"Text_Tra": "『Master Shin!』",
+			"FOA_Ptr": "0x0004269A",
+			"FOA_Rva": "0x00046EA6"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000426B2",
+			"FOA_Rva": "0x00046EC5"
+		},
+		{
+			"Text_Raw": "満面の笑顔で、遅れてやってきた僕を呼ぶ少女。",
+			"Text_Tra": "With a happy smile on her face, she shouts over to me.",
+			"FOA_Ptr": "0x000426F2",
+			"FOA_Rva": "0x00046ECC"
+		},
+		{
+			"Text_Raw": "大きく大きく、夏の青空の下で手を振っている。",
+			"Text_Tra": "She's waving to me beneath the wide, summer sky.",
+			"FOA_Ptr": "0x0004274A",
+			"FOA_Rva": "0x00046EFB"
+		},
+		{
+			"Text_Raw": "「優里！」",
+			"Text_Tra": "『Yuri!』",
+			"FOA_Ptr": "0x000427A2",
+			"FOA_Rva": "0x00046F2A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000427BA",
+			"FOA_Rva": "0x00046F36"
+		},
+		{
+			"Text_Raw": "僕も負けじと、大きく手を振る。",
+			"Text_Tra": "I wave back just as eagerly.",
+			"FOA_Ptr": "0x000427FA",
+			"FOA_Rva": "0x00046F3D"
+		},
+		{
+			"Text_Raw": "さて。",
+			"Text_Tra": "And so.",
+			"FOA_Ptr": "0x0004289A",
+			"FOA_Rva": "0x00046F5E"
+		},
+		{
+			"Text_Raw": "紆余曲折ありましたが、僕は今日、愛する少女と結婚いたします。",
+			"Text_Tra": "It took us a while to reach the altar, but I'm finally marrying the girl of my dreams.",
+			"FOA_Ptr": "0x000428F2",
+			"FOA_Rva": "0x00046F67"
+		},
+		{
+			"Text_Raw": "カントの今後のためになるかと記録を残してきたが、ひとまず、最初の物語をここで終えようと思います。",
+			"Text_Tra": "I'm going to keep on making records, for the future of Kanto, but this first story is going to end here.",
+			"FOA_Ptr": "0x0004294A",
+			"FOA_Rva": "0x00046FA6"
+		},
+		{
+			"Text_Raw": "誰もが誰でもないカントにおいて、個性が芽生え。",
+			"Text_Tra": "The planting of individuality in Kanto, where formerly everyone was no one.",
+			"FOA_Ptr": "0x000429A2",
+			"FOA_Rva": "0x00047009"
+		},
+		{
+			"Text_Raw": "ひとりの少女が夢を叶え。",
+			"Text_Tra": "Making good on a young woman's dreams.",
+			"FOA_Ptr": "0x000429FA",
+			"FOA_Rva": "0x0004703A"
+		},
+		{
+			"Text_Raw": "愛する男と結ばれました。",
+			"Text_Tra": "Her marriage to the man she loves.",
+			"FOA_Ptr": "0x00042A52",
+			"FOA_Rva": "0x00047055"
+		},
+		{
+			"Text_Raw": "最後の部分は、愛する男とは僕のことなので、のろけ話ではありますが。",
+			"Text_Tra": "Of course, that man is me, so I'm a little over invested.",
+			"FOA_Ptr": "0x00042AAA",
+			"FOA_Rva": "0x00047070"
+		},
+		{
+			"Text_Raw": "これからの物語は、本当にプライベートなものになるので、おしまいです。",
+			"Text_Tra": "In any case, the rest of that story is going to remain private.",
+			"FOA_Ptr": "0x00042B02",
+			"FOA_Rva": "0x000470B5"
+		},
+		{
+			"Text_Raw": "………………",
+			"Text_Tra": "......",
+			"FOA_Ptr": "0x00042B5A",
+			"FOA_Rva": "0x000470FC"
+		},
+		{
+			"Text_Raw": "…………",
+			"Text_Tra": "...",
+			"FOA_Ptr": "0x00042BB2",
+			"FOA_Rva": "0x0004710B"
+		},
+		{
+			"Text_Raw": "……",
+			"Text_Tra": "...",
+			"FOA_Ptr": "0x00042C0A",
+			"FOA_Rva": "0x00047116"
+		},
+		{
+			"Text_Raw": "最後に、野暮な話をするならば――",
+			"Text_Tra": "If I have to make a final comment-",
+			"FOA_Ptr": "0x00042C62",
+			"FOA_Rva": "0x0004711D"
+		},
+		{
+			"Text_Raw": "語らずとも、僕らの今後がどうなるか、これを読む皆様にはわかってもらえると思います。",
+			"Text_Tra": "Even without the details, I want those who read this to know what happened to the two of us.",
+			"FOA_Ptr": "0x00042CBA",
+			"FOA_Rva": "0x00047140"
+		},
+		{
+			"Text_Raw": "４匹目の猫に誓ったように。",
+			"Text_Tra": "Just as we vowed to that lucky fourth cat.",
+			"FOA_Ptr": "0x00042D12",
+			"FOA_Rva": "0x00047195"
+		},
+		{
+			"Text_Raw": "僕らの愛は永遠に続きます。",
+			"Text_Tra": "Our love will continue forever.",
+			"FOA_Ptr": "0x00042D6A",
+			"FOA_Rva": "0x000471B2"
+		},
+		{
+			"Text_Raw": "めでたし、めでたし。",
+			"Text_Tra": "And we will live happily ever after.",
+			"FOA_Ptr": "0x00042DC2",
+			"FOA_Rva": "0x000471CF"
+		}
+	]
+}

@@ -1,0 +1,64 @@
+﻿{
+	"Scenario": [
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x00003668",
+			"FOA_Rva": "0x00095D1B"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x00003674",
+			"FOA_Rva": "0x00095D22"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x00019EAE",
+			"FOA_Rva": "0x00096B28"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x00019EBA",
+			"FOA_Rva": "0x00096B2F"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x0001AF04",
+			"FOA_Rva": "0x00096C27"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x0001AF10",
+			"FOA_Rva": "0x00096C2E"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x00068278",
+			"FOA_Rva": "0x0009716C"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x00068284",
+			"FOA_Rva": "0x00097173"
+		},
+		{
+			"Text_Raw": "？？？",
+			"Text_Tra": "？？？",
+			"FOA_Ptr": "0x0006A066",
+			"FOA_Rva": "0x0009718A"
+		},
+		{
+			"Text_Raw": "テスト表示中です。",
+			"Text_Tra": "テスト表示中です。",
+			"FOA_Ptr": "0x0008365C",
+			"FOA_Rva": "0x000971FF"
+		}
+	]
+}

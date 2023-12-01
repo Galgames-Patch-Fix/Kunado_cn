@@ -1,0 +1,64 @@
+﻿{
+	"Scenario": [
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x0000345C",
+			"FOA_Rva": "0x0005976F"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー～",
+			"FOA_Ptr": "0x00003468",
+			"FOA_Rva": "0x00059776"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x00019CA2",
+			"FOA_Rva": "0x0005A57C"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー～",
+			"FOA_Ptr": "0x00019CAE",
+			"FOA_Rva": "0x0005A583"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x0001ACF8",
+			"FOA_Rva": "0x0005A67B"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー～",
+			"FOA_Ptr": "0x0001AD04",
+			"FOA_Rva": "0x0005A682"
+		},
+		{
+			"Text_Raw": "- キャラ鑑賞 -",
+			"Text_Tra": "- 角色鉴赏 -",
+			"FOA_Ptr": "0x0003E16C",
+			"FOA_Rva": "0x0005AB44"
+		},
+		{
+			"Text_Raw": "- Ｈシーン鑑賞 -",
+			"Text_Tra": "- Ｈ场景鉴赏 -",
+			"FOA_Ptr": "0x00048040",
+			"FOA_Rva": "0x0005AD4E"
+		},
+		{
+			"Text_Raw": "- 音楽鑑賞 -",
+			"Text_Tra": "- 音乐鉴赏 -",
+			"FOA_Ptr": "0x0004D206",
+			"FOA_Rva": "0x0005AE1F"
+		},
+		{
+			"Text_Raw": "- ＣＧ鑑賞 -",
+			"Text_Tra": "- ＣＧ鉴赏 -",
+			"FOA_Ptr": "0x0004FFD2",
+			"FOA_Rva": "0x0005AE5D"
+		}
+	]
+}

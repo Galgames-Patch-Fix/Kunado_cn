@@ -1,0 +1,4240 @@
+﻿{
+	"Scenario": [
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x00003400",
+			"FOA_Rva": "0x00049597"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x0000340C",
+			"FOA_Rva": "0x0004959E"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x00019C46",
+			"FOA_Rva": "0x0004A3A4"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x00019C52",
+			"FOA_Rva": "0x0004A3AB"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x0001AC9C",
+			"FOA_Rva": "0x0004A4A3"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x0001ACA8",
+			"FOA_Rva": "0x0004A4AA"
+		},
+		{
+			"Text_Raw": "- 春姫Ｈ２ -",
+			"Text_Tra": "Haruhime H Scene 2",
+			"FOA_Ptr": "0x0003D7FE",
+			"FOA_Rva": "0x0004A963"
+		},
+		{
+			"Text_Raw": "- アフターストーリー春姫１ -",
+			"Text_Tra": "After Story - Haruhime 01",
+			"FOA_Ptr": "0x0003D87A",
+			"FOA_Rva": "0x0004A970"
+		},
+		{
+			"Text_Raw": "あくる日のこと。",
+			"Text_Tra": "It's another day in Kanto.",
+			"FOA_Ptr": "0x0003D940",
+			"FOA_Rva": "0x0004A98D"
+		},
+		{
+			"Text_Raw": "もう少し正確には、夏姫との決戦を経て僕が現世に戻ってから、そろそろ２週間が経過した頃合いだ。",
+			"Text_Tra": "About two weeks after my return to reality from the battle against Natsuhime, to be more specific.",
+			"FOA_Ptr": "0x0003D998",
+			"FOA_Rva": "0x0004A9A0"
+		},
+		{
+			"Text_Raw": "僕らがどうなっているかと言えば――",
+			"Text_Tra": "Which begs the question of what we've been doing since then-",
+			"FOA_Ptr": "0x0003D9F0",
+			"FOA_Rva": "0x0004A9FF"
+		},
+		{
+			"Text_Raw": "「鉄鬼との戦いがひとまず終わったということですが」",
+			"Text_Tra": "『The conflict with the Tekki has come to an end...』",
+			"FOA_Ptr": "0x0003DB1C",
+			"FOA_Rva": "0x0004AA24"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003DB34",
+			"FOA_Rva": "0x0004AA67"
+		},
+		{
+			"Text_Raw": "「そうなると第二都市の建設を本格的に考えないといけなかったり、技術の開発も進めないといけないわけで――」",
+			"Text_Tra": "『But that means we have to start thinking about starting a second city, and advancing our technology too.』",
+			"FOA_Ptr": "0x0003DB74",
+			"FOA_Rva": "0x0004AA6E"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003DB8C",
+			"FOA_Rva": "0x0004AAE8"
+		},
+		{
+			"Text_Raw": "「まーったく楽になりませんね」",
+			"Text_Tra": "『Things are still going to be tough for a while.』",
+			"FOA_Ptr": "0x0003DBCC",
+			"FOA_Rva": "0x0004AAEF"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003DBE4",
+			"FOA_Rva": "0x0004AB1E"
+		},
+		{
+			"Text_Raw": "書類仕事を僕の部屋へ持ち込むのが習慣化している春が、紙束をバッサバッサと漁って苦笑した。",
+			"Text_Tra": "Haru splashes through a veritable ocean of papers. Bringing her work into my room has become the norm for her now.",
+			"FOA_Ptr": "0x0003DC24",
+			"FOA_Rva": "0x0004AB25"
+		},
+		{
+			"Text_Raw": "とてもリラックスしていて、最近では窮屈な姫服ではなく、完全に彼女の部屋着らしい軽やかな服でやってきている。",
+			"Text_Tra": "She seems utterly relaxed. Lately, she's been coming here in the light and breezy clothing she usually only wears in her own chambers.",
+			"FOA_Ptr": "0x0003DC7C",
+			"FOA_Rva": "0x0004AB80"
+		},
+		{
+			"Text_Raw": "品のよさと飾り気を備えた姫服も、もちろん、好きだが。",
+			"Text_Tra": "Now, I don't have anything against her usual princess outfit. It's elegant and beautiful.",
+			"FOA_Ptr": "0x0003DCD4",
+			"FOA_Rva": "0x0004ABED"
+		},
+		{
+			"Text_Raw": "心の奥底にいる本当の彼女――統治者でも一之神でもない、素朴なひとりの少女であることを示すような今の服も、僕は大好きだった。",
+			"Text_Tra": "But I love these clothes on her too, which show her true individual self more honestly than the official robes of a ruler or a Sword.",
+			"FOA_Ptr": "0x0003DD2C",
+			"FOA_Rva": "0x0004AC24"
+		},
+		{
+			"Text_Raw": "なによりも、彼女はそれだけ、自分をさらけだせるになったのだ。",
+			"Text_Tra": "What I love most is that she feels comfortable showing herself to me in them.",
+			"FOA_Ptr": "0x0003DD84",
+			"FOA_Rva": "0x0004ACA1"
+		},
+		{
+			"Text_Raw": "「まあ、人類の天敵がいなくなっても、生きていくためにはご飯を食べないとだし、書類仕事もなくならないねー」",
+			"Text_Tra": "『Well, even with the enemy of humanity out of the picture, we still need to eat to live, and we still have to deal with red tape.』",
+			"FOA_Ptr": "0x0003DDDC",
+			"FOA_Rva": "0x0004ACE0"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003DDF4",
+			"FOA_Rva": "0x0004AD4A"
+		},
+		{
+			"Text_Raw": "書き物をしていた僕は、のんびりと応える。",
+			"Text_Tra": "I've been doing my own writing, and provide a matter-of-fact response.",
+			"FOA_Ptr": "0x0003DE34",
+			"FOA_Rva": "0x0004AD51"
+		},
+		{
+			"Text_Raw": "要するに、今日もカントは平常運転だ。",
+			"Text_Tra": "It's just business as usual here in Kanto.",
+			"FOA_Ptr": "0x0003DE8C",
+			"FOA_Rva": "0x0004AD7C"
+		},
+		{
+			"Text_Raw": "喉元過ぎれば熱さも忘れるではないが、世界の命運を賭けた戦いの余韻も、すでに遠い。",
+			"Text_Tra": "It's not like we've completely forget everything that's happened, but the fight to save the world is getting more distant every day.",
+			"FOA_Ptr": "0x0003DEE4",
+			"FOA_Rva": "0x0004ADA3"
+		},
+		{
+			"Text_Raw": "大地を砕く力すら生ぬるいという戦いを、本当に僕がしたのだろうか――？",
+			"Text_Tra": "The memory of having commanded such forces is slipping away from me too.",
+			"FOA_Ptr": "0x0003DF3C",
+			"FOA_Rva": "0x0004ADF6"
+		},
+		{
+			"Text_Raw": "夢ではないだろうかとすら、思うことがある。",
+			"Text_Tra": "Sometimes it even feels like it was all just a dream.",
+			"FOA_Ptr": "0x0003DF94",
+			"FOA_Rva": "0x0004AE3D"
+		},
+		{
+			"Text_Raw": "当事者ではあったが、やはり僕という人間は小市民的で、主役体質ではないのだろう。",
+			"Text_Tra": "I was right there in the thick of it, but in the end, I'm smaller potatoes, not a major player.",
+			"FOA_Ptr": "0x0003DFEC",
+			"FOA_Rva": "0x0004AE6A"
+		},
+		{
+			"Text_Raw": "「まったく。お兄様と旅に出れるのは、いつになることやら」",
+			"Text_Tra": "『I wonder when we'll finally be able to set out on our trip together.』",
+			"FOA_Ptr": "0x0003E044",
+			"FOA_Rva": "0x0004AEBB"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003E05C",
+			"FOA_Rva": "0x0004AF04"
+		},
+		{
+			"Text_Raw": "春が、ぷうと頬を膨らませ、唇を尖らせていた。",
+			"Text_Tra": "Haru purses her lips and puffs up her cheeks.",
+			"FOA_Ptr": "0x0003E09C",
+			"FOA_Rva": "0x0004AF0B"
+		},
+		{
+			"Text_Raw": "もちろん、彼女の本心は、訪れた平和とカントの未来に喜んでいるのだ。",
+			"Text_Tra": "Of course, she's very happy about the peace we have achieved, and the future we've secured for Kanto.",
+			"FOA_Ptr": "0x0003E0F4",
+			"FOA_Rva": "0x0004AF3A"
+		},
+		{
+			"Text_Raw": "これは、自分の欲求に素直になることを覚えた彼女の、可愛い愚痴か。",
+			"Text_Tra": "This comment is just a cute complaint from someone who has also learned to be true to her own desires.",
+			"FOA_Ptr": "0x0003E14C",
+			"FOA_Rva": "0x0004AF7F"
+		},
+		{
+			"Text_Raw": "小さな変化として、素直になると子どもっぽくなる春からの呼び方が、『兄様』から『お兄様』へと戻ったこともある。",
+			"Text_Tra": "There have been some other small changes in her attitude-becoming a little more childish, at times, and revealing herself to me a little more.",
+			"FOA_Ptr": "0x0003E1A4",
+			"FOA_Rva": "0x0004AFC2"
+		},
+		{
+			"Text_Raw": "どちらも可愛いという前提で、『お兄様』のほうが妹っぷりや愛嬌があってよいかなと黙認している。",
+			"Text_Tra": "She remains so cute, I'm happy with whatever side of her she wants to show me.",
+			"FOA_Ptr": "0x0003E1FC",
+			"FOA_Rva": "0x0004B031"
+		},
+		{
+			"Text_Raw": "「あはは。春が統治者の仕事を放り投げるつもりがないなら、旅に出るのは１、２年先かな」",
+			"Text_Tra": "『Ahaha. Unless you plan on giving up on being ruler completely, I think it's going to take a year or two to get out from under this.』",
+			"FOA_Ptr": "0x0003E254",
+			"FOA_Rva": "0x0004B090"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E26C",
+			"FOA_Rva": "0x0004B0E6"
+		},
+		{
+			"Text_Raw": "生き残っているだろう人類集団の情報を手に入れて、彼女と世界を旅してまわろうと約束をした。",
+			"Text_Tra": "When we learned of what are likely other groups of surviving humans, we promised to set off and travel the world.",
+			"FOA_Ptr": "0x0003E2AC",
+			"FOA_Rva": "0x0004B0ED"
+		},
+		{
+			"Text_Raw": "だが、移動手段や通信手段の確保、後進の育成などを済ませないと、気分よく出立できないのが現実だ。",
+			"Text_Tra": "But it's true that we need to acquire a means of travel, communication, and education for those we are going to leave behind, or Kanto could collapse once we are gone.",
+			"FOA_Ptr": "0x0003E304",
+			"FOA_Rva": "0x0004B148"
+		},
+		{
+			"Text_Raw": "ままならないからこその、愛しい現実。",
+			"Text_Tra": "Reality can be fun, but hard to deal with.",
+			"FOA_Ptr": "0x0003E35C",
+			"FOA_Rva": "0x0004B1A9"
+		},
+		{
+			"Text_Raw": "「お兄様はいじわるですね……すべて投げ出したいところですが、せめて、斥候に出した３人が戻るのを見届けるのは、わたしの義務でしょう」",
+			"Text_Tra": "『You are such a tease, Brother. If I wanted to give up my position, I would at least have to wait for the three Swords I sent scouting to come back.』",
+			"FOA_Ptr": "0x0003E414",
+			"FOA_Rva": "0x0004B1D0"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003E42C",
+			"FOA_Rva": "0x0004B263"
+		},
+		{
+			"Text_Raw": "「それだね」",
+			"Text_Tra": "『That makes sense.』",
+			"FOA_Ptr": "0x0003E46C",
+			"FOA_Rva": "0x0004B26A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E484",
+			"FOA_Rva": "0x0004B278"
+		},
+		{
+			"Text_Raw": "少しだけ真面目になって答える。",
+			"Text_Tra": "I manage to be a little more serious with my next reply.",
+			"FOA_Ptr": "0x0003E4C4",
+			"FOA_Rva": "0x0004B27F"
+		},
+		{
+			"Text_Raw": "僕が目覚める前に、カントの領域外へ斥候に出た３人の八剣。",
+			"Text_Tra": "Haru sent out three scouts beyond Kanto, prior to me waking up.",
+			"FOA_Ptr": "0x0003E51C",
+			"FOA_Rva": "0x0004B2A0"
+		},
+		{
+			"Text_Raw": "古代の東京のあたりに生き残っている人間集団がいることがわかったのだが――なんとなく、接触している気がするのだよなー。",
+			"Text_Tra": "Now we know that there's a group of people still alive in the region of ancient Tokyo, and suspect that our scouts will probably have made contact.",
+			"FOA_Ptr": "0x0003E574",
+			"FOA_Rva": "0x0004B2DB"
+		},
+		{
+			"Text_Raw": "斥候の人たちが喧嘩を売っていないといいなー。",
+			"Text_Tra": "I just hope that hasn't led to any fighting.",
+			"FOA_Ptr": "0x0003E5CC",
+			"FOA_Rva": "0x0004B352"
+		},
+		{
+			"Text_Raw": "次の事件とか争いになるのかなー。",
+			"Text_Tra": "The next thing we have to deal with might be warfare.",
+			"FOA_Ptr": "0x0003E624",
+			"FOA_Rva": "0x0004B381"
+		},
+		{
+			"Text_Raw": "面倒くさいなー。",
+			"Text_Tra": "That sounds like a pain too.",
+			"FOA_Ptr": "0x0003E67C",
+			"FOA_Rva": "0x0004B3A4"
+		},
+		{
+			"Text_Raw": "「まあ、なるようになるか」",
+			"Text_Tra": "『Well, whatever happens, we'll deal with it.』",
+			"FOA_Ptr": "0x0003E6D4",
+			"FOA_Rva": "0x0004B3B7"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E6EC",
+			"FOA_Rva": "0x0004B3D3"
+		},
+		{
+			"Text_Raw": "筆をぶらぶらと揺らしながら、僕はにやついてしまう。",
+			"Text_Tra": "I murmur to myself, swinging my brush to and fro.",
+			"FOA_Ptr": "0x0003E72C",
+			"FOA_Rva": "0x0004B3DA"
+		},
+		{
+			"Text_Raw": "ひらかれた世界は可能性に満ちているのだ。",
+			"Text_Tra": "This new, open world is full of possibilities.",
+			"FOA_Ptr": "0x0003E784",
+			"FOA_Rva": "0x0004B40F"
+		},
+		{
+			"Text_Raw": "「ちなみに、お兄様は今、なにをしているのですか？」",
+			"Text_Tra": "『What are you doing at the moment, anyway, Brother?』",
+			"FOA_Ptr": "0x0003E7DC",
+			"FOA_Rva": "0x0004B43A"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003E7F4",
+			"FOA_Rva": "0x0004B47D"
+		},
+		{
+			"Text_Raw": "春が近づいてきて手元を覗き込んでくる。",
+			"Text_Tra": "Haru moves over and look at what I'm working on.",
+			"FOA_Ptr": "0x0003E834",
+			"FOA_Rva": "0x0004B484"
+		},
+		{
+			"Text_Raw": "髪がふわっと揺れ、よい匂いがした。",
+			"Text_Tra": "Her hair swishes around me. It smells lovely.",
+			"FOA_Ptr": "0x0003E88C",
+			"FOA_Rva": "0x0004B4AD"
+		},
+		{
+			"Text_Raw": "「古代の無線機についての覚え書きだね。蒸気機関のついでに、無線機を作れないか博士に頼んでいるんだ」",
+			"Text_Tra": "『I'm writing what I remember about ancient radio technology. In addition to the stream engine, I've asked the Prof to take a look at this too.』",
+			"FOA_Ptr": "0x0003E8E4",
+			"FOA_Rva": "0x0004B4D2"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E8FC",
+			"FOA_Rva": "0x0004B536"
+		},
+		{
+			"Text_Raw": "「無線、電話、インターネット――どれも遠くの人間と話せる機械技術ですね」",
+			"Text_Tra": "『Radios, telephones, and the internet-all ways for people to talk to others who are far away.』",
+			"FOA_Ptr": "0x0003E93C",
+			"FOA_Rva": "0x0004B53D"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003E954",
+			"FOA_Rva": "0x0004B596"
+		},
+		{
+			"Text_Raw": "予習も復習もばっちりの春が言う。",
+			"Text_Tra": "Haru has done the reading, as always.",
+			"FOA_Ptr": "0x0003E994",
+			"FOA_Rva": "0x0004B59D"
+		},
+		{
+			"Text_Raw": "「そうそう。今後、第二都市を作るとか、遠征するなら、通信技術は最優先事項だと思う」",
+			"Text_Tra": "『That's right. If we're going to build a second city, or take a trip further away, then communication technology needs to be a priority.』",
+			"FOA_Ptr": "0x0003E9EC",
+			"FOA_Rva": "0x0004B5C0"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003EA04",
+			"FOA_Rva": "0x0004B614"
+		},
+		{
+			"Text_Raw": "僕はうなずいてから、腕輪をしていない左腕を示す。",
+			"Text_Tra": "I nod, and then point to my left wrist-which currently isn't wearing the bracelet.",
+			"FOA_Ptr": "0x0003EA44",
+			"FOA_Rva": "0x0004B61B"
+		},
+		{
+			"Text_Raw": "「技術的な知識は僕にないけど、ＹＯＵの基本機能に通信システムがあるっぽいから、腕輪ごと博士に預けてあるんだよね」",
+			"Text_Tra": "『I don't know the technical stuff, but Yu has a basic communication system onboard, so I've given the bracelet to the Prof to examine.』",
+			"FOA_Ptr": "0x0003EA9C",
+			"FOA_Rva": "0x0004B64E"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003EAB4",
+			"FOA_Rva": "0x0004B6C0"
+		},
+		{
+			"Text_Raw": "「見本となる実物があれば、なんとかなりそうですね♪」",
+			"Text_Tra": "『If she has an actual article to work from, I can see things working out!』",
+			"FOA_Ptr": "0x0003EAF4",
+			"FOA_Rva": "0x0004B6C7"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003EB0C",
+			"FOA_Rva": "0x0004B70C"
+		},
+		{
+			"Text_Raw": "面白そうだと春が機嫌を直して笑う。",
+			"Text_Tra": "Haru gives a happy laugh, pleased to hear about these developments.",
+			"FOA_Ptr": "0x0003EB4C",
+			"FOA_Rva": "0x0004B713"
+		},
+		{
+			"Text_Raw": "「まあ、茜ちゃんと葵ちゃんが博士に協力してくれれば、もっといいんだけど――そっちの説得のほうが今後の課題かな？」",
+			"Text_Tra": "『Well, things would go more smoothly if Akane and Aoi would help the Prof out. I think persuading them to do that is one of the next issues to resolve.』",
+			"FOA_Ptr": "0x0003EBA4",
+			"FOA_Rva": "0x0004B738"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003EBBC",
+			"FOA_Rva": "0x0004B7AA"
+		},
+		{
+			"Text_Raw": "「双子の協力ですか？」",
+			"Text_Tra": "『You want the cooperation of the twins?』",
+			"FOA_Ptr": "0x0003EBFC",
+			"FOA_Rva": "0x0004B7B1"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003EC14",
+			"FOA_Rva": "0x0004B7D8"
+		},
+		{
+			"Text_Raw": "「そう。あの２人の共感能力も通信技術だし、葵ちゃんの雷の力は電気技術に応用できそうだしね」",
+			"Text_Tra": "『Yeah. The way they share their senses is a form of communication, and Aoi's lightning powers can probably help with electrical stuff.』",
+			"FOA_Ptr": "0x0003EC54",
+			"FOA_Rva": "0x0004B7DF"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003EC6C",
+			"FOA_Rva": "0x0004B83B"
+		},
+		{
+			"Text_Raw": "とはいえ、双子は博士とのやりとりには、あまり乗り気ではない。",
+			"Text_Tra": "The issue being that the twins aren't that cooperative when it comes to working with the Prof.",
+			"FOA_Ptr": "0x0003ECAC",
+			"FOA_Rva": "0x0004B842"
+		},
+		{
+			"Text_Raw": "２人は機械技術についてピンとくるものがなく、それ以上に、博士のおしゃべりが苦手なのだろう。",
+			"Text_Tra": "The concept of “machinery” doesn't really mean anything to them, and they just don't get along personality-wise with the Prof anyway.",
+			"FOA_Ptr": "0x0003ED04",
+			"FOA_Rva": "0x0004B881"
+		},
+		{
+			"Text_Raw": "きっかけとなる出来事でもあればいいのだが――まあ、責任感も好奇心もある２人なので、時間をかければ、なんとかなるだろう。",
+			"Text_Tra": "We need to try and find some kind of trigger. Well, the two of them have a strong sense of responsibility and curiosity, so with a little time, I think we can make it work.",
+			"FOA_Ptr": "0x0003ED5C",
+			"FOA_Rva": "0x0004B8DE"
+		},
+		{
+			"Text_Raw": "「ふむ。まあ、そのあたりはお兄様にお任せします」",
+			"Text_Tra": "『Hmmm. Well, I'll let you handle that, Brother.』",
+			"FOA_Ptr": "0x0003EE14",
+			"FOA_Rva": "0x0004B957"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003EE2C",
+			"FOA_Rva": "0x0004B998"
+		},
+		{
+			"Text_Raw": "「任された――ところで休憩にしようか？」",
+			"Text_Tra": "『Challenge accepted. Shall we take a break?』",
+			"FOA_Ptr": "0x0003EE6C",
+			"FOA_Rva": "0x0004B99F"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003EE84",
+			"FOA_Rva": "0x0004B9C9"
+		},
+		{
+			"Text_Raw": "気が散っている様子の春に、僕は提案してあげる。",
+			"Text_Tra": "Haru's concentration seems to be shot, so I make the suggestion.",
+			"FOA_Ptr": "0x0003EEC4",
+			"FOA_Rva": "0x0004B9D0"
+		},
+		{
+			"Text_Raw": "働き者の彼女が休むには、きっかけが欲しいだろう。",
+			"Text_Tra": "She's such a workaholic, she needs someone to slow her down sometimes.",
+			"FOA_Ptr": "0x0003EF1C",
+			"FOA_Rva": "0x0004BA01"
+		},
+		{
+			"Text_Raw": "「そうですね……そうしましょうか」",
+			"Text_Tra": "『Yes... Okay, let's do that.』",
+			"FOA_Ptr": "0x0003EF74",
+			"FOA_Rva": "0x0004BA34"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003EF8C",
+			"FOA_Rva": "0x0004BA67"
+		},
+		{
+			"Text_Raw": "集中力が切れていることを認め、春も苦笑しながらうなずいた。",
+			"Text_Tra": "Haru accepts that's she running low on gas, giving me a wry chuckle and a nod.",
+			"FOA_Ptr": "0x0003EFCC",
+			"FOA_Rva": "0x0004BA6E"
+		},
+		{
+			"Text_Raw": "そして、嬉しそうな表情になって、さらに僕の近くへ、ぴょこんと寄ってきた。",
+			"Text_Tra": "Then she comes even closer to me, with a happy look on her face.",
+			"FOA_Ptr": "0x0003F024",
+			"FOA_Rva": "0x0004BAAB"
+		},
+		{
+			"Text_Raw": "くっそ可愛い。",
+			"Text_Tra": "She's just so damn cute!",
+			"FOA_Ptr": "0x0003F07C",
+			"FOA_Rva": "0x0004BAF6"
+		},
+		{
+			"Text_Raw": "「いやー、最近は、気が抜けてしまっていけませんね♪」",
+			"Text_Tra": "『I've been really demotivated lately. I need to be more focused!』",
+			"FOA_Ptr": "0x0003F0D4",
+			"FOA_Rva": "0x0004BB07"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003F0EC",
+			"FOA_Rva": "0x0004BB4C"
+		},
+		{
+			"Text_Raw": "言葉のわりに、にこにこと春が言う。",
+			"Text_Tra": "She has a smile on her face, a little at odds with what she's saying.",
+			"FOA_Ptr": "0x0003F12C",
+			"FOA_Rva": "0x0004BB53"
+		},
+		{
+			"Text_Raw": "「カントの人間からすれば、生まれる前からずっと存在していた鉄鬼が、突然いなくなったわけだしね」",
+			"Text_Tra": "『I mean, everyone in Kanto has spent their entire lives afraid of a threat that just suddenly vanished.』",
+			"FOA_Ptr": "0x0003F184",
+			"FOA_Rva": "0x0004BB78"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003F19C",
+			"FOA_Rva": "0x0004BBD8"
+		},
+		{
+			"Text_Raw": "「緊張感の矛先を失っていますねぇ」",
+			"Text_Tra": "『Yeah, we've lost the source of our fear.』",
+			"FOA_Ptr": "0x0003F1DC",
+			"FOA_Rva": "0x0004BBDF"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003F1F4",
+			"FOA_Rva": "0x0004BC12"
+		},
+		{
+			"Text_Raw": "やはり笑顔のまま、彼女がふにゃりと息をつく。",
+			"Text_Tra": "She lets out a sigh, still with that smile on her face.",
+			"FOA_Ptr": "0x0003F234",
+			"FOA_Rva": "0x0004BC19"
+		},
+		{
+			"Text_Raw": "「もう鉄鬼を警戒しなくてもよいとか、どこへでも行けると言われても、皆、おっかなびっくりで生活も変わりませんし」",
+			"Text_Tra": "『We don't have to worry about the Tekki anymore, and can go anywhere we like, but there's still a lot of things to worry about.』",
+			"FOA_Ptr": "0x0003F28C",
+			"FOA_Rva": "0x0004BC48"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003F2A4",
+			"FOA_Rva": "0x0004BCC7"
+		},
+		{
+			"Text_Raw": "「警戒は損にはならないと思うよ。本当に全部の鉄鬼が活動を停止したかは、僕も保証できないから」",
+			"Text_Tra": "『Keeping our guard up isn't a bad thing. I can't guarantee that all the Tekki have completely stopped.』",
+			"FOA_Ptr": "0x0003F2E4",
+			"FOA_Rva": "0x0004BCCE"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003F2FC",
+			"FOA_Rva": "0x0004BD2C"
+		},
+		{
+			"Text_Raw": "窓の外、切り取られた夏空に目をやりながら、僕はぼんやりとつぶやく。",
+			"Text_Tra": "I look out at the summer sky through the window, thoughtful for a moment.",
+			"FOA_Ptr": "0x0003F33C",
+			"FOA_Rva": "0x0004BD33"
+		},
+		{
+			"Text_Raw": "鉄の身体を失ったが――それでも、ふとした拍子に、鉄鬼の声を感じることがある。",
+			"Text_Tra": "I've lost my mechanical body-but sometimes it feels like I still hear the voice of the Tekki.",
+			"FOA_Ptr": "0x0003F394",
+			"FOA_Rva": "0x0004BD78"
+		},
+		{
+			"Text_Raw": "それは、鉄鬼復活の予兆のような危険な感じではない。",
+			"Text_Tra": "It doesn't feel like something dangerous-like maybe they will come back.",
+			"FOA_Ptr": "0x0003F3EC",
+			"FOA_Rva": "0x0004BDC7"
+		},
+		{
+			"Text_Raw": "銀色の鈴がリンと鳴るような――冷たいささやき声のような音だ。",
+			"Text_Tra": "It's more like a cold, murmuring voice-like a silver bell chiming.",
+			"FOA_Ptr": "0x0003F444",
+			"FOA_Rva": "0x0004BDFC"
+		},
+		{
+			"Text_Raw": "眠りについた鉄鬼の寝言。",
+			"Text_Tra": "The slumbering Tekki, talking in their sleep.",
+			"FOA_Ptr": "0x0003F49C",
+			"FOA_Rva": "0x0004BE3B"
+		},
+		{
+			"Text_Raw": "夢の欠片なのかもしれない。",
+			"Text_Tra": "A fragment of a dream, perchance.",
+			"FOA_Ptr": "0x0003F4F4",
+			"FOA_Rva": "0x0004BE56"
+		},
+		{
+			"Text_Raw": "『“安らかに眠れ――冷えた鉄に、ひとつひとつの命が宿る、そのときまで”』",
+			"Text_Tra": "«Sleep peacefully-until life blooms in each and every piece of cold metal.»",
+			"FOA_Ptr": "0x0003F5F4",
+			"FOA_Rva": "0x0004BE81"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003F60C",
+			"FOA_Rva": "0x0004BECB"
+		},
+		{
+			"Text_Raw": "僕は彼らの消滅ではなく、眠りを選択したから。",
+			"Text_Tra": "I chose their slumber over their eradication.",
+			"FOA_Ptr": "0x0003F6AC",
+			"FOA_Rva": "0x0004BED2"
+		},
+		{
+			"Text_Raw": "もしも強い個性をもった鉄鬼が存在するのなら、それは今も活動を続けているかもしれない。",
+			"Text_Tra": "If there was a Tekki out there with a strong sense of self, it may still be operational.",
+			"FOA_Ptr": "0x0003F704",
+			"FOA_Rva": "0x0004BF01"
+		},
+		{
+			"Text_Raw": "そもそも、彼らに、人間が考える通常の死の観念が適応されるのかもわからないが。",
+			"Text_Tra": "Death as humans think of it might not even apply to them.",
+			"FOA_Ptr": "0x0003F75C",
+			"FOA_Rva": "0x0004BF58"
+		},
+		{
+			"Text_Raw": "夏姫も本当に消えることが出来たのだろうか……。",
+			"Text_Tra": "I wonder if Natsuhime really vanished completely either-if that's even possible for her.",
+			"FOA_Ptr": "0x0003F7B4",
+			"FOA_Rva": "0x0004BFA7"
+		},
+		{
+			"Text_Raw": "彼女は人としての死を望んでいたが、まだ存在しているなら、まっとうに生きられる手段を模索したかった。",
+			"Text_Tra": "She had desired death as a human, but if she still exists somewhere, I'd like to find a way to give her a proper life.",
+			"FOA_Ptr": "0x0003F80C",
+			"FOA_Rva": "0x0004BFD8"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x0003F864",
+			"FOA_Rva": "0x0004C03D"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003F87C",
+			"FOA_Rva": "0x0004C04B"
+		},
+		{
+			"Text_Raw": "ぼーっと、物思いにふけってしまう。",
+			"Text_Tra": "I lose myself in my thoughts for a moment.",
+			"FOA_Ptr": "0x0003F8BC",
+			"FOA_Rva": "0x0004C052"
+		},
+		{
+			"Text_Raw": "「共振源へと至りながら、鉄鬼を滅ぼさなかったところが、実にお兄様らしいですよね」",
+			"Text_Tra": "『What a perfect expression of you, Brother, in that you reached the vibration source but chose not to eradicate the Tekki.』",
+			"FOA_Ptr": "0x0003F914",
+			"FOA_Rva": "0x0004C077"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003F92C",
+			"FOA_Rva": "0x0004C0D8"
+		},
+		{
+			"Text_Raw": "こちらの視線や表情を読み取り、春姫が優しく笑う。",
+			"Text_Tra": "Haru gives a gentle smile, reading what I'm thinking from my face.",
+			"FOA_Ptr": "0x0003F96C",
+			"FOA_Rva": "0x0004C0DF"
+		},
+		{
+			"Text_Raw": "相変わらず聡い子だ。",
+			"Text_Tra": "She's definitely a smart one.",
+			"FOA_Ptr": "0x0003F9C4",
+			"FOA_Rva": "0x0004C112"
+		},
+		{
+			"Text_Raw": "「鉄鬼もあれで、この世界に生まれた命のひとつだからね」",
+			"Text_Tra": "『Whatever they were, the Tekki were still alive. Still born into this world.』",
+			"FOA_Ptr": "0x0003FA1C",
+			"FOA_Rva": "0x0004C129"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003FA34",
+			"FOA_Rva": "0x0004C161"
+		},
+		{
+			"Text_Raw": "どこから来たのかはわからないが、いつか言葉を交わし、一緒に歩いていくことは出来るだろう。",
+			"Text_Tra": "We don't know where they came from, but one day, we might be able to converse with them, and even walk hand-in-hand.",
+			"FOA_Ptr": "0x0003FA74",
+			"FOA_Rva": "0x0004C168"
+		},
+		{
+			"Text_Raw": "「――って、休憩中なんだから、もっと気楽な話をしたほうがいいか」",
+			"Text_Tra": "『-If we're going to take a break, let's talk about something less heavy.』",
+			"FOA_Ptr": "0x0003FACC",
+			"FOA_Rva": "0x0004C1C3"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003FAE4",
+			"FOA_Rva": "0x0004C205"
+		},
+		{
+			"Text_Raw": "心が静まり返っていることに気づき、あえてわざとらしく驚く。",
+			"Text_Tra": "I'm feeling a bit too settled, and make a display of being surprised.",
+			"FOA_Ptr": "0x0003FB24",
+			"FOA_Rva": "0x0004C20C"
+		},
+		{
+			"Text_Raw": "言霊使いとしての成長は、浮世離れに繋がって、いかんな。",
+			"Text_Tra": "I can't allow my further growth as a Kotodama user to push me away from this world.",
+			"FOA_Ptr": "0x0003FB7C",
+			"FOA_Rva": "0x0004C249"
+		},
+		{
+			"Text_Raw": "そんな僕を、春姫がおかしそうに見つめる。",
+			"Text_Tra": "Haruhime looks at me, with an amused look in her eyes.",
+			"FOA_Ptr": "0x0003FBD4",
+			"FOA_Rva": "0x0004C282"
+		},
+		{
+			"Text_Raw": "「ふふ。真面目な話も嫌いではありませんが、休憩であれば疲れている春をもっと甘やかしてくださっても、よろしいのですよ♪」",
+			"Text_Tra": "『Hehe. I don't mind serious talk, but if we're taking a break, then feel free to lavish me with some sweet attention.』",
+			"FOA_Ptr": "0x0003FC2C",
+			"FOA_Rva": "0x0004C2AD"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003FC44",
+			"FOA_Rva": "0x0004C334"
+		},
+		{
+			"Text_Raw": "恋人として構ってくださいと、春が笑顔で主張する。",
+			"Text_Tra": "Haru's smile tells me that she desires some “us” time.",
+			"FOA_Ptr": "0x0003FC84",
+			"FOA_Rva": "0x0004C33B"
+		},
+		{
+			"Text_Raw": "素直で、とっても可愛い。",
+			"Text_Tra": "She's so cute, I can hardly take it.",
+			"FOA_Ptr": "0x0003FCDC",
+			"FOA_Rva": "0x0004C36E"
+		},
+		{
+			"Text_Raw": "いやまあ、決戦前に永遠の別れだと姿を消し、その後も、しばらく僕は死んでいたわけで――",
+			"Text_Tra": "But then we did kinda say goodbye forever before the final battle, and then I was dead for a while.",
+			"FOA_Ptr": "0x0003FD34",
+			"FOA_Rva": "0x0004C389"
+		},
+		{
+			"Text_Raw": "彼女の甘えも当然のものである。",
+			"Text_Tra": "I can see why she might be a little clingy.",
+			"FOA_Ptr": "0x0003FD8C",
+			"FOA_Rva": "0x0004C3E0"
+		},
+		{
+			"Text_Raw": "しばらくは、意識して甘やかしモードでいこう。",
+			"Text_Tra": "I need to lean into that, for a little while at least.",
+			"FOA_Ptr": "0x0003FDE4",
+			"FOA_Rva": "0x0004C401"
+		},
+		{
+			"Text_Raw": "「甘やかせって、なにかしたいことでもあるの？　１日に５回くらいご飯を食べたいとか？」",
+			"Text_Tra": "『Is there anything you want to do, then? Anything I wouldn't normally let you get away with-like eating five meals a day?』",
+			"FOA_Ptr": "0x0003FE3C",
+			"FOA_Rva": "0x0004C430"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003FE54",
+			"FOA_Rva": "0x0004C486"
+		},
+		{
+			"Text_Raw": "僕は笑いながら訊ねる。",
+			"Text_Tra": "I chuckle as I ask her.",
+			"FOA_Ptr": "0x0003FE94",
+			"FOA_Rva": "0x0004C48D"
+		},
+		{
+			"Text_Raw": "「１日に５食で甘やかすことになるって……わたしをなんだと思っているのですか？」",
+			"Text_Tra": "『You think that's something I can't normally do? Just who do you think you're dealing with?』",
+			"FOA_Ptr": "0x0003FF4C",
+			"FOA_Rva": "0x0004C4A6"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003FF64",
+			"FOA_Rva": "0x0004C505"
+		},
+		{
+			"Text_Raw": "「味覚はないってことだけど、腹ペコキャラなのは間違いないし」",
+			"Text_Tra": "『Your sense of taste might be fading, but 'food' still forms a large part of your personality.』",
+			"FOA_Ptr": "0x0003FFA4",
+			"FOA_Rva": "0x0004C50C"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003FFBC",
+			"FOA_Rva": "0x0004C54A"
+		},
+		{
+			"Text_Raw": "ジト目で睨まれても、その認識だけは絶対に動かないぞ。",
+			"Text_Tra": "She narrows her eyes at me, but I'm not going to back down on that point.",
+			"FOA_Ptr": "0x0003FFFC",
+			"FOA_Rva": "0x0004C551"
+		},
+		{
+			"Text_Raw": "「まあ、５食にしてもらえるなら、非常にありがたいことですが」",
+			"Text_Tra": "『Well, officially allowing me five meals would be pretty nice.』",
+			"FOA_Ptr": "0x00040054",
+			"FOA_Rva": "0x0004C588"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004006C",
+			"FOA_Rva": "0x0004C5D5"
+		},
+		{
+			"Text_Raw": "「いやいや、１日３食で体重が維持されているなら、それ以上は無理に食べなくても大丈夫だから」",
+			"Text_Tra": "『Nope, nope, you're keeping your weight at three meals a day. You don't need to eat any more.』",
+			"FOA_Ptr": "0x000400AC",
+			"FOA_Rva": "0x0004C5DC"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000400C4",
+			"FOA_Rva": "0x0004C638"
+		},
+		{
+			"Text_Raw": "彼女が太ったとしても愛せる自信はあるが、健康を考えればカロリーは十分足りているだろう。",
+			"Text_Tra": "I'd still love her even if she was a lard ass, but from a health perspective, she's getting enough calories.",
+			"FOA_Ptr": "0x00040104",
+			"FOA_Rva": "0x0004C63F"
+		},
+		{
+			"Text_Raw": "「って、甘やかせとは食べ物の話ではありませんよ！？」",
+			"Text_Tra": "『I want you to do more than just let me eat food, anyway!』",
+			"FOA_Ptr": "0x0004015C",
+			"FOA_Rva": "0x0004C698"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00040174",
+			"FOA_Rva": "0x0004C6DD"
+		},
+		{
+			"Text_Raw": "思い出したように春がツッコミをいれてくる。",
+			"Text_Tra": "Haru snaps back to the subject at hand.",
+			"FOA_Ptr": "0x000401B4",
+			"FOA_Rva": "0x0004C6E4"
+		},
+		{
+			"Text_Raw": "なんだこうだ、彼女もわかりやすく明るくなったなーと嬉しく思いつつ。",
+			"Text_Tra": "She seems so bright and cheerful now.",
+			"FOA_Ptr": "0x0004020C",
+			"FOA_Rva": "0x0004C711"
+		},
+		{
+			"Text_Raw": "「食べ物じゃないんだ。それなら、頭を撫でながら『可愛い』とか『愛している』って１００回言うみたいな甘やかしでもいいけど？」",
+			"Text_Tra": "『More than food? Like... I stroke your head while saying \"cute\" and \"I love you\" 100 times?』",
+			"FOA_Ptr": "0x00040264",
+			"FOA_Rva": "0x0004C756"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004027C",
+			"FOA_Rva": "0x0004C7D2"
+		},
+		{
+			"Text_Raw": "「そんな――！？」",
+			"Text_Tra": "『What?!』",
+			"FOA_Ptr": "0x000402BC",
+			"FOA_Rva": "0x0004C7D9"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000402D4",
+			"FOA_Rva": "0x0004C7FC"
+		},
+		{
+			"Text_Raw": "「そんな……そんな……？」",
+			"Text_Tra": "『What-is that an option?!』",
+			"FOA_Ptr": "0x00040314",
+			"FOA_Rva": "0x0004C803"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004032C",
+			"FOA_Rva": "0x0004C82E"
+		},
+		{
+			"Text_Raw": "「いや、そ、それはしてもらったら嬉しいでしょうが、今は、そういう話ではないのです！」",
+			"Text_Tra": "『No, no, I'd love that too, but that's not what we're talking about now either!』",
+			"FOA_Ptr": "0x0004036C",
+			"FOA_Rva": "0x0004C835"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00040384",
+			"FOA_Rva": "0x0004C89A"
+		},
+		{
+			"Text_Raw": "「嘘のつけない言霊使いの女の子って、素直すぎてくっそ可愛いよね」",
+			"Text_Tra": "『Ah, a Kotodama user who can't lie is such a cute thing to see!』",
+			"FOA_Ptr": "0x000403C4",
+			"FOA_Rva": "0x0004C8A1"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000403DC",
+			"FOA_Rva": "0x0004C8E3"
+		},
+		{
+			"Text_Raw": "「だーかーらー！？」",
+			"Text_Tra": "『Hey!』",
+			"FOA_Ptr": "0x00040484",
+			"FOA_Rva": "0x0004C8EA"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004049C",
+			"FOA_Rva": "0x0004C90F"
+		},
+		{
+			"Text_Raw": "春が子どもっぽくなり、ぷんすかと両腕を振る。",
+			"Text_Tra": "Haru crosses her arms, looking like an upset child again.",
+			"FOA_Ptr": "0x000404EC",
+			"FOA_Rva": "0x0004C916"
+		},
+		{
+			"Text_Raw": "そろそろ、からかいすぎか――もっと見ていたい慌てぶりだが。",
+			"Text_Tra": "I think I might be taking teasing her too far-and yet I also want to see more of it.",
+			"FOA_Ptr": "0x00040544",
+			"FOA_Rva": "0x0004C945"
+		},
+		{
+			"Text_Raw": "さておき、彼女の言葉の内容から、春には『甘やかし』について具体的なネタがあるようだ。",
+			"Text_Tra": "From what she just said, anyway, it sounds like she has some ideas of what she actually wants.",
+			"FOA_Ptr": "0x0004059C",
+			"FOA_Rva": "0x0004C982"
+		},
+		{
+			"Text_Raw": "「ごめんごめん。ちゃんと冗談めかさず聞くから、どうぞ」",
+			"Text_Tra": "『I'm sorry, I'm just kidding. Tell me what you want.』",
+			"FOA_Ptr": "0x000405F4",
+			"FOA_Rva": "0x0004C9D9"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004060C",
+			"FOA_Rva": "0x0004CA11"
+		},
+		{
+			"Text_Raw": "「もう！　もう！　あまり女をからかうものではありませんよ！？」",
+			"Text_Tra": "『Yes! Good! You shouldn't mock women too much, you understand?』",
+			"FOA_Ptr": "0x0004064C",
+			"FOA_Rva": "0x0004CA18"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00040664",
+			"FOA_Rva": "0x0004CA67"
+		},
+		{
+			"Text_Raw": "ひとしきり、怒っているように見えない怒りっぷりを披露した後――",
+			"Text_Tra": "After giving me the I-really-am-angry-honest performance, she settles back down.",
+			"FOA_Ptr": "0x000406A4",
+			"FOA_Rva": "0x0004CA6E"
+		},
+		{
+			"Text_Raw": "「ふう」",
+			"Text_Tra": "『Phew.』",
+			"FOA_Ptr": "0x000406FC",
+			"FOA_Rva": "0x0004CAAF"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00040714",
+			"FOA_Rva": "0x0004CAC8"
+		},
+		{
+			"Text_Raw": "春が息をついて落ち着く。",
+			"Text_Tra": "Then lets out a sigh.",
+			"FOA_Ptr": "0x00040754",
+			"FOA_Rva": "0x0004CACF"
+		},
+		{
+			"Text_Raw": "戦闘と訓練が常のカントは、この一瞬の感情コントロールが上手い。",
+			"Text_Tra": "Kanto is a country of combat and training, meaning she has excellent control of her emotions at all times.",
+			"FOA_Ptr": "0x000407AC",
+			"FOA_Rva": "0x0004CAEA"
+		},
+		{
+			"Text_Raw": "「おっほん。お兄様、これからわたしの話すことは、あくまでも知的好奇心からの内容です」",
+			"Text_Tra": "『Ahem. What I'm about to ask comes purely from a place of intellectual curiosity.』",
+			"FOA_Ptr": "0x00040804",
+			"FOA_Rva": "0x0004CB2B"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004081C",
+			"FOA_Rva": "0x0004CB90"
+		},
+		{
+			"Text_Raw": "「はい。どうぞ」",
+			"Text_Tra": "『Okay. Go ahead.』",
+			"FOA_Ptr": "0x0004085C",
+			"FOA_Rva": "0x0004CB97"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040874",
+			"FOA_Rva": "0x0004CBA9"
+		},
+		{
+			"Text_Raw": "なんだろうと、しっかり向き合う。",
+			"Text_Tra": "I look right at her, wondering where this is going.",
+			"FOA_Ptr": "0x000408B4",
+			"FOA_Rva": "0x0004CBB0"
+		},
+		{
+			"Text_Raw": "「あの、ですね、お兄様がカントの風習を尊重してくださっていることはわかっていまして――」",
+			"Text_Tra": "『Well, Brother, I know you are doing your best to respect the customs of Kanto.』",
+			"FOA_Ptr": "0x0004090C",
+			"FOA_Rva": "0x0004CBD3"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00040924",
+			"FOA_Rva": "0x0004CC3C"
+		},
+		{
+			"Text_Raw": "「それと同じように、わたしとしましても、お兄様の古代の風習や感覚を尊重したいと思っているのです」",
+			"Text_Tra": "『And at the same time, I'm trying to respect your ancient customs and sensibilities.』",
+			"FOA_Ptr": "0x00040964",
+			"FOA_Rva": "0x0004CC43"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004097C",
+			"FOA_Rva": "0x0004CCB4"
+		},
+		{
+			"Text_Raw": "「うん。そうだね。春は一番、そういうところで僕を大事にしてくれているね」",
+			"Text_Tra": "『Yes. That's right. You're really making an effort.』",
+			"FOA_Ptr": "0x000409BC",
+			"FOA_Rva": "0x0004CCBB"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000409D4",
+			"FOA_Rva": "0x0004CD05"
+		},
+		{
+			"Text_Raw": "まったく否定する要素はなく、ありがたいとうなずく。",
+			"Text_Tra": "There's nothing here for me to digress with, and I give a grateful nod.",
+			"FOA_Ptr": "0x00040A14",
+			"FOA_Rva": "0x0004CD0C"
+		},
+		{
+			"Text_Raw": "「そこで、えーと、ですね」",
+			"Text_Tra": "『Which is why-』",
+			"FOA_Ptr": "0x00040A6C",
+			"FOA_Rva": "0x0004CD41"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00040A84",
+			"FOA_Rva": "0x0004CD6C"
+		},
+		{
+			"Text_Raw": "「古代の性行為の知識や考え方というものを、改めてお聞きしたいのです」",
+			"Text_Tra": "『I want to know more about ancient attitudes toward sexual acts.』",
+			"FOA_Ptr": "0x00040AC4",
+			"FOA_Rva": "0x0004CD73"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00040ADC",
+			"FOA_Rva": "0x0004CDC8"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x00040B1C",
+			"FOA_Rva": "0x0004CDCF"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040B34",
+			"FOA_Rva": "0x0004CDDD"
+		},
+		{
+			"Text_Raw": "「ああ……なるほど」",
+			"Text_Tra": "『Ah. Okay.』",
+			"FOA_Ptr": "0x00040B74",
+			"FOA_Rva": "0x0004CDE4"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040B8C",
+			"FOA_Rva": "0x0004CDFA"
+		},
+		{
+			"Text_Raw": "今度も、余計なことを言わずにうなずく。",
+			"Text_Tra": "I keep any comments to myself this time too, and just nod.",
+			"FOA_Ptr": "0x00040BCC",
+			"FOA_Rva": "0x0004CE01"
+		},
+		{
+			"Text_Raw": "平静を装っていたが、脳みそがフル回転した。",
+			"Text_Tra": "I'm playing it cool on the outside, but my head is whirring at top speed.",
+			"FOA_Ptr": "0x00040C24",
+			"FOA_Rva": "0x0004CE2A"
+		},
+		{
+			"Text_Raw": "まず、僕らの性生活についてだが――部屋でのまっとうなＨは、あれから何度かしている。",
+			"Text_Tra": "In regard to our current sex life-we've had sex in my room numerous times now.",
+			"FOA_Ptr": "0x00040C7C",
+			"FOA_Rva": "0x0004CE57"
+		},
+		{
+			"Text_Raw": "それ自体、特に珍しいことではないだろう。",
+			"Text_Tra": "I'm presuming that's pretty normal in Kanto too.",
+			"FOA_Ptr": "0x00040CD4",
+			"FOA_Rva": "0x0004CEAC"
+		},
+		{
+			"Text_Raw": "カントの性行為は『子作り』を最大の目的にしていて、妊娠を確実にするために短期間に何度もセックスをするはずだ。",
+			"Text_Tra": "The main point of sex is to have children, and so couples probably screw a lot in a short period of time to ensure that happens.",
+			"FOA_Ptr": "0x00040D2C",
+			"FOA_Rva": "0x0004CED7"
+		},
+		{
+			"Text_Raw": "しかし――しかしだ。",
+			"Text_Tra": "However-",
+			"FOA_Ptr": "0x00040D84",
+			"FOA_Rva": "0x0004CF46"
+		},
+		{
+			"Text_Raw": "僕らに限っては、言霊によって春の妊娠はすでに成立している。",
+			"Text_Tra": "In our case, the Kotodama means that the pregnancy is already confirmed.",
+			"FOA_Ptr": "0x00040DDC",
+			"FOA_Rva": "0x0004CF5D"
+		},
+		{
+			"Text_Raw": "つまり、２回目以降のセックスは、春としても快感や愛情のための行為になっているわけだ。",
+			"Text_Tra": "Which means any sex from then on is just about pleasure and love for Haru.",
+			"FOA_Ptr": "0x00040E34",
+			"FOA_Rva": "0x0004CF9A"
+		},
+		{
+			"Text_Raw": "彼女もそれはわかっていて――恥ずかしそうにしている。",
+			"Text_Tra": "She knows that too-and seems a little embarrassed about it.",
+			"FOA_Ptr": "0x00040E8C",
+			"FOA_Rva": "0x0004CFF1"
+		},
+		{
+			"Text_Raw": "普段はおしとやかな子が、快楽だけを目的に身体を求めてくるのって、くっそエロいよな。",
+			"Text_Tra": "Having a normally quiet girl wanting your body purely for pleasure is super erotic.",
+			"FOA_Ptr": "0x00040EE4",
+			"FOA_Rva": "0x0004D028"
+		},
+		{
+			"Text_Raw": "そのうえで、春の『甘やかしてくれ』と言い訳した提案は、『もっと気持ちよくなりたい』とか『まんねり対策を』ということだろう。",
+			"Text_Tra": "This way of framing it as wanting something more from me is another way of letting me know she's looking for even greater pleasure.",
+			"FOA_Ptr": "0x00040F3C",
+			"FOA_Rva": "0x0004D07D"
+		},
+		{
+			"Text_Raw": "素晴らしい提案だ！（ここまで３秒）",
+			"Text_Tra": "What a wonderful idea! (It's been about three seconds at this point.)",
+			"FOA_Ptr": "0x00040F94",
+			"FOA_Rva": "0x0004D0FA"
+		},
+		{
+			"Text_Raw": "「確かに、古代の性行為そのものの知識なんて、紙に書きだしてはいなかったね」",
+			"Text_Tra": "『I see. Well, I didn't write anything about sex in my pages, that's true.』",
+			"FOA_Ptr": "0x00040FEC",
+			"FOA_Rva": "0x0004D11F"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041004",
+			"FOA_Rva": "0x0004D16B"
+		},
+		{
+			"Text_Raw": "だらしなく歪みそうな表情筋を抑え、僕はまともな微笑みを作る。",
+			"Text_Tra": "I try to keep the lust from warping my face, and give an honest smile in response.",
+			"FOA_Ptr": "0x00041044",
+			"FOA_Rva": "0x0004D172"
+		},
+		{
+			"Text_Raw": "「古代のことを色々と知ろうとしてくれる春は、優しいね」",
+			"Text_Tra": "『You're very kind, Haru, with this desire to learn about the past.』",
+			"FOA_Ptr": "0x0004109C",
+			"FOA_Rva": "0x0004D1B1"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000410B4",
+			"FOA_Rva": "0x0004D1E9"
+		},
+		{
+			"Text_Raw": "「え、ええ。婚姻や家庭という考え方はありましたが、お兄様と身体を重ねるのなら、そういうところも……うう、恥ずかしい！」",
+			"Text_Tra": "『Well, thank you. You talked about marriage and families, but if we're going to be having sex then I need to-ahh, this is embarrassing!』",
+			"FOA_Ptr": "0x00041188",
+			"FOA_Rva": "0x0004D1F0"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000411A0",
+			"FOA_Rva": "0x0004D277"
+		},
+		{
+			"Text_Raw": "春が突然、真っ赤にした頬に手をあてて声をあげた。",
+			"Text_Tra": "Haru suddenly places her hands on her burning red cheeks.",
+			"FOA_Ptr": "0x000411F0",
+			"FOA_Rva": "0x0004D27E"
+		},
+		{
+			"Text_Raw": "「もう！　お兄様、わたしの言おうとしていることをわかっていて、澄ました顔で対応するのはおやめください！」",
+			"Text_Tra": "『Please! You know what I'm talking about, Brother, so stop sitting there with that look on your face!』",
+			"FOA_Ptr": "0x000412CC",
+			"FOA_Rva": "0x0004D2B1"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000412E4",
+			"FOA_Rva": "0x0004D32A"
+		},
+		{
+			"Text_Raw": "「そうです！　そうの通りです！　春はもっとセックスしたいのです！　お兄様に気持ちよくなって欲しいのです！」",
+			"Text_Tra": "『Yes! You're right! I want to have more sex! I want you to feel good, Brother!』",
+			"FOA_Ptr": "0x0004139C",
+			"FOA_Rva": "0x0004D331"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000413B4",
+			"FOA_Rva": "0x0004D3AC"
+		},
+		{
+			"Text_Raw": "「春は、優しいのではなく、やらしい子なーんーでーすー！」",
+			"Text_Tra": "『I'm not kind! I'm dirty, and sexy!』",
+			"FOA_Ptr": "0x00041404",
+			"FOA_Rva": "0x0004D3B3"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004141C",
+			"FOA_Rva": "0x0004D3FC"
+		},
+		{
+			"Text_Raw": "いやいやと春が長い髪ごと首を振る。",
+			"Text_Tra": "Haru shakes her head from side to side again, her hair waving around.",
+			"FOA_Ptr": "0x0004145C",
+			"FOA_Rva": "0x0004D403"
+		},
+		{
+			"Text_Raw": "「いやー、どちゃくそ可愛いな」",
+			"Text_Tra": "『You're cute, that's what you are! Such a cutie!』",
+			"FOA_Ptr": "0x000414B4",
+			"FOA_Rva": "0x0004D428"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000414CC",
+			"FOA_Rva": "0x0004D448"
+		},
+		{
+			"Text_Raw": "「もう！　もう！」",
+			"Text_Tra": "『Please! Enough!』",
+			"FOA_Ptr": "0x00041574",
+			"FOA_Rva": "0x0004D44F"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004158C",
+			"FOA_Rva": "0x0004D472"
+		},
+		{
+			"Text_Raw": "春が僕の胸を叩くが、ぽかぽかと、強化していないとまったく痛くもない。",
+			"Text_Tra": "Haru raps me on the chest, but she hasn't enhanced herself, so it doesn't hurt at all.",
+			"FOA_Ptr": "0x000415DC",
+			"FOA_Rva": "0x0004D479"
+		},
+		{
+			"Text_Raw": "「ごめん、本当にごめん、わかった。僕も春に気持ちよくなって欲しいし、古代のセックスについてはっきり話すから」",
+			"Text_Tra": "『I'm sorry. I'm really sorry. I get it. I want you to feel good too, so I'll let you know everything I can about sex from the good old days.』",
+			"FOA_Ptr": "0x00041650",
+			"FOA_Rva": "0x0004D4C0"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041668",
+			"FOA_Rva": "0x0004D52E"
+		},
+		{
+			"Text_Raw": "彼女の腕をとり、ふくれている顔を間近にしながら、苦笑してしまう。",
+			"Text_Tra": "I take her arm, and give her a smile as I look her in the face.",
+			"FOA_Ptr": "0x000416A8",
+			"FOA_Rva": "0x0004D535"
+		},
+		{
+			"Text_Raw": "相手がここまで取り乱していると、こっちは平静でいられるな。",
+			"Text_Tra": "She's so riled up, I can hardly keep control myself.",
+			"FOA_Ptr": "0x00041700",
+			"FOA_Rva": "0x0004D578"
+		},
+		{
+			"Text_Raw": "「ぷう」",
+			"Text_Tra": "『Ooh!』",
+			"FOA_Ptr": "0x00041758",
+			"FOA_Rva": "0x0004D5B5"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00041770",
+			"FOA_Rva": "0x0004D5CE"
+		},
+		{
+			"Text_Raw": "春が頬をふくらませながら、ひとまず落ち着いてくれた。",
+			"Text_Tra": "Haru puffs up her cheeks, but manages to calm down.",
+			"FOA_Ptr": "0x000417B0",
+			"FOA_Rva": "0x0004D5D5"
+		},
+		{
+			"Text_Raw": "「古代のセックスだけど、基本的にはカントと変わらないよ」",
+			"Text_Tra": "『Sex back in my time was pretty much the same as it is here.』",
+			"FOA_Ptr": "0x00041808",
+			"FOA_Rva": "0x0004D60C"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041820",
+			"FOA_Rva": "0x0004D646"
+		},
+		{
+			"Text_Raw": "これ以上の無駄口は本気で怒られそうなので、すぐに話を進める。",
+			"Text_Tra": "I get right down to business, rather than risking pissing her off again.",
+			"FOA_Ptr": "0x00041860",
+			"FOA_Rva": "0x0004D64D"
+		},
+		{
+			"Text_Raw": "体位が四十八手あるとかなんとか言葉の知識はあるが、セックスでやることは同じだ。",
+			"Text_Tra": "I've heard talk of 48 positions or whatever, but at the end of the day, sex is sex.",
+			"FOA_Ptr": "0x000418B8",
+			"FOA_Rva": "0x0004D68C"
+		},
+		{
+			"Text_Raw": "「違いがあるとすれば、古代だと道具を使うとか、いつもと違う服でセックスするとかかなー」",
+			"Text_Tra": "『Maybe people used toys in the past, or would have sex wearing different outfits, but that's about it.』",
+			"FOA_Ptr": "0x00041910",
+			"FOA_Rva": "0x0004D6DD"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041928",
+			"FOA_Rva": "0x0004D735"
+		},
+		{
+			"Text_Raw": "ひとまずで思いついた話をする。",
+			"Text_Tra": "I just go wherever my mouth takes me.",
+			"FOA_Ptr": "0x00041968",
+			"FOA_Rva": "0x0004D73C"
+		},
+		{
+			"Text_Raw": "「服のほうはわかりますが、道具？」",
+			"Text_Tra": "『Clothing I understand, but toys?』",
+			"FOA_Ptr": "0x000419C0",
+			"FOA_Rva": "0x0004D75D"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000419D8",
+			"FOA_Rva": "0x0004D790"
+		},
+		{
+			"Text_Raw": "春が小首をかしげる。",
+			"Text_Tra": "Haru tilts her head.",
+			"FOA_Ptr": "0x00041A18",
+			"FOA_Rva": "0x0004D797"
+		},
+		{
+			"Text_Raw": "まったく意味が伝わっていない無垢な表情で――背徳感があって興奮してしまうね。",
+			"Text_Tra": "Her naïve look, completely nonplussed by what I might mean, just turns me on all the more.",
+			"FOA_Ptr": "0x00041A70",
+			"FOA_Rva": "0x0004D7AE"
+		},
+		{
+			"Text_Raw": "「僕が自分で使ったという知識はないけど、ローターとかバイブとか、そういう道具があったんだよ」",
+			"Text_Tra": "『I've never used them myself, so I don't know the details, but things like... vibrators, you would call them, or dildos. Things like that.』",
+			"FOA_Ptr": "0x00041AC8",
+			"FOA_Rva": "0x0004D7FD"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041AE0",
+			"FOA_Rva": "0x0004D85B"
+		},
+		{
+			"Text_Raw": "「あ、ああ……バイブはカントにもありますね」",
+			"Text_Tra": "『Oh, I see... Yes, we have dildos in Kanto.』",
+			"FOA_Ptr": "0x00041B20",
+			"FOA_Rva": "0x0004D862"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00041B38",
+			"FOA_Rva": "0x0004D89F"
+		},
+		{
+			"Text_Raw": "春が遅れて意味に気づき、目線を逸らしながら言う。",
+			"Text_Tra": "Haru realizes what I mean, and looks aside a little shyly.",
+			"FOA_Ptr": "0x00041B78",
+			"FOA_Rva": "0x0004D8A6"
+		},
+		{
+			"Text_Raw": "「柔らかい木で作った、男の方のおちんちんを模したものですね」",
+			"Text_Tra": "『Something made to look like a man's cock, carved from soft wood.』",
+			"FOA_Ptr": "0x00041BD0",
+			"FOA_Rva": "0x0004D8D9"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00041BE8",
+			"FOA_Rva": "0x0004D926"
+		},
+		{
+			"Text_Raw": "「わたしは使ったことがありませんが、子作りの許可が出ていない女の欲求不満の解消に使うものらしいですね」",
+			"Text_Tra": "『I've never used one either, but I've heard women who aren't allowed to have children will use them to relieve their stress.』",
+			"FOA_Ptr": "0x00041C28",
+			"FOA_Rva": "0x0004D92D"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00041C40",
+			"FOA_Rva": "0x0004D9A4"
+		},
+		{
+			"Text_Raw": "「本当に春は使ったことはないの？」",
+			"Text_Tra": "『You've really never used one?』",
+			"FOA_Ptr": "0x00041C80",
+			"FOA_Rva": "0x0004D9AB"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041C98",
+			"FOA_Rva": "0x0004D9CF"
+		},
+		{
+			"Text_Raw": "「あ、ありません！　なぜ、念押しの確認をされるのですか！？」",
+			"Text_Tra": "『No, of course not! Why are you making so sure of that?』",
+			"FOA_Ptr": "0x00041D38",
+			"FOA_Rva": "0x0004D9D6"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00041D50",
+			"FOA_Rva": "0x0004DA23"
+		},
+		{
+			"Text_Raw": "もう何度目かだが、可愛く怒られてしまった。",
+			"Text_Tra": "I've pissed her off again, but her reactions are just so cute.",
+			"FOA_Ptr": "0x00041D90",
+			"FOA_Rva": "0x0004DA2A"
+		},
+		{
+			"Text_Raw": "いや、使っていたらエロいなと思っていただけだが。",
+			"Text_Tra": "I mean, I just thought it'd be sexy if she had used one.",
+			"FOA_Ptr": "0x00041DE8",
+			"FOA_Rva": "0x0004DA57"
+		},
+		{
+			"Text_Raw": "「古代のバイブは機械式のものもあって、ごつごつしたイボがあったり、中に入れたあとで先のほうがグネグネ動いたりするらしいよ」",
+			"Text_Tra": "『We used to have mechanical ones called vibrators. Some of them were all bumpy and stuff, and would wriggle around.』",
+			"FOA_Ptr": "0x00041E40",
+			"FOA_Rva": "0x0004DA8A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041E58",
+			"FOA_Rva": "0x0004DB06"
+		},
+		{
+			"Text_Raw": "「な、中で、ご、ごつごつ、ぐねぐね……」",
+			"Text_Tra": "『Bumpy... wriggling...』",
+			"FOA_Ptr": "0x00041E98",
+			"FOA_Rva": "0x0004DB0D"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00041EB0",
+			"FOA_Rva": "0x0004DB46"
+		},
+		{
+			"Text_Raw": "想像してしまったか、春がぶるりと震える。",
+			"Text_Tra": "Haru gives a shudder, perhaps imagining how that might all feel.",
+			"FOA_Ptr": "0x00041EF0",
+			"FOA_Rva": "0x0004DB4D"
+		},
+		{
+			"Text_Raw": "無意識に股間に手が伸びそうになり、彼女はぐっとこらえて、胸に手を当てた。",
+			"Text_Tra": "Her hand also looks like it wants to reach for her pussy, but she withholds that desire.",
+			"FOA_Ptr": "0x00041F48",
+			"FOA_Rva": "0x0004DB78"
+		},
+		{
+			"Text_Raw": "いやら――素晴らしいなぁ。",
+			"Text_Tra": "Wow. This is all wonderful.",
+			"FOA_Ptr": "0x00041FA0",
+			"FOA_Rva": "0x0004DBC3"
+		},
+		{
+			"Text_Raw": "「と、とにかく、機械式のものは技術の発展を待つしかありませんね！」",
+			"Text_Tra": "『Anyway! It sounds like we'll have to wait for technology to catch up for some of this stuff to come back.』",
+			"FOA_Ptr": "0x00041FF8",
+			"FOA_Rva": "0x0004DBE0"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00042010",
+			"FOA_Rva": "0x0004DC33"
+		},
+		{
+			"Text_Raw": "『その方向の技術発展もやるんだ』とはツッコミをいれずにおこう。",
+			"Text_Tra": "I don't question the fact that she's planning on pushing technology in the direction of sex toys.",
+			"FOA_Ptr": "0x00042050",
+			"FOA_Rva": "0x0004DC3A"
+		},
+		{
+			"Text_Raw": "「そ、それでしたら、まず古代の風習で出来ることは、いつもと違う服装でのセックスというものですか？」",
+			"Text_Tra": "『In that case, if there's something from ancient times we could do together, it would be... sex wearing different clothing from normal?』",
+			"FOA_Ptr": "0x000420A8",
+			"FOA_Rva": "0x0004DC7B"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000420C0",
+			"FOA_Rva": "0x0004DCEE"
+		},
+		{
+			"Text_Raw": "「そうだね。僕と春なら制服で教室へ行って、委員会とか部活で放課後に２人だけ残されて勢いでしちゃうとか、教師と生徒のイメージプレイとか？」",
+			"Text_Tra": "『Yes. We could put on our uniforms and go to the classroom, like a teacher and student having an illicit affair after school hours.』",
+			"FOA_Ptr": "0x00042100",
+			"FOA_Rva": "0x0004DCF5"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042118",
+			"FOA_Rva": "0x0004DD7F"
+		},
+		{
+			"Text_Raw": "そういうのがＡＶの制服モノの定番か？",
+			"Text_Tra": "Uniforms were a staple of the porn industry, I recall.",
+			"FOA_Ptr": "0x00042158",
+			"FOA_Rva": "0x0004DD86"
+		},
+		{
+			"Text_Raw": "いや、すごいな僕の知識、そういうものはあるんだな（自主ツッコミ）。",
+			"Text_Tra": "I even have knowledge (all second hand) on stuff like this!",
+			"FOA_Ptr": "0x000421B0",
+			"FOA_Rva": "0x0004DDAD"
+		},
+		{
+			"Text_Raw": "「えーと……途中からよくわかりませんでしたが、つまり、服装にあわせてセックスの環境を変えたりということですね」",
+			"Text_Tra": "『Hold on... I'm not sure about that last part, but you're saying we use clothing to change the circumstances of our sex?』",
+			"FOA_Ptr": "0x00042208",
+			"FOA_Rva": "0x0004DDF2"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00042220",
+			"FOA_Rva": "0x0004DE71"
+		},
+		{
+			"Text_Raw": "春の顔はまだ赤いが、理解そのものはしっかりしてくれているようだ。",
+			"Text_Tra": "Haru's face is bright red, but she gets it.",
+			"FOA_Ptr": "0x00042260",
+			"FOA_Rva": "0x0004DE78"
+		},
+		{
+			"Text_Raw": "「では、その、春が制服に着替えてきましたら、お兄様は嬉しいのでしょうか？」",
+			"Text_Tra": "『So if I changed into my uniform, that would make you happy?』",
+			"FOA_Ptr": "0x000422B8",
+			"FOA_Rva": "0x0004DEBB"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000422D0",
+			"FOA_Rva": "0x0004DF16"
+		},
+		{
+			"Text_Raw": "「嬉しいし興奮するね」",
+			"Text_Tra": "『Happy, and turned on too.』",
+			"FOA_Ptr": "0x00042310",
+			"FOA_Rva": "0x0004DF1D"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042328",
+			"FOA_Rva": "0x0004DF35"
+		},
+		{
+			"Text_Raw": "自信のない様子の上目遣いで訊ねられ、ちょっと股間が反応してしまう。",
+			"Text_Tra": "She looks up at me, her eyes still a little unsure, which makes my crotch twitch as well.",
+			"FOA_Ptr": "0x00042368",
+			"FOA_Rva": "0x0004DF3C"
+		},
+		{
+			"Text_Raw": "と――",
+			"Text_Tra": "Then-",
+			"FOA_Ptr": "0x000423C0",
+			"FOA_Rva": "0x0004DF81"
+		},
+		{
+			"Text_Raw": "「あ、そうだ！」",
+			"Text_Tra": "『Ah, I know!』",
+			"FOA_Ptr": "0x00042418",
+			"FOA_Rva": "0x0004DF8A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042430",
+			"FOA_Rva": "0x0004DF9C"
+		},
+		{
+			"Text_Raw": "僕は大事なことを思い出し、大声をあげてしまった。",
+			"Text_Tra": "I remember something important, and proclaim loudly.",
+			"FOA_Ptr": "0x00042470",
+			"FOA_Rva": "0x0004DFA3"
+		},
+		{
+			"Text_Raw": "「ど、どうしました？」",
+			"Text_Tra": "『What's the matter now?』",
+			"FOA_Ptr": "0x000424C8",
+			"FOA_Rva": "0x0004DFD6"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000424E0",
+			"FOA_Rva": "0x0004DFFD"
+		},
+		{
+			"Text_Raw": "「いや、そうだよ！　温泉だ！」",
+			"Text_Tra": "『No, I've had an idea! Hot springs!』",
+			"FOA_Ptr": "0x00042520",
+			"FOA_Rva": "0x0004E004"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042538",
+			"FOA_Rva": "0x0004E024"
+		},
+		{
+			"Text_Raw": "『プレイ”ということなら服を着せるのもいいが、カントに来てすぐの頃から、ずっとお預けになっているシチュエーションがあった。",
+			"Text_Tra": "The idea of roleplay is a good one, and I'm sure we'll circle back to it, but I've had this situation in mind since arriving in Kanto!",
+			"FOA_Ptr": "0x00042578",
+			"FOA_Rva": "0x0004E02B"
+		},
+		{
+			"Text_Raw": "女の子と温泉に入ることこそ本懐ではないか！",
+			"Text_Tra": "Nothing could top sharing a hot spring with a hot girl!",
+			"FOA_Ptr": "0x000425D0",
+			"FOA_Rva": "0x0004E0A8"
+		},
+		{
+			"Text_Raw": "「僕は、女の子と温泉はいりたいです！」",
+			"Text_Tra": "『I wanna share a hot spring with you!』",
+			"FOA_Ptr": "0x00042628",
+			"FOA_Rva": "0x0004E0D5"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042640",
+			"FOA_Rva": "0x0004E0FD"
+		},
+		{
+			"Text_Raw": "「え？　あ、はぁ、そうですか？」",
+			"Text_Tra": "『Huh? Ah, you do?』",
+			"FOA_Ptr": "0x00042680",
+			"FOA_Rva": "0x0004E104"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00042698",
+			"FOA_Rva": "0x0004E135"
+		},
+		{
+			"Text_Raw": "春がきょとんとしているが――",
+			"Text_Tra": "Haru looks surprised.",
+			"FOA_Ptr": "0x000426D8",
+			"FOA_Rva": "0x0004E13C"
+		},
+		{
+			"Text_Raw": "「いや、だってあの温泉、八剣専用の混浴だっていうのに、僕、女の子と一緒に入ったこと一度もないよ！？」",
+			"Text_Tra": "『I mean, we have the baths for the Eight Swords, but we still haven't hopped in together!』",
+			"FOA_Ptr": "0x00042730",
+			"FOA_Rva": "0x0004E15B"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042748",
+			"FOA_Rva": "0x0004E1C1"
+		},
+		{
+			"Text_Raw": "「冬人さんとしか一緒になったことないし！？」",
+			"Text_Tra": "『I've only ever been in the hot spring with Fuyuhito!』",
+			"FOA_Ptr": "0x00042788",
+			"FOA_Rva": "0x0004E1C8"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000427A0",
+			"FOA_Rva": "0x0004E1F6"
+		},
+		{
+			"Text_Raw": "僕は力説してしまう。",
+			"Text_Tra": "I'm passionately making my case.",
+			"FOA_Ptr": "0x000427E0",
+			"FOA_Rva": "0x0004E1FD"
+		},
+		{
+			"Text_Raw": "異性との触れ合いではなく、男の裸ばかりが記憶に残ってしまっている。",
+			"Text_Tra": "My head is full of nothing but memories of being in the buff with a dude.",
+			"FOA_Ptr": "0x00042838",
+			"FOA_Rva": "0x0004E214"
+		},
+		{
+			"Text_Raw": "「そ、それはまあ、茜と葵は自分の家にお風呂がありますし――」",
+			"Text_Tra": "『Well, okay. Akane and Aoi bathe in their own house, after all...』",
+			"FOA_Ptr": "0x00042890",
+			"FOA_Rva": "0x0004E259"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000428A8",
+			"FOA_Rva": "0x0004E2A6"
+		},
+		{
+			"Text_Raw": "「わたしや燕は、脱衣所の籠で男性が先に入っていることに気づけば、遠慮しますからね？」",
+			"Text_Tra": "『And Tsubame and I tend to wait our turn if there is someone else in there first.』",
+			"FOA_Ptr": "0x000428E8",
+			"FOA_Rva": "0x0004E2AD"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00042900",
+			"FOA_Rva": "0x0004E312"
+		},
+		{
+			"Text_Raw": "それが普通ではないかと春が小首をかしげる。",
+			"Text_Tra": "Haru tilts her head, thinking that's just normal.",
+			"FOA_Ptr": "0x00042940",
+			"FOA_Rva": "0x0004E319"
+		},
+		{
+			"Text_Raw": "いや、わかっているけどさ！",
+			"Text_Tra": "No, I get it, I get it!",
+			"FOA_Ptr": "0x00042998",
+			"FOA_Rva": "0x0004E346"
+		},
+		{
+			"Text_Raw": "ハプニング的な混浴とか、現実にはないだろうが、そこはロマンではないか！",
+			"Text_Tra": "I know people don't just bump into each other naked, that's hardly real life, but still!",
+			"FOA_Ptr": "0x000429F0",
+			"FOA_Rva": "0x0004E363"
+		},
+		{
+			"Text_Raw": "「では、今から一緒に入りますか？」",
+			"Text_Tra": "『Okay then. Why don't we bathe together?』",
+			"FOA_Ptr": "0x00042A48",
+			"FOA_Rva": "0x0004E3AC"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00042A60",
+			"FOA_Rva": "0x0004E3DF"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x00042AA0",
+			"FOA_Rva": "0x0004E3E6"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042AB8",
+			"FOA_Rva": "0x0004E3F4"
+		},
+		{
+			"Text_Raw": "「……いいの？」",
+			"Text_Tra": "『...Would that be okay?』",
+			"FOA_Ptr": "0x00042AF8",
+			"FOA_Rva": "0x0004E3FB"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042B10",
+			"FOA_Rva": "0x0004E40D"
+		},
+		{
+			"Text_Raw": "春の言葉に、今度は僕のほうがきょとんとしてしまう。",
+			"Text_Tra": "Now I'm the one surprised by Haru.",
+			"FOA_Ptr": "0x00042B50",
+			"FOA_Rva": "0x0004E414"
+		},
+		{
+			"Text_Raw": "「え？　ええ、お兄様がそこまで一緒に入りたいということなら、わたしとでしたら、なんの問題もないでしょうし」",
+			"Text_Tra": "『Huh? Of course. If you want to, I see no reason why not.』",
+			"FOA_Ptr": "0x00042C08",
+			"FOA_Rva": "0x0004E449"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00042C20",
+			"FOA_Rva": "0x0004E4C4"
+		},
+		{
+			"Text_Raw": "すでに恋仲で、肉体関係もあるのだからと、普通にうなずかれてしまう。",
+			"Text_Tra": "We're already lovers, and definitely already screwing, so she just gives me the nod.",
+			"FOA_Ptr": "0x00042C60",
+			"FOA_Rva": "0x0004E4CB"
+		},
+		{
+			"Text_Raw": "え？",
+			"Text_Tra": "Uh?",
+			"FOA_Ptr": "0x00042CFC",
+			"FOA_Rva": "0x0004E510"
+		},
+		{
+			"Text_Raw": "マジで？",
+			"Text_Tra": "Really?",
+			"FOA_Ptr": "0x00042D54",
+			"FOA_Rva": "0x0004E517"
+		},
+		{
+			"Text_Raw": "いいのか？",
+			"Text_Tra": "For real?",
+			"FOA_Ptr": "0x00042DAC",
+			"FOA_Rva": "0x0004E522"
+		},
+		{
+			"Text_Raw": "………………",
+			"Text_Tra": "......",
+			"FOA_Ptr": "0x00042E04",
+			"FOA_Rva": "0x0004E52F"
+		},
+		{
+			"Text_Raw": "…………",
+			"Text_Tra": "...",
+			"FOA_Ptr": "0x00042E5C",
+			"FOA_Rva": "0x0004E53E"
+		},
+		{
+			"Text_Raw": "……",
+			"Text_Tra": "...",
+			"FOA_Ptr": "0x00042EB4",
+			"FOA_Rva": "0x0004E549"
+		},
+		{
+			"Text_Raw": "そして――",
+			"Text_Tra": "And so-",
+			"FOA_Ptr": "0x00042F40",
+			"FOA_Rva": "0x0004E550"
+		},
+		{
+			"Text_Raw": "温泉にやってきた。",
+			"Text_Tra": "I arrive at the hot springs.",
+			"FOA_Ptr": "0x00043024",
+			"FOA_Rva": "0x0004E55D"
+		},
+		{
+			"Text_Raw": "入浴の準備があると一度部屋に戻った春より先に、裸で温泉に立つ。",
+			"Text_Tra": "Haru returned to her room to get some things ready for bathing, so I'm naked in the baths first.",
+			"FOA_Ptr": "0x0004307C",
+			"FOA_Rva": "0x0004E572"
+		},
+		{
+			"Text_Raw": "夏の昼間に、開放感のある露天風呂に仁王立ちすると、最高に気持ちがよい。",
+			"Text_Tra": "It feels amazing to be standing, naked, legs apart, on the edge of an outdoors bath in the middle of the summer daytime. So liberating.",
+			"FOA_Ptr": "0x000430D4",
+			"FOA_Rva": "0x0004E5B3"
+		},
+		{
+			"Text_Raw": "主に股間が涼しい。",
+			"Text_Tra": "My crotch, in particular, feels super cool.",
+			"FOA_Ptr": "0x0004312C",
+			"FOA_Rva": "0x0004E5FC"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x00043184",
+			"FOA_Rva": "0x0004E611"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004319C",
+			"FOA_Rva": "0x0004E61F"
+		},
+		{
+			"Text_Raw": "そわそわしてしまう。",
+			"Text_Tra": "I'm getting a bit excited.",
+			"FOA_Ptr": "0x000431DC",
+			"FOA_Rva": "0x0004E626"
+		},
+		{
+			"Text_Raw": "いや……過去に一度、春とは混浴をしたのだ。",
+			"Text_Tra": "I mean... I have been in the baths with Haru once, now that I think about it.",
+			"FOA_Ptr": "0x00043234",
+			"FOA_Rva": "0x0004E63D"
+		},
+		{
+			"Text_Raw": "それに、裸もセックスのときに見ている。",
+			"Text_Tra": "And I've seen her naked. We've had sex, for cat's sake.",
+			"FOA_Ptr": "0x0004328C",
+			"FOA_Rva": "0x0004E66A"
+		},
+		{
+			"Text_Raw": "「でも、お、落ち着かないな」",
+			"Text_Tra": "『But I can't seem to calm down.』",
+			"FOA_Ptr": "0x000432E4",
+			"FOA_Rva": "0x0004E693"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000432FC",
+			"FOA_Rva": "0x0004E6B1"
+		},
+		{
+			"Text_Raw": "どうしようかと考え、特に汗をかいていたわけではないが、頭から湯をかぶっておく。",
+			"Text_Tra": "I'm not even really sweating, but as I try to think of how to tackle this, I pour some water over me, starting from my head.",
+			"FOA_Ptr": "0x0004333C",
+			"FOA_Rva": "0x0004E6B8"
+		},
+		{
+			"Text_Raw": "それと……股間のところだけ洗っておこう。",
+			"Text_Tra": "I guess I should wash my crotch as well.",
+			"FOA_Ptr": "0x00043394",
+			"FOA_Rva": "0x0004E709"
+		},
+		{
+			"Text_Raw": "身だしなみを整え、他にすることがなく、湯船に浸かっておく。",
+			"Text_Tra": "Once I'm all washed up, I don't have anything else to do, so I just soak in the water.",
+			"FOA_Ptr": "0x000433EC",
+			"FOA_Rva": "0x0004E734"
+		},
+		{
+			"Text_Raw": "と――脱衣所のほうから音がした。",
+			"Text_Tra": "Then I hear sounds from the changing area.",
+			"FOA_Ptr": "0x00043444",
+			"FOA_Rva": "0x0004E771"
+		},
+		{
+			"Text_Raw": "戸を開閉する音と、脱衣所で服を脱ぐ音、そして、ペタペタと裸足の足音が聞こえた。",
+			"Text_Tra": "The exterior door opening; the sounds of someone getting naked; the sound of naked feet moving in this direction.",
+			"FOA_Ptr": "0x0004349C",
+			"FOA_Rva": "0x0004E794"
+		},
+		{
+			"Text_Raw": "興奮しながら、ひとつひとつの音に耳を澄ませていた僕の隣に、彼女が腰をおろした。",
+			"Text_Tra": "Just that is getting me turned on, and as I listen intently to every sound, she finally sits down next to me.",
+			"FOA_Ptr": "0x000434F4",
+			"FOA_Rva": "0x0004E7E5"
+		},
+		{
+			"Text_Raw": "「ふう……お待たせしました」",
+			"Text_Tra": "『Phew. Sorry to keep you waiting.』",
+			"FOA_Ptr": "0x000435C4",
+			"FOA_Rva": "0x0004E836"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000435DC",
+			"FOA_Rva": "0x0004E863"
+		},
+		{
+			"Text_Raw": "いつかのように、体の前面を手ぬぐいで隠しながら、春が僕に笑いかけてきた。",
+			"Text_Tra": "Just like the last time this happened, she's covering-barely-her body with a modesty towel, as she gives me a smile.",
+			"FOA_Ptr": "0x0004361C",
+			"FOA_Rva": "0x0004E86A"
+		},
+		{
+			"Text_Raw": "「……いや、そんなに待ってないよ」",
+			"Text_Tra": "『...Don't worry, I wasn't waiting too long.』",
+			"FOA_Ptr": "0x00043674",
+			"FOA_Rva": "0x0004E8B5"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004368C",
+			"FOA_Rva": "0x0004E8D9"
+		},
+		{
+			"Text_Raw": "僕は呆けた声を返してしまう。",
+			"Text_Tra": "I made a pretty dumb comment.",
+			"FOA_Ptr": "0x000436CC",
+			"FOA_Rva": "0x0004E8E0"
+		},
+		{
+			"Text_Raw": "生唾を飲み込んでしまう。",
+			"Text_Tra": "I swallow, hard.",
+			"FOA_Ptr": "0x00043724",
+			"FOA_Rva": "0x0004E8FF"
+		},
+		{
+			"Text_Raw": "取り乱してはいない――いまいち現実感がないせいだろう。",
+			"Text_Tra": "I'm keeping it together-but maybe because it doesn't quite feel real yet.",
+			"FOA_Ptr": "0x0004377C",
+			"FOA_Rva": "0x0004E91A"
+		},
+		{
+			"Text_Raw": "女の子と温泉に入れるなんて本当に夢のようだ。",
+			"Text_Tra": "Getting to go to a hot spring with a girl like her is like a dream.",
+			"FOA_Ptr": "0x000437D4",
+			"FOA_Rva": "0x0004E953"
+		},
+		{
+			"Text_Raw": "いや、もちろん、古代でもちゃんと恋人関係になった男女は、そういうこともしたのだろう。",
+			"Text_Tra": "I mean, couples in the past surely did this all this time.",
+			"FOA_Ptr": "0x0004382C",
+			"FOA_Rva": "0x0004E982"
+		},
+		{
+			"Text_Raw": "そんなうらやまけしからんシチュエーションが、ついに、僕にも訪れたのだ。",
+			"Text_Tra": "But now it's finally my turn. I actually get to do this!",
+			"FOA_Ptr": "0x00043884",
+			"FOA_Rva": "0x0004E9D9"
+		},
+		{
+			"Text_Raw": "「ふう」",
+			"Text_Tra": "『Phew.』",
+			"FOA_Ptr": "0x000438DC",
+			"FOA_Rva": "0x0004EA22"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000438F4",
+			"FOA_Rva": "0x0004EA3B"
+		},
+		{
+			"Text_Raw": "春が熱そうな吐息を漏らす。",
+			"Text_Tra": "Haru sounds quite hot.",
+			"FOA_Ptr": "0x00043934",
+			"FOA_Rva": "0x0004EA42"
+		},
+		{
+			"Text_Raw": "いやぁ、色っぽい……。",
+			"Text_Tra": "She looks it, too...",
+			"FOA_Ptr": "0x0004398C",
+			"FOA_Rva": "0x0004EA5F"
+		},
+		{
+			"Text_Raw": "以前は、まだカントに慣れていなかった時期であり、興奮よりも動揺のほうが強かった。",
+			"Text_Tra": "The last time this happened, I was still unsure of Kanto's ways, and was shaken up more than turned on.",
+			"FOA_Ptr": "0x000439E4",
+			"FOA_Rva": "0x0004EA78"
+		},
+		{
+			"Text_Raw": "それが今は、じっくり観察しても心に余裕があり――彼女もそれを{咎/とが}めたりはしない。",
+			"Text_Tra": "This time I have the leeway to really take in the sights-the peaks, the valleys-and she isn't going to rebuke me for some sightseeing either.",
+			"FOA_Ptr": "0x00043A3C",
+			"FOA_Rva": "0x0004EACB"
+		},
+		{
+			"Text_Raw": "「一度だけ、お兄様とこうして一緒に温泉でお話したことがありますが、懐かしいですね」",
+			"Text_Tra": "『We did talk like this once in the baths, didn't we? That takes me back.』",
+			"FOA_Ptr": "0x00043AC8",
+			"FOA_Rva": "0x0004EB23"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00043AE0",
+			"FOA_Rva": "0x0004EB86"
+		},
+		{
+			"Text_Raw": "春が、へにゃりと笑う。",
+			"Text_Tra": "Haru gives a laugh.",
+			"FOA_Ptr": "0x00043B20",
+			"FOA_Rva": "0x0004EB8D"
+		},
+		{
+			"Text_Raw": "「ああ、僕がカントで目覚めた翌日だね」",
+			"Text_Tra": "『That's right. The morning after I awoke here.』",
+			"FOA_Ptr": "0x00043B78",
+			"FOA_Rva": "0x0004EBA6"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043B90",
+			"FOA_Rva": "0x0004EBCE"
+		},
+		{
+			"Text_Raw": "冬人と初めて会ったときのことだ。",
+			"Text_Tra": "That was also the first time I met Fuyuhito.",
+			"FOA_Ptr": "0x00043BD0",
+			"FOA_Rva": "0x0004EBD5"
+		},
+		{
+			"Text_Raw": "もしくは、『言霊使いの血を後世に残すため、わたしと子どもを作って欲しい』と、遠回しすぎて僕は気づかなかった告白をされたときでもある。",
+			"Text_Tra": "It was also the moment she gave me a roundabout proposal about having a child with her in order to preserve the Kotodama user bloodline.",
+			"FOA_Ptr": "0x00043C28",
+			"FOA_Rva": "0x0004EBF8"
+		},
+		{
+			"Text_Raw": "あのときは、あまり下半身のほうを見ないでくれと恥ずかしがられたが――",
+			"Text_Tra": "She also asked me not to look down at her too much during that encounter, because it was embarrassing-",
+			"FOA_Ptr": "0x00043CDC",
+			"FOA_Rva": "0x0004EC7F"
+		},
+		{
+			"Text_Raw": "「あの、露骨に下半身のほうへ視線を向けられますと……照れます」",
+			"Text_Tra": "『Can you not stare quite so openly at my lower body? It's a little embarrassing.』",
+			"FOA_Ptr": "0x00043D34",
+			"FOA_Rva": "0x0004ECC6"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00043D4C",
+			"FOA_Rva": "0x0004ED15"
+		},
+		{
+			"Text_Raw": "「あ、やっぱり？」",
+			"Text_Tra": "『Oh, yeah. Sorry.』",
+			"FOA_Ptr": "0x00043DE8",
+			"FOA_Rva": "0x0004ED1C"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043E00",
+			"FOA_Rva": "0x0004ED30"
+		},
+		{
+			"Text_Raw": "今でもそれは変わらないらしい。",
+			"Text_Tra": "That doesn't seem to have changed.",
+			"FOA_Ptr": "0x00043E40",
+			"FOA_Rva": "0x0004ED37"
+		},
+		{
+			"Text_Raw": "まあ、僕だって身体を重ねたあとでも、彼女に股間を凝視されたら照れはする。",
+			"Text_Tra": "Well, even after all the sex we've had, I'd feel a bit uncomfortable with her staring at my cock.",
+			"FOA_Ptr": "0x00043E98",
+			"FOA_Rva": "0x0004ED58"
+		},
+		{
+			"Text_Raw": "「下半身はいいけど、手ぬぐいはなくてもいいんじゃない？」",
+			"Text_Tra": "『I'll try to keep my eyes upstairs, but do you really need the towel?』",
+			"FOA_Ptr": "0x00043EF0",
+			"FOA_Rva": "0x0004EDA3"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043F08",
+			"FOA_Rva": "0x0004EDDD"
+		},
+		{
+			"Text_Raw": "「それは、つまり、おっぱいが見たいということですね……まったく、お兄様はおっぱい大好きなんですから」",
+			"Text_Tra": "『It sounds like you just want to see my breasts. You really love them, don't you?』",
+			"FOA_Ptr": "0x00043F48",
+			"FOA_Rva": "0x0004EDE4"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00043F60",
+			"FOA_Rva": "0x0004EE59"
+		},
+		{
+			"Text_Raw": "仕方ない人だと、可愛く叱られてしまう。",
+			"Text_Tra": "She gives me a cute little berating.",
+			"FOA_Ptr": "0x00043FA0",
+			"FOA_Rva": "0x0004EE60"
+		},
+		{
+			"Text_Raw": "「まあ、今さら否定しない。僕は、おっぱいが大好きだ。春の裸はすごくきれいだしね」",
+			"Text_Tra": "『Hey, I'm not going to say otherwise at this point. I love tits, you bet I do. And you look so hot naked.』",
+			"FOA_Ptr": "0x00043FF8",
+			"FOA_Rva": "0x0004EE89"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044010",
+			"FOA_Rva": "0x0004EEDB"
+		},
+		{
+			"Text_Raw": "見せて欲しいという要望でもあるが、言葉の通り、彼女の身体がきれいだと褒める。",
+			"Text_Tra": "Of course I want her to flash me the goods, but I also mean it when I say she looks beautiful.",
+			"FOA_Ptr": "0x00044050",
+			"FOA_Rva": "0x0004EEE2"
+		},
+		{
+			"Text_Raw": "「ふふ。ありがとうございます。わたしもお兄様の裸を見るのは好きですよ」",
+			"Text_Tra": "『Hehe. Thank you. I like seeing you naked too.』",
+			"FOA_Ptr": "0x000440DC",
+			"FOA_Rva": "0x0004EF31"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000440F4",
+			"FOA_Rva": "0x0004EF88"
+		},
+		{
+			"Text_Raw": "くすくすと、ようやく肩の力が抜けた様子で春が笑う。",
+			"Text_Tra": "Haru giggles, finally letting the tension slide from her shoulders.",
+			"FOA_Ptr": "0x00044134",
+			"FOA_Rva": "0x0004EF8F"
+		},
+		{
+			"Text_Raw": "「それで、一緒に温泉に入っていますが、どうしましょう？」",
+			"Text_Tra": "『Here we are, then. We're together in the hot springs, so what next?』",
+			"FOA_Ptr": "0x0004418C",
+			"FOA_Rva": "0x0004EFC4"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000441A4",
+			"FOA_Rva": "0x0004F00D"
+		},
+		{
+			"Text_Raw": "「僕は……春といやらしいことがしたい」",
+			"Text_Tra": "『I want to do... something dirty with you.』",
+			"FOA_Ptr": "0x000441E4",
+			"FOA_Rva": "0x0004F014"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000441FC",
+			"FOA_Rva": "0x0004F03C"
+		},
+		{
+			"Text_Raw": "躊躇いを捨て、僕は告げる。",
+			"Text_Tra": "I throw all hesitation away.",
+			"FOA_Ptr": "0x0004423C",
+			"FOA_Rva": "0x0004F043"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x00044294",
+			"FOA_Rva": "0x0004F060"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000442AC",
+			"FOA_Rva": "0x0004F07D"
+		},
+		{
+			"Text_Raw": "彼女がわずかに熱っぽい視線で僕を見つめた。",
+			"Text_Tra": "She gives me a sexy look.",
+			"FOA_Ptr": "0x000442EC",
+			"FOA_Rva": "0x0004F084"
+		},
+		{
+			"Text_Raw": "「はい。春も、我慢できません。お兄様といやらしいことをしたいです」",
+			"Text_Tra": "『Okay. I can't stand it any longer either. I want to do something dirty with you, too.』",
+			"FOA_Ptr": "0x00044344",
+			"FOA_Rva": "0x0004F0B1"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004435C",
+			"FOA_Rva": "0x0004F104"
+		},
+		{
+			"Text_Raw": "「じゃあ、僕の上に座って」",
+			"Text_Tra": "『So come sit on top of me.』",
+			"FOA_Ptr": "0x0004439C",
+			"FOA_Rva": "0x0004F10B"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000443B4",
+			"FOA_Rva": "0x0004F127"
+		},
+		{
+			"Text_Raw": "僕は手を広げ、露骨に要求する。",
+			"Text_Tra": "I spread my arms, and make my dirty request.",
+			"FOA_Ptr": "0x000443F4",
+			"FOA_Rva": "0x0004F12E"
+		},
+		{
+			"Text_Raw": "彼女はそれに応え、手ぬぐいをどけて、僕の胸に腰をおろしていった。",
+			"Text_Tra": "She responds at once, removing her towel, and coming to sit in my lap.",
+			"FOA_Ptr": "0x0004444C",
+			"FOA_Rva": "0x0004F14F"
+		},
+		{
+			"Text_Raw": "「あ！？　お兄様、ちょっと、おちんちんを、もう、いれ――ん！」",
+			"Text_Tra": "『Ah?! Brother, your cock, it's going inside already-mmnn!』",
+			"FOA_Ptr": "0x000446E4",
+			"FOA_Rva": "0x0004F192"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000446FC",
+			"FOA_Rva": "0x0004F1E1"
+		},
+		{
+			"Text_Raw": "春を胸に抱き抱えながら、僕は勃起していたペニスを立て、彼女の秘部にあてがった。",
+			"Text_Tra": "Even as I take her into my arms, my erect cock is already pressing against her.",
+			"FOA_Ptr": "0x0004473C",
+			"FOA_Rva": "0x0004F1E8"
+		},
+		{
+			"Text_Raw": "「いいから。ほら、湯で濡れてるなら痛くはないだろうし」",
+			"Text_Tra": "『It's fine. We're all wet and slippery, it'll slide right in.』",
+			"FOA_Ptr": "0x00044794",
+			"FOA_Rva": "0x0004F239"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000447AC",
+			"FOA_Rva": "0x0004F271"
+		},
+		{
+			"Text_Raw": "驚く春を背後から抱きしめ、逃がさず、そのまま腰をおろさせる。",
+			"Text_Tra": "I hold the surprised girl from behind, gently stopping her from getting away, and lower her down onto my lap.",
+			"FOA_Ptr": "0x000447EC",
+			"FOA_Rva": "0x0004F278"
+		},
+		{
+			"Text_Raw": "「はぁ……っ、もう……いきなり、ですね」",
+			"Text_Tra": "『Hah... oh... This was sudden.』",
+			"FOA_Ptr": "0x00044844",
+			"FOA_Rva": "0x0004F2B7"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004485C",
+			"FOA_Rva": "0x0004F2F0"
+		},
+		{
+			"Text_Raw": "非難の声をあげるが、ほとんど抵抗なく、彼女も腰をくねらせて僕のモノを受け入れてくれた。",
+			"Text_Tra": "She protests a little, but with almost no resistance, she twists her waist and takes my cock.",
+			"FOA_Ptr": "0x0004489C",
+			"FOA_Rva": "0x0004F2F7"
+		},
+		{
+			"Text_Raw": "「あ、あ、あ、ああ……こ、これ、わたしの重さで、お、おまんこの、奥、一番奥まで、っ、ふ……あ、あ、は……」",
+			"Text_Tra": "『Ah, ah, ah, aah... My body is pushing down, ah, pushing your cock deep inside me, ah, ooh... ah, ah, haah...』",
+			"FOA_Ptr": "0x000448F4",
+			"FOA_Rva": "0x0004F350"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004490C",
+			"FOA_Rva": "0x0004F3CB"
+		},
+		{
+			"Text_Raw": "ゆっくりとした動きで刺激は軽いだろうが、だからこそ挿入されている感覚をじっくりと味わい、春姫が途切れがちな声をあげる。",
+			"Text_Tra": "The stimulation can't be too intense because we're still moving slowly, but that also allows us both to fully relish the feeling of penetration, with Haru gasping along the way.",
+			"FOA_Ptr": "0x0004494C",
+			"FOA_Rva": "0x0004F3D2"
+		},
+		{
+			"Text_Raw": "僕のほうも、彼女のおまんこを押し広げていく感覚と、湯とは違うぬめぬめとした温かさをじっくり味わっているから、わかる。",
+			"Text_Tra": "I can understand why; I'm feeling my cock pushing up into her, along with the warm water all around us, and very much enjoying it myself.",
+			"FOA_Ptr": "0x000449A4",
+			"FOA_Rva": "0x0004F44B"
+		},
+		{
+			"Text_Raw": "「ふ、ぅ……今日はいつもと違うから、ね……ゆっくりと」",
+			"Text_Tra": "『Ooh... This is different from normal... so let's take it nice and slow.』",
+			"FOA_Ptr": "0x000449FC",
+			"FOA_Rva": "0x0004F4C2"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044A14",
+			"FOA_Rva": "0x0004F4FA"
+		},
+		{
+			"Text_Raw": "僕は彼女の耳元でささやく。",
+			"Text_Tra": "I murmur into her ear.",
+			"FOA_Ptr": "0x00044A54",
+			"FOA_Rva": "0x0004F501"
+		},
+		{
+			"Text_Raw": "「ん、あ、あ……はぁ……お兄様の、おちんちん、気持ち、いい……」",
+			"Text_Tra": "『Mmn, ah, ah... hah... Brother, your cock, it feels so good...』",
+			"FOA_Ptr": "0x00044AE0",
+			"FOA_Rva": "0x0004F51E"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00044AF8",
+			"FOA_Rva": "0x0004F56F"
+		},
+		{
+			"Text_Raw": "ささやきと、湯の熱さと、身の内からの火照りに、春が息をつく。",
+			"Text_Tra": "My comment, and the warmth of the water, and the heat blooming inside her, they all make Haru gasp.",
+			"FOA_Ptr": "0x00044B38",
+			"FOA_Rva": "0x0004F576"
+		},
+		{
+			"Text_Raw": "「湯で濡れていれば、痛くない、って、そんなこと……」",
+			"Text_Tra": "『I can't believe... it doesn't hurt at all, with this hot water...』",
+			"FOA_Ptr": "0x00044B90",
+			"FOA_Rva": "0x0004F5B5"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00044BA8",
+			"FOA_Rva": "0x0004F5FA"
+		},
+		{
+			"Text_Raw": "「ん……まあ、服を脱いだときから、おまんこが濡れて、下着が汚れてしまっていましたが……」",
+			"Text_Tra": "『Although... when I took my clothes off, my panties were already wet... from my dripping pussy...』",
+			"FOA_Ptr": "0x00044BE8",
+			"FOA_Rva": "0x0004F601"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00044C00",
+			"FOA_Rva": "0x0004F66A"
+		},
+		{
+			"Text_Raw": "ぼーっとしているせいか、正直に話してしまうところが、本当に愛しい。",
+			"Text_Tra": "The fact she lets me know this, and spells it out so clearly, is so sweet.",
+			"FOA_Ptr": "0x00044C40",
+			"FOA_Rva": "0x0004F671"
+		},
+		{
+			"Text_Raw": "「春、春、好きだよ」",
+			"Text_Tra": "『Haru, Haru, I love you.』",
+			"FOA_Ptr": "0x00044C98",
+			"FOA_Rva": "0x0004F6B6"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044CB0",
+			"FOA_Rva": "0x0004F6CC"
+		},
+		{
+			"Text_Raw": "僕は微笑みながら、背後から春をぎゅっと抱きしめる。",
+			"Text_Tra": "A smile curves my lips as I hold her from behind.",
+			"FOA_Ptr": "0x00044CF0",
+			"FOA_Rva": "0x0004F6D3"
+		},
+		{
+			"Text_Raw": "湯気でしめった髪からよい匂いがするし、肌が赤く染まっても、なお白いうなじも色っぽい。",
+			"Text_Tra": "I can smell her damp hair, and while her skin is red, the nape of her neck is still white and sexy.",
+			"FOA_Ptr": "0x00044D48",
+			"FOA_Rva": "0x0004F708"
+		},
+		{
+			"Text_Raw": "「ふふ。はい。春もお兄様をお慕い申しております♪」",
+			"Text_Tra": "『Hehe. Thank you. I have great affection for you too, Brother.』",
+			"FOA_Ptr": "0x00044DD4",
+			"FOA_Rva": "0x0004F75F"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00044DEC",
+			"FOA_Rva": "0x0004F7A2"
+		},
+		{
+			"Text_Raw": "彼女も背を、僕の胸板に押し当ててくる。",
+			"Text_Tra": "She presses her back into my chest.",
+			"FOA_Ptr": "0x00044E2C",
+			"FOA_Rva": "0x0004F7A9"
+		},
+		{
+			"Text_Raw": "もっちりとした春の重さと、お尻の感触がたまらない。",
+			"Text_Tra": "I can't get over the feeling of her presence, and the sensation of her ass.",
+			"FOA_Ptr": "0x00044E84",
+			"FOA_Rva": "0x0004F7D2"
+		},
+		{
+			"Text_Raw": "彼女の抱き心地は、本当に気持ちが良い。",
+			"Text_Tra": "It feels so good to just hold her.",
+			"FOA_Ptr": "0x00044EDC",
+			"FOA_Rva": "0x0004F807"
+		},
+		{
+			"Text_Raw": "カントの女の子は基本的に、活発であったり戦闘訓練のため、身体が引き締まっている感じがする。",
+			"Text_Tra": "The girls in Kanto are generally very active and always training for combat, giving them tight, lean bodies.",
+			"FOA_Ptr": "0x00044F34",
+			"FOA_Rva": "0x0004F830"
+		},
+		{
+			"Text_Raw": "双子は常に走り回っているし、優里も普段から腕立て伏せや走り込みをしているだろう。",
+			"Text_Tra": "The twins are always running around everywhere, and Yuri basically wakes up doing pushups.",
+			"FOA_Ptr": "0x00044F8C",
+			"FOA_Rva": "0x0004F88D"
+		},
+		{
+			"Text_Raw": "しかし、言霊使いである春は、身体そのものをあまり鍛えていない。",
+			"Text_Tra": "But Haru is a Kotodama user, so she hasn't really trained her body.",
+			"FOA_Ptr": "0x00044FE4",
+			"FOA_Rva": "0x0004F8E0"
+		},
+		{
+			"Text_Raw": "戦闘能力を支えているのは精神の強さによる強化だからだ。",
+			"Text_Tra": "Her powers in combat come from her enhancements, which rely on her mental strength.",
+			"FOA_Ptr": "0x0004503C",
+			"FOA_Rva": "0x0004F921"
+		},
+		{
+			"Text_Raw": "だからこそ、贅肉という意味ではなく、女の子らしいふっくらと柔らかい肉付きのよさがある。",
+			"Text_Tra": "That's why, I'm not going to call her chubby, but she has a little feminine softness to her.",
+			"FOA_Ptr": "0x00045094",
+			"FOA_Rva": "0x0004F95A"
+		},
+		{
+			"Text_Raw": "「春、身体をまさぐるよ」",
+			"Text_Tra": "『Haru, I'm going to touch you now.』",
+			"FOA_Ptr": "0x000450EC",
+			"FOA_Rva": "0x0004F9B3"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00045104",
+			"FOA_Rva": "0x0004F9CD"
+		},
+		{
+			"Text_Raw": "すでに胸などに触れているが、いきなり動かしては驚かせるだろうと、声をかける。",
+			"Text_Tra": "I've already got my hands on her tits, but I don't want to surprise her by suddenly moving around.",
+			"FOA_Ptr": "0x00045144",
+			"FOA_Rva": "0x0004F9D4"
+		},
+		{
+			"Text_Raw": "我慢できない。",
+			"Text_Tra": "I just can't hold back.",
+			"FOA_Ptr": "0x0004519C",
+			"FOA_Rva": "0x0004FA23"
+		},
+		{
+			"Text_Raw": "「ん、ふふ……はい、どうぞ。お兄様のお好きな、ように、春を愛してくださいませ……」",
+			"Text_Tra": "『Mmn, hehe... Okay. Please, go ahead. Show me your love, Brother...』",
+			"FOA_Ptr": "0x000451F4",
+			"FOA_Rva": "0x0004FA34"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004520C",
+			"FOA_Rva": "0x0004FA97"
+		},
+		{
+			"Text_Raw": "みだらさを秘めた微笑み。",
+			"Text_Tra": "She gives me a sexy chuckle.",
+			"FOA_Ptr": "0x0004524C",
+			"FOA_Rva": "0x0004FA9E"
+		},
+		{
+			"Text_Raw": "そんないやらしい妹に、僕は軽く腰をくねらせ、おっぱいをぎゅっと握った。",
+			"Text_Tra": "I gently twist my waist, grabbing her tits, seeking to further tease my sexy sister.",
+			"FOA_Ptr": "0x000452A4",
+			"FOA_Rva": "0x0004FAB9"
+		},
+		{
+			"Text_Raw": "「ふ、あ、あ……はっ、は、こ、これ、気持ちよさ、が、ゆっくり、で……あ、ん、ん……」",
+			"Text_Tra": "『Ooh, ah, ah... Hah, hah, this feels so good, going slowly... ah, mmn, mmn...』",
+			"FOA_Ptr": "0x00045330",
+			"FOA_Rva": "0x0004FB02"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00045348",
+			"FOA_Rva": "0x0004FB67"
+		},
+		{
+			"Text_Raw": "「は、はぁ……ゆ、ゆっくり、おっぱいや、おまんこ、触られる、と、あ、これ、気持ちよさ、違う……ん！　はぁ、はぁ……！」",
+			"Text_Tra": "『Hah, hah... When you touch my breasts, and my pussy, so gently, it feels so good... mmn! Hah, hah...!』",
+			"FOA_Ptr": "0x00045388",
+			"FOA_Rva": "0x0004FB6E"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000453A0",
+			"FOA_Rva": "0x0004FBF5"
+		},
+		{
+			"Text_Raw": "湯に浸かった状態での、ゆっくりとした愛撫と突き上げに、春がとろけた声をあげる。",
+			"Text_Tra": "We're in the water, and I gently stroke her, making Haru moan again.",
+			"FOA_Ptr": "0x000453E0",
+			"FOA_Rva": "0x0004FBFC"
+		},
+		{
+			"Text_Raw": "「あ、は、んん……！　き、気持ち良さ、が、じ、じわじわ、ん、っふ……はっ、はっ……」",
+			"Text_Tra": "『Ah, hah, mnn...! It feels good... It feels really good now, mmn, ooh... hah, hah...』",
+			"FOA_Ptr": "0x00045438",
+			"FOA_Rva": "0x0004FC4D"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00045450",
+			"FOA_Rva": "0x0004FCB2"
+		},
+		{
+			"Text_Raw": "「うん……ぅ……これ、いつもと違う、気持ちよさ、だ」",
+			"Text_Tra": "『Hmmm... Yeah... It does feel different than usual...』",
+			"FOA_Ptr": "0x00045490",
+			"FOA_Rva": "0x0004FCB9"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000454A8",
+			"FOA_Rva": "0x0004FCEF"
+		},
+		{
+			"Text_Raw": "女性をまさぐる快感に息を荒げながら、僕も認める。",
+			"Text_Tra": "I agree with her, breathing heavily from the pleasure of touching her.",
+			"FOA_Ptr": "0x000454E8",
+			"FOA_Rva": "0x0004FCF6"
+		},
+		{
+			"Text_Raw": "湯の中での行為を確かめるように、ゆっくりと動いただけだが、いつもと感覚が違う。",
+			"Text_Tra": "I'm moving slowly, to get a feeling for doing this in the water, and it certainly feels different from normal.",
+			"FOA_Ptr": "0x00045540",
+			"FOA_Rva": "0x0004FD29"
+		},
+		{
+			"Text_Raw": "互いの繋がりによる快感が、動きと同じように、じわじわと引き伸ばされているのだ。",
+			"Text_Tra": "The pleasure from our connection extends into our movements, leisurely spreading and extending.",
+			"FOA_Ptr": "0x00045598",
+			"FOA_Rva": "0x0004FD7A"
+		},
+		{
+			"Text_Raw": "いつものセックスよりもどかしいが、気持ちよさをじっくり味わえるため、わかりやすい。",
+			"Text_Tra": "I can enjoy the pleasure, the intimacy, even more than usual, really heightening the experience.",
+			"FOA_Ptr": "0x000455F0",
+			"FOA_Rva": "0x0004FDCB"
+		},
+		{
+			"Text_Raw": "春への愛と、春からの愛を、ゆっくりと心に感じられる。",
+			"Text_Tra": "I feel my love for Haru, and her love for me, in a much more relaxed setting than normal.",
+			"FOA_Ptr": "0x00045648",
+			"FOA_Rva": "0x0004FE20"
+		},
+		{
+			"Text_Raw": "ああ……これ、スローセックス、というやつだったか。",
+			"Text_Tra": "Aah... This is what they call... slow sex...",
+			"FOA_Ptr": "0x000456A0",
+			"FOA_Rva": "0x0004FE57"
+		},
+		{
+			"Text_Raw": "「ん、はぁ……」",
+			"Text_Tra": "『Mmn, hah...』",
+			"FOA_Ptr": "0x000456F8",
+			"FOA_Rva": "0x0004FE8C"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00045710",
+			"FOA_Rva": "0x0004FEAD"
+		},
+		{
+			"Text_Raw": "「もう……お兄様、は、なにか、しゃべりながら、おっぱい、ん、おっぱい、を、まさぐるの、ですから」",
+			"Text_Tra": "『That's because... you're talking while you play with my breasts...』",
+			"FOA_Ptr": "0x00045750",
+			"FOA_Rva": "0x0004FEB4"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00045768",
+			"FOA_Rva": "0x0004FF25"
+		},
+		{
+			"Text_Raw": "僕の手で、おっぱいを揉まれ、柔らかく潰され、春姫が身をよじる。",
+			"Text_Tra": "I'm squeezing and pulling on them, her body leaning back into me to get some more of it.",
+			"FOA_Ptr": "0x000457A8",
+			"FOA_Rva": "0x0004FF2C"
+		},
+		{
+			"Text_Raw": "気持ちよさによる無意識のよじりだろうが、その動きで、彼女の腰がいやらしく僕のおちんちんをねじった。",
+			"Text_Tra": "She's probably reacting completely unconsciously, but her movements make her waist twist on my cock.",
+			"FOA_Ptr": "0x00045800",
+			"FOA_Rva": "0x0004FF6D"
+		},
+		{
+			"Text_Raw": "「っ、春の腰つきだって、いやらしい、よ」",
+			"Text_Tra": "『The way you're riding me... it's so dirty...』",
+			"FOA_Ptr": "0x00045858",
+			"FOA_Rva": "0x0004FFD2"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00045870",
+			"FOA_Rva": "0x0004FFFC"
+		},
+		{
+			"Text_Raw": "春の動きにあわせ、僕も腰をかきまわす。",
+			"Text_Tra": "I also rotate a little, matching her movements.",
+			"FOA_Ptr": "0x000458B0",
+			"FOA_Rva": "0x00050003"
+		},
+		{
+			"Text_Raw": "「い、いやらしい、って……春は、い、いやらしい、子、ですが……はっ、あ、んん……！」",
+			"Text_Tra": "『Dirty, you say...? But we're here in the bath... hah, ah, mnn...!』",
+			"FOA_Ptr": "0x0004593C",
+			"FOA_Rva": "0x0005002C"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00045954",
+			"FOA_Rva": "0x00050091"
+		},
+		{
+			"Text_Raw": "「あ、あ、春の、おまんこ、そ、そこ……ん、ふ！　ん、はぁ、はぁ……！　あ、ん、ふっ……」",
+			"Text_Tra": "『Ah, ah, my pussy! Right there... mmn, ooh! Mmn, hah, hah...! Ah, mmn, oh...』",
+			"FOA_Ptr": "0x00045994",
+			"FOA_Rva": "0x00050098"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000459AC",
+			"FOA_Rva": "0x00050101"
+		},
+		{
+			"Text_Raw": "何度か膣内のよいところをこすられたらしく、春がぶるりと震える。",
+			"Text_Tra": "Haru shudders, like I've found just the spot inside her.",
+			"FOA_Ptr": "0x000459EC",
+			"FOA_Rva": "0x00050108"
+		},
+		{
+			"Text_Raw": "なるほど――密着しているせいで、どこで彼女が反応しているかが、よくわかった。",
+			"Text_Tra": "We're both pressed so close together, I can feel every reaction she makes.",
+			"FOA_Ptr": "0x00045A44",
+			"FOA_Rva": "0x00050149"
+		},
+		{
+			"Text_Raw": "「ここ、か……」",
+			"Text_Tra": "『Right here, is it...?』",
+			"FOA_Ptr": "0x00045A9C",
+			"FOA_Rva": "0x00050198"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00045AB4",
+			"FOA_Rva": "0x000501AA"
+		},
+		{
+			"Text_Raw": "僕は彼女が感じた場所を、少し勢いをつけて突き上げた。",
+			"Text_Tra": "I thrust up into her, a little harder, right in the spot she just enjoyed so much.",
+			"FOA_Ptr": "0x00045AF4",
+			"FOA_Rva": "0x000501B1"
+		},
+		{
+			"Text_Raw": "「はっ、はっ……あああ！　あ、そ、そこ、です、おちんちん、そこ、もっと、もっと……ん、は！」",
+			"Text_Tra": "『Hah, hah... aaah! Ah, there, right there! Give me more of your cock right there, more... mmn, hah!』",
+			"FOA_Ptr": "0x00045B80",
+			"FOA_Rva": "0x000501E8"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00045B98",
+			"FOA_Rva": "0x00050255"
+		},
+		{
+			"Text_Raw": "反応は激しく、彼女が今度こそ大きくよがった。",
+			"Text_Tra": "Her response is electric, making her jolt in my lap.",
+			"FOA_Ptr": "0x00045BD8",
+			"FOA_Rva": "0x0005025C"
+		},
+		{
+			"Text_Raw": "じゃぶじゃぶと、温泉の湯が波立った。",
+			"Text_Tra": "Ripples radiate out over the surface of the bath.",
+			"FOA_Ptr": "0x00045C30",
+			"FOA_Rva": "0x0005028B"
+		},
+		{
+			"Text_Raw": "「春の、春の、おまんこ、そこ、そこ、ん、あ！　お、お湯の熱さも、あって、熱い、あつ、い、んん……！」",
+			"Text_Tra": "『There, right there, in my pussy! That's the spot, mmn, ah! The water is so hot, too, so hot, ah, mnn...!』",
+			"FOA_Ptr": "0x00045C88",
+			"FOA_Rva": "0x000502B2"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00045CA0",
+			"FOA_Rva": "0x00050327"
+		},
+		{
+			"Text_Raw": "「春、すごい、いやらしくて……いい……よ……！」",
+			"Text_Tra": "『Haru, you're so sexy, ah... That's so good...!』",
+			"FOA_Ptr": "0x00045CE0",
+			"FOA_Rva": "0x0005032E"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00045CF8",
+			"FOA_Rva": "0x00050360"
+		},
+		{
+			"Text_Raw": "彼女の髪と、肌から立ち上りだした汗の匂いをいっぱいに吸い込みながら、僕は褒める。",
+			"Text_Tra": "I breathe in the smell of sweat rising from her skin, and the smell of her hair, while offering some praise to her.",
+			"FOA_Ptr": "0x00045D38",
+			"FOA_Rva": "0x00050367"
+		},
+		{
+			"Text_Raw": "「あ、だ、ダメ、もう……ん！　お兄様、お兄様、ぁ、そ、そんなこと、言われたら、あ、春は、春は……あ、は、あ！」",
+			"Text_Tra": "『Ah, no, no, enough... mmn! Brother, Brother, if you say that, I'm going to-ah, I'm going to, ah, hah, ah!』",
+			"FOA_Ptr": "0x00045D90",
+			"FOA_Rva": "0x000503BA"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00045DA8",
+			"FOA_Rva": "0x00050439"
+		},
+		{
+			"Text_Raw": "「春は、いやらしい、ことを、褒め、褒められて、しまったら、ダメ、です、ぅ……！　あ、はっ、はっ！　ん、ん、ふ、う……！」",
+			"Text_Tra": "『You can't complement me... about something so dirty...! Ah, hah, hah! Mmn, mmn, ooh, uh...!』",
+			"FOA_Ptr": "0x00045DE8",
+			"FOA_Rva": "0x00050440"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00045E00",
+			"FOA_Rva": "0x000504C9"
+		},
+		{
+			"Text_Raw": "言葉がもっとも感じるというように、彼女がぎゅっと身を縮こませた。",
+			"Text_Tra": "My words are making her feel it even more, and she scrunches up her body a little.",
+			"FOA_Ptr": "0x00045E40",
+			"FOA_Rva": "0x000504D0"
+		},
+		{
+			"Text_Raw": "もしかしたら、小刻みにでもイったのか。",
+			"Text_Tra": "I think she might've just came. Just a little.",
+			"FOA_Ptr": "0x00045E98",
+			"FOA_Rva": "0x00050513"
+		},
+		{
+			"Text_Raw": "一呼吸つかせてあげてもいいのだが――逆に、もっと彼女に高ぶって欲しいと、僕は乳首とクリトリスに指を這わせる。",
+			"Text_Tra": "Maybe I should let her catch her breath-but no, I decide I want to push her even higher, and start to play with her nipples and clitoris.",
+			"FOA_Ptr": "0x00045EF0",
+			"FOA_Rva": "0x0005053C"
+		},
+		{
+			"Text_Raw": "「ひゃ！？　あ、あ、あ、あ、あ、あああ！　あ、そ、そそ、そこ……んんん！」",
+			"Text_Tra": "『Hah! Ah, ah, ah, ah, ah, aaah! Ah, there, right there... mnnn!』",
+			"FOA_Ptr": "0x00045F7C",
+			"FOA_Rva": "0x000505AB"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00045F94",
+			"FOA_Rva": "0x00050606"
+		},
+		{
+			"Text_Raw": "大声になることだけは必死にこらえたというように、春が鳴く。",
+			"Text_Tra": "Haru moans, probably trying not to let herself get too loud.",
+			"FOA_Ptr": "0x00045FD4",
+			"FOA_Rva": "0x0005060D"
+		},
+		{
+			"Text_Raw": "僕は構わず、手のひらに吸いつくおっぱいを揉み、乳首をこりこりと指でほぐす。",
+			"Text_Tra": "But I don't care about that, squeezing her tit with one hand, my fingers rubbing over her nipple.",
+			"FOA_Ptr": "0x0004602C",
+			"FOA_Rva": "0x0005064A"
+		},
+		{
+			"Text_Raw": "「は、あああ！　はっ、あ、あ！　お、おっぱい、それ、先っぽ、ダメ、ダメ、です、ぅ……ふ……！」",
+			"Text_Tra": "『Hah, aaah! Hah, ah, ah! Not my nipple, not like that, no, no, aah... ooh...!』",
+			"FOA_Ptr": "0x00046084",
+			"FOA_Rva": "0x00050697"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004609C",
+			"FOA_Rva": "0x00050706"
+		},
+		{
+			"Text_Raw": "「は、や、やだ、こ、これ……！？　あ、あ！　やだ、兄様、春、おっぱい、で、おっぱい、だけで、イくのは、あ、ああ……！？」",
+			"Text_Tra": "『Hah, no, no...! Ah, ah! Oh, Brother, I'm going to cum, I'm going to cum just from you touching my breasts, ah, aah...!』",
+			"FOA_Ptr": "0x00046110",
+			"FOA_Rva": "0x0005070D"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00046128",
+			"FOA_Rva": "0x00050796"
+		},
+		{
+			"Text_Raw": "おまんこへの挿入は軽く、刺激もゆるいのに、胸だけでイかされるのは嫌だと、春が声をあげる。",
+			"Text_Tra": "I'm penetrating her pussy but not with any great vigor yet, so Haru seems reluctant to the idea of cumming so soon.",
+			"FOA_Ptr": "0x00046168",
+			"FOA_Rva": "0x0005079D"
+		},
+		{
+			"Text_Raw": "無意識にだろうが、身を縮こませようと手足が閉じそうになっていた。",
+			"Text_Tra": "It's probably unconscious, but she's squeezing her arms and legs closer to her body, as though trying to shrink down.",
+			"FOA_Ptr": "0x000461C0",
+			"FOA_Rva": "0x000507F8"
+		},
+		{
+			"Text_Raw": "だが――彼女の抵抗は、逆に僕を興奮させるだけだ。",
+			"Text_Tra": "But that resistance only turns me on even more.",
+			"FOA_Ptr": "0x00046218",
+			"FOA_Rva": "0x0005083B"
+		},
+		{
+			"Text_Raw": "「いいんだ……春、もっと、もっと、いやらしく、なって、いいから……！」",
+			"Text_Tra": "『Go ahead. I want you to get dirtier and dirtier... right here in the bath!』",
+			"FOA_Ptr": "0x00046270",
+			"FOA_Rva": "0x0005086E"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00046288",
+			"FOA_Rva": "0x000508B6"
+		},
+		{
+			"Text_Raw": "彼女のうなじに口づけ、舌を這わせながら、僕はささやく。",
+			"Text_Tra": "I kiss the nape of her neck, running my tongue along it, as I whisper to her.",
+			"FOA_Ptr": "0x000462C8",
+			"FOA_Rva": "0x000508BD"
+		},
+		{
+			"Text_Raw": "「ふあああ……！　あ、あああ、や、や、ダメ、ダ、メ、っ……あ、はっ、はっ、はっ！」",
+			"Text_Tra": "『Uaah...! Ah, aaah, no, no, I can't... ah, hah, hah, hah!』",
+			"FOA_Ptr": "0x00046320",
+			"FOA_Rva": "0x000508F6"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00046338",
+			"FOA_Rva": "0x00050959"
+		},
+		{
+			"Text_Raw": "もはや春の震えは止まらず、ギリギリのところで激しくイくのをこらえている様子だ。",
+			"Text_Tra": "She can't stop shuddering as she tries to resist, right on the verge of cumming.",
+			"FOA_Ptr": "0x00046378",
+			"FOA_Rva": "0x00050960"
+		},
+		{
+			"Text_Raw": "いいんだ、春。",
+			"Text_Tra": "Go on, Haru.",
+			"FOA_Ptr": "0x000463D0",
+			"FOA_Rva": "0x000509B1"
+		},
+		{
+			"Text_Raw": "だから僕は、ごく軽く触れているだけだったクリトリスを、２本の指で優しくつまんだ。",
+			"Text_Tra": "I want to push her harder-so I suddenly use two fingers to pinch her clitoris, which I was just touching gently until now.",
+			"FOA_Ptr": "0x00046428",
+			"FOA_Rva": "0x000509C2"
+		},
+		{
+			"Text_Raw": "「ひ、ぃ――！？　あ、あああ！？　あっ、あああああ、あ、あああああ！？」",
+			"Text_Tra": "『Aaah, oh! Ah, aaah! Ah, aaaah, ah, aaaaaah!』",
+			"FOA_Ptr": "0x000464B4",
+			"FOA_Rva": "0x00050A15"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000464CC",
+			"FOA_Rva": "0x00050A6E"
+		},
+		{
+			"Text_Raw": "春がイったことが、声と、密着した身体の痙攣で伝わってきた。",
+			"Text_Tra": "Her voice and the trembling sensations I feel coming through her tell me that she's reached climax.",
+			"FOA_Ptr": "0x0004650C",
+			"FOA_Rva": "0x00050A75"
+		},
+		{
+			"Text_Raw": "その反応こそが、僕へのご褒美だった。",
+			"Text_Tra": "That's my reward for all this.",
+			"FOA_Ptr": "0x00046564",
+			"FOA_Rva": "0x00050AB2"
+		},
+		{
+			"Text_Raw": "おちんちんが、うずく。",
+			"Text_Tra": "My cock shudders.",
+			"FOA_Ptr": "0x000465BC",
+			"FOA_Rva": "0x00050AD9"
+		},
+		{
+			"Text_Raw": "湯に浸けている僕の手が、なにか、彼女の下半身で湯の流れとは違う噴射を感じる。",
+			"Text_Tra": "My hand, beneath the water, feels a different kind of flow, coming from her lower body.",
+			"FOA_Ptr": "0x00046614",
+			"FOA_Rva": "0x00050AF2"
+		},
+		{
+			"Text_Raw": "春の秘部がひくつき、流れ込んでいた湯を噴き出したのかもしれない。",
+			"Text_Tra": "Her pussy is twitching, maybe expelling the water from inside her.",
+			"FOA_Ptr": "0x0004666C",
+			"FOA_Rva": "0x00050B41"
+		},
+		{
+			"Text_Raw": "「あ、あ……あ、あ、あ、あ……！　は、ぁ……あ、あ……！」",
+			"Text_Tra": "『Ah, ah... ah, ah, ah, ah...! Hah, ah... ah, ah...!』",
+			"FOA_Ptr": "0x000466F8",
+			"FOA_Rva": "0x00050B84"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00046710",
+			"FOA_Rva": "0x00050BCF"
+		},
+		{
+			"Text_Raw": "くらくらと、春が意味のないあえぎ声を漏らす。",
+			"Text_Tra": "Haru gives some meaningless moans, her head spinning.",
+			"FOA_Ptr": "0x00046750",
+			"FOA_Rva": "0x00050BD6"
+		},
+		{
+			"Text_Raw": "「あ、ああ……春、春、は……春は、お、おちんちんでは、ない、もので、い、イって、イって、しま、って……！」",
+			"Text_Tra": "『Ah, aah... I'm cumming... I'm cumming from something... that isn't your cock, Brother...!』",
+			"FOA_Ptr": "0x000467A8",
+			"FOA_Rva": "0x00050C05"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000467C0",
+			"FOA_Rva": "0x00050C80"
+		},
+		{
+			"Text_Raw": "「っ、ふ、うう……う、う、ううう……！」",
+			"Text_Tra": "『Ah, ooh, uh... uh, uh, uoh...!』",
+			"FOA_Ptr": "0x00046800",
+			"FOA_Rva": "0x00050C87"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00046818",
+			"FOA_Rva": "0x00050CC0"
+		},
+		{
+			"Text_Raw": "春はとろけきっていた。",
+			"Text_Tra": "She's about to melt away completely.",
+			"FOA_Ptr": "0x00046858",
+			"FOA_Rva": "0x00050CC7"
+		},
+		{
+			"Text_Raw": "挿入の刺激なく、胸やクリトリスへの愛撫だけでイったことを羞恥し――",
+			"Text_Tra": "The embarrassment of cumming from me stroking her tits and clit, rather than from the penetration of my cock.",
+			"FOA_Ptr": "0x000468B0",
+			"FOA_Rva": "0x00050CE0"
+		},
+		{
+			"Text_Raw": "同時に、身体の感度があがり、性の悦楽を知ったことに、のぼせていた。",
+			"Text_Tra": "But at the same time, her body is becoming more sensitive, and she's leaning into the joy of sexual pleasure.",
+			"FOA_Ptr": "0x00046908",
+			"FOA_Rva": "0x00050D25"
+		},
+		{
+			"Text_Raw": "「ああ……いいよ、春……すごく、いい……」",
+			"Text_Tra": "『Ah... That's good... so good, Haru...』",
+			"FOA_Ptr": "0x00046960",
+			"FOA_Rva": "0x00050D6A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00046978",
+			"FOA_Rva": "0x00050D96"
+		},
+		{
+			"Text_Raw": "僕も熱さに茹でられ、挿入したままのおちんちんをうずかせながら、それでいいのだと伝える。",
+			"Text_Tra": "The heat of the moment is overtaking me too, and I keep my cock twitching inside her, letting her know that this is absolutely fine.",
+			"FOA_Ptr": "0x000469B8",
+			"FOA_Rva": "0x00050D9D"
+		},
+		{
+			"Text_Raw": "「あ、あ……は、い……はい、お兄様、お兄様、春を、もっと、もっと、いやらしく、して、ください……」",
+			"Text_Tra": "『Ah, ah... Yes, yes... yes, Brother, Brother, make me dirtier! Make me so dirty!』",
+			"FOA_Ptr": "0x00046A10",
+			"FOA_Rva": "0x00050DF6"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00046A28",
+			"FOA_Rva": "0x00050E69"
+		},
+		{
+			"Text_Raw": "「春は、もう、おまんこが、うず、うずいて……うう……こんなこと、言っちゃ、ダメ、ダメなのに……！」",
+			"Text_Tra": "『My pussy wants more... aah... I shouldn't be saying this, should I? No, no...!』",
+			"FOA_Ptr": "0x00046A68",
+			"FOA_Rva": "0x00050E70"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00046A80",
+			"FOA_Rva": "0x00050EE3"
+		},
+		{
+			"Text_Raw": "理性と欲望が衝突し、春がおねだりしながら苦しんでいる。",
+			"Text_Tra": "Her rational mind and her sexy animal instincts clash, making Haru twist her body.",
+			"FOA_Ptr": "0x00046AC0",
+			"FOA_Rva": "0x00050EEA"
+		},
+		{
+			"Text_Raw": "ああ……。",
+			"Text_Tra": "Now I see.",
+			"FOA_Ptr": "0x00046B18",
+			"FOA_Rva": "0x00050F23"
+		},
+		{
+			"Text_Raw": "「春、ごめん、ね……ごめん」",
+			"Text_Tra": "『Haru, I'm sorry... I'm sorry about this...』",
+			"FOA_Ptr": "0x00046B70",
+			"FOA_Rva": "0x00050F30"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00046B88",
+			"FOA_Rva": "0x00050F4E"
+		},
+		{
+			"Text_Raw": "僕は彼女を強く抱き寄せる。",
+			"Text_Tra": "I hold her to me tightly.",
+			"FOA_Ptr": "0x00046BC8",
+			"FOA_Rva": "0x00050F55"
+		},
+		{
+			"Text_Raw": "「春を苦しませる気は、ないんだ……」",
+			"Text_Tra": "『I didn't want to make you... feel uncomfortable...』",
+			"FOA_Ptr": "0x00046C20",
+			"FOA_Rva": "0x00050F72"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00046C38",
+			"FOA_Rva": "0x00050F98"
+		},
+		{
+			"Text_Raw": "だから。",
+			"Text_Tra": "There's only one solution.",
+			"FOA_Ptr": "0x00046C78",
+			"FOA_Rva": "0x00050F9F"
+		},
+		{
+			"Text_Raw": "だから――欲望をもっと引き出し、理性を塗りつぶしてしまえばいい。",
+			"Text_Tra": "I need to bring out even more of that animal desire, and wipe away her rationality completely.",
+			"FOA_Ptr": "0x00046CD0",
+			"FOA_Rva": "0x00050FAA"
+		},
+		{
+			"Text_Raw": "じゃぶりと湯を激しく波立たせ、僕は一度だけ、露骨に彼女の最奥を突き上げた。",
+			"Text_Tra": "Making some real waves in the bath, I thrust as hard as I can, all the way inside her.",
+			"FOA_Ptr": "0x00046D28",
+			"FOA_Rva": "0x00050FED"
+		},
+		{
+			"Text_Raw": "「はあああ――！　あ、はっ、おまんこ、の、お、奥、あ、あっ……あああ！」",
+			"Text_Tra": "『Haaah! Ah, hah, so deep, so deep in my pussy, ah, ah... aaah!』",
+			"FOA_Ptr": "0x00046DB4",
+			"FOA_Rva": "0x0005103A"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00046DCC",
+			"FOA_Rva": "0x00051093"
+		},
+		{
+			"Text_Raw": "「そ、それ、そ、れ……！　お兄様の、おちんちんの、それ、それ、おちんちん、ずっと、春は、欲しくて、それ、です、ぅ……！」",
+			"Text_Tra": "『This is it! This is what I've been wanting, ah, Brother, this is the cock! I want it!』",
+			"FOA_Ptr": "0x00046E0C",
+			"FOA_Rva": "0x0005109A"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00046E24",
+			"FOA_Rva": "0x00051123"
+		},
+		{
+			"Text_Raw": "望んでいた本物の快感に、春が声をあげた。",
+			"Text_Tra": "Haru gives a cry at finally getting the pleasure she's been so desperate for.",
+			"FOA_Ptr": "0x00046E64",
+			"FOA_Rva": "0x0005112A"
+		},
+		{
+			"Text_Raw": "彼女は広げた足や腰に力をこめ、無理な体勢からでも身体を持ち上げ、また最奥までおちんちんを飲み込む。",
+			"Text_Tra": "She tenses her spread legs and waist, frantically lifting herself up from this uncomfortable position, and then dropping back down on my cock.",
+			"FOA_Ptr": "0x00046EBC",
+			"FOA_Rva": "0x00051155"
+		},
+		{
+			"Text_Raw": "その動きを窮屈そうに繰り返す。",
+			"Text_Tra": "Then she repeats that motion, as difficult as it appears to be.",
+			"FOA_Ptr": "0x00046F14",
+			"FOA_Rva": "0x000511BA"
+		},
+		{
+			"Text_Raw": "「ふ、うううう！　あ、は、あ、は、あ、あああ！　これ、この、おちんちんの、気持ち、気持ち、いい、いいい、いいの……あ、は！」",
+			"Text_Tra": "『Ooh, uooh! Ah, hah, ah, hah, ah, aaah! This feels so good! Ah, your cock, it feels so good, ah, hah!』",
+			"FOA_Ptr": "0x00046F6C",
+			"FOA_Rva": "0x000511DB"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00046F84",
+			"FOA_Rva": "0x00051268"
+		},
+		{
+			"Text_Raw": "「あ、あ、ああ、あ！　い、いつもより、気持ち、気持ち、いい！　おまんこ、あ、あ、あああ！？」",
+			"Text_Tra": "『Ah, ah, aah, ah! My pussy, feels so good! So much better than normal! Ah, ah, aaah!』",
+			"FOA_Ptr": "0x00046FC4",
+			"FOA_Rva": "0x0005126F"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00046FDC",
+			"FOA_Rva": "0x000512DC"
+		},
+		{
+			"Text_Raw": "じっくりと続いていた愛撫と、湯に茹でられ、春は本格的な欲望をすんなりと受け入れた。",
+			"Text_Tra": "With my hands constantly rubbing her and the hot, steamy water around us, Haru quickly indulges in her desire for sex.",
+			"FOA_Ptr": "0x0004701C",
+			"FOA_Rva": "0x000512E3"
+		},
+		{
+			"Text_Raw": "「お、お兄様！　春、春の、おまんこ、もう！　もっと、もっと、速く、強く、おまんこ、突いて、くだ、さい！」",
+			"Text_Tra": "『Brother! Give me more, more in my pussy! Please, go faster, go harder, right in my pussy!』",
+			"FOA_Ptr": "0x00047074",
+			"FOA_Rva": "0x00051338"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004708C",
+			"FOA_Rva": "0x000513B1"
+		},
+		{
+			"Text_Raw": "春が懇願してくる。",
+			"Text_Tra": "Haru begs me for more.",
+			"FOA_Ptr": "0x000470CC",
+			"FOA_Rva": "0x000513B8"
+		},
+		{
+			"Text_Raw": "僕からの激しい動きが一突きだけで、それ以降は自分のもどかしい動きだけになり、物足りなさに辛そうだった。",
+			"Text_Tra": "I only gave her that first, hard stroke, after which she's been left to ride my cock for herself, and it doesn't seem to be getting the job done.",
+			"FOA_Ptr": "0x00047124",
+			"FOA_Rva": "0x000513CD"
+		},
+		{
+			"Text_Raw": "だから、僕も達するための動きを始めた。",
+			"Text_Tra": "So I decide to start working toward an orgasm myself.",
+			"FOA_Ptr": "0x0004717C",
+			"FOA_Rva": "0x00051436"
+		},
+		{
+			"Text_Raw": "「あ、あ、あああ――！　あ、あ、あ、あ、あああああ！」",
+			"Text_Tra": "『Ah, ah, aaah! Ah, ah, ah, ah, aaaaah!』",
+			"FOA_Ptr": "0x00047208",
+			"FOA_Rva": "0x0005145F"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00047220",
+			"FOA_Rva": "0x000514A6"
+		},
+		{
+			"Text_Raw": "合図なく始まった、激しい突き上げの繰り返しに、春が喜びの声をあげる。",
+			"Text_Tra": "Haru cries out in pleasure as I suddenly start fucking her, nice and hard, thrusting up into her pussy.",
+			"FOA_Ptr": "0x00047260",
+			"FOA_Rva": "0x000514AD"
+		},
+		{
+			"Text_Raw": "温泉に誰もいないとはいえ、もはや抑えるつもりもない声だ。",
+			"Text_Tra": "There's no one else here in the baths, so she's given up completely on keeping her voice down.",
+			"FOA_Ptr": "0x000472B8",
+			"FOA_Rva": "0x000514F4"
+		},
+		{
+			"Text_Raw": "バシャバシャと湯も跳ね跳ぶ。",
+			"Text_Tra": "The water splashes around us.",
+			"FOA_Ptr": "0x00047310",
+			"FOA_Rva": "0x0005152F"
+		},
+		{
+			"Text_Raw": "「はっ、あ、は……！　あ、あ、お兄様、お兄様、お兄様！　あ、あ、あ、あああ！」",
+			"Text_Tra": "『Hah, ah, hah...! Ah, ah, Brother, Brother, Brother! Ah, ah, ah, aaah!』",
+			"FOA_Ptr": "0x00047368",
+			"FOA_Rva": "0x0005154E"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00047380",
+			"FOA_Rva": "0x000515AD"
+		},
+		{
+			"Text_Raw": "「お兄様、っ、は、あ、あ！　おちんちん、で、おまんこ、おまんこ、持ち上げられ、て、っ、は、ああ！」",
+			"Text_Tra": "『Brother, hah, ah, ah! Your cock is pushing, pushing up into my pussy, hah, aah!』",
+			"FOA_Ptr": "0x000473C0",
+			"FOA_Rva": "0x000515B4"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000473D8",
+			"FOA_Rva": "0x00051627"
+		},
+		{
+			"Text_Raw": "「こ、れ、ここ、これ、すごい、です！　いつもより、す、すごい、気持ち、い、いいいい、あ、あ、あ！？」",
+			"Text_Tra": "『This is amazing, ah, amazing! It feels so much better... So much better than normal... ah, ah, ah!』",
+			"FOA_Ptr": "0x00047418",
+			"FOA_Rva": "0x0005162E"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00047430",
+			"FOA_Rva": "0x000516A3"
+		},
+		{
+			"Text_Raw": "春の反応は、確かに、普段部屋でするときよりも激しかった。",
+			"Text_Tra": "Her reaction is much more pronounced than when we do this in bed, I have to admit.",
+			"FOA_Ptr": "0x00047470",
+			"FOA_Rva": "0x000516AA"
+		},
+		{
+			"Text_Raw": "「あああ！？　あ、あ、おまんこの、奥、奥、ばっかり、っ、ううう！　は、あ、は、は！」",
+			"Text_Tra": "『Aaah! Ah, ah, you're going deep, so deep in my pussy, uoh! Hah, ah, hah, hah!』",
+			"FOA_Ptr": "0x000474C8",
+			"FOA_Rva": "0x000516E5"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000474E0",
+			"FOA_Rva": "0x0005174A"
+		},
+		{
+			"Text_Raw": "「そ、そそ、そんなに、春の、おまんこ、の、奥ばっかり、おちんちんで、う、あ！　つ、突かない、で……あ、は、ああああ！？」",
+			"Text_Tra": "『Please, don't go so deep in my pussy, uh, ah! So many, ah, deep thrusts, no... ah, hah, aaaah!』",
+			"FOA_Ptr": "0x00047520",
+			"FOA_Rva": "0x00051751"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00047538",
+			"FOA_Rva": "0x000517DA"
+		},
+		{
+			"Text_Raw": "突き上げられて春の身体が跳ねるが、湯のせいで持ち上がりきらず、そこへさらに僕が腰を押し込む――",
+			"Text_Tra": "Haru's body jumps up as I thrust into her, but the water prevents me lifting her all the way, really letting me grind into her.",
+			"FOA_Ptr": "0x00047578",
+			"FOA_Rva": "0x000517E1"
+		},
+		{
+			"Text_Raw": "その動きの繰り返しは、奥ばかりを重点的に突かれているようなものか。",
+			"Text_Tra": "Repeating that movement seems to be hitting her right in the sweet spot.",
+			"FOA_Ptr": "0x000475D0",
+			"FOA_Rva": "0x00051842"
+		},
+		{
+			"Text_Raw": "もしかしたら、湯の熱さもあり、春の火照りは辛いところまでいってしまっているのかもしれない。",
+			"Text_Tra": "The heat from the water might be having an effect too, pushing her into almost uncomfortable territory.",
+			"FOA_Ptr": "0x00047628",
+			"FOA_Rva": "0x00051887"
+		},
+		{
+			"Text_Raw": "だが、僕も、もう彼女を気遣う余裕はなかった。",
+			"Text_Tra": "But I can't worry about that now!",
+			"FOA_Ptr": "0x00047680",
+			"FOA_Rva": "0x000518E4"
+		},
+		{
+			"Text_Raw": "「はっ！　あ、あああ、ぎゅって、ぎゅって、もっと、もっと、お兄様、春を、抱き、抱きしめて……ん、んんん！？」",
+			"Text_Tra": "『Hah! Ah, aaah! Hold me, hold me, tighter, Brother! Hold me tighter... mmn, mnnn!』",
+			"FOA_Ptr": "0x000476D8",
+			"FOA_Rva": "0x00051913"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000476F0",
+			"FOA_Rva": "0x00051990"
+		},
+		{
+			"Text_Raw": "彼女が言うように、胸と腰にまわした手にも力を込め、僕は春を強く強く抱きしめた。",
+			"Text_Tra": "I respond to her pleas, wrapping my arms around her breasts and waist, and holding her to me tightly.",
+			"FOA_Ptr": "0x00047730",
+			"FOA_Rva": "0x00051997"
+		},
+		{
+			"Text_Raw": "濡れた互いの肌がぴったりと吸いつく。",
+			"Text_Tra": "Our wet skin clings to each other.",
+			"FOA_Ptr": "0x00047788",
+			"FOA_Rva": "0x000519E8"
+		},
+		{
+			"Text_Raw": "そうして抱き着き、彼女の身体ごと持ち上げるように、腰を動かす。",
+			"Text_Tra": "As we hold each other tight, I then move my waist to thrust into her.",
+			"FOA_Ptr": "0x000477E0",
+			"FOA_Rva": "0x00051A0F"
+		},
+		{
+			"Text_Raw": "「ふ、うううううう！　う、んん！　はっ、はっ、はっ、あ、あ、あ、熱い……っ！」",
+			"Text_Tra": "『Ooh, oooh! Uh, mnn! Hah, hah, hah, ah, ah, ah, so hot!』",
+			"FOA_Ptr": "0x00047838",
+			"FOA_Rva": "0x00051A50"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00047850",
+			"FOA_Rva": "0x00051AAF"
+		},
+		{
+			"Text_Raw": "「お兄様、あ、熱い……！　お兄様、おちんちん、も、身体、も、息も、燃える、みたいに、あ、ああ、熱い……！」",
+			"Text_Tra": "『Brother, ah, you're so hot! Your body, your cock, your breath, are so hot, ah, aah, it's like you're burning up...!』",
+			"FOA_Ptr": "0x00047890",
+			"FOA_Rva": "0x00051AB6"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000478A8",
+			"FOA_Rva": "0x00051B31"
+		},
+		{
+			"Text_Raw": "窮屈な姿勢からの激しい動きで、彼女よりも僕のほうが体温があがっているのか、春が触れ合いの感触を叫ぶ。",
+			"Text_Tra": "I must be hotter than she is from all this physical activity in such a difficult position, and she cries out as she touches me.",
+			"FOA_Ptr": "0x000478E8",
+			"FOA_Rva": "0x00051B38"
+		},
+		{
+			"Text_Raw": "「あ、ああ！　ああ！　春が、春が、もっと、欲しい、から！　熱い、んだ……！」",
+			"Text_Tra": "『Ah, aah! Aah! I want more, more, so much more! So hot!』",
+			"FOA_Ptr": "0x00047940",
+			"FOA_Rva": "0x00051B9F"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00047958",
+			"FOA_Rva": "0x00051BED"
+		},
+		{
+			"Text_Raw": "湯を弾かせながら、僕は激しく挿入を繰り返す。",
+			"Text_Tra": "With the water sloshing around us, I continue my vigorous fucking.",
+			"FOA_Ptr": "0x00047998",
+			"FOA_Rva": "0x00051BF4"
+		},
+		{
+			"Text_Raw": "脳の芯も熱いが、おちんちんに絡みつく春の膣のぬめった締めつけも強烈で、どうにかなってしまいそうだ。",
+			"Text_Tra": "Even my brain feels hot, but with the tight feeling of her pussy around my cock, I might just be losing my mind.",
+			"FOA_Ptr": "0x000479F0",
+			"FOA_Rva": "0x00051C23"
+		},
+		{
+			"Text_Raw": "「はい、は、い……！　あ、あああ、あ、はっ、はっ、はっ……！」",
+			"Text_Tra": "『Yes, yes...! Ah, aaah, ah, hah, hah, hah...!』",
+			"FOA_Ptr": "0x00047A48",
+			"FOA_Rva": "0x00051C88"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00047A60",
+			"FOA_Rva": "0x00051CD7"
+		},
+		{
+			"Text_Raw": "「もう、もう、お兄様、の、おちんちん、が、あ、あああ、熱い、おまんこの、中、中で、熱い、熱い、です、ぅ……は、あ、あ、あ！」",
+			"Text_Tra": "『Your cock, ah, your cock, ah, aaah, it's so hot! My pussy is so hot too, aah... hah, ah, ah, ah!』",
+			"FOA_Ptr": "0x00047AA0",
+			"FOA_Rva": "0x00051CDE"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00047AB8",
+			"FOA_Rva": "0x00051D6B"
+		},
+		{
+			"Text_Raw": "春が腰をつきだしながら、喜ぶ。",
+			"Text_Tra": "Haru is definitely enjoying herself, riding my cock hard.",
+			"FOA_Ptr": "0x00047AF8",
+			"FOA_Rva": "0x00051D72"
+		},
+		{
+			"Text_Raw": "彼女からすれば、熱い肉棒を撃ち込まれているようなものか。",
+			"Text_Tra": "From her perspective, it's like having a hot, meaty rod rammed into her.",
+			"FOA_Ptr": "0x00047B50",
+			"FOA_Rva": "0x00051D93"
+		},
+		{
+			"Text_Raw": "その快感は、よほどだろう。",
+			"Text_Tra": "She really seems to be enjoying it.",
+			"FOA_Ptr": "0x00047BA8",
+			"FOA_Rva": "0x00051DCE"
+		},
+		{
+			"Text_Raw": "「あ、あ、ああ！　春の、春の、おまんこ、もう、もう、お兄様の、精液、欲しい、欲しい、と、う、うううう……！」",
+			"Text_Tra": "『Ah, ah, aah! Oh, oh, Brother, I want your semen, I want it in my pussy, uh, uooh...!』",
+			"FOA_Ptr": "0x00047C00",
+			"FOA_Rva": "0x00051DEB"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00047C18",
+			"FOA_Rva": "0x00051E68"
+		},
+		{
+			"Text_Raw": "「あ、はっ！　春の、おまんこの、奥、奥が、一番、奥が、お兄様の、精液を、欲しいと、うずいて、うずいて、います、う！」",
+			"Text_Tra": "『Ah, hah! My pussy, the deepest part of my pussy, wants your semen, Brother! Give it to me, so deep!』",
+			"FOA_Ptr": "0x00047C58",
+			"FOA_Rva": "0x00051E6F"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00047C70",
+			"FOA_Rva": "0x00051EF4"
+		},
+		{
+			"Text_Raw": "射精感が高まり、震えるおちんちんの感触を身の内に覚え、春がおねだりしてくる。",
+			"Text_Tra": "I'm feeling the urge to cum, and Haru senses my cock trembling inside her, making her beg for my cum.",
+			"FOA_Ptr": "0x00047CB0",
+			"FOA_Rva": "0x00051EFB"
+		},
+		{
+			"Text_Raw": "挿入したままの僕のおちんちんが、さらに太く長くなり、脈打ち、彼女のおまんこの最奥を、いつも以上に押し上げる。",
+			"Text_Tra": "My cock swells even thicker inside her, pulsing and pushing deeper into her sweet pussy.",
+			"FOA_Ptr": "0x00047D08",
+			"FOA_Rva": "0x00051F4A"
+		},
+		{
+			"Text_Raw": "湯の中での座位という身体の窮屈さを補うように、互いの性器そのものが、うごめいていた。",
+			"Text_Tra": "Doing this reverse sitting thing in the bath isn't the easiest way to get the job done, but our bodies seem intent on making it happen.",
+			"FOA_Ptr": "0x00047D60",
+			"FOA_Rva": "0x00051FB9"
+		},
+		{
+			"Text_Raw": "「あ、あ、あ、あ、あ、あ、あ！　あ、ひ、あ、はっ！　あ、あ、あ！」",
+			"Text_Tra": "『Ah, ah, ah, ah, ah, ah, ah! Ah, hyah, ah, hah! Ah, ah, ah!』",
+			"FOA_Ptr": "0x00047DEC",
+			"FOA_Rva": "0x00052010"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00047E04",
+			"FOA_Rva": "0x00052063"
+		},
+		{
+			"Text_Raw": "「あああ、そ、れ、それ、お兄様、の、おちんちん、おちんちん、気持ち、気持ち、いい、いいい、いい、の……っ、あ！」",
+			"Text_Tra": "『Aaah, right there, Brother! Your cock feels so good, so good, I love it, aah... ah!』",
+			"FOA_Ptr": "0x00047E44",
+			"FOA_Rva": "0x0005206A"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00047E5C",
+			"FOA_Rva": "0x000520EB"
+		},
+		{
+			"Text_Raw": "彼女の膣肉が別の生き物のようにひくつき、精液を欲して絞られる。",
+			"Text_Tra": "Her pussy clings to me like it has a mind of its own, wringing my cock in desperation for my cum.",
+			"FOA_Ptr": "0x00047E9C",
+			"FOA_Rva": "0x000520F2"
+		},
+		{
+			"Text_Raw": "もう、抜き差しすることも出来ず、僕はうめく。",
+			"Text_Tra": "I can't even move inside her now, and just moan.",
+			"FOA_Ptr": "0x00047EF4",
+			"FOA_Rva": "0x00052133"
+		},
+		{
+			"Text_Raw": "「ぐ、ぁ……！　春、春、で、出る……出る……！」",
+			"Text_Tra": "『Ngh, ah...! Haru, Haru, I'm cumming, I'm cumming!』",
+			"FOA_Ptr": "0x00047F4C",
+			"FOA_Rva": "0x00052162"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00047F64",
+			"FOA_Rva": "0x00052194"
+		},
+		{
+			"Text_Raw": "「は、い！　はい！　あ、あ、は、は、はい！　お兄様、春の、春の、春の、一番、深い、ところ、に、そのまま、そのまま、だ、出して……くださ、い……！」",
+			"Text_Tra": "『Yes! Yes! Ah, ah, hah, hah, yes! Brother, please, cum for me! Cum as deep as you can in my pussy!』",
+			"FOA_Ptr": "0x00047FA4",
+			"FOA_Rva": "0x0005219B"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00047FBC",
+			"FOA_Rva": "0x0005223E"
+		},
+		{
+			"Text_Raw": "「ああ、あ、あああ！　だ、出して、おちんちん、から、せ、精液、春の、中に、いっぱい、いっぱい、いっぱい！」",
+			"Text_Tra": "『Aah, ah, aaah! Give it to me! Give me your semen, hot from your cock, deep inside me! I want it all!』",
+			"FOA_Ptr": "0x00047FFC",
+			"FOA_Rva": "0x00052245"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00048014",
+			"FOA_Rva": "0x000522C0"
+		},
+		{
+			"Text_Raw": "乞われるまま。",
+			"Text_Tra": "Your wish is my orgasm.",
+			"FOA_Ptr": "0x00048054",
+			"FOA_Rva": "0x000522C7"
+		},
+		{
+			"Text_Raw": "壊れたように、僕は最後の力を振り絞って腰を突き上げ。",
+			"Text_Tra": "I take the last of my strength and ram my cock into her.",
+			"FOA_Ptr": "0x000480AC",
+			"FOA_Rva": "0x000522D8"
+		},
+		{
+			"Text_Raw": "「春の、おまんこ、精液で、いっぱい、いっぱい、に……！　い、いっぱいに、して、くださ――あ、あああ！！」",
+			"Text_Tra": "『Fill my pussy with your semen, pump me full! Fill me up-aah, aaaah!』",
+			"FOA_Ptr": "0x00048104",
+			"FOA_Rva": "0x0005230F"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004811C",
+			"FOA_Rva": "0x00052388"
+		},
+		{
+			"Text_Raw": "春があえぎながら、イき続け。",
+			"Text_Tra": "Haru continues to moan, and continues to cum.",
+			"FOA_Ptr": "0x0004815C",
+			"FOA_Rva": "0x0005238F"
+		},
+		{
+			"Text_Raw": "その膣が、ありえないほどに狭まり、うねった。",
+			"Text_Tra": "Her pussy feels so narrow, so tight. Just incredible.",
+			"FOA_Ptr": "0x000481B4",
+			"FOA_Rva": "0x000523AE"
+		},
+		{
+			"Text_Raw": "「う、あ、ああああ――！？」",
+			"Text_Tra": "『Uh, aah, aaaaah?!』",
+			"FOA_Ptr": "0x0004820C",
+			"FOA_Rva": "0x000523DD"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00048224",
+			"FOA_Rva": "0x000523FB"
+		},
+		{
+			"Text_Raw": "絞られたまま腰を激しく揺すられ、ついに、僕は射精してしまった。",
+			"Text_Tra": "With her pussy still wringing my cock, my waist shuddering, I finally cum.",
+			"FOA_Ptr": "0x00048264",
+			"FOA_Rva": "0x00052402"
+		},
+		{
+			"Text_Raw": "「あ、あ、で、出て！　ああ、あ、ああああああああああああああ――！」",
+			"Text_Tra": "『Ah, ah, give it to me! Aah, ah, aaaaaaaaaaaaaah!』",
+			"FOA_Ptr": "0x00048398",
+			"FOA_Rva": "0x00052443"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000483B0",
+			"FOA_Rva": "0x00052498"
+		},
+		{
+			"Text_Raw": "彼女の一番深いところに先端を押しつけたままの射精に、春が声をあげる。",
+			"Text_Tra": "Haru cries out as I cum, my cock pressed into the deepest part of her pussy.",
+			"FOA_Ptr": "0x000483F0",
+			"FOA_Rva": "0x0005249F"
+		},
+		{
+			"Text_Raw": "僕は激しい射精と、精液を吐き出すたびの快感に、春に抱き着いたまま痙攣してしまう。",
+			"Text_Tra": "The intensity of the orgasm, and the pleasure with each gout of cum I unleash, paralyses me with my arms still around her.",
+			"FOA_Ptr": "0x00048448",
+			"FOA_Rva": "0x000524E6"
+		},
+		{
+			"Text_Raw": "「う、あ、あ、ああああ！　あ、は、あは！　お、お兄様、お兄様、すごい、ふ、震え、て……あ、は、あ、は、はっ……！」",
+			"Text_Tra": "『Uh, ah, ah, aaaah! Ah, hah, ahah! Oh, Brother, Brother, wow, ooh, you're shaking... ah, hah, ah, hah, hah...!』",
+			"FOA_Ptr": "0x000484D4",
+			"FOA_Rva": "0x00052539"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000484EC",
+			"FOA_Rva": "0x000525BC"
+		},
+		{
+			"Text_Raw": "春も射精されるたびに跳ねるようにイきながら、しかし、僕の反応にこそとろけた喜びの声をあげた。",
+			"Text_Tra": "Haru bounces with each shot I fire into her, cumming herself, but reacting more to my own reaction.",
+			"FOA_Ptr": "0x0004852C",
+			"FOA_Rva": "0x000525C3"
+		},
+		{
+			"Text_Raw": "ああ……ああ……！",
+			"Text_Tra": "Aah... aah...!",
+			"FOA_Ptr": "0x00048584",
+			"FOA_Rva": "0x00052622"
+		},
+		{
+			"Text_Raw": "僕も、抱き着く彼女が気持ちよさにイっている感触に、身体の悦楽だけでなく、幸福感の絶頂も覚えていた。",
+			"Text_Tra": "I cling to her just as tightly as I revel in the pleasure of cumming, feeling not just the physical joy but also a blessed feeling at getting to experience this entire situation.",
+			"FOA_Ptr": "0x000485DC",
+			"FOA_Rva": "0x00052637"
+		},
+		{
+			"Text_Raw": "「あ、あ、あ、あ！　あ、は、あ、あ、あ、あ！」",
+			"Text_Tra": "『Ah, ah, ah, ah! Ah, hah, ah, ah, ah, ah!』",
+			"FOA_Ptr": "0x00048634",
+			"FOA_Rva": "0x0005269C"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004864C",
+			"FOA_Rva": "0x000526DB"
+		},
+		{
+			"Text_Raw": "びゅるびゅると射精が続き、春がそれに合わせるように声を漏らす。",
+			"Text_Tra": "Haru keeps on moaning as I keep on cumming inside her.",
+			"FOA_Ptr": "0x0004868C",
+			"FOA_Rva": "0x000526E2"
+		},
+		{
+			"Text_Raw": "精液が放たれるたび、なにかの圧迫が、僕のおちんちんの根本を撫でた。",
+			"Text_Tra": "With each shot of cum, I feel more pressure, and something slipping down the base of my cock.",
+			"FOA_Ptr": "0x000486E4",
+			"FOA_Rva": "0x00052723"
+		},
+		{
+			"Text_Raw": "すでに彼女の膣に満ちていた湯が、最奥で放出された精液に押し出され、結合部の隙間から水流のように外に出ているのだろう。",
+			"Text_Tra": "Her pussy is already full of cum, meaning the final drops are pushed out instead, flowing like water from where our bodies meet.",
+			"FOA_Ptr": "0x0004873C",
+			"FOA_Rva": "0x00052768"
+		},
+		{
+			"Text_Raw": "「あ、あ……あ……あ、ああ……終わって、しまい、ました……」",
+			"Text_Tra": "『Ah, ah... ah... ah, aah... You finally... finished...』",
+			"FOA_Ptr": "0x00048794",
+			"FOA_Rva": "0x000527DF"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000487AC",
+			"FOA_Rva": "0x0005282C"
+		},
+		{
+			"Text_Raw": "ふう、と満足したような――わずかに残念がるような色を含めて、春が小さくつぶやく。",
+			"Text_Tra": "She gives a satisfied nod-but with a little regret mixed in.",
+			"FOA_Ptr": "0x000487EC",
+			"FOA_Rva": "0x00052833"
+		},
+		{
+			"Text_Raw": "茫然としていた僕が気づかぬうちに、射精は止まっていた。",
+			"Text_Tra": "She's the one who tells me I've finished cumming, before my exhausted body can get around to it.",
+			"FOA_Ptr": "0x00048844",
+			"FOA_Rva": "0x00052886"
+		},
+		{
+			"Text_Raw": "「は、は……は、はっ……はぁ……」",
+			"Text_Tra": "『Hah, hah... hah, hah... hah...』",
+			"FOA_Ptr": "0x0004889C",
+			"FOA_Rva": "0x000528BF"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000488B4",
+			"FOA_Rva": "0x000528E3"
+		},
+		{
+			"Text_Raw": "つかえていた呼吸も再開し、僕は長く息をつく。",
+			"Text_Tra": "I finally start breathing again, and gulp down some fresh air.",
+			"FOA_Ptr": "0x000488F4",
+			"FOA_Rva": "0x000528EA"
+		},
+		{
+			"Text_Raw": "「う、あ……ふふ……兄様の、息、うなじに、吹きかけられて、くすぐったい、です……」",
+			"Text_Tra": "『Uhh, ah... hehe... I can feel your breath on my neck, Brother. It's so tickly...』",
+			"FOA_Ptr": "0x00048980",
+			"FOA_Rva": "0x00052919"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00048998",
+			"FOA_Rva": "0x0005297C"
+		},
+		{
+			"Text_Raw": "くすくすと、春が実際にくずぐったそうに首や肩をゆする。",
+			"Text_Tra": "Haru giggles, wriggling her neck and shoulders.",
+			"FOA_Ptr": "0x000489D8",
+			"FOA_Rva": "0x00052983"
+		},
+		{
+			"Text_Raw": "ああ、色っぽい……。",
+			"Text_Tra": "Wow. She's so sexy.",
+			"FOA_Ptr": "0x00048A30",
+			"FOA_Rva": "0x000529BC"
+		},
+		{
+			"Text_Raw": "というか……今回は、僕のほうに、そういう事後を甘く楽しむ余裕がまったくない。",
+			"Text_Tra": "But this time, I don't have the leeway to enjoy the aftershocks.",
+			"FOA_Ptr": "0x00048A88",
+			"FOA_Rva": "0x000529D3"
+		},
+		{
+			"Text_Raw": "湯と、激しい行為のせいで、完全にのぼせてしまっていた。",
+			"Text_Tra": "I'm going to pass out, from the heat of the water and the energetic nature of our sex, if I don't get out of the bath.",
+			"FOA_Ptr": "0x00048AE0",
+			"FOA_Rva": "0x00052A22"
+		},
+		{
+			"Text_Raw": "ちょっと、真面目に、めまいがする。",
+			"Text_Tra": "I'm feeling really dizzy right now.",
+			"FOA_Ptr": "0x00048B38",
+			"FOA_Rva": "0x00052A5B"
+		},
+		{
+			"Text_Raw": "鉄の身体だったときは、こういう不調は、自然と回復していたのだろうな……。",
+			"Text_Tra": "When I had my metal body, this kind of thing would just take care of itself, but now I have to be more careful.",
+			"FOA_Ptr": "0x00048B90",
+			"FOA_Rva": "0x00052A80"
+		},
+		{
+			"Text_Raw": "「ああ……熱い……だから、上半身に当たる風が、心地よい、ですね……」",
+			"Text_Tra": "『Aah... I'm so hot... That's why the wind feels so good, on my upper body...』",
+			"FOA_Ptr": "0x00048BE8",
+			"FOA_Rva": "0x00052ACB"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00048C00",
+			"FOA_Rva": "0x00052B20"
+		},
+		{
+			"Text_Raw": "春も疲労を感じさせ、ぐったりと僕に体重を預けてくる。",
+			"Text_Tra": "Haru feels exhausted too, and leans her weight against me.",
+			"FOA_Ptr": "0x00048C40",
+			"FOA_Rva": "0x00052B27"
+		},
+		{
+			"Text_Raw": "すぐに返事もできないが、そうして頼られる重さも、心地よい。",
+			"Text_Tra": "I can't reply right away, but it does feel good to have her leaning on me.",
+			"FOA_Ptr": "0x00048C98",
+			"FOA_Rva": "0x00052B5E"
+		},
+		{
+			"Text_Raw": "頭がぼんやりとしているが、身体も、心も、最高の疲労感だった。",
+			"Text_Tra": "My head is spinning, but my body and mind both feel exhausted in the best possible way.",
+			"FOA_Ptr": "0x00048CF0",
+			"FOA_Rva": "0x00052B9B"
+		},
+		{
+			"Text_Raw": "「お腹の中、お兄様の精液でいっぱい、です……ん……お湯のさらさらした中だからこそ、精液の重さやねばり気がわかりますね」",
+			"Text_Tra": "『My pussy is full of your semen, Brother... uhnn... I can feel it, heightened by the sensation of the water...』",
+			"FOA_Ptr": "0x00048D48",
+			"FOA_Rva": "0x00052BDA"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00048D60",
+			"FOA_Rva": "0x00052C61"
+		},
+		{
+			"Text_Raw": "「ああ……う、うん……すごかった、ね」",
+			"Text_Tra": "『Yeah... T-That was... really something...』",
+			"FOA_Ptr": "0x00048DA0",
+			"FOA_Rva": "0x00052C68"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00048DB8",
+			"FOA_Rva": "0x00052C90"
+		},
+		{
+			"Text_Raw": "露骨すぎる話に、さらに頭をくらくらとさせられながら、答える。",
+			"Text_Tra": "This topic of conversation is not helping me get by head together.",
+			"FOA_Ptr": "0x00048DF8",
+			"FOA_Rva": "0x00052C97"
+		},
+		{
+			"Text_Raw": "「古代のセックスというのは、すごい、もの、ですね……」",
+			"Text_Tra": "『So this is how the ancients have sex. Amazing.』",
+			"FOA_Ptr": "0x00048E50",
+			"FOA_Rva": "0x00052CD6"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00048E68",
+			"FOA_Rva": "0x00052D1D"
+		},
+		{
+			"Text_Raw": "春が、子猫が甘えるように身体をこすりつけてきながら言う。",
+			"Text_Tra": "She rubs herself against me, like a cat, as she talks.",
+			"FOA_Ptr": "0x00048EA8",
+			"FOA_Rva": "0x00052D24"
+		},
+		{
+			"Text_Raw": "カントの考えでは、入浴しながらのセックスなど考えられてもいなかっただろう。",
+			"Text_Tra": "Kanto thinking would never consider something like sex in the bath.",
+			"FOA_Ptr": "0x00048F00",
+			"FOA_Rva": "0x00052D5F"
+		},
+		{
+			"Text_Raw": "一般的な民は、共同風呂だろうしな。",
+			"Text_Tra": "The gen pop probably all share public baths anyway.",
+			"FOA_Ptr": "0x00048F58",
+			"FOA_Rva": "0x00052DAC"
+		},
+		{
+			"Text_Raw": "「ふふ……今度は教室で、制服で、ですね……」",
+			"Text_Tra": "『Hehe... Next time, let's wear our uniforms, and do it in the classroom...』",
+			"FOA_Ptr": "0x00048FB0",
+			"FOA_Rva": "0x00052DD1"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00048FC8",
+			"FOA_Rva": "0x00052E0E"
+		},
+		{
+			"Text_Raw": "春が軽く腰をくねらせ、まだ繋がったままのおちんちんをいじってくる。",
+			"Text_Tra": "Haru gives a gentle twist, stimulating my cock that's still inside her.",
+			"FOA_Ptr": "0x00049008",
+			"FOA_Rva": "0x00052E15"
+		},
+		{
+			"Text_Raw": "「あ……ああ、今度、ね」",
+			"Text_Tra": "『Yeah... Yeah, next time...』",
+			"FOA_Ptr": "0x00049060",
+			"FOA_Rva": "0x00052E5A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00049078",
+			"FOA_Rva": "0x00052E74"
+		},
+		{
+			"Text_Raw": "貪欲で元気な妹に、興奮させられ、またおちんちんが大きくなってしまうが……。",
+			"Text_Tra": "My sex-hungry “little sister” is turning me on again, and making my cock thicker.",
+			"FOA_Ptr": "0x000490B8",
+			"FOA_Rva": "0x00052E7B"
+		},
+		{
+			"Text_Raw": "さすがに、今日はもう無理だ。",
+			"Text_Tra": "But I can't. Not today.",
+			"FOA_Ptr": "0x00049110",
+			"FOA_Rva": "0x00052EC8"
+		},
+		{
+			"Text_Raw": "これ以上続けたら、間違いなく倒れてしまうだろう。",
+			"Text_Tra": "If I try to keep going, I'm gonna collapse.",
+			"FOA_Ptr": "0x00049168",
+			"FOA_Rva": "0x00052EE7"
+		},
+		{
+			"Text_Raw": "いや、死ぬかもしれない。",
+			"Text_Tra": "I might even die.",
+			"FOA_Ptr": "0x000491C0",
+			"FOA_Rva": "0x00052F1A"
+		},
+		{
+			"Text_Raw": "これほど可愛い女の子を相手にしての腹上死なら、最高の死因かもしれないが。",
+			"Text_Tra": "Although dying with such a cute girl sitting in my lap...? Well, there are worse ways to go.",
+			"FOA_Ptr": "0x00049218",
+			"FOA_Rva": "0x00052F35"
+		},
+		{
+			"Text_Raw": "後世への歴史を記している人間としては、あまりにも間抜けであり。",
+			"Text_Tra": "But as a recorder of the past for future generations, it wouldn't look all that good on my resume.",
+			"FOA_Ptr": "0x00049270",
+			"FOA_Rva": "0x00052F80"
+		},
+		{
+			"Text_Raw": "もっと春と幸せになり、未来を目指したいのだから、絶対に長生きしてやろう。",
+			"Text_Tra": "I want to become even happier with Haru, and have a brighter future together, which means I need to live as long as I can.",
+			"FOA_Ptr": "0x000492C8",
+			"FOA_Rva": "0x00052FC1"
+		},
+		{
+			"Text_Raw": "うん。",
+			"Text_Tra": "Yeah.",
+			"FOA_Ptr": "0x00049320",
+			"FOA_Rva": "0x0005300C"
+		},
+		{
+			"Text_Raw": "そのためにも、そろそろ、お湯からあがらないといけないわけで。",
+			"Text_Tra": "And in order to achieve that, I need to get my ass out of this bath.",
+			"FOA_Ptr": "0x00049378",
+			"FOA_Rva": "0x00053015"
+		},
+		{
+			"Text_Raw": "「春……また今度、ちゃんと約束するから、ね」",
+			"Text_Tra": "『Haru... I'm looking forward to next time...』",
+			"FOA_Ptr": "0x000493D0",
+			"FOA_Rva": "0x00053054"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000493E8",
+			"FOA_Rva": "0x00053082"
+		},
+		{
+			"Text_Raw": "僕は、彼女のうなじに、ちゅっと軽くキスをする。",
+			"Text_Tra": "I place a gentle kiss on the nape of her neck.",
+			"FOA_Ptr": "0x00049428",
+			"FOA_Rva": "0x00053089"
+		},
+		{
+			"Text_Raw": "「ふふ……はーい♪」",
+			"Text_Tra": "『Hehe! Me too!』",
+			"FOA_Ptr": "0x00049480",
+			"FOA_Rva": "0x000530BA"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00049498",
+			"FOA_Rva": "0x000530DF"
+		},
+		{
+			"Text_Raw": "返事は、とても可愛らしかった。",
+			"Text_Tra": "Her reply is so adorable.",
+			"FOA_Ptr": "0x000494D8",
+			"FOA_Rva": "0x000530E6"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+﻿{
+	"Scenario": [
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x00003400",
+			"FOA_Rva": "0x0003DD9B"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー～",
+			"FOA_Ptr": "0x0000340C",
+			"FOA_Rva": "0x0003DDA2"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x00019C46",
+			"FOA_Rva": "0x0003EBA8"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー～",
+			"FOA_Ptr": "0x00019C52",
+			"FOA_Rva": "0x0003EBAF"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x0001AC9C",
+			"FOA_Rva": "0x0003ECA7"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー～",
+			"FOA_Ptr": "0x0001ACA8",
+			"FOA_Rva": "0x0003ECAE"
+		},
+		{
+			"Text_Raw": "- ブランドロゴ -",
+			"Text_Tra": "- Logo -",
+			"FOA_Ptr": "0x0003D7F8",
+			"FOA_Rva": "0x0003F167"
+		}
+	]
+}

@@ -1,0 +1,58 @@
+﻿{
+	"Scenario": [
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x00003400",
+			"FOA_Rva": "0x0003F1B3"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー～",
+			"FOA_Ptr": "0x0000340C",
+			"FOA_Rva": "0x0003F1BA"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x00019C46",
+			"FOA_Rva": "0x0003FFC0"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー～",
+			"FOA_Ptr": "0x00019C52",
+			"FOA_Rva": "0x0003FFC7"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x0001AC9C",
+			"FOA_Rva": "0x000400BF"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー～",
+			"FOA_Ptr": "0x0001ACA8",
+			"FOA_Rva": "0x000400C6"
+		},
+		{
+			"Text_Raw": "- エンドロール【春姫】 -",
+			"Text_Tra": "- Credits - Haruhime -",
+			"FOA_Ptr": "0x0003D824",
+			"FOA_Rva": "0x0004057F"
+		},
+		{
+			"Text_Raw": "- エンドロール【優里】 -",
+			"Text_Tra": "- Credits - Yuri -",
+			"FOA_Ptr": "0x0003D83A",
+			"FOA_Rva": "0x00040598"
+		},
+		{
+			"Text_Raw": "- エンドロール【双子】 -",
+			"Text_Tra": "- Credits - Futaba -",
+			"FOA_Ptr": "0x0003D850",
+			"FOA_Rva": "0x000405B1"
+		}
+	]
+}

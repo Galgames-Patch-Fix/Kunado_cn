@@ -1,0 +1,2728 @@
+﻿{
+	"Scenario": [
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x000033FC",
+			"FOA_Rva": "0x000457D1"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x00003408",
+			"FOA_Rva": "0x000457D8"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x00019C42",
+			"FOA_Rva": "0x000465DE"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x00019C4E",
+			"FOA_Rva": "0x000465E5"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x0001AC98",
+			"FOA_Rva": "0x000466DD"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x0001ACA4",
+			"FOA_Rva": "0x000466E4"
+		},
+		{
+			"Text_Raw": "- ２つのエピローグ -",
+			"Text_Tra": "Two Epilogues",
+			"FOA_Ptr": "0x0003D7DC",
+			"FOA_Rva": "0x00046B9D"
+		},
+		{
+			"Text_Raw": "あれから、幾日かの時が流れた。",
+			"Text_Tra": "A few days pass.",
+			"FOA_Ptr": "0x0003D94A",
+			"FOA_Rva": "0x00046BB2"
+		},
+		{
+			"Text_Raw": "幾日か……あまり、よくわからない。",
+			"Text_Tra": "How many days... I'm not sure.",
+			"FOA_Ptr": "0x0003D9A2",
+			"FOA_Rva": "0x00046BD3"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x0003DA7E",
+			"FOA_Rva": "0x00046BF8"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003DA96",
+			"FOA_Rva": "0x00046C15"
+		},
+		{
+			"Text_Raw": "わたしは王宮の中庭で、桜の木を見上げていた。",
+			"Text_Tra": "I'm in the palace courtyard, looking up at the cherry tree.",
+			"FOA_Ptr": "0x0003DAD6",
+			"FOA_Rva": "0x00046C1C"
+		},
+		{
+			"Text_Raw": "最近は、ずっと、こうしている。",
+			"Text_Tra": "I've been doing this a lot recently.",
+			"FOA_Ptr": "0x0003DB2E",
+			"FOA_Rva": "0x00046C4B"
+		},
+		{
+			"Text_Raw": "あれから……調査や警戒はまだ続けているが。",
+			"Text_Tra": "Kanto is still on high alert, conducting multiple investigations.",
+			"FOA_Ptr": "0x0003DB86",
+			"FOA_Rva": "0x00046C6C"
+		},
+		{
+			"Text_Raw": "黒神は残骸を含めて消えてしまった。",
+			"Text_Tra": "But the remains of the Kurokami have completely vanished.",
+			"FOA_Ptr": "0x0003DBDE",
+			"FOA_Rva": "0x00046C99"
+		},
+		{
+			"Text_Raw": "すべての鉄鬼が、突然、活動を停止した。",
+			"Text_Tra": "All of the Tekki suddenly ceased operation.",
+			"FOA_Ptr": "0x0003DC36",
+			"FOA_Rva": "0x00046CBE"
+		},
+		{
+			"Text_Raw": "本当に戦いが終わってしまって……。",
+			"Text_Tra": "The fighting really has come to an end.",
+			"FOA_Ptr": "0x0003DC8E",
+			"FOA_Rva": "0x00046CE7"
+		},
+		{
+			"Text_Raw": "「まるで夢のようですね」",
+			"Text_Tra": "『This is all like a dream.』",
+			"FOA_Ptr": "0x0003DCE6",
+			"FOA_Rva": "0x00046D0C"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003DCFE",
+			"FOA_Rva": "0x00046D35"
+		},
+		{
+			"Text_Raw": "誰にともなく、語りかける。",
+			"Text_Tra": "I'm not speaking to anyone in particular.",
+			"FOA_Ptr": "0x0003DD3E",
+			"FOA_Rva": "0x00046D3C"
+		},
+		{
+			"Text_Raw": "「あの戦いでも、カントは街や農地に被害はあれど、誰ひとり欠けることなく防衛を成し遂げてくれました」",
+			"Text_Tra": "『There was damage to the town and the fields during the battle, but the defense was successful-and without losing a single defender.』",
+			"FOA_Ptr": "0x0003DD96",
+			"FOA_Rva": "0x00046D59"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003DDAE",
+			"FOA_Rva": "0x00046DCC"
+		},
+		{
+			"Text_Raw": "「茜や葵にいたっては、鉄鬼がいないなら自分たちはなにと遊べばいいのかと騒ぐ始末」",
+			"Text_Tra": "『Akane and Aoi are struggling with finding something to entertain themselves, now that their favorite playthings are gone.』",
+			"FOA_Ptr": "0x0003DDEE",
+			"FOA_Rva": "0x00046DD3"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003DE06",
+			"FOA_Rva": "0x00046E34"
+		},
+		{
+			"Text_Raw": "「わたしは……」",
+			"Text_Tra": "『As for me-』",
+			"FOA_Ptr": "0x0003DE46",
+			"FOA_Rva": "0x00046E3B"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003DE5E",
+			"FOA_Rva": "0x00046E5C"
+		},
+		{
+			"Text_Raw": "「わたしは、やることだらけだというのに、さぼっております」",
+			"Text_Tra": "『I've got plenty to do, but I'm slacking off.』",
+			"FOA_Ptr": "0x0003DE9E",
+			"FOA_Rva": "0x00046E63"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003DEB6",
+			"FOA_Rva": "0x00046EAE"
+		},
+		{
+			"Text_Raw": "「最初は、それでも仕方ないと見逃されていたのですが、最近は、働かないとご飯を食べさせてもらえない気配がしてきました」",
+			"Text_Tra": "『To start with, people let that slide, but I think they might stop feeding me if I don't start pulling my weight.』",
+			"FOA_Ptr": "0x0003DEF6",
+			"FOA_Rva": "0x00046EB5"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003DF0E",
+			"FOA_Rva": "0x00046F3A"
+		},
+		{
+			"Text_Raw": "「とても、酷いことです」",
+			"Text_Tra": "『It's all really horrible.』",
+			"FOA_Ptr": "0x0003DF4E",
+			"FOA_Rva": "0x00046F41"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003DF66",
+			"FOA_Rva": "0x00046F6A"
+		},
+		{
+			"Text_Raw": "「……なにをしているんだ、春」",
+			"Text_Tra": "『...What are you doing, Haru?』",
+			"FOA_Ptr": "0x0003E016",
+			"FOA_Rva": "0x00046F71"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x0003E02E",
+			"FOA_Rva": "0x00046FA0"
+		},
+		{
+			"Text_Raw": "声とともに、彼女の兄が様子を見に来てくれる。",
+			"Text_Tra": "My brother makes his presence known behind me.",
+			"FOA_Ptr": "0x0003E06E",
+			"FOA_Rva": "0x00046FA7"
+		},
+		{
+			"Text_Raw": "「はぁ……なにをというか、なにもしていません」",
+			"Text_Tra": "『Hah... If you really need an answer, I'm doing nothing.』",
+			"FOA_Ptr": "0x0003E0FA",
+			"FOA_Rva": "0x00046FD6"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003E112",
+			"FOA_Rva": "0x00047015"
+		},
+		{
+			"Text_Raw": "「そう、か」",
+			"Text_Tra": "『I see.』",
+			"FOA_Ptr": "0x0003E17E",
+			"FOA_Rva": "0x0004701C"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x0003E196",
+			"FOA_Rva": "0x00047039"
+		},
+		{
+			"Text_Raw": "兄の笑顔も、最近、ひきつっております。",
+			"Text_Tra": "My brother's smile has also been strained in recent days.",
+			"FOA_Ptr": "0x0003E1D6",
+			"FOA_Rva": "0x00047040"
+		},
+		{
+			"Text_Raw": "「そうやって桜を見上げていると夏のようだと、今回も言おうと思ったが、まったく違うのだな」",
+			"Text_Tra": "『I almost said that you look like Natsu, standing here like this, but you actually look nothing like her.』",
+			"FOA_Ptr": "0x0003E22E",
+			"FOA_Rva": "0x00047069"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x0003E246",
+			"FOA_Rva": "0x000470D2"
+		},
+		{
+			"Text_Raw": "「わたしは春ですから」",
+			"Text_Tra": "『Because I'm Haru.』",
+			"FOA_Ptr": "0x0003E286",
+			"FOA_Rva": "0x000470D9"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003E29E",
+			"FOA_Rva": "0x00047100"
+		},
+		{
+			"Text_Raw": "ちらりと、桜を見上げる。",
+			"Text_Tra": "I glance up at the cherry again.",
+			"FOA_Ptr": "0x0003E31A",
+			"FOA_Rva": "0x00047107"
+		},
+		{
+			"Text_Raw": "はじめてあなたが目を覚ましたのは、この木に吊したときだった。",
+			"Text_Tra": "When you first awoke, this is the tree you were hanging from.",
+			"FOA_Ptr": "0x0003E372",
+			"FOA_Rva": "0x00047122"
+		},
+		{
+			"Text_Raw": "目を丸くしていたあなたの顔を思い出すと、わたしは、自然と笑顔を浮かべてしまうのです。",
+			"Text_Tra": "When I remember your wide-eyed face, it brings a smile to my lips.",
+			"FOA_Ptr": "0x0003E3CA",
+			"FOA_Rva": "0x00047161"
+		},
+		{
+			"Text_Raw": "どこを見渡しても、あなたを思い出します。",
+			"Text_Tra": "Wherever I look, I remember you.",
+			"FOA_Ptr": "0x0003E422",
+			"FOA_Rva": "0x000471B8"
+		},
+		{
+			"Text_Raw": "「まだ重症のようだな」",
+			"Text_Tra": "『You've still got it bad.』",
+			"FOA_Ptr": "0x0003E4AE",
+			"FOA_Rva": "0x000471E3"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x0003E4C6",
+			"FOA_Rva": "0x0004720A"
+		},
+		{
+			"Text_Raw": "「わたしは別に、怪我をしてはいませんし、心に傷を負っているわけでもありません」",
+			"Text_Tra": "『I've not been physically injured, and my heart isn't injured either.』",
+			"FOA_Ptr": "0x0003E53A",
+			"FOA_Rva": "0x00047211"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003E552",
+			"FOA_Rva": "0x00047270"
+		},
+		{
+			"Text_Raw": "それだけは伝えておこうと、兄のぼやきに返事をしておく。",
+			"Text_Tra": "I think his comment at least deserves some kind of reply.",
+			"FOA_Ptr": "0x0003E5A2",
+			"FOA_Rva": "0x00047277"
+		},
+		{
+			"Text_Raw": "「それで、なにか御用でしょうか？　おゆはんの時間ですか？」",
+			"Text_Tra": "『Is there something you need? Is it dinner time yet?』",
+			"FOA_Ptr": "0x0003E5FA",
+			"FOA_Rva": "0x000472B0"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003E612",
+			"FOA_Rva": "0x000472FB"
+		},
+		{
+			"Text_Raw": "「春、昼食が１時間前だ」",
+			"Text_Tra": "『Haru, it's only been an hour since lunch.』",
+			"FOA_Ptr": "0x0003E66E",
+			"FOA_Rva": "0x00047302"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x0003E686",
+			"FOA_Rva": "0x0004732B"
+		},
+		{
+			"Text_Raw": "「そうですか。意外と時間が経っておりませんね」",
+			"Text_Tra": "『I see. It hasn't been as long as I expected.』",
+			"FOA_Ptr": "0x0003E6C6",
+			"FOA_Rva": "0x00047332"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003E6DE",
+			"FOA_Rva": "0x00047371"
+		},
+		{
+			"Text_Raw": "あと５時間ほど、ぼんやりしていてもよいらしい。",
+			"Text_Tra": "Sounds like I've got about five more hours to just stand around.",
+			"FOA_Ptr": "0x0003E71E",
+			"FOA_Rva": "0x00047378"
+		},
+		{
+			"Text_Raw": "「まったく……わが妹ながら」",
+			"Text_Tra": "『Seriously. You're my sister, and I don't know what to do with you.』",
+			"FOA_Ptr": "0x0003E776",
+			"FOA_Rva": "0x000473A9"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x0003E78E",
+			"FOA_Rva": "0x000473D6"
+		},
+		{
+			"Text_Raw": "「ふぬけた様子ですね」",
+			"Text_Tra": "『She does look quite pathetic.』",
+			"FOA_Ptr": "0x0003E886",
+			"FOA_Rva": "0x000473EB"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0003E89E",
+			"FOA_Rva": "0x00047412"
+		},
+		{
+			"Text_Raw": "突然、紛れこんだ声。",
+			"Text_Tra": "A third voice suddenly joins our conversation.",
+			"FOA_Ptr": "0x0003E956",
+			"FOA_Rva": "0x00047419"
+		},
+		{
+			"Text_Raw": "その声を、わたしは、知っている。",
+			"Text_Tra": "I know the voice, too.",
+			"FOA_Ptr": "0x0003E9AE",
+			"FOA_Rva": "0x00047430"
+		},
+		{
+			"Text_Raw": "もう一度聞きたいと願っていた声ではない。",
+			"Text_Tra": "It isn't a voice I wished to hear again-",
+			"FOA_Ptr": "0x0003EA06",
+			"FOA_Rva": "0x00047453"
+		},
+		{
+			"Text_Raw": "いや――かつては願っていたが、今は、違う。",
+			"Text_Tra": "Well, maybe I did in the past, but not recently.",
+			"FOA_Ptr": "0x0003EA5E",
+			"FOA_Rva": "0x0004747E"
+		},
+		{
+			"Text_Raw": "「お久しぶりです。冬兄さま、春」",
+			"Text_Tra": "『It's nice to see you both again. Brother. Haru.』",
+			"FOA_Ptr": "0x0003EB56",
+			"FOA_Rva": "0x000474AB"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0003EB6E",
+			"FOA_Rva": "0x000474DC"
+		},
+		{
+			"Text_Raw": "くるりと傘がひるがえり、そこに、いてはならない者がいた。",
+			"Text_Tra": "Twirling her parasol, there's someone here who can't possibly be back among us.",
+			"FOA_Ptr": "0x0003EBBE",
+			"FOA_Rva": "0x000474E3"
+		},
+		{
+			"Text_Raw": "「……夏？」",
+			"Text_Tra": "『...Natsu?』",
+			"FOA_Ptr": "0x0003EC32",
+			"FOA_Rva": "0x0004751E"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x0003EC4A",
+			"FOA_Rva": "0x0004753B"
+		},
+		{
+			"Text_Raw": "「……姉、さま？」",
+			"Text_Tra": "『...Sister?』",
+			"FOA_Ptr": "0x0003EC8A",
+			"FOA_Rva": "0x00047542"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003ECA2",
+			"FOA_Rva": "0x00047565"
+		},
+		{
+			"Text_Raw": "わたしたちは呆然としてしまう。",
+			"Text_Tra": "The two of us are suitably stunned.",
+			"FOA_Ptr": "0x0003ECE2",
+			"FOA_Rva": "0x0004756C"
+		},
+		{
+			"Text_Raw": "兄と顔を見合わせ、互いの驚きの表情に、夢ではないことを知る。",
+			"Text_Tra": "I look over at my brother, the amazement on both of our faces telling the other that this isn't a dream.",
+			"FOA_Ptr": "0x0003ED3A",
+			"FOA_Rva": "0x0004758D"
+		},
+		{
+			"Text_Raw": "「残念ながら、そう、私は幻ではないのです」",
+			"Text_Tra": "『Sorry to say it, kiddos, but you aren't seeing things. I'm really here.』",
+			"FOA_Ptr": "0x0003ED92",
+			"FOA_Rva": "0x000475CC"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0003EDAA",
+			"FOA_Rva": "0x00047607"
+		},
+		{
+			"Text_Raw": "記憶にある以上に饒舌に、感情豊かに、姉さまが苦笑いを浮かべる。",
+			"Text_Tra": "My sister gives a laugh that's far richer in emotion than the sounds she used to make. She seems more talkative, too.",
+			"FOA_Ptr": "0x0003EDEA",
+			"FOA_Rva": "0x0004760E"
+		},
+		{
+			"Text_Raw": "その困ったような笑い方が、彼を思い出させた。",
+			"Text_Tra": "That kind of wry laughter reminds me of-him.",
+			"FOA_Ptr": "0x0003EE42",
+			"FOA_Rva": "0x0004764F"
+		},
+		{
+			"Text_Raw": "「説明を求めますか？」",
+			"Text_Tra": "『Do you need me to explain all this?』",
+			"FOA_Ptr": "0x0003EE9A",
+			"FOA_Rva": "0x0004767E"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0003EEB2",
+			"FOA_Rva": "0x000476A5"
+		},
+		{
+			"Text_Raw": "問うまでもなく、彼女は勝手に話し始める。",
+			"Text_Tra": "She doesn't wait for a reply, just starts explaining.",
+			"FOA_Ptr": "0x0003EEF2",
+			"FOA_Rva": "0x000476AC"
+		},
+		{
+			"Text_Raw": "「鉄鬼の活動停止とともに、私も死ぬはずでした――が」",
+			"Text_Tra": "『My life was supposed to end with the deactivation of the Tekki.』",
+			"FOA_Ptr": "0x0003EF66",
+			"FOA_Rva": "0x000476D7"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0003EF7E",
+			"FOA_Rva": "0x0004771C"
+		},
+		{
+			"Text_Raw": "「黒神の残骸のごく近くに、魂の抜けた人の形をしたものが、ひとつ、残ってしまっていました」",
+			"Text_Tra": "『But, close to the remains of the Kurokami, there was this human-looking doll, now minus one soul.』",
+			"FOA_Ptr": "0x0003EFBE",
+			"FOA_Rva": "0x00047723"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0003EFD6",
+			"FOA_Rva": "0x0004778C"
+		},
+		{
+			"Text_Raw": "「鉄の人形の抜け殻」",
+			"Text_Tra": "『The empty husk left by a metal man.』",
+			"FOA_Ptr": "0x0003F016",
+			"FOA_Rva": "0x00047793"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0003F02E",
+			"FOA_Rva": "0x000477B8"
+		},
+		{
+			"Text_Raw": "「世界はそれを再構成して、私を生みなおしたのです」",
+			"Text_Tra": "『The world restructured that husk and allowed me to be reborn into it.』",
+			"FOA_Ptr": "0x0003F06E",
+			"FOA_Rva": "0x000477BF"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0003F086",
+			"FOA_Rva": "0x00047802"
+		},
+		{
+			"Text_Raw": "「まったく……我ながら死ねないものだと呆れ続けてきましたが、もはや度し難いですね」",
+			"Text_Tra": "『Hey, I was surprised too! I knew I was hard to kill, but this is just becoming comedic.』",
+			"FOA_Ptr": "0x0003F0C6",
+			"FOA_Rva": "0x00047809"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0003F0DE",
+			"FOA_Rva": "0x0004786C"
+		},
+		{
+			"Text_Raw": "「いえ、結局、彼は私を殺しきれなかったのでしょう」",
+			"Text_Tra": "『Or, more likely, he didn't have what it takes to finish me off.』",
+			"FOA_Ptr": "0x0003F11E",
+			"FOA_Rva": "0x00047873"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0003F136",
+			"FOA_Rva": "0x000478B6"
+		},
+		{
+			"Text_Raw": "「あの子は優しくて……優しすぎて……私を憐れんでしまった」",
+			"Text_Tra": "『He was so kind, after all. Too kind. He took pity on me.』",
+			"FOA_Ptr": "0x0003F176",
+			"FOA_Rva": "0x000478BD"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0003F18E",
+			"FOA_Rva": "0x00047908"
+		},
+		{
+			"Text_Raw": "わけのわからぬまま、姉さまの饒舌を押しつけられる。",
+			"Text_Tra": "My sister just starts spilling it all, without either my brother or I really having a clue what's happening.",
+			"FOA_Ptr": "0x0003F1CE",
+			"FOA_Rva": "0x0004790F"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x0003F226",
+			"FOA_Rva": "0x00047944"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003F23E",
+			"FOA_Rva": "0x00047961"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x0003F27E",
+			"FOA_Rva": "0x00047968"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x0003F296",
+			"FOA_Rva": "0x00047985"
+		},
+		{
+			"Text_Raw": "わたしたちは、なにも言えなかった。",
+			"Text_Tra": "We don't say anything.",
+			"FOA_Ptr": "0x0003F2D6",
+			"FOA_Rva": "0x0004798C"
+		},
+		{
+			"Text_Raw": "なにを言えばいいのか。",
+			"Text_Tra": "There's nothing we can say.",
+			"FOA_Ptr": "0x0003F32E",
+			"FOA_Rva": "0x000479B1"
+		},
+		{
+			"Text_Raw": "姉さまが、また、困ったように笑う。",
+			"Text_Tra": "My sister gives another wry laugh.",
+			"FOA_Ptr": "0x0003F386",
+			"FOA_Rva": "0x000479CA"
+		},
+		{
+			"Text_Raw": "「そのような顔を、しないで、ください」",
+			"Text_Tra": "『Please, don't make those faces.』",
+			"FOA_Ptr": "0x0003F3DE",
+			"FOA_Rva": "0x000479EF"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0003F3F6",
+			"FOA_Rva": "0x00047A26"
+		},
+		{
+			"Text_Raw": "「お話したように、無理やり生かされていることに困っているのは、私も同じなのです」",
+			"Text_Tra": "『I'm struggling with the fact I keep on keeping on-have to have a life-just as much as you are.』",
+			"FOA_Ptr": "0x0003F436",
+			"FOA_Rva": "0x00047A2D"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0003F44E",
+			"FOA_Rva": "0x00047A8E"
+		},
+		{
+			"Text_Raw": "「もはや――」",
+			"Text_Tra": "『You know what-』",
+			"FOA_Ptr": "0x0003F48E",
+			"FOA_Rva": "0x00047A95"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0003F4A6",
+			"FOA_Rva": "0x00047AB4"
+		},
+		{
+			"Text_Raw": "「“姉さま”！！」",
+			"Text_Tra": "«Sister!»",
+			"FOA_Ptr": "0x0003F58A",
+			"FOA_Rva": "0x00047ABB"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003F5A2",
+			"FOA_Rva": "0x00047ADE"
+		},
+		{
+			"Text_Raw": "わたしの喉が、声をあげた。",
+			"Text_Tra": "I speak, almost without realizing it.",
+			"FOA_Ptr": "0x0003F5E2",
+			"FOA_Rva": "0x00047AE5"
+		},
+		{
+			"Text_Raw": "「“彼を返して”！」",
+			"Text_Tra": "«Return him to me!»",
+			"FOA_Ptr": "0x0003F63A",
+			"FOA_Rva": "0x00047B02"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003F652",
+			"FOA_Rva": "0x00047B27"
+		},
+		{
+			"Text_Raw": "わたしは叫ぶ。",
+			"Text_Tra": "I shout.",
+			"FOA_Ptr": "0x0003F6D6",
+			"FOA_Rva": "0x00047B2E"
+		},
+		{
+			"Text_Raw": "叫んでしまう。",
+			"Text_Tra": "I can't keep it in.",
+			"FOA_Ptr": "0x0003F72E",
+			"FOA_Rva": "0x00047B3F"
+		},
+		{
+			"Text_Raw": "叫んでいることに、叫んでから気づくほど、取り乱してしまう。",
+			"Text_Tra": "I'm so out of my head, I don't even realize I'm shouting until I've already finished.",
+			"FOA_Ptr": "0x0003F786",
+			"FOA_Rva": "0x00047B50"
+		},
+		{
+			"Text_Raw": "生まれて初めてのことに、姉さまも、兄も、驚いている。",
+			"Text_Tra": "My sister and my brother are both equally taken by surprise.",
+			"FOA_Ptr": "0x0003F7DE",
+			"FOA_Rva": "0x00047B8D"
+		},
+		{
+			"Text_Raw": "わたしは、たぶん、ずっと、よい子でした。",
+			"Text_Tra": "I've been a good girl, my entire life.",
+			"FOA_Ptr": "0x0003F836",
+			"FOA_Rva": "0x00047BC4"
+		},
+		{
+			"Text_Raw": "でも、構うものか！",
+			"Text_Tra": "But I don't care about that now!",
+			"FOA_Ptr": "0x0003F88E",
+			"FOA_Rva": "0x00047BEF"
+		},
+		{
+			"Text_Raw": "「お願いです、姉さま！　彼を、“信を返して”！　返してください！　“返して”！」",
+			"Text_Tra": "『Please, sister! «Return him to me!» Return him! «Return him to me!»』",
+			"FOA_Ptr": "0x0003F92A",
+			"FOA_Rva": "0x00047C04"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003F942",
+			"FOA_Rva": "0x00047C65"
+		},
+		{
+			"Text_Raw": "「なぜ、帰ってくるのがあなたなのですか！？　あなたなんて、消えたままでいれば、よかった！」",
+			"Text_Tra": "『Why are you the one who gets to come back? You should be the one who vanished, not him!』",
+			"FOA_Ptr": "0x0003F9C6",
+			"FOA_Rva": "0x00047C6C"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003F9DE",
+			"FOA_Rva": "0x00047CD7"
+		},
+		{
+			"Text_Raw": "「わたしが戻ってきて欲しかったのは、信よ！　“彼を返して”！」",
+			"Text_Tra": "『I want Shin back, not you! «Return him to me!»』",
+			"FOA_Ptr": "0x0003FA62",
+			"FOA_Rva": "0x00047CDE"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003FA7A",
+			"FOA_Rva": "0x00047D2D"
+		},
+		{
+			"Text_Raw": "「“あの人の声を、聞かせて”！　もう一度！　いいえ、一度では足りない！　“何度も、何度も、ずっと、彼の声を聞かせなさい”！」",
+			"Text_Tra": "«Let me hear his voice again!» Just once! No, not once! «Again and again, over and over, let me hear him!»",
+			"FOA_Ptr": "0x0003FABA",
+			"FOA_Rva": "0x00047D34"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003FAD2",
+			"FOA_Rva": "0x00047DC1"
+		},
+		{
+			"Text_Raw": "散らかった叫びは、ところどころを言霊とするが、なんの意味もない。",
+			"Text_Tra": "My scattered shouts become Kotodama in some places, even if they hold no special meaning.",
+			"FOA_Ptr": "0x0003FB56",
+			"FOA_Rva": "0x00047DC8"
+		},
+		{
+			"Text_Raw": "それでも、わたしは叫ばずにはいられなかった。",
+			"Text_Tra": "I have to shout. I simply have to.",
+			"FOA_Ptr": "0x0003FBAE",
+			"FOA_Rva": "0x00047E0B"
+		},
+		{
+			"Text_Raw": "「春、わかっていますか？」",
+			"Text_Tra": "『Haru, do you understand what you're asking?』",
+			"FOA_Ptr": "0x0003FC3A",
+			"FOA_Rva": "0x00047E3A"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0003FC52",
+			"FOA_Rva": "0x00047E65"
+		},
+		{
+			"Text_Raw": "姉さまが仕方ないというように――ああ、それこそわたしの見慣れた彼女の顔で、さとしてくる。",
+			"Text_Tra": "There's a mixture of resignation and annoyance on her face-much more like the sister I remember.",
+			"FOA_Ptr": "0x0003FC92",
+			"FOA_Rva": "0x00047E6C"
+		},
+		{
+			"Text_Raw": "「彼をこの世界に戻すということは、眠りについた鉄鬼を再び――」",
+			"Text_Tra": "『Calling him back into this world means also waking up a whole bunch of other slumbering problems-』",
+			"FOA_Ptr": "0x0003FCEA",
+			"FOA_Rva": "0x00047EC7"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0003FD02",
+			"FOA_Rva": "0x00047F16"
+		},
+		{
+			"Text_Raw": "「わかっています！　わたしが間違っているなんてこと、わかっています！　でも、関係ありません！　信を返して！」",
+			"Text_Tra": "『I know! I know what I'm asking for is a mistake! But I don't care! Give Shin back to me!』",
+			"FOA_Ptr": "0x0003FD42",
+			"FOA_Rva": "0x00047F1D"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003FD5A",
+			"FOA_Rva": "0x00047F9A"
+		},
+		{
+			"Text_Raw": "「鉄鬼がまたあらわれて、人が死んで、そんなこと、もう、どうでもいい！！」",
+			"Text_Tra": "『I don't care if the Tekki appear again, or people die, or whatever! I just don't care!』",
+			"FOA_Ptr": "0x0003FD9A",
+			"FOA_Rva": "0x00047FA1"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003FDB2",
+			"FOA_Rva": "0x00047FFA"
+		},
+		{
+			"Text_Raw": "「春」",
+			"Text_Tra": "『Haru.』",
+			"FOA_Ptr": "0x0003FDF2",
+			"FOA_Rva": "0x00048001"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0003FE0A",
+			"FOA_Rva": "0x00048018"
+		},
+		{
+			"Text_Raw": "「“うるさい”！　“あなたの言葉なんて知らない”！　“カントなんてどうなったっていい”！」",
+			"Text_Tra": "«Shut up!» «I don't care what you say!» «I don't care about Kanto!»",
+			"FOA_Ptr": "0x0003FEC2",
+			"FOA_Rva": "0x0004801F"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003FEDA",
+			"FOA_Rva": "0x0004808A"
+		},
+		{
+			"Text_Raw": "「“この世界だって、どうでもいい”！」",
+			"Text_Tra": "«I don't care about this world at all!»",
+			"FOA_Ptr": "0x0003FF1A",
+			"FOA_Rva": "0x00048091"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003FF32",
+			"FOA_Rva": "0x000480C8"
+		},
+		{
+			"Text_Raw": "「“あの人のいない世界なんて、壊れてしまえ”！！」",
+			"Text_Tra": "«A world without him in it can just go to hell!»",
+			"FOA_Ptr": "0x0003FF72",
+			"FOA_Rva": "0x000480CF"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003FF8A",
+			"FOA_Rva": "0x00048112"
+		},
+		{
+			"Text_Raw": "「“あの人を、返して”！！」",
+			"Text_Tra": "«Give him back to me!»",
+			"FOA_Ptr": "0x0003FFCA",
+			"FOA_Rva": "0x00048119"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0003FFE2",
+			"FOA_Rva": "0x00048146"
+		},
+		{
+			"Text_Raw": "わたしの身体は自然と動いていた。",
+			"Text_Tra": "My body just moves on its own.",
+			"FOA_Ptr": "0x00040066",
+			"FOA_Rva": "0x0004814D"
+		},
+		{
+			"Text_Raw": "ただ幼稚な感情に身を任せたまま、姉さまの胸に、右腕を伸ばしていた。",
+			"Text_Tra": "Carried by the emotions inside me, I reach out with my right arm and touch her chest.",
+			"FOA_Ptr": "0x000400F2",
+			"FOA_Rva": "0x00048170"
+		},
+		{
+			"Text_Raw": "姉さまは象徴である傘を手放し、私の腕を見下ろしたまま受け入れた。",
+			"Text_Tra": "She watches me, releasing her parasol and accepting my touch.",
+			"FOA_Ptr": "0x0004014A",
+			"FOA_Rva": "0x000481B5"
+		},
+		{
+			"Text_Raw": "ぼん、と。",
+			"Text_Tra": "Tap.",
+			"FOA_Ptr": "0x000401A2",
+			"FOA_Rva": "0x000481F8"
+		},
+		{
+			"Text_Raw": "相手を打ち倒すでもなく、ただ感情に任せて振るった拳が、たいして重くない感触を得る。",
+			"Text_Tra": "I'm not planning on knocking her down, hardly even putting anything behind it, just driven completely by my emotions.",
+			"FOA_Ptr": "0x000401FA",
+			"FOA_Rva": "0x00048205"
+		},
+		{
+			"Text_Raw": "透過はしなかった。",
+			"Text_Tra": "It doesn't pass through her.",
+			"FOA_Ptr": "0x00040262",
+			"FOA_Rva": "0x0004825A"
+		},
+		{
+			"Text_Raw": "それで、驚いた。",
+			"Text_Tra": "That's a surprise.",
+			"FOA_Ptr": "0x000402BA",
+			"FOA_Rva": "0x0004826F"
+		},
+		{
+			"Text_Raw": "「……姉さま？」",
+			"Text_Tra": "『...Sister?』",
+			"FOA_Ptr": "0x00040346",
+			"FOA_Rva": "0x00048282"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004035E",
+			"FOA_Rva": "0x000482A3"
+		},
+		{
+			"Text_Raw": "何年ぶりだろう……この人に触れたのは。",
+			"Text_Tra": "How many years has it been since I last touched her?",
+			"FOA_Ptr": "0x0004039E",
+			"FOA_Rva": "0x000482AA"
+		},
+		{
+			"Text_Raw": "たいした害はなくとも、敵意しかなかった今のわたしの拳が、姉さまに当たるわけがない。",
+			"Text_Tra": "Even if it wasn't going to do any serious damage, I'm brimming with angry intent; there's no way my fist should be making contact.",
+			"FOA_Ptr": "0x000403F6",
+			"FOA_Rva": "0x000482D3"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x000404A2",
+			"FOA_Rva": "0x00048328"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x000404BA",
+			"FOA_Rva": "0x00048345"
+		},
+		{
+			"Text_Raw": "姉さまは、叩かれた胸元を見つめている。",
+			"Text_Tra": "She looks down at her chest, where I touched her.",
+			"FOA_Ptr": "0x000404FA",
+			"FOA_Rva": "0x0004834C"
+		},
+		{
+			"Text_Raw": "どこか優しい微笑みを浮かべて。",
+			"Text_Tra": "A gentle smile floats onto her face.",
+			"FOA_Ptr": "0x00040552",
+			"FOA_Rva": "0x00048375"
+		},
+		{
+			"Text_Raw": "「なるほど……彼の拳よりも、痛い、ものですね」",
+			"Text_Tra": "『Interesting. That actually hurt more than his fists did.』",
+			"FOA_Ptr": "0x000405AA",
+			"FOA_Rva": "0x00048396"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x000405C2",
+			"FOA_Rva": "0x000483D5"
+		},
+		{
+			"Text_Raw": "姉さまがわずかに身をかがめる。",
+			"Text_Tra": "She hunches her body over a little.",
+			"FOA_Ptr": "0x00040602",
+			"FOA_Rva": "0x000483DC"
+		},
+		{
+			"Text_Raw": "「春、ありがとう」",
+			"Text_Tra": "『Haru, thank you.』",
+			"FOA_Ptr": "0x0004065A",
+			"FOA_Rva": "0x000483FD"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x00040672",
+			"FOA_Rva": "0x00048420"
+		},
+		{
+			"Text_Raw": "「私は、最初から、彼に殺されようとは思っていなかったのよ」",
+			"Text_Tra": "『I wasn't planning on letting him kill me.』",
+			"FOA_Ptr": "0x000406B2",
+			"FOA_Rva": "0x00048427"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x000406CA",
+			"FOA_Rva": "0x00048472"
+		},
+		{
+			"Text_Raw": "「彼に望んだのは共振源へと至り、争いを終わらせること」",
+			"Text_Tra": "『What I wanted was for him to reach the vibration source and end the fighting.』",
+			"FOA_Ptr": "0x0004070A",
+			"FOA_Rva": "0x00048479"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x00040722",
+			"FOA_Rva": "0x000484C0"
+		},
+		{
+			"Text_Raw": "「私と同じように、死を知らぬから生きてもいない鉄鬼に、安らかな眠りを与えること」",
+			"Text_Tra": "『To bring peace to the Tekki, who are so much like me-unable to know death, and so never truly alive.』",
+			"FOA_Ptr": "0x00040762",
+			"FOA_Rva": "0x000484C7"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0004077A",
+			"FOA_Rva": "0x00048528"
+		},
+		{
+			"Text_Raw": "「それだけ」",
+			"Text_Tra": "『That's all.』",
+			"FOA_Ptr": "0x000407BA",
+			"FOA_Rva": "0x0004852F"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x000407D2",
+			"FOA_Rva": "0x0004854C"
+		},
+		{
+			"Text_Raw": "「私を殺すのは……最初から、あなたと決めていました」",
+			"Text_Tra": "『It was always my plan, right from the beginning, that you would be the one to kill me.』",
+			"FOA_Ptr": "0x00040812",
+			"FOA_Rva": "0x00048553"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0004082A",
+			"FOA_Rva": "0x00048598"
+		},
+		{
+			"Text_Raw": "「……殺す？」",
+			"Text_Tra": "『...Kill you?』",
+			"FOA_Ptr": "0x0004086A",
+			"FOA_Rva": "0x0004859F"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00040882",
+			"FOA_Rva": "0x000485BE"
+		},
+		{
+			"Text_Raw": "「……死ぬ？」",
+			"Text_Tra": "『...You want to die?』",
+			"FOA_Ptr": "0x000408C2",
+			"FOA_Rva": "0x000485C5"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000408DA",
+			"FOA_Rva": "0x000485E4"
+		},
+		{
+			"Text_Raw": "まさか、まさかと、わたしはかぶりを振ってしまう。",
+			"Text_Tra": "I shake my head left and right, unable to comprehend.",
+			"FOA_Ptr": "0x0004091A",
+			"FOA_Rva": "0x000485EB"
+		},
+		{
+			"Text_Raw": "姉さまは笑っているが、見た目にはなんともないが、彼女の言葉から力が失われていくのが、わかる。",
+			"Text_Tra": "She's smiling, and looks the same as normal, but I can feel the power draining out of her words.",
+			"FOA_Ptr": "0x00040972",
+			"FOA_Rva": "0x0004861E"
+		},
+		{
+			"Text_Raw": "あの、ただ不器用に突き出した拳が、そんな……。",
+			"Text_Tra": "All I did was stick my fist out! How can this be happening?!",
+			"FOA_Ptr": "0x000409CA",
+			"FOA_Rva": "0x0004867D"
+		},
+		{
+			"Text_Raw": "「私が世界そのものであるならば――」",
+			"Text_Tra": "『If I am this world, the very world itself-』",
+			"FOA_Ptr": "0x00040A22",
+			"FOA_Rva": "0x000486AE"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x00040A3A",
+			"FOA_Rva": "0x000486E3"
+		},
+		{
+			"Text_Raw": "「その世界を殺すほどの想いを込められるのは、あなたしかいないと、知っていました」",
+			"Text_Tra": "『Then I knew that the only one capable of generating feelings strong enough to kill the world, was you.』",
+			"FOA_Ptr": "0x00040A7A",
+			"FOA_Rva": "0x000486EA"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x00040A92",
+			"FOA_Rva": "0x0004874B"
+		},
+		{
+			"Text_Raw": "「あなたのような、ひとりの少女のわがままな想いこそ、この世界を殺すほどの力を……」",
+			"Text_Tra": "『That it's the selfish feelings of a single girl, just like you, that can hold the power to kill this world.』",
+			"FOA_Ptr": "0x00040AD2",
+			"FOA_Rva": "0x00048752"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x00040AEA",
+			"FOA_Rva": "0x000487B5"
+		},
+		{
+			"Text_Raw": "「この世界そのものを変える力を持つのだと」",
+			"Text_Tra": "『The power to change it.』",
+			"FOA_Ptr": "0x00040B2A",
+			"FOA_Rva": "0x000487BC"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x00040B42",
+			"FOA_Rva": "0x000487F7"
+		},
+		{
+			"Text_Raw": "姉さまは笑う。",
+			"Text_Tra": "She gives a laugh.",
+			"FOA_Ptr": "0x00040B82",
+			"FOA_Rva": "0x000487FE"
+		},
+		{
+			"Text_Raw": "わたしは、なにを……。",
+			"Text_Tra": "What have I done?",
+			"FOA_Ptr": "0x00040BDA",
+			"FOA_Rva": "0x0004880F"
+		},
+		{
+			"Text_Raw": "「夏……この子に、君を殺す罪を背負わせるな」",
+			"Text_Tra": "『Natsu. Don't burden her with the act of killing you.』",
+			"FOA_Ptr": "0x00040CC6",
+			"FOA_Rva": "0x00048828"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x00040CDE",
+			"FOA_Rva": "0x00048865"
+		},
+		{
+			"Text_Raw": "そこで、声が刺さる。",
+			"Text_Tra": "The third person in our little group cuts in.",
+			"FOA_Ptr": "0x00040D1E",
+			"FOA_Rva": "0x0004886C"
+		},
+		{
+			"Text_Raw": "冷たい声に目を向けると、兄が表情だけは穏やかに姉さまを見つめていた。",
+			"Text_Tra": "I glance over at the owner of the cold voice, to see my brother looking at my sister with a gentle expression.",
+			"FOA_Ptr": "0x00040D76",
+			"FOA_Rva": "0x00048883"
+		},
+		{
+			"Text_Raw": "「吾は悪事も一言、善事も一言、言い離つ神」",
+			"Text_Tra": "『I am the God of Words. I speak of evil, and I speak of good.』",
+			"FOA_Ptr": "0x00040E62",
+			"FOA_Rva": "0x000488CA"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x00040E7A",
+			"FOA_Rva": "0x00048905"
+		},
+		{
+			"Text_Raw": "兄が、言霊使いのならわしをつぶやく。",
+			"Text_Tra": "He murmurs the words normally intoned by Kotodama users.",
+			"FOA_Ptr": "0x00040EBA",
+			"FOA_Rva": "0x0004890C"
+		},
+		{
+			"Text_Raw": "彼は言霊使いではないから、それに、意味はない。",
+			"Text_Tra": "He isn't a Kotodama user, of course, so they are meaningless words to him.",
+			"FOA_Ptr": "0x00040F12",
+			"FOA_Rva": "0x00048933"
+		},
+		{
+			"Text_Raw": "けれど――",
+			"Text_Tra": "And yet-",
+			"FOA_Ptr": "0x00040F6A",
+			"FOA_Rva": "0x00048964"
+		},
+		{
+			"Text_Raw": "「約束は、私でも使える言霊だ」",
+			"Text_Tra": "『A promise is a Kotodama even I can use.』",
+			"FOA_Ptr": "0x00040FF6",
+			"FOA_Rva": "0x00048971"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x0004100E",
+			"FOA_Rva": "0x000489A0"
+		},
+		{
+			"Text_Raw": "「私は八剣になって、夏を守るためにここへ戻ってくると、そう約束した」",
+			"Text_Tra": "『I promised to become a Sword and return here, in order to protect you.』",
+			"FOA_Ptr": "0x0004104E",
+			"FOA_Rva": "0x000489A7"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x00041066",
+			"FOA_Rva": "0x000489FC"
+		},
+		{
+			"Text_Raw": "「君をひとりにしないと」",
+			"Text_Tra": "『That I wouldn't leave you alone.』",
+			"FOA_Ptr": "0x000410A6",
+			"FOA_Rva": "0x00048A03"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x000410BE",
+			"FOA_Rva": "0x00048A2C"
+		},
+		{
+			"Text_Raw": "「それを、今、果たそう」",
+			"Text_Tra": "『Now, I'm going to make good on that promise.』",
+			"FOA_Ptr": "0x000410FE",
+			"FOA_Rva": "0x00048A33"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x00041116",
+			"FOA_Rva": "0x00048A5C"
+		},
+		{
+			"Text_Raw": "「……どのように？」",
+			"Text_Tra": "『...How?』",
+			"FOA_Ptr": "0x0004117E",
+			"FOA_Rva": "0x00048A63"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x00041196",
+			"FOA_Rva": "0x00048A88"
+		},
+		{
+			"Text_Raw": "姉がおかしそうに小首をかしげる。",
+			"Text_Tra": "My sister tilts her head, looking puzzled.",
+			"FOA_Ptr": "0x000411D6",
+			"FOA_Rva": "0x00048A8F"
+		},
+		{
+			"Text_Raw": "兄は冷たい瞳を細める。",
+			"Text_Tra": "My brother narrows his cold eyes.",
+			"FOA_Ptr": "0x0004122E",
+			"FOA_Rva": "0x00048AB2"
+		},
+		{
+			"Text_Raw": "「夏、君が欲しがっていたものを、私は、ずっと知っていたよ」",
+			"Text_Tra": "『Natsu. I've always known what you wanted.』",
+			"FOA_Ptr": "0x00041286",
+			"FOA_Rva": "0x00048ACB"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x0004129E",
+			"FOA_Rva": "0x00048B16"
+		},
+		{
+			"Text_Raw": "「君は、自分と並ぶ敵を欲し」",
+			"Text_Tra": "『An enemy who can stand alongside you.』",
+			"FOA_Ptr": "0x000412DE",
+			"FOA_Rva": "0x00048B1D"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x000412F6",
+			"FOA_Rva": "0x00048B4A"
+		},
+		{
+			"Text_Raw": "「なによりも得たかったものは、死だ」",
+			"Text_Tra": "『And more than that, death.』",
+			"FOA_Ptr": "0x00041336",
+			"FOA_Rva": "0x00048B51"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x0004134E",
+			"FOA_Rva": "0x00048B86"
+		},
+		{
+			"Text_Raw": "「……冷たい言葉」",
+			"Text_Tra": "『...Such cold words.』",
+			"FOA_Ptr": "0x0004138E",
+			"FOA_Rva": "0x00048B8D"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x000413A6",
+			"FOA_Rva": "0x00048BB0"
+		},
+		{
+			"Text_Raw": "言葉の感触を確かめ、姉がうなずく。",
+			"Text_Tra": "She nods, feeling the words touching her.",
+			"FOA_Ptr": "0x000413E6",
+			"FOA_Rva": "0x00048BB7"
+		},
+		{
+			"Text_Raw": "「でも、そう、私は死を欲していました」",
+			"Text_Tra": "『But you aren't wrong. Death is what I've always wanted.』",
+			"FOA_Ptr": "0x00041472",
+			"FOA_Rva": "0x00048BDC"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0004148A",
+			"FOA_Rva": "0x00048C13"
+		},
+		{
+			"Text_Raw": "「死にたいわけではなく、人のように生きるためには、正しい終わりがなくてはいけませんから」",
+			"Text_Tra": "『It isn't that I want to die; it's that, living as a human also requires the correct ending.』",
+			"FOA_Ptr": "0x000414CA",
+			"FOA_Rva": "0x00048C1A"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x000414E2",
+			"FOA_Rva": "0x00048C83"
+		},
+		{
+			"Text_Raw": "「そして、それは、春の言霊によって、すでに成りました」",
+			"Text_Tra": "『And, thanks to Haru's Kotodama, that's now been achieved.』",
+			"FOA_Ptr": "0x00041522",
+			"FOA_Rva": "0x00048C8A"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0004153A",
+			"FOA_Rva": "0x00048CD1"
+		},
+		{
+			"Text_Raw": "「そうであれば……冬兄さまが、いかように？」",
+			"Text_Tra": "『In which case, Fuyu-what do you want to do?』",
+			"FOA_Ptr": "0x000415AE",
+			"FOA_Rva": "0x00048CD8"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x000415C6",
+			"FOA_Rva": "0x00048D15"
+		},
+		{
+			"Text_Raw": "姉が笑う。",
+			"Text_Tra": "She laughs.",
+			"FOA_Ptr": "0x00041606",
+			"FOA_Rva": "0x00048D1C"
+		},
+		{
+			"Text_Raw": "挑発ではなく、彼女は兄の与えてくれるものを心待ちにしていた。",
+			"Text_Tra": "She's not taunting him; she actually has been waiting for what our brother plans to give to her.",
+			"FOA_Ptr": "0x0004165E",
+			"FOA_Rva": "0x00048D29"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x000416B6",
+			"FOA_Rva": "0x00048D68"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x000416CE",
+			"FOA_Rva": "0x00048D85"
+		},
+		{
+			"Text_Raw": "兄は無言のまま、なにもしない。",
+			"Text_Tra": "He does nothing but stand there silently.",
+			"FOA_Ptr": "0x0004170E",
+			"FOA_Rva": "0x00048D8C"
+		},
+		{
+			"Text_Raw": "刀を構えるでもなく、ただ無言で、姉さまを見つめている。",
+			"Text_Tra": "He doesn't raise his weapon. He just looks at her, without making a sound.",
+			"FOA_Ptr": "0x00041766",
+			"FOA_Rva": "0x00048DAD"
+		},
+		{
+			"Text_Raw": "「……兄さま？」",
+			"Text_Tra": "『...Brother?』",
+			"FOA_Ptr": "0x000417F2",
+			"FOA_Rva": "0x00048DE6"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0004180A",
+			"FOA_Rva": "0x00048E07"
+		},
+		{
+			"Text_Raw": "続く言葉も、行動もなく、姉さまが疑問をうかがわせる。",
+			"Text_Tra": "He hasn't said anything, hasn't made a move, and she seems confused by this too.",
+			"FOA_Ptr": "0x0004184A",
+			"FOA_Rva": "0x00048E0E"
+		},
+		{
+			"Text_Raw": "「もう、終わっているんだよ、夏」",
+			"Text_Tra": "『It's already done, Natsu.』",
+			"FOA_Ptr": "0x000418A2",
+			"FOA_Rva": "0x00048E45"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x000418BA",
+			"FOA_Rva": "0x00048E76"
+		},
+		{
+			"Text_Raw": "兄が寂しそうにつぶやく。",
+			"Text_Tra": "He sounds sad as he speaks.",
+			"FOA_Ptr": "0x000418FA",
+			"FOA_Rva": "0x00048E7D"
+		},
+		{
+			"Text_Raw": "「え？」",
+			"Text_Tra": "『It is?』",
+			"FOA_Ptr": "0x00041952",
+			"FOA_Rva": "0x00048E98"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0004196A",
+			"FOA_Rva": "0x00048EB1"
+		},
+		{
+			"Text_Raw": "「吾が一刀は、あの約束をしたときから、君を殺すためだけに鍛えあげたものだ」",
+			"Text_Tra": "『I've been honing my sword, from the moment I made that promise, solely for the purpose of killing you.』",
+			"FOA_Ptr": "0x000419AA",
+			"FOA_Rva": "0x00048EB8"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x000419C2",
+			"FOA_Rva": "0x00048F13"
+		},
+		{
+			"Text_Raw": "「すべてを透過してしまう君への答えは――この世界すら見逃す、知覚不能の一振りだ」",
+			"Text_Tra": "『My answer to your ability to pass through everything-was an attack imperceptible even to the world itself.』",
+			"FOA_Ptr": "0x00041A02",
+			"FOA_Rva": "0x00048F1A"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x00041A1A",
+			"FOA_Rva": "0x00048F7B"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x00041A8E",
+			"FOA_Rva": "0x00048F82"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x00041AA6",
+			"FOA_Rva": "0x00048F9F"
+		},
+		{
+			"Text_Raw": "姉さまが胸を見下ろす。",
+			"Text_Tra": "She looks down at her chest.",
+			"FOA_Ptr": "0x00041AE6",
+			"FOA_Rva": "0x00048FA6"
+		},
+		{
+			"Text_Raw": "そこに……わずかに血が染みていた。",
+			"Text_Tra": "There's a small stain of blood spreading there.",
+			"FOA_Ptr": "0x00041B3E",
+			"FOA_Rva": "0x00048FBF"
+		},
+		{
+			"Text_Raw": "わたしの拳で血が流れるはずもなく。",
+			"Text_Tra": "My punch shouldn't have made her bleed.",
+			"FOA_Ptr": "0x00041B96",
+			"FOA_Rva": "0x00048FE4"
+		},
+		{
+			"Text_Raw": "いつ、兄が斬ったのか、わたしもまるでわからなかった。",
+			"Text_Tra": "Even I have no idea when he attacked. When he cut her.",
+			"FOA_Ptr": "0x00041BEE",
+			"FOA_Rva": "0x00049009"
+		},
+		{
+			"Text_Raw": "兄が……八剣という枠にわざと収まり、これほどの力を、ずっと隠し続けていたことも。",
+			"Text_Tra": "My brother chose to play the part of a Sword, secretly concealing this power for all this time.",
+			"FOA_Ptr": "0x00041C46",
+			"FOA_Rva": "0x00049040"
+		},
+		{
+			"Text_Raw": "「……こほっ」",
+			"Text_Tra": "『...Khoh...』",
+			"FOA_Ptr": "0x00041C9E",
+			"FOA_Rva": "0x00049093"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x00041CB6",
+			"FOA_Rva": "0x000490B2"
+		},
+		{
+			"Text_Raw": "姉さまの口から血が流れる。",
+			"Text_Tra": "Blood spills from my sister's mouth.",
+			"FOA_Ptr": "0x00041CF6",
+			"FOA_Rva": "0x000490B9"
+		},
+		{
+			"Text_Raw": "姉さまが、よろけた。",
+			"Text_Tra": "She staggers on the spot.",
+			"FOA_Ptr": "0x00041D4E",
+			"FOA_Rva": "0x000490D6"
+		},
+		{
+			"Text_Raw": "そして、彼女は笑う。",
+			"Text_Tra": "Then she smiles.",
+			"FOA_Ptr": "0x00041DA6",
+			"FOA_Rva": "0x000490ED"
+		},
+		{
+			"Text_Raw": "「冬、兄さま」",
+			"Text_Tra": "『Fuyu...』",
+			"FOA_Ptr": "0x00041E32",
+			"FOA_Rva": "0x00049104"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x00041E4A",
+			"FOA_Rva": "0x00049123"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x00041E8A",
+			"FOA_Rva": "0x0004912A"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x00041EA2",
+			"FOA_Rva": "0x00049147"
+		},
+		{
+			"Text_Raw": "「夏は、あなた、を……お慕い、申して、おり、ました……」",
+			"Text_Tra": "『I thought... very highly of you... always...』",
+			"FOA_Ptr": "0x00041EE2",
+			"FOA_Rva": "0x0004914E"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x00041EFA",
+			"FOA_Rva": "0x00049197"
+		},
+		{
+			"Text_Raw": "「私もだよ」",
+			"Text_Tra": "『And I of you.』",
+			"FOA_Ptr": "0x00041F3A",
+			"FOA_Rva": "0x0004919E"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x00041F52",
+			"FOA_Rva": "0x000491BB"
+		},
+		{
+			"Text_Raw": "「ええ」",
+			"Text_Tra": "『Yes.』",
+			"FOA_Ptr": "0x00041FC6",
+			"FOA_Rva": "0x000491C2"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x00041FDE",
+			"FOA_Rva": "0x000491DB"
+		},
+		{
+			"Text_Raw": "「……知って、おります」",
+			"Text_Tra": "『...I was... aware of your feelings...』",
+			"FOA_Ptr": "0x0004201E",
+			"FOA_Rva": "0x000491E2"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x00042036",
+			"FOA_Rva": "0x0004920B"
+		},
+		{
+			"Text_Raw": "わたしには、わかった。",
+			"Text_Tra": "I am too.",
+			"FOA_Ptr": "0x0004210A",
+			"FOA_Rva": "0x00049212"
+		},
+		{
+			"Text_Raw": "姉さまの気持ちが、わかってしまった。",
+			"Text_Tra": "I understand how she feels.",
+			"FOA_Ptr": "0x00042162",
+			"FOA_Rva": "0x0004922B"
+		},
+		{
+			"Text_Raw": "世界などどうでもよいと思うほどに、ひとりの男を愛したわたしには、わかって、しまった。",
+			"Text_Tra": "Because I'm also a woman who loved someone so much, I didn't care about what happened to anything else-even the world itself.",
+			"FOA_Ptr": "0x000421BA",
+			"FOA_Rva": "0x00049252"
+		},
+		{
+			"Text_Raw": "姉は……今の、ただ一言、『愛している』と告げるために、すべてを投げうったのだ。",
+			"Text_Tra": "For that one declaration of love, my sister has cast everything else aside.",
+			"FOA_Ptr": "0x00042212",
+			"FOA_Rva": "0x000492A9"
+		},
+		{
+			"Text_Raw": "「ああ……桜が、きれい……」",
+			"Text_Tra": "『Ah... The cherry is so beautiful...』",
+			"FOA_Ptr": "0x0004226A",
+			"FOA_Rva": "0x000492FA"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x00042282",
+			"FOA_Rva": "0x00049327"
+		},
+		{
+			"Text_Raw": "そして、姉さまが崩れ落ちる。",
+			"Text_Tra": "Then she collapses to the ground.",
+			"FOA_Ptr": "0x000422C2",
+			"FOA_Rva": "0x0004932E"
+		},
+		{
+			"Text_Raw": "まるで普通の人間のように、胸を押さえ、桜の木の根元に座り込んだ。",
+			"Text_Tra": "Looking like a normal person, she clutches her chest, and sits at the base of the tree.",
+			"FOA_Ptr": "0x000423DA",
+			"FOA_Rva": "0x0004934D"
+		},
+		{
+			"Text_Raw": "「よい、人生、でした」",
+			"Text_Tra": "『It was a good life.』",
+			"FOA_Ptr": "0x00042432",
+			"FOA_Rva": "0x00049390"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x0004244A",
+			"FOA_Rva": "0x000493B7"
+		},
+		{
+			"Text_Raw": "姉さまが、うわごとのように言う。",
+			"Text_Tra": "She almost sounds delirious.",
+			"FOA_Ptr": "0x0004248A",
+			"FOA_Rva": "0x000493BE"
+		},
+		{
+			"Text_Raw": "血を吐きながら、彼女は笑う。",
+			"Text_Tra": "She smiles, with blood leaking out from her mouth.",
+			"FOA_Ptr": "0x000424E2",
+			"FOA_Rva": "0x000493E1"
+		},
+		{
+			"Text_Raw": "「だから、あなたに、借りていた、この身体を、返し、ましょう」",
+			"Text_Tra": "『I'm going to... give back this body... I borrowed.』",
+			"FOA_Ptr": "0x0004253A",
+			"FOA_Rva": "0x00049400"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x00042552",
+			"FOA_Rva": "0x0004944D"
+		},
+		{
+			"Text_Raw": "「ああ」",
+			"Text_Tra": "『Now I see it.』",
+			"FOA_Ptr": "0x00042592",
+			"FOA_Rva": "0x00049454"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x000425AA",
+			"FOA_Rva": "0x0004946D"
+		},
+		{
+			"Text_Raw": "「“希望”や“幸せ”は、鉄錆のような味、です、ね」",
+			"Text_Tra": "『Hope and happiness... they taste like rust.』",
+			"FOA_Ptr": "0x000425EA",
+			"FOA_Rva": "0x00049474"
+		},
+		{
+			"Text_Raw": "夏　姫",
+			"Text_Tra": "Natsuhime",
+			"FOA_Ptr": "0x00042602",
+			"FOA_Rva": "0x000494B7"
+		},
+		{
+			"Text_Raw": "そして――",
+			"Text_Tra": "And then-",
+			"FOA_Ptr": "0x00042702",
+			"FOA_Rva": "0x000494BE"
+		},
+		{
+			"Text_Raw": "僕は目覚めた。",
+			"Text_Tra": "I wake up.",
+			"FOA_Ptr": "0x0004275A",
+			"FOA_Rva": "0x000494CB"
+		},
+		{
+			"Text_Raw": "「……ん？」",
+			"Text_Tra": "『...Wait. What?』",
+			"FOA_Ptr": "0x00042936",
+			"FOA_Rva": "0x000494DC"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004294E",
+			"FOA_Rva": "0x000494EA"
+		},
+		{
+			"Text_Raw": "千年の昼寝をしていたはずなのに、目の前には、見知った２人の顔がある。",
+			"Text_Tra": "I was seriously expecting to get a good 1,000 years, so I'm surprised to wake up to two faces I recognize.",
+			"FOA_Ptr": "0x0004298E",
+			"FOA_Rva": "0x000494F1"
+		},
+		{
+			"Text_Raw": "春姫と冬人が、目を丸くしていた。",
+			"Text_Tra": "Haruhime and Fuyuhito are wide-eyed.",
+			"FOA_Ptr": "0x000429E6",
+			"FOA_Rva": "0x00049538"
+		},
+		{
+			"Text_Raw": "「おはよう」",
+			"Text_Tra": "『Well, good morning.』",
+			"FOA_Ptr": "0x00042A3E",
+			"FOA_Rva": "0x0004955B"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042A56",
+			"FOA_Rva": "0x00049569"
+		},
+		{
+			"Text_Raw": "挨拶は大事だ。",
+			"Text_Tra": "Greeting are important.",
+			"FOA_Ptr": "0x00042A96",
+			"FOA_Rva": "0x00049570"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x00042AEE",
+			"FOA_Rva": "0x00049581"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00042B06",
+			"FOA_Rva": "0x0004959E"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x00042B46",
+			"FOA_Rva": "0x000495A5"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x00042B5E",
+			"FOA_Rva": "0x000495C2"
+		},
+		{
+			"Text_Raw": "返事がない。",
+			"Text_Tra": "There's no reply.",
+			"FOA_Ptr": "0x00042B9E",
+			"FOA_Rva": "0x000495C9"
+		},
+		{
+			"Text_Raw": "仕方なく立ち上がり、尻についた土や草を払う。",
+			"Text_Tra": "Seemingly with no other choices, I stand up and brush my butt off.",
+			"FOA_Ptr": "0x00042BF6",
+			"FOA_Rva": "0x000495D8"
+		},
+		{
+			"Text_Raw": "季節はまだ夏を感じさせる。",
+			"Text_Tra": "It still feels like summer.",
+			"FOA_Ptr": "0x00042C4E",
+			"FOA_Rva": "0x00049607"
+		},
+		{
+			"Text_Raw": "「……どうやら、なにもかも、無事に終わったらしい」",
+			"Text_Tra": "『...It looks like everything worked out.』",
+			"FOA_Ptr": "0x00042CA6",
+			"FOA_Rva": "0x00049624"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042CBE",
+			"FOA_Rva": "0x00049658"
+		},
+		{
+			"Text_Raw": "あたりを見渡し、納得する。",
+			"Text_Tra": "I look around, and I'm pleased with what I see.",
+			"FOA_Ptr": "0x00042D1A",
+			"FOA_Rva": "0x0004965F"
+		},
+		{
+			"Text_Raw": "思い通りであれば、この場にいない茜や葵、優里も燕も、カントの誰ひとりとして死んでいないだろう。",
+			"Text_Tra": "If I'm right, then Akane, Aoi, Yuri, Tsubame, and all the other people of Kanto who I don't see right now, are also all still alive.",
+			"FOA_Ptr": "0x00042D72",
+			"FOA_Rva": "0x0004967C"
+		},
+		{
+			"Text_Raw": "わざわざ確認するまでもない。",
+			"Text_Tra": "There's no need to even ask.",
+			"FOA_Ptr": "0x00042DCA",
+			"FOA_Rva": "0x000496DD"
+		},
+		{
+			"Text_Raw": "それは蛇足だ。",
+			"Text_Tra": "Why bother?",
+			"FOA_Ptr": "0x00042E22",
+			"FOA_Rva": "0x000496FC"
+		},
+		{
+			"Text_Raw": "一番死んでいる可能性の高かった冬人が生きているのだから、間違いない。",
+			"Text_Tra": "Fuyuhito was the most likely to die, and he's still right here. I can't be wrong.",
+			"FOA_Ptr": "0x00042E7A",
+			"FOA_Rva": "0x0004970D"
+		},
+		{
+			"Text_Raw": "まあ、それはある程度冗談で――鉄鬼の共振源と繋がったとき、鉄鬼の感覚を通じて、カントの誰ひとり殺せていないことを無意識に感じていた。",
+			"Text_Tra": "Hey, I'm just kidding around. When I connected to the vibration source, I was able to tell through the senses of the Tekki that no one in Kanto had been killed.",
+			"FOA_Ptr": "0x00042ED2",
+			"FOA_Rva": "0x00049754"
+		},
+		{
+			"Text_Raw": "「……信？」",
+			"Text_Tra": "『...Shin?』",
+			"FOA_Ptr": "0x00042F2A",
+			"FOA_Rva": "0x000497DB"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00042F42",
+			"FOA_Rva": "0x000497F8"
+		},
+		{
+			"Text_Raw": "ようやく、春姫が声をあげてくれた。",
+			"Text_Tra": "Haruhime finally speaks.",
+			"FOA_Ptr": "0x00042F82",
+			"FOA_Rva": "0x000497FF"
+		},
+		{
+			"Text_Raw": "「どうして？」",
+			"Text_Tra": "『But how?』",
+			"FOA_Ptr": "0x00042FDA",
+			"FOA_Rva": "0x00049824"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00042FF2",
+			"FOA_Rva": "0x00049843"
+		},
+		{
+			"Text_Raw": "「いや、僕はなにも知らないよ」",
+			"Text_Tra": "『Hey, don't ask me. I just got reincarnated into your nutty future as a robot. I don't know how stuff works.』",
+			"FOA_Ptr": "0x00043032",
+			"FOA_Rva": "0x0004984A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004304A",
+			"FOA_Rva": "0x0004986A"
+		},
+		{
+			"Text_Raw": "あの銀の花園で眠りについたとき、自分の終わりを、しっかりと自覚していた。",
+			"Text_Tra": "When I drifted off in that silver flower garden, I was sure it was the end of me.",
+			"FOA_Ptr": "0x0004308A",
+			"FOA_Rva": "0x00049871"
+		},
+		{
+			"Text_Raw": "しかし。",
+			"Text_Tra": "That said.",
+			"FOA_Ptr": "0x000430E2",
+			"FOA_Rva": "0x000498BC"
+		},
+		{
+			"Text_Raw": "もしも……。",
+			"Text_Tra": "This is me we're talking about.",
+			"FOA_Ptr": "0x0004313A",
+			"FOA_Rva": "0x000498C7"
+		},
+		{
+			"Text_Raw": "もしも、万が一、千年を冷凍され、鉄の身体に作り替えられ、あの夏姫にさえしぶといと評価された僕であれば。",
+			"Text_Tra": "I was put to sleep for 1,000 years, got remade in a metal body, and even Natsuhime said I was hard to kill.",
+			"FOA_Ptr": "0x00043192",
+			"FOA_Rva": "0x000498D6"
+		},
+		{
+			"Text_Raw": "もう一度目覚めることがあるかもしれないと、思った。",
+			"Text_Tra": "I did suspect that maybe I'd be waking up again sooner than expected.",
+			"FOA_Ptr": "0x000431EA",
+			"FOA_Rva": "0x0004993F"
+		},
+		{
+			"Text_Raw": "僕は自分の意志で選んだ。",
+			"Text_Tra": "I made my own choice.",
+			"FOA_Ptr": "0x00043242",
+			"FOA_Rva": "0x00049974"
+		},
+		{
+			"Text_Raw": "目覚めるチャンスがあるなら、喜んでそれを受け入れようと。",
+			"Text_Tra": "If there was a chance to wake up again, then I was happy to take it.",
+			"FOA_Ptr": "0x0004329A",
+			"FOA_Rva": "0x0004998F"
+		},
+		{
+			"Text_Raw": "目が覚めたら、『ああ、無事に終わったんだな』と、そう言おうと決めていただけだった。",
+			"Text_Tra": "I even planned on saying “It looks like everything worked out” once I woke up.",
+			"FOA_Ptr": "0x000432F2",
+			"FOA_Rva": "0x000499CA"
+		},
+		{
+			"Text_Raw": "とはいえ――この顔ぶれを見るに、チャンスを与えてくれたのは夏姫だと推測は出来る。",
+			"Text_Tra": "That said-seeing the lineup here, I can guess that it was Natsuhime who gave me this chance.",
+			"FOA_Ptr": "0x0004334A",
+			"FOA_Rva": "0x00049A1F"
+		},
+		{
+			"Text_Raw": "「まあ、とにかく、ただいま」",
+			"Text_Tra": "『Well, anyway. I'm home.』",
+			"FOA_Ptr": "0x000433A2",
+			"FOA_Rva": "0x00049A72"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000433BA",
+			"FOA_Rva": "0x00049A90"
+		},
+		{
+			"Text_Raw": "それ以上、なにを言うことがあるだろう。",
+			"Text_Tra": "What can I say that's more important than that?",
+			"FOA_Ptr": "0x000433FA",
+			"FOA_Rva": "0x00049A97"
+		},
+		{
+			"Text_Raw": "僕は胸に触れる。",
+			"Text_Tra": "I touch my chest.",
+			"FOA_Ptr": "0x00043452",
+			"FOA_Rva": "0x00049AC0"
+		},
+		{
+			"Text_Raw": "鉄の心臓だったそこは、明らかに生身のものとわかる鼓動で脈打っていた。",
+			"Text_Tra": "My previously steel heart is now pulsing, and I realize my body has transformed into flesh and blood.",
+			"FOA_Ptr": "0x000434AA",
+			"FOA_Rva": "0x00049AD3"
+		},
+		{
+			"Text_Raw": "鉄鬼の力は消えていた。",
+			"Text_Tra": "The power of the Tekki has vanished.",
+			"FOA_Ptr": "0x00043502",
+			"FOA_Rva": "0x00049B1A"
+		},
+		{
+			"Text_Raw": "ずっと僕を助けてくれていた、もう１人の僕は、静かな眠りについたようだ。",
+			"Text_Tra": "The second me-who helped out so much since I awoke-seems to have quietly drifted off to sleep.",
+			"FOA_Ptr": "0x0004355A",
+			"FOA_Rva": "0x00049B33"
+		},
+		{
+			"Text_Raw": "もう１つの確認。",
+			"Text_Tra": "Now I need to check something else.",
+			"FOA_Ptr": "0x000435EA",
+			"FOA_Rva": "0x00049B7C"
+		},
+		{
+			"Text_Raw": "僕は両手を広げる。",
+			"Text_Tra": "I spread both of my arms.",
+			"FOA_Ptr": "0x00043642",
+			"FOA_Rva": "0x00049B8F"
+		},
+		{
+			"Text_Raw": "「“春、抱きしめてくれ”！」",
+			"Text_Tra": "«Haru, come to me!»",
+			"FOA_Ptr": "0x000436FA",
+			"FOA_Rva": "0x00049BA4"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043712",
+			"FOA_Rva": "0x00049BC2"
+		},
+		{
+			"Text_Raw": "「わ！？」",
+			"Text_Tra": "『Wah?!』",
+			"FOA_Ptr": "0x000437FA",
+			"FOA_Rva": "0x00049BC9"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00043812",
+			"FOA_Rva": "0x00049BE4"
+		},
+		{
+			"Text_Raw": "驚きながら飛び込んでくる彼女を、受け止める。",
+			"Text_Tra": "She flies toward me, surprise on her face, as I grab her.",
+			"FOA_Ptr": "0x0004388E",
+			"FOA_Rva": "0x00049BEB"
+		},
+		{
+			"Text_Raw": "言霊の力はそのままだった。",
+			"Text_Tra": "So I still have the Kotodama.",
+			"FOA_Ptr": "0x000438E6",
+			"FOA_Rva": "0x00049C1A"
+		},
+		{
+			"Text_Raw": "でも、もう、どうでもいい。",
+			"Text_Tra": "But who cares about that?",
+			"FOA_Ptr": "0x0004393E",
+			"FOA_Rva": "0x00049C37"
+		},
+		{
+			"Text_Raw": "「ああ、春、春！」",
+			"Text_Tra": "『Ah, Haru, Haru!』",
+			"FOA_Ptr": "0x000439F2",
+			"FOA_Rva": "0x00049C54"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043A0A",
+			"FOA_Rva": "0x00049C68"
+		},
+		{
+			"Text_Raw": "愛しい君を、抱きしめる。",
+			"Text_Tra": "I hug my dear love.",
+			"FOA_Ptr": "0x00043A4A",
+			"FOA_Rva": "0x00049C6F"
+		},
+		{
+			"Text_Raw": "髪の匂いをかぐ。",
+			"Text_Tra": "I smell her hair.",
+			"FOA_Ptr": "0x00043AA2",
+			"FOA_Rva": "0x00049C8A"
+		},
+		{
+			"Text_Raw": "「春」",
+			"Text_Tra": "『Haru.』",
+			"FOA_Ptr": "0x00043AFA",
+			"FOA_Rva": "0x00049C9D"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043B12",
+			"FOA_Rva": "0x00049CA5"
+		},
+		{
+			"Text_Raw": "「……はい」",
+			"Text_Tra": "『...Yes.』",
+			"FOA_Ptr": "0x00043B86",
+			"FOA_Rva": "0x00049CAC"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00043B9E",
+			"FOA_Rva": "0x00049CC9"
+		},
+		{
+			"Text_Raw": "春姫が夢見るようにつぶやく。",
+			"Text_Tra": "Haruhime sounds like she's dreaming.",
+			"FOA_Ptr": "0x00043BDE",
+			"FOA_Rva": "0x00049CD0"
+		},
+		{
+			"Text_Raw": "だから、僕は笑い、もう一度彼女を呼んだ。",
+			"Text_Tra": "I laugh while saying her name again.",
+			"FOA_Ptr": "0x00043C36",
+			"FOA_Rva": "0x00049CEF"
+		},
+		{
+			"Text_Raw": "「春」",
+			"Text_Tra": "『Haru.』",
+			"FOA_Ptr": "0x00043C8E",
+			"FOA_Rva": "0x00049D1A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043CA6",
+			"FOA_Rva": "0x00049D22"
+		},
+		{
+			"Text_Raw": "「はい！」",
+			"Text_Tra": "『Yes!』",
+			"FOA_Ptr": "0x00043D1A",
+			"FOA_Rva": "0x00049D29"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00043D32",
+			"FOA_Rva": "0x00049D44"
+		},
+		{
+			"Text_Raw": "今度は元気な返事があった。",
+			"Text_Tra": "This time she gives me a much more energetic reply.",
+			"FOA_Ptr": "0x00043D72",
+			"FOA_Rva": "0x00049D4B"
+		},
+		{
+			"Text_Raw": "千本鳥居では悲しみに暮れていた顔が、約束の通り、輝く笑顔をとりもどしていた。",
+			"Text_Tra": "Her face, which looked so sad when we parted at the Thousand Gates, is now a glittering smile, as promised.",
+			"FOA_Ptr": "0x00043DCA",
+			"FOA_Rva": "0x00049D68"
+		},
+		{
+			"Text_Raw": "「……やれやれ」",
+			"Text_Tra": "『...Oh boy.』",
+			"FOA_Ptr": "0x00043EB6",
+			"FOA_Rva": "0x00049DB7"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x00043ECE",
+			"FOA_Rva": "0x00049DD8"
+		},
+		{
+			"Text_Raw": "ふいに、笑い声とともに冬人が立ち去っていく。",
+			"Text_Tra": "Fuyuhito gives a laugh and leaves.",
+			"FOA_Ptr": "0x00043F46",
+			"FOA_Rva": "0x00049DDF"
+		},
+		{
+			"Text_Raw": "気を利かせてくれて、どうも。",
+			"Text_Tra": "How very considerate of him.",
+			"FOA_Ptr": "0x00043F9E",
+			"FOA_Rva": "0x00049E0E"
+		},
+		{
+			"Text_Raw": "「そうだ、春。ＹＯＵを現世に戻しておいたのだが、回収してくれたかな？」",
+			"Text_Tra": "『Hey, Haru. I returned Yu to reality as well. Did you pick her up?』",
+			"FOA_Ptr": "0x000440A6",
+			"FOA_Rva": "0x00049E2D"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000440BE",
+			"FOA_Rva": "0x00049E75"
+		},
+		{
+			"Text_Raw": "「え、あ、はい」",
+			"Text_Tra": "『Ah, yes, I did.』",
+			"FOA_Ptr": "0x000440FE",
+			"FOA_Rva": "0x00049E7C"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00044116",
+			"FOA_Rva": "0x00049E9D"
+		},
+		{
+			"Text_Raw": "僕の胸に抱きしめられたまま、彼女は窮屈そうに袖から腕輪をとりだす。",
+			"Text_Tra": "Still held in my arms, she wriggles a little and pulls the bracelet from her sleeve.",
+			"FOA_Ptr": "0x00044156",
+			"FOA_Rva": "0x00049EA4"
+		},
+		{
+			"Text_Raw": "僕はそれを受け取り、彼女の背にまわした左腕に取りつける。",
+			"Text_Tra": "I take it from her, and then put it onto my wrist behind her back.",
+			"FOA_Ptr": "0x000441AE",
+			"FOA_Rva": "0x00049EE9"
+		},
+		{
+			"Text_Raw": "「ＹＯＵ」",
+			"Text_Tra": "『Yu.』",
+			"FOA_Ptr": "0x00044206",
+			"FOA_Rva": "0x00049F24"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004421E",
+			"FOA_Rva": "0x00049F30"
+		},
+		{
+			"Text_Raw": "『はい。オーナー。おはようございます。アラームを設定した千年にはだいぶ早いお目覚めですが』",
+			"Text_Tra": "『Yes, good morning, Owner. You have awoken just a little earlier than the 1,000 years I set your alarm for.』",
+			"FOA_Ptr": "0x0004425E",
+			"FOA_Rva": "0x00049F37"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x00044276",
+			"FOA_Rva": "0x00049FA2"
+		},
+		{
+			"Text_Raw": "「本当にカウントしていたのか……それより、頼んでいたことの首尾は？」",
+			"Text_Tra": "『You took that seriously? And what about the other request I made?』",
+			"FOA_Ptr": "0x000442B6",
+			"FOA_Rva": "0x00049FA9"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000442CE",
+			"FOA_Rva": "0x00049FEF"
+		},
+		{
+			"Text_Raw": "『そこそこです』",
+			"Text_Tra": "『It is proceeding.』",
+			"FOA_Ptr": "0x0004430E",
+			"FOA_Rva": "0x00049FF6"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x00044326",
+			"FOA_Rva": "0x0004A017"
+		},
+		{
+			"Text_Raw": "「……なんの話ですか？」",
+			"Text_Tra": "『...What are you talking about?』",
+			"FOA_Ptr": "0x0004439A",
+			"FOA_Rva": "0x0004A01E"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000443B2",
+			"FOA_Rva": "0x0004A047"
+		},
+		{
+			"Text_Raw": "春姫がきょとんとした顔をしている。",
+			"Text_Tra": "Haruhime looks puzzled.",
+			"FOA_Ptr": "0x000443F2",
+			"FOA_Rva": "0x0004A04E"
+		},
+		{
+			"Text_Raw": "僕は唇の端を持ち上げる。",
+			"Text_Tra": "The edges of my mouth lift up.",
+			"FOA_Ptr": "0x0004444A",
+			"FOA_Rva": "0x0004A073"
+		},
+		{
+			"Text_Raw": "「君への言葉を録音したあと、ＹＯＵを送り返す前に、仕事を任せていたんだ」",
+			"Text_Tra": "『After I recorded my message to you, and before I sent Yu back, I asked her to do another task.』",
+			"FOA_Ptr": "0x000444A2",
+			"FOA_Rva": "0x0004A08E"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000444BA",
+			"FOA_Rva": "0x0004A0D8"
+		},
+		{
+			"Text_Raw": "『オーナーと私がアクセスしていたのは、いわば鉄鬼のすべての情報が集積された空間でした』",
+			"Text_Tra": "『Owner and I both had access to a space that contained all of the accumulated data of the Tekki.』",
+			"FOA_Ptr": "0x000444FA",
+			"FOA_Rva": "0x0004A0DF"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x00044512",
+			"FOA_Rva": "0x0004A146"
+		},
+		{
+			"Text_Raw": "『地に満ちる鉄鬼の情報とは、世界の観測に他なりません』",
+			"Text_Tra": "『The information from the Tekki, spreading everywhere, basically amounts to observational data of the entire world.』",
+			"FOA_Ptr": "0x00044552",
+			"FOA_Rva": "0x0004A14D"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x0004456A",
+			"FOA_Rva": "0x0004A194"
+		},
+		{
+			"Text_Raw": "『結果――私の腕輪の記憶容量は少ないので限定的ですが、人に有益な情報の収集に成功しました』",
+			"Text_Tra": "『As a result-although I have limited storage, just being a bracelet, I have obtained information of significant benefit to humanity.』",
+			"FOA_Ptr": "0x000445AA",
+			"FOA_Rva": "0x0004A19B"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x000445C2",
+			"FOA_Rva": "0x0004A206"
+		},
+		{
+			"Text_Raw": "「……そんなことを」",
+			"Text_Tra": "『...Sounds like you've been busy.』",
+			"FOA_Ptr": "0x00044602",
+			"FOA_Rva": "0x0004A20D"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004461A",
+			"FOA_Rva": "0x0004A232"
+		},
+		{
+			"Text_Raw": "春姫がきょとんとする。",
+			"Text_Tra": "Haruhime is still puzzled.",
+			"FOA_Ptr": "0x0004465A",
+			"FOA_Rva": "0x0004A239"
+		},
+		{
+			"Text_Raw": "僕としては人類への置き土産のつもりだったが――旅先から送った荷物を、自宅で受け取る形になったようだ。",
+			"Text_Tra": "I was planning on leaving this as a gift for humanity-but in the end, I'm back home, signing for the package myself.",
+			"FOA_Ptr": "0x000446B2",
+			"FOA_Rva": "0x0004A252"
+		},
+		{
+			"Text_Raw": "『オーナーの指示に従い、特に“鉄鬼が定期的に減衰している地域の算出”を最優先に行いました』",
+			"Text_Tra": "『Following your instructions, Owner, I prioritized locating those regions where the numbers of Tekki periodically fell.』",
+			"FOA_Ptr": "0x0004470A",
+			"FOA_Rva": "0x0004A2B9"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x00044722",
+			"FOA_Rva": "0x0004A324"
+		},
+		{
+			"Text_Raw": "『結果、世界の７９か所で、その現象を確認しました』",
+			"Text_Tra": "『The results indicated such phenomena occurring in 79 places around the world.』",
+			"FOA_Ptr": "0x00044762",
+			"FOA_Rva": "0x0004A32B"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x0004477A",
+			"FOA_Rva": "0x0004A36E"
+		},
+		{
+			"Text_Raw": "「７９！」",
+			"Text_Tra": "『79!』",
+			"FOA_Ptr": "0x000447BA",
+			"FOA_Rva": "0x0004A375"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000447D2",
+			"FOA_Rva": "0x0004A381"
+		},
+		{
+			"Text_Raw": "僕は喝采をあげる。",
+			"Text_Tra": "I give a whoop.",
+			"FOA_Ptr": "0x00044812",
+			"FOA_Rva": "0x0004A388"
+		},
+		{
+			"Text_Raw": "「え！？　なんです？」",
+			"Text_Tra": "『Hold on! What does that mean?』",
+			"FOA_Ptr": "0x0004489E",
+			"FOA_Rva": "0x0004A39D"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000448B6",
+			"FOA_Rva": "0x0004A3C4"
+		},
+		{
+			"Text_Raw": "僕の勢いに、春姫が驚く。",
+			"Text_Tra": "Haruhime is surprised at my enthusiasm for this number.",
+			"FOA_Ptr": "0x000448F6",
+			"FOA_Rva": "0x0004A3CB"
+		},
+		{
+			"Text_Raw": "「７９か所！　あるんだ！」",
+			"Text_Tra": "『79! So I was right! They're out there!』",
+			"FOA_Ptr": "0x0004494E",
+			"FOA_Rva": "0x0004A3E6"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044966",
+			"FOA_Rva": "0x0004A402"
+		},
+		{
+			"Text_Raw": "僕は大笑いしてしまう。",
+			"Text_Tra": "I give a massive grin.",
+			"FOA_Ptr": "0x000449A6",
+			"FOA_Rva": "0x0004A409"
+		},
+		{
+			"Text_Raw": "「７９？　ある？　なにがです？」",
+			"Text_Tra": "『Sorry? There are 79 what now?』",
+			"FOA_Ptr": "0x00044A32",
+			"FOA_Rva": "0x0004A422"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00044A4A",
+			"FOA_Rva": "0x0004A453"
+		},
+		{
+			"Text_Raw": "「春、鉄鬼が定期的に減る場所には、人が、いるんだ！」",
+			"Text_Tra": "『Haru! If the number of Tekki periodically fall, that means there are people there!』",
+			"FOA_Ptr": "0x00044A8A",
+			"FOA_Rva": "0x0004A45A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044AA2",
+			"FOA_Rva": "0x0004A490"
+		},
+		{
+			"Text_Raw": "「この世界には、カントのように人の生きる国が、まだ、７９か所も残っているんだ！」",
+			"Text_Tra": "『There are 79 places, all around the world, where people live-just like Kanto!』",
+			"FOA_Ptr": "0x00044AE2",
+			"FOA_Rva": "0x0004A497"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044AFA",
+			"FOA_Rva": "0x0004A4E9"
+		},
+		{
+			"Text_Raw": "『日本ではカントを含めて３か所ですね」",
+			"Text_Tra": "『In Japan alone there are three, including Kanto.』",
+			"FOA_Ptr": "0x00044B3A",
+			"FOA_Rva": "0x0004A4F0"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x00044B52",
+			"FOA_Rva": "0x0004A527"
+		},
+		{
+			"Text_Raw": "「日本だけで他に２つもあるのか！」",
+			"Text_Tra": "『So two other places, just in Japan!』",
+			"FOA_Ptr": "0x00044B92",
+			"FOA_Rva": "0x0004A52E"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044BAA",
+			"FOA_Rva": "0x0004A552"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x00044C1E",
+			"FOA_Rva": "0x0004A559"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00044C36",
+			"FOA_Rva": "0x0004A576"
+		},
+		{
+			"Text_Raw": "春姫が、目をぱちくりとさせる。",
+			"Text_Tra": "Haruhime's eyes open wide.",
+			"FOA_Ptr": "0x00044D26",
+			"FOA_Rva": "0x0004A57D"
+		},
+		{
+			"Text_Raw": "なにを言われたか、あまりにも突然で、わからないのだろう。",
+			"Text_Tra": "It's all so sudden, she probably hasn't quite caught up yet.",
+			"FOA_Ptr": "0x00044D7E",
+			"FOA_Rva": "0x0004A59E"
+		},
+		{
+			"Text_Raw": "でも、僕は知ってしまった。",
+			"Text_Tra": "But I understand.",
+			"FOA_Ptr": "0x00044DD6",
+			"FOA_Rva": "0x0004A5D9"
+		},
+		{
+			"Text_Raw": "人がいる。",
+			"Text_Tra": "There are people out there.",
+			"FOA_Ptr": "0x00044E2E",
+			"FOA_Rva": "0x0004A5F6"
+		},
+		{
+			"Text_Raw": "それなら、会いに行こう。",
+			"Text_Tra": "Which means we can go and meet them!",
+			"FOA_Ptr": "0x00044E86",
+			"FOA_Rva": "0x0004A603"
+		},
+		{
+			"Text_Raw": "きっと、必ず、醜い争いも起こるだろうけど、僕たちなら、大丈夫だ。",
+			"Text_Tra": "There's the possibility for some horrible conflicts, but we'll be fine.",
+			"FOA_Ptr": "0x00044EDE",
+			"FOA_Rva": "0x0004A61E"
+		},
+		{
+			"Text_Raw": "あなたたちなら、大丈夫だ。",
+			"Text_Tra": "We can handle it.",
+			"FOA_Ptr": "0x00044F36",
+			"FOA_Rva": "0x0004A661"
+		},
+		{
+			"Text_Raw": "まだ、物語は終わっていない。",
+			"Text_Tra": "The story isn't over yet.",
+			"FOA_Ptr": "0x00044F8E",
+			"FOA_Rva": "0x0004A67E"
+		},
+		{
+			"Text_Raw": "いや――",
+			"Text_Tra": "Not at all!",
+			"FOA_Ptr": "0x00044FE6",
+			"FOA_Rva": "0x0004A69D"
+		},
+		{
+			"Text_Raw": "「春、僕と一緒に、新しい旅に出かけよう！」",
+			"Text_Tra": "『Haru! Let's set out together on a new adventure!』",
+			"FOA_Ptr": "0x0004503E",
+			"FOA_Rva": "0x0004A6A8"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00045056",
+			"FOA_Rva": "0x0004A6D4"
+		},
+		{
+			"Text_Raw": "あの鳥居で、すべてを捨てて逃げてしまおうと言えるほど、自由な君に。",
+			"Text_Tra": "She's so free, she suggested we throw everything away when we were at the gates.",
+			"FOA_Ptr": "0x00045096",
+			"FOA_Rva": "0x0004A6DB"
+		},
+		{
+			"Text_Raw": "「夏が終わっても、秋も、冬も、そして君の名前である春も！」",
+			"Text_Tra": "『Summer can end, and fall, and winter, and even spring-the season of your name!』",
+			"FOA_Ptr": "0x000450EE",
+			"FOA_Rva": "0x0004A720"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00045106",
+			"FOA_Rva": "0x0004A75C"
+		},
+		{
+			"Text_Raw": "「僕と一緒に、この世界を見て回ろう！」",
+			"Text_Tra": "『Let's travel around the world together!』",
+			"FOA_Ptr": "0x00045146",
+			"FOA_Rva": "0x0004A763"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004515E",
+			"FOA_Rva": "0x0004A78B"
+		},
+		{
+			"Text_Raw": "僕は笑顔で、お誘いする。",
+			"Text_Tra": "I invite her to join me with a smile.",
+			"FOA_Ptr": "0x0004519E",
+			"FOA_Rva": "0x0004A792"
+		},
+		{
+			"Text_Raw": "クナドとは、夏姫の語った魔よけの神であり。",
+			"Text_Tra": "Kunado was the god of divine protection who Natsuhime talked about.",
+			"FOA_Ptr": "0x000451F6",
+			"FOA_Rva": "0x0004A7AD"
+		},
+		{
+			"Text_Raw": "豊穣の神であり。",
+			"Text_Tra": "The god of bountiful harvests.",
+			"FOA_Ptr": "0x0004524E",
+			"FOA_Rva": "0x0004A7DA"
+		},
+		{
+			"Text_Raw": "新しいものと古いものを繋ぐ交合の神であり。",
+			"Text_Tra": "The god of congress, linking the old with the new.",
+			"FOA_Ptr": "0x000452A6",
+			"FOA_Rva": "0x0004A7ED"
+		},
+		{
+			"Text_Raw": "なによりも、旅の安全を願われるものなのだ。",
+			"Text_Tra": "And, above all else, the protector of travelers.",
+			"FOA_Ptr": "0x000452FE",
+			"FOA_Rva": "0x0004A81A"
+		},
+		{
+			"Text_Raw": "だから、春、君の返事は最初からわかっている。",
+			"Text_Tra": "So I know what Haru is going to say, even before I ask.",
+			"FOA_Ptr": "0x00045356",
+			"FOA_Rva": "0x0004A847"
+		},
+		{
+			"Text_Raw": "それでも、物語の終わりにふさわしいように。",
+			"Text_Tra": "But we have to end the story on the proper note, and she complies perfectly.",
+			"FOA_Ptr": "0x000453AE",
+			"FOA_Rva": "0x0004A876"
+		},
+		{
+			"Text_Raw": "君は笑顔で答えてくれる。",
+			"Text_Tra": "Her smile is wide as she replies.",
+			"FOA_Ptr": "0x00045406",
+			"FOA_Rva": "0x0004A8A3"
+		},
+		{
+			"Text_Raw": "「はい、どこまでも！」",
+			"Text_Tra": "『Yes! I'm with you! To the ends of the earth!』",
+			"FOA_Ptr": "0x000454BE",
+			"FOA_Rva": "0x0004A8BE"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000454D6",
+			"FOA_Rva": "0x0004A8E5"
+		}
+	]
+}

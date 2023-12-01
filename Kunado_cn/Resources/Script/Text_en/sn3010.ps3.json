@@ -1,0 +1,604 @@
+﻿{
+	"Scenario": [
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x000033FC",
+			"FOA_Rva": "0x0003F343"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x00003408",
+			"FOA_Rva": "0x0003F34A"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x00019C42",
+			"FOA_Rva": "0x00040150"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x00019C4E",
+			"FOA_Rva": "0x00040157"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x0001AC98",
+			"FOA_Rva": "0x0004024F"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x0001ACA4",
+			"FOA_Rva": "0x00040256"
+		},
+		{
+			"Text_Raw": "- 双子派生０１ -",
+			"Text_Tra": "Futaba Route 01",
+			"FOA_Ptr": "0x0003D7DC",
+			"FOA_Rva": "0x0004070F"
+		},
+		{
+			"Text_Raw": "「僕こそが２人を愛している」",
+			"Text_Tra": "『I love both of you.』",
+			"FOA_Ptr": "0x0003D80A",
+			"FOA_Rva": "0x00040720"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003D822",
+			"FOA_Rva": "0x0004073E"
+		},
+		{
+			"Text_Raw": "はっきりと告げる。",
+			"Text_Tra": "I make my position clear.",
+			"FOA_Ptr": "0x0003D862",
+			"FOA_Rva": "0x00040745"
+		},
+		{
+			"Text_Raw": "古代の感覚でいえば、双子との恋愛は『早い』と感じなくもない。",
+			"Text_Tra": "With my sensibilities from the past, it might be too soon to rush into a relationship, even with a pair of hot twins.",
+			"FOA_Ptr": "0x0003D8BA",
+			"FOA_Rva": "0x0004075A"
+		},
+		{
+			"Text_Raw": "しかし、カントで生きる彼女たちの感覚で言えば、明日が必ず訪れる保証はなく――",
+			"Text_Tra": "But living in Kanto, there's no saying that tomorrow is even going to arrive.",
+			"FOA_Ptr": "0x0003D912",
+			"FOA_Rva": "0x00040799"
+		},
+		{
+			"Text_Raw": "今を全力で生きる――まぶしいほど輝く生き方には好意しか抱かない。",
+			"Text_Tra": "So they live today at full power-and I admit to being dazzling by that light. Drawn into it.",
+			"FOA_Ptr": "0x0003D96A",
+			"FOA_Rva": "0x000407E8"
+		},
+		{
+			"Text_Raw": "「僕は君たち２人を、茜ちゃんと葵ちゃんの２人ともが、大好きだよ」",
+			"Text_Tra": "『I'm in love with you both. Aoi, and Akane. A two-for-one deal.』",
+			"FOA_Ptr": "0x0003D9C2",
+			"FOA_Rva": "0x0004082B"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003D9DA",
+			"FOA_Rva": "0x0004086D"
+		},
+		{
+			"Text_Raw": "重ねて、笑顔で告げる。",
+			"Text_Tra": "I reiterate myself, with a smile.",
+			"FOA_Ptr": "0x0003DA1A",
+			"FOA_Rva": "0x00040874"
+		},
+		{
+			"Text_Raw": "それに対して葵は――",
+			"Text_Tra": "I have a smile on my face as I hit her with it again.",
+			"FOA_Ptr": "0x0003DA72",
+			"FOA_Rva": "0x0004088D"
+		},
+		{
+			"Text_Raw": "「へ？　ほえ！？」",
+			"Text_Tra": "『Huh? What?!』",
+			"FOA_Ptr": "0x0003DC42",
+			"FOA_Rva": "0x000408A4"
+		},
+		{
+			"Text_Raw": "　葵　",
+			"Text_Tra": "Aoi",
+			"FOA_Ptr": "0x0003DC5A",
+			"FOA_Rva": "0x000408C7"
+		},
+		{
+			"Text_Raw": "葵が素っ頓狂な声をあげて驚く。",
+			"Text_Tra": "Aoi sounds absolutely stunned.",
+			"FOA_Ptr": "0x0003DCAA",
+			"FOA_Rva": "0x000408CE"
+		},
+		{
+			"Text_Raw": "よほど驚いたのか、パチリと音を立てて、手のひらに生み出していた雷の花が弾けた。",
+			"Text_Tra": "She gives such a start than the lightning flowers above her hands crackle and pop out of existence.",
+			"FOA_Ptr": "0x0003DD02",
+			"FOA_Rva": "0x000408EF"
+		},
+		{
+			"Text_Raw": "「え？　なんでそんなに驚いているの？」",
+			"Text_Tra": "『Huh? What's so surprising about that?』",
+			"FOA_Ptr": "0x0003DD5A",
+			"FOA_Rva": "0x00040940"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003DD72",
+			"FOA_Rva": "0x00040968"
+		},
+		{
+			"Text_Raw": "「えーと、信お兄ちゃんはてっきり、なんか女と男の好き嫌いとかより、色々な仕事してるほうが楽しいのかなって思ってたから」",
+			"Text_Tra": "『Hold on. I thought you were more into doing all sorts of jobs and trying new things, rather than relationship stuff.』",
+			"FOA_Ptr": "0x0003DDB2",
+			"FOA_Rva": "0x0004096F"
+		},
+		{
+			"Text_Raw": "　葵　",
+			"Text_Tra": "Aoi",
+			"FOA_Ptr": "0x0003DDCA",
+			"FOA_Rva": "0x000409F6"
+		},
+		{
+			"Text_Raw": "葵に上目遣いに見つめられる。",
+			"Text_Tra": "Aoi peers up at me.",
+			"FOA_Ptr": "0x0003DE32",
+			"FOA_Rva": "0x000409FD"
+		},
+		{
+			"Text_Raw": "「……いや、僕はそこまで仕事人間じゃないんだけどね」",
+			"Text_Tra": "『...Not really. I'm not that invested in my work.』",
+			"FOA_Ptr": "0x0003DE8A",
+			"FOA_Rva": "0x00040A1C"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003DEA2",
+			"FOA_Rva": "0x00040A52"
+		},
+		{
+			"Text_Raw": "思わずうめいてしまう。",
+			"Text_Tra": "I'm a bit taken aback.",
+			"FOA_Ptr": "0x0003DEE2",
+			"FOA_Rva": "0x00040A59"
+		},
+		{
+			"Text_Raw": "とはいえ、優里にも同じようなことを言われていたか。",
+			"Text_Tra": "Although Yuri said pretty much the same thing to me.",
+			"FOA_Ptr": "0x0003DF3A",
+			"FOA_Rva": "0x00040A72"
+		},
+		{
+			"Text_Raw": "他人からすれば、僕はよほど仕事人間に思えるのだろう。",
+			"Text_Tra": "I guess people see me as bit of a workaholic.",
+			"FOA_Ptr": "0x0003DF92",
+			"FOA_Rva": "0x00040AA7"
+		},
+		{
+			"Text_Raw": "まあ、新しい知識を広げることで皆が喜んでくれると、やり甲斐があって熱中してしまうのも事実だが。",
+			"Text_Tra": "But sharing my knowledge with Kanto has made everybody so happy, and that motivates me to keep working hard.",
+			"FOA_Ptr": "0x0003DFEA",
+			"FOA_Rva": "0x00040ADE"
+		},
+		{
+			"Text_Raw": "「あ、あとは、ね！」",
+			"Text_Tra": "『There's something else!』",
+			"FOA_Ptr": "0x0003E042",
+			"FOA_Rva": "0x00040B3F"
+		},
+		{
+			"Text_Raw": "　葵　",
+			"Text_Tra": "Aoi",
+			"FOA_Ptr": "0x0003E05A",
+			"FOA_Rva": "0x00040B64"
+		},
+		{
+			"Text_Raw": "葵が僕を見上げながら、わずかに勢いをつけて言う。",
+			"Text_Tra": "Aoi looks up at me, and her voice gets a little more forceful.",
+			"FOA_Ptr": "0x0003E09A",
+			"FOA_Rva": "0x00040B6B"
+		},
+		{
+			"Text_Raw": "「お姉ちゃんも葵も、もう子どもも作れるし男の人を好きになれるよって誰かに言っても、まだ早いって笑われることが多いのよ！？」",
+			"Text_Tra": "『Sis and I are old enough to fall in love and have kids, but whenever we say that, everyone just laugh at us!』",
+			"FOA_Ptr": "0x0003E0F2",
+			"FOA_Rva": "0x00040B9E"
+		},
+		{
+			"Text_Raw": "　葵　",
+			"Text_Tra": "Aoi",
+			"FOA_Ptr": "0x0003E10A",
+			"FOA_Rva": "0x00040C29"
+		},
+		{
+			"Text_Raw": "「僕はそういう意味では笑わないよ」",
+			"Text_Tra": "『I would never laugh at you about that.』",
+			"FOA_Ptr": "0x0003E14A",
+			"FOA_Rva": "0x00040C30"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E162",
+			"FOA_Rva": "0x00040C54"
+		},
+		{
+			"Text_Raw": "今もにこにこと笑っているが、これは、いつも余裕の葵が必死に訴えてくる姿が愛しいからだ。",
+			"Text_Tra": "I'm smiling at the moment, but that's just because Aoi looks so cute when she builds up a head of steam.",
+			"FOA_Ptr": "0x0003E1A2",
+			"FOA_Rva": "0x00040C5B"
+		},
+		{
+			"Text_Raw": "笑顔を浮かべずにはいられない。",
+			"Text_Tra": "I can't help but smile.",
+			"FOA_Ptr": "0x0003E1FA",
+			"FOA_Rva": "0x00040CB4"
+		},
+		{
+			"Text_Raw": "「恋愛をするには早いみたいなことを言い出すと、僕こそ、人間としての意識をもってから大した日数は経っていないしね」",
+			"Text_Tra": "『I mean, it technically hasn't been that long since I was 'born,' so I'm in no potion to laugh at you.』",
+			"FOA_Ptr": "0x0003E252",
+			"FOA_Rva": "0x00040CD5"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E26A",
+			"FOA_Rva": "0x00040D47"
+		},
+		{
+			"Text_Raw": "「あ、そっか。信お兄ちゃんは鉄鬼に作られて起きたばっかりなんだもんね」",
+			"Text_Tra": "『Ah, that's right. The Tekki made you, and you only woke up recently.』",
+			"FOA_Ptr": "0x0003E2AA",
+			"FOA_Rva": "0x00040D4E"
+		},
+		{
+			"Text_Raw": "　葵　",
+			"Text_Tra": "Aoi",
+			"FOA_Ptr": "0x0003E2C2",
+			"FOA_Rva": "0x00040DA5"
+		},
+		{
+			"Text_Raw": "葵は素直に、ズバリと物を言う。",
+			"Text_Tra": "If Aoi lacks anything, tact would be high on the list.",
+			"FOA_Ptr": "0x0003E302",
+			"FOA_Rva": "0x00040DAC"
+		},
+		{
+			"Text_Raw": "「そうそう。逆に、人間として冷凍睡眠されていた期間も含めると、僕は千歳以上とも言える」",
+			"Text_Tra": "『That's right. Of course, if you include the time I spent sleeping, then I'm over 1,000 years old.』",
+			"FOA_Ptr": "0x0003E35A",
+			"FOA_Rva": "0x00040DCD"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E372",
+			"FOA_Rva": "0x00040E25"
+		},
+		{
+			"Text_Raw": "「あはは。それはすごいね♪」",
+			"Text_Tra": "『Hahah! That's quite something!』",
+			"FOA_Ptr": "0x0003E3B2",
+			"FOA_Rva": "0x00040E2C"
+		},
+		{
+			"Text_Raw": "　葵　",
+			"Text_Tra": "Aoi",
+			"FOA_Ptr": "0x0003E3CA",
+			"FOA_Rva": "0x00040E59"
+		},
+		{
+			"Text_Raw": "葵がひとしきり笑ってから、そわそわと頬を赤らめる。",
+			"Text_Tra": "Aoi laughs out loud, then her cheeks flush red.",
+			"FOA_Ptr": "0x0003E40A",
+			"FOA_Rva": "0x00040E60"
+		},
+		{
+			"Text_Raw": "「えーと、じゃあ、どうしよう……うわ、信お兄ちゃんをもらっちゃっていいんだ」",
+			"Text_Tra": "『Hold on, what do we do now...? Waah, this means I can take you now, if I want.』",
+			"FOA_Ptr": "0x0003E4C2",
+			"FOA_Rva": "0x00040E95"
+		},
+		{
+			"Text_Raw": "　葵　",
+			"Text_Tra": "Aoi",
+			"FOA_Ptr": "0x0003E4DA",
+			"FOA_Rva": "0x00040EF2"
+		},
+		{
+			"Text_Raw": "「信お兄ちゃんは、葵とお姉ちゃんの好きな人になってくれたんだもんね」",
+			"Text_Tra": "『You love me and Sis, don't you?』",
+			"FOA_Ptr": "0x0003E51A",
+			"FOA_Rva": "0x00040EF9"
+		},
+		{
+			"Text_Raw": "　葵　",
+			"Text_Tra": "Aoi",
+			"FOA_Ptr": "0x0003E532",
+			"FOA_Rva": "0x00040F4E"
+		},
+		{
+			"Text_Raw": "「今日はもう遅いし、ちゃんとした話は明日からでいいと思う。茜ちゃんにも僕の気持ちを伝えないといけないしね」",
+			"Text_Tra": "『It's getting late tonight. We can talk about all of this tomorrow. We have to let Akane know too.』",
+			"FOA_Ptr": "0x0003E572",
+			"FOA_Rva": "0x00040F55"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E58A",
+			"FOA_Rva": "0x00040FC1"
+		},
+		{
+			"Text_Raw": "死鬼との戦いも終わり、この場で急いで物事を進める必要はない。",
+			"Text_Tra": "The fight with the Shiki is over. There's no hurry for us to deal with this right here and now.",
+			"FOA_Ptr": "0x0003E5CA",
+			"FOA_Rva": "0x00040FC8"
+		},
+		{
+			"Text_Raw": "なによりも、僕は『彼女たち』を大事にしたい。",
+			"Text_Tra": "And more than anything, I just want to take care of the pair of them.",
+			"FOA_Ptr": "0x0003E622",
+			"FOA_Rva": "0x00041007"
+		},
+		{
+			"Text_Raw": "「そうだね！　葵からも、お姉ちゃんにも言っておくね！」",
+			"Text_Tra": "『Right! I'll let Sis know all about it!』",
+			"FOA_Ptr": "0x0003E67A",
+			"FOA_Rva": "0x00041036"
+		},
+		{
+			"Text_Raw": "　葵　",
+			"Text_Tra": "Aoi",
+			"FOA_Ptr": "0x0003E692",
+			"FOA_Rva": "0x0004107D"
+		},
+		{
+			"Text_Raw": "「うん。僕のことは気にせず、まずゆっくり２人で話すといいと思うよ」",
+			"Text_Tra": "『Thanks. Don't worry about me. You can take the time to talk it over by yourselves.』",
+			"FOA_Ptr": "0x0003E6D2",
+			"FOA_Rva": "0x00041084"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E6EA",
+			"FOA_Rva": "0x000410C8"
+		},
+		{
+			"Text_Raw": "ゆっくりとした声で告げる。",
+			"Text_Tra": "My tone is gentle.",
+			"FOA_Ptr": "0x0003E72A",
+			"FOA_Rva": "0x000410CF"
+		},
+		{
+			"Text_Raw": "葵が指摘したように、茜の恋愛観がどう転ぶかは、これから決まることだろう。",
+			"Text_Tra": "Akane's perspective on love is something that will develop going forward, just like I said to Aoi.",
+			"FOA_Ptr": "0x0003E782",
+			"FOA_Rva": "0x000410EC"
+		},
+		{
+			"Text_Raw": "そして、どんな状況であっても、それが良い方向であるようにしたい。",
+			"Text_Tra": "And whatever happens, I want that to proceed in a positive direction.",
+			"FOA_Ptr": "0x0003E7DA",
+			"FOA_Rva": "0x00041137"
+		},
+		{
+			"Text_Raw": "「うん。お姉ちゃんと葵で話す」",
+			"Text_Tra": "『Okay. I'll talk to her about everything.』",
+			"FOA_Ptr": "0x0003E832",
+			"FOA_Rva": "0x0004117A"
+		},
+		{
+			"Text_Raw": "　葵　",
+			"Text_Tra": "Aoi",
+			"FOA_Ptr": "0x0003E84A",
+			"FOA_Rva": "0x000411A9"
+		},
+		{
+			"Text_Raw": "どこまでも素直に葵がうなずく。",
+			"Text_Tra": "Aoi gives a nod. She's so accepting.",
+			"FOA_Ptr": "0x0003E88A",
+			"FOA_Rva": "0x000411B0"
+		},
+		{
+			"Text_Raw": "それから、彼女は満面の笑みを浮かべた。",
+			"Text_Tra": "Then a wide smile covers her face.",
+			"FOA_Ptr": "0x0003E8E2",
+			"FOA_Rva": "0x000411D1"
+		},
+		{
+			"Text_Raw": "「葵たちのことわかってくれて、ありがとう、信お兄ちゃん♪」",
+			"Text_Tra": "『Thank you, Shin-Shin, for understanding us so well!』",
+			"FOA_Ptr": "0x0003E93A",
+			"FOA_Rva": "0x000411FA"
+		},
+		{
+			"Text_Raw": "　葵　",
+			"Text_Tra": "Aoi",
+			"FOA_Ptr": "0x0003E952",
+			"FOA_Rva": "0x00041245"
+		},
+		{
+			"Text_Raw": "自分たちは一人ではなく二人なのだと。",
+			"Text_Tra": "Like I said, it's a two-for-one deal.",
+			"FOA_Ptr": "0x0003E992",
+			"FOA_Rva": "0x0004124C"
+		},
+		{
+			"Text_Raw": "彼女たちは、能力による感覚共有で繋がり、戦いの中で生死を預け合うからこそ、ただの双子以上の感性をもっているのだ。",
+			"Text_Tra": "The way they experience the world is connected via their powers, and having survived through life-and-death situations in battle, they're bound more tightly than even normal twins.",
+			"FOA_Ptr": "0x0003E9EA",
+			"FOA_Rva": "0x00041273"
+		},
+		{
+			"Text_Raw": "僕はそれを認める。",
+			"Text_Tra": "I understand that.",
+			"FOA_Ptr": "0x0003EA42",
+			"FOA_Rva": "0x000412E6"
+		},
+		{
+			"Text_Raw": "それもカントだ。",
+			"Text_Tra": "This too is Kanto.",
+			"FOA_Ptr": "0x0003EA9A",
+			"FOA_Rva": "0x000412FB"
+		},
+		{
+			"Text_Raw": "「葵ちゃんも燕に治してもらっても病み上がりだし、今日はゆっくり休んでね」",
+			"Text_Tra": "『I know Tsubame healed you, but you're still recovering from the fight, so just take it easy for today.』",
+			"FOA_Ptr": "0x0003EAF2",
+			"FOA_Rva": "0x0004130E"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003EB0A",
+			"FOA_Rva": "0x00041358"
+		},
+		{
+			"Text_Raw": "「うん。また明日ね、お兄ちゃん♪」",
+			"Text_Tra": "『Okay. See you tomorrow, Shin-Shin!』",
+			"FOA_Ptr": "0x0003EB82",
+			"FOA_Rva": "0x0004135F"
+		},
+		{
+			"Text_Raw": "　葵　",
+			"Text_Tra": "Aoi",
+			"FOA_Ptr": "0x0003EB9A",
+			"FOA_Rva": "0x00041392"
+		},
+		{
+			"Text_Raw": "「また明日」",
+			"Text_Tra": "『Goodnight.』",
+			"FOA_Ptr": "0x0003EBDA",
+			"FOA_Rva": "0x00041399"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003EBF2",
+			"FOA_Rva": "0x000413A7"
+		},
+		{
+			"Text_Raw": "互いに小さく手を振ったあと、葵が機嫌がよさそうに大きく飛び跳ねて家に帰っていく。",
+			"Text_Tra": "After giving me a little wave, Aoi leaps up high into the air and heads back toward her house.",
+			"FOA_Ptr": "0x0003EC8A",
+			"FOA_Rva": "0x000413AE"
+		},
+		{
+			"Text_Raw": "「元気だねぇ」",
+			"Text_Tra": "『So full of energy.』",
+			"FOA_Ptr": "0x0003ECE2",
+			"FOA_Rva": "0x00041401"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003ECFA",
+			"FOA_Rva": "0x00041411"
+		},
+		{
+			"Text_Raw": "思わず笑ってしまう。",
+			"Text_Tra": "I can't help but chuckle.",
+			"FOA_Ptr": "0x0003ED3A",
+			"FOA_Rva": "0x00041418"
+		},
+		{
+			"Text_Raw": "さて、僕も王宮の部屋に帰るか。",
+			"Text_Tra": "I'd better back to my own room.",
+			"FOA_Ptr": "0x0003ED92",
+			"FOA_Rva": "0x0004142F"
+		},
+		{
+			"Text_Raw": "見上げれば、千年前とは比べ物にならないほど透き通った星空が広がっている。",
+			"Text_Tra": "Looking up, there's a clear field of stars, far brighter than anything from 1,000 years ago.",
+			"FOA_Ptr": "0x0003EE1E",
+			"FOA_Rva": "0x00041450"
+		},
+		{
+			"Text_Raw": "『人の繋がりと笑顔が大きくなることは、ＡＩの私にも喜ばしいことであり。明日があるのは、よいことですね』",
+			"Text_Tra": "『People coming together, and the smiles on their faces, is something that even I, as an AI, appreciate. Having a tomorrow to look forward is a great thing.』",
+			"FOA_Ptr": "0x0003EE76",
+			"FOA_Rva": "0x0004149B"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x0003EE8E",
+			"FOA_Rva": "0x00041512"
+		},
+		{
+			"Text_Raw": "歩き出そうとしたところで、ＹＯＵが笑顔の声で告げる。",
+			"Text_Tra": "Yu sounds like she's smiling herself as she comments upon my departure.",
+			"FOA_Ptr": "0x0003EECE",
+			"FOA_Rva": "0x00041519"
+		},
+		{
+			"Text_Raw": "『おめでとうございます』を遠回しに主張してくれたのだろう。",
+			"Text_Tra": "Kinda like a “congratulations,” in a roundabout way.",
+			"FOA_Ptr": "0x0003EF26",
+			"FOA_Rva": "0x00041550"
+		},
+		{
+			"Text_Raw": "「そうだね。ありがとう、ＹＯＵ」",
+			"Text_Tra": "『You said it. Thanks, Yu.』",
+			"FOA_Ptr": "0x0003EF7E",
+			"FOA_Rva": "0x0004158D"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003EF96",
+			"FOA_Rva": "0x000415AF"
+		},
+		{
+			"Text_Raw": "僕も笑顔で答える。",
+			"Text_Tra": "I'm smiling as I reply, too.",
+			"FOA_Ptr": "0x0003EFD6",
+			"FOA_Rva": "0x000415B6"
+		},
+		{
+			"Text_Raw": "また明日。",
+			"Text_Tra": "See you tomorrow.",
+			"FOA_Ptr": "0x0003F02E",
+			"FOA_Rva": "0x000415CB"
+		},
+		{
+			"Text_Raw": "一緒に遊ぼう。",
+			"Text_Tra": "More fun to be had.",
+			"FOA_Ptr": "0x0003F086",
+			"FOA_Rva": "0x000415D8"
+		},
+		{
+			"Text_Raw": "楽しく過ごそう。",
+			"Text_Tra": "It's going to be great.",
+			"FOA_Ptr": "0x0003F0DE",
+			"FOA_Rva": "0x000415E9"
+		},
+		{
+			"Text_Raw": "僕らは元気に生きているのだから。",
+			"Text_Tra": "We'll live each day, filled with happiness.",
+			"FOA_Ptr": "0x0003F136",
+			"FOA_Rva": "0x000415FC"
+		},
+		{
+			"Text_Raw": "- セカンドオープニング -",
+			"Text_Tra": "Second OP",
+			"FOA_Ptr": "0x0003F21A",
+			"FOA_Rva": "0x0004161F"
+		}
+	]
+}

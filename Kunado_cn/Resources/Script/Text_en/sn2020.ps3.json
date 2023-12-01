@@ -1,0 +1,6694 @@
+﻿{
+	"Scenario": [
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x000033FC",
+			"FOA_Rva": "0x0004FA13"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x00003408",
+			"FOA_Rva": "0x0004FA1A"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x00019C42",
+			"FOA_Rva": "0x00050820"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x00019C4E",
+			"FOA_Rva": "0x00050827"
+		},
+		{
+			"Text_Raw": "…―─",
+			"Text_Tra": "…―─",
+			"FOA_Ptr": "0x0001AC98",
+			"FOA_Rva": "0x0005091F"
+		},
+		{
+			"Text_Raw": "。、」』）！？”～ー♪",
+			"Text_Tra": "。、」』）！？”～ー♪",
+			"FOA_Ptr": "0x0001ACA4",
+			"FOA_Rva": "0x00050926"
+		},
+		{
+			"Text_Raw": "- 優里派生０２ -",
+			"Text_Tra": "Yuri Route 02",
+			"FOA_Ptr": "0x0003D7DC",
+			"FOA_Rva": "0x00050DDF"
+		},
+		{
+			"Text_Raw": "さて。",
+			"Text_Tra": "Okay then.",
+			"FOA_Ptr": "0x0003D966",
+			"FOA_Rva": "0x00050DF0"
+		},
+		{
+			"Text_Raw": "あくる日の午前中、僕と優里は２人で教室にいた。",
+			"Text_Tra": "The following day, Yuri and I are together in the classroom.",
+			"FOA_Ptr": "0x0003D9BE",
+			"FOA_Rva": "0x00050DF9"
+		},
+		{
+			"Text_Raw": "「古代の文明や技術の発展を、僕とＹＯＵの知識をあわせてまとめると――」",
+			"Text_Tra": "『Combining the knowledge of Yu and myself in regard to ancient culture and the development of technology-』",
+			"FOA_Ptr": "0x0003DAEA",
+			"FOA_Rva": "0x00050E2A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003DB02",
+			"FOA_Rva": "0x00050E72"
+		},
+		{
+			"Text_Raw": "「まず、なによりも最初に登場するのが、カントでも重要とされる農業になる」",
+			"Text_Tra": "『The first thing that appears, before anything else, and which also plays an important part in Kanto-is agriculture.』",
+			"FOA_Ptr": "0x0003DB42",
+			"FOA_Rva": "0x00050E79"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003DB5A",
+			"FOA_Rva": "0x00050EC3"
+		},
+		{
+			"Text_Raw": "僕は『農業』と黒板に記す。",
+			"Text_Tra": "I write “agriculture” on the blackboard.",
+			"FOA_Ptr": "0x0003DB9A",
+			"FOA_Rva": "0x00050ECA"
+		},
+		{
+			"Text_Raw": "「これが、ものすごい発明だったんだ」",
+			"Text_Tra": "『This is quite the invention, let me tell you.』",
+			"FOA_Ptr": "0x0003DBF2",
+			"FOA_Rva": "0x00050EE7"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003DC0A",
+			"FOA_Rva": "0x00050F0D"
+		},
+		{
+			"Text_Raw": "「そうなのですか？」",
+			"Text_Tra": "『It is? You will?』",
+			"FOA_Ptr": "0x0003DC4A",
+			"FOA_Rva": "0x00050F14"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003DC62",
+			"FOA_Rva": "0x00050F39"
+		},
+		{
+			"Text_Raw": "優里は、農業があまりにも普段からの仕事だったこともあり、きょとんとする。",
+			"Text_Tra": "Yuri seems surprised; but she's been down in the fields so long, I guess it doesn't seem that special to her.",
+			"FOA_Ptr": "0x0003DCA2",
+			"FOA_Rva": "0x00050F40"
+		},
+		{
+			"Text_Raw": "「うん。農業の起こりが、これから先のすべての技術の発端になるんだ」",
+			"Text_Tra": "『Yep. Agriculture comes first, and then all sorts of other technology follows along behind it.』",
+			"FOA_Ptr": "0x0003DCFA",
+			"FOA_Rva": "0x00050F8B"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003DD12",
+			"FOA_Rva": "0x00050FCF"
+		},
+		{
+			"Text_Raw": "と。",
+			"Text_Tra": "Things are going well.",
+			"FOA_Ptr": "0x0003DD52",
+			"FOA_Rva": "0x00050FD6"
+		},
+		{
+			"Text_Raw": "今日は優里とのマンツーマンでの授業であり、僕の知っている文明や文化の『簡単な総まとめ』のようなものだった。",
+			"Text_Tra": "I'm have a one-on-one lesson with Yuri today, and I'm giving her the overview on civilization and culture from my perspective.",
+			"FOA_Ptr": "0x0003DDAA",
+			"FOA_Rva": "0x00050FDD"
+		},
+		{
+			"Text_Raw": "曰く――",
+			"Text_Tra": "There's a reason for this-",
+			"FOA_Ptr": "0x0003DE02",
+			"FOA_Rva": "0x0005104A"
+		},
+		{
+			"Text_Raw": "「私は、あなたのことをもっと知りたいと思っています」",
+			"Text_Tra": "『I want to know more about you.』",
+			"FOA_Ptr": "0x0003E002",
+			"FOA_Rva": "0x00051063"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E01A",
+			"FOA_Rva": "0x000510A8"
+		},
+		{
+			"Text_Raw": "「あなたの考えていることや、知っていることを、深く感じとりたいのです」",
+			"Text_Tra": "『What you're thinking, and what you know-I want a deeper connection with all of it.』",
+			"FOA_Ptr": "0x0003E05A",
+			"FOA_Rva": "0x000510AF"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E072",
+			"FOA_Rva": "0x00051106"
+		},
+		{
+			"Text_Raw": "「それに必要なことは、鉄鬼が生まれる前の世界を知ることだと思うのですが……」",
+			"Text_Tra": "『In order to achieve that, I think I need to know more about the world before the Tekki.』",
+			"FOA_Ptr": "0x0003E0B2",
+			"FOA_Rva": "0x0005110D"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E0CA",
+			"FOA_Rva": "0x0005116A"
+		},
+		{
+			"Text_Raw": "「……もっと教えて頂けませんか？」",
+			"Text_Tra": "『...Can you please teach me?』",
+			"FOA_Ptr": "0x0003E10A",
+			"FOA_Rva": "0x00051171"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E122",
+			"FOA_Rva": "0x000511A4"
+		},
+		{
+			"Text_Raw": "という話だった。",
+			"Text_Tra": "That's how we got here.",
+			"FOA_Ptr": "0x0003E1C6",
+			"FOA_Rva": "0x000511AB"
+		},
+		{
+			"Text_Raw": "「最後の懇願するところが、可愛くてずるいよな」",
+			"Text_Tra": "『You were so cute, with that final question, how could I refuse?』",
+			"FOA_Ptr": "0x0003E30E",
+			"FOA_Rva": "0x000511BE"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E326",
+			"FOA_Rva": "0x000511EE"
+		},
+		{
+			"Text_Raw": "頭の中で回想していて、思わずつぶやいてしまう。",
+			"Text_Tra": "Now I'm talking to the Yuri in my head.",
+			"FOA_Ptr": "0x0003E366",
+			"FOA_Rva": "0x000511F5"
+		},
+		{
+			"Text_Raw": "「はい？」",
+			"Text_Tra": "『Sorry?』",
+			"FOA_Ptr": "0x0003E3BE",
+			"FOA_Rva": "0x00051226"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E3D6",
+			"FOA_Rva": "0x00051241"
+		},
+		{
+			"Text_Raw": "「いや、なんでもない」",
+			"Text_Tra": "『Nope! Nothing!』",
+			"FOA_Ptr": "0x0003E416",
+			"FOA_Rva": "0x00051248"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E42E",
+			"FOA_Rva": "0x00051260"
+		},
+		{
+			"Text_Raw": "真面目に勉強しようと思っている優里に、冗談めかしたことを言う必要はないだろう。",
+			"Text_Tra": "Yuri is taking this very seriously, so I'd better not joke around with her.",
+			"FOA_Ptr": "0x0003E46E",
+			"FOA_Rva": "0x00051267"
+		},
+		{
+			"Text_Raw": "というか……Ｈのときのあの激しさと普段とのギャップが、やはりすごいよな。",
+			"Text_Tra": "I'm still struggling with the gap between her everyday persona and the wild girl I was fucking yesterday.",
+			"FOA_Ptr": "0x0003E4C6",
+			"FOA_Rva": "0x000512B8"
+		},
+		{
+			"Text_Raw": "ちょっと男心が傷心している僕ではある。",
+			"Text_Tra": "I'm not sure where my masculinity stands on that encounter.",
+			"FOA_Ptr": "0x0003E51E",
+			"FOA_Rva": "0x00051303"
+		},
+		{
+			"Text_Raw": "さておき。",
+			"Text_Tra": "Anyway.",
+			"FOA_Ptr": "0x0003E576",
+			"FOA_Rva": "0x0005132C"
+		},
+		{
+			"Text_Raw": "文明の発端は農業という話だ。",
+			"Text_Tra": "Agriculture leading the way into civilization.",
+			"FOA_Ptr": "0x0003E5CE",
+			"FOA_Rva": "0x00051339"
+		},
+		{
+			"Text_Raw": "「優里にわかりやすく伝えるなら――逆に、農業のない生活を考えてみると面白いと思うよ」",
+			"Text_Tra": "『For you to get a better understanding, why don't you try imagining a world without farming?』",
+			"FOA_Ptr": "0x0003E626",
+			"FOA_Rva": "0x00051358"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E63E",
+			"FOA_Rva": "0x000513AE"
+		},
+		{
+			"Text_Raw": "「農業のない生活、ですか」",
+			"Text_Tra": "『A world without farming?』",
+			"FOA_Ptr": "0x0003E67E",
+			"FOA_Rva": "0x000513B5"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E696",
+			"FOA_Rva": "0x000513E0"
+		},
+		{
+			"Text_Raw": "考える時間をおくように、彼女は僕の言葉を繰り返す。",
+			"Text_Tra": "She repeats my question, maybe to give herself some room to think.",
+			"FOA_Ptr": "0x0003E6D6",
+			"FOA_Rva": "0x000513E7"
+		},
+		{
+			"Text_Raw": "「えーと、畑も田んぼもないのですから……食料はすべて、狩りでまかなうことになるのでしょうか？」",
+			"Text_Tra": "『Okay, so if there are no fields or crops-food would have to come completely from hunting?』",
+			"FOA_Ptr": "0x0003E72E",
+			"FOA_Rva": "0x0005141C"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E746",
+			"FOA_Rva": "0x0005148B"
+		},
+		{
+			"Text_Raw": "「そうだね。あとは、自然に生えている果物や木の実なんかの採取になる」",
+			"Text_Tra": "『That's right. We could also pick naturally growing fruit and berries.』",
+			"FOA_Ptr": "0x0003E786",
+			"FOA_Rva": "0x00051492"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E79E",
+			"FOA_Rva": "0x000514D8"
+		},
+		{
+			"Text_Raw": "「動物は多いですし、やってやれないこともないでしょう」",
+			"Text_Tra": "『There are plenty of animals out there. We could make a go of it.』",
+			"FOA_Ptr": "0x0003E7DE",
+			"FOA_Rva": "0x000514DF"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003E7F6",
+			"FOA_Rva": "0x00051526"
+		},
+		{
+			"Text_Raw": "「まあ……能力者はそう感じるかもね」",
+			"Text_Tra": "『Sure. I can see why a Powered would think that.』",
+			"FOA_Ptr": "0x0003E836",
+			"FOA_Rva": "0x0005152D"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003E84E",
+			"FOA_Rva": "0x00051553"
+		},
+		{
+			"Text_Raw": "古代の原始人たちは、石の斧や槍を手に、マンモスなどの大型獣に命がけで挑んだのだろうが――",
+			"Text_Tra": "Primitive man had to use stone axes and spears, risking their lives against massive mammoths.",
+			"FOA_Ptr": "0x0003E88E",
+			"FOA_Rva": "0x0005155A"
+		},
+		{
+			"Text_Raw": "カントの人たちは恐竜を正面から殴り倒す狩りが成立してしまうだろう。",
+			"Text_Tra": "The people of Kanto could punch out a dinosaur head-on and cook it for breakfast.",
+			"FOA_Ptr": "0x0003E8E6",
+			"FOA_Rva": "0x000515B5"
+		},
+		{
+			"Text_Raw": "茜や葵などは、古代にタイムスリップしても、わんぱくに生きていけそうである。",
+			"Text_Tra": "Akane and Aoi would be living the high life if they were sent back into the distant past.",
+			"FOA_Ptr": "0x0003E93E",
+			"FOA_Rva": "0x000515FA"
+		},
+		{
+			"Text_Raw": "めちゃくちゃ楽しそうだな。",
+			"Text_Tra": "They'd probably have loads of fun.",
+			"FOA_Ptr": "0x0003E996",
+			"FOA_Rva": "0x00051647"
+		},
+		{
+			"Text_Raw": "あの双子となら僕もタイムスリップしたい。",
+			"Text_Tra": "You know, if they're going back to the past, I actually think I'd want to tag along, too.",
+			"FOA_Ptr": "0x0003E9EE",
+			"FOA_Rva": "0x00051664"
+		},
+		{
+			"Text_Raw": "いや――楽しい空想から話を戻そう（脳内自主ツッコミ）。",
+			"Text_Tra": "Nope, nope-come back from the past, back to the future.",
+			"FOA_Ptr": "0x0003EA46",
+			"FOA_Rva": "0x0005168F"
+		},
+		{
+			"Text_Raw": "「でも、狩りで食料をまかなおうとしても、動物は狩るほど減っていくし、冬場になればさらに数を減らしてしまう」",
+			"Text_Tra": "『However, hunting for all of your food is going to reduce the number of prey; even more so when winter comes.』",
+			"FOA_Ptr": "0x0003EA9E",
+			"FOA_Rva": "0x000516C8"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003EAB6",
+			"FOA_Rva": "0x00051734"
+		},
+		{
+			"Text_Raw": "「そう、ですね。お肉を干したり塩漬けにすることである程度の備蓄は出来ますが、８００人分は……大変ですね」",
+			"Text_Tra": "『That's true. We can dry or salt meat to build up a bit of a stock, but enough for 800 people is asking a lot.』",
+			"FOA_Ptr": "0x0003EAF6",
+			"FOA_Rva": "0x0005173B"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003EB0E",
+			"FOA_Rva": "0x000517B4"
+		},
+		{
+			"Text_Raw": "労力がイメージしきれないらしく、優里の返事もぼんやりしたものだった。",
+			"Text_Tra": "Yuri doesn't seem quite capable of imagining all that hard work, and her answer is a little hesitant.",
+			"FOA_Ptr": "0x0003EB4E",
+			"FOA_Rva": "0x000517BB"
+		},
+		{
+			"Text_Raw": "「まさに。狩りの一番の問題は、収穫量が曖昧なところにあるんだ」",
+			"Text_Tra": "『That's right. The biggest issue with hunting is the fluctuation of incoming resources.』",
+			"FOA_Ptr": "0x0003EBA6",
+			"FOA_Rva": "0x00051802"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003EBBE",
+			"FOA_Rva": "0x00051842"
+		},
+		{
+			"Text_Raw": "「なるほど」",
+			"Text_Tra": "『I see.』",
+			"FOA_Ptr": "0x0003EBFE",
+			"FOA_Rva": "0x00051849"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003EC16",
+			"FOA_Rva": "0x00051866"
+		},
+		{
+			"Text_Raw": "優里が話の流れにピンときたと笑顔を浮かべる。",
+			"Text_Tra": "Yuri is following along nicely, and a smile lights her face.",
+			"FOA_Ptr": "0x0003EC56",
+			"FOA_Rva": "0x0005186D"
+		},
+		{
+			"Text_Raw": "「逆の話をしたということは、農業は収穫量が安定しているということですね」",
+			"Text_Tra": "『Which means agriculture is the opposite, providing a stable volume of food.』",
+			"FOA_Ptr": "0x0003ECAE",
+			"FOA_Rva": "0x0005189C"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003ECC6",
+			"FOA_Rva": "0x000518F5"
+		},
+		{
+			"Text_Raw": "「その通り」",
+			"Text_Tra": "『That's right.』",
+			"FOA_Ptr": "0x0003ED06",
+			"FOA_Rva": "0x000518FC"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003ED1E",
+			"FOA_Rva": "0x0005190A"
+		},
+		{
+			"Text_Raw": "『狩猟から農耕へと――ここから文明の発展が始まったわけですね』",
+			"Text_Tra": "『From hunting to farming-this is the start of the development of civilization.』",
+			"FOA_Ptr": "0x0003ED5E",
+			"FOA_Rva": "0x00051911"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x0003ED76",
+			"FOA_Rva": "0x00051960"
+		},
+		{
+			"Text_Raw": "「そんなに変わるのですか？」",
+			"Text_Tra": "『It really makes that much of a difference?』",
+			"FOA_Ptr": "0x0003EDB6",
+			"FOA_Rva": "0x00051967"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003EDCE",
+			"FOA_Rva": "0x00051994"
+		},
+		{
+			"Text_Raw": "自分の知らない話が興味深いらしく、優里は楽しそうだった。",
+			"Text_Tra": "Yuri has been interested in things she doesn't know, and seems to be having fun.",
+			"FOA_Ptr": "0x0003EE36",
+			"FOA_Rva": "0x0005199B"
+		},
+		{
+			"Text_Raw": "彼女が楽しそうなら、僕も楽しい。",
+			"Text_Tra": "If she's enjoying herself, then so am I.",
+			"FOA_Ptr": "0x0003EE8E",
+			"FOA_Rva": "0x000519D6"
+		},
+		{
+			"Text_Raw": "『わかりやすいように先に結論をお伝えしますと』",
+			"Text_Tra": "『To make this easier to understand, I'll start with the conclusion.』",
+			"FOA_Ptr": "0x0003EEE6",
+			"FOA_Rva": "0x000519F9"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x0003EEFE",
+			"FOA_Rva": "0x00051A38"
+		},
+		{
+			"Text_Raw": "『農業により、１人の人間が、安定して１人分以上の食料を生産できるようになった――』",
+			"Text_Tra": "『Agriculture allows a single person to reliably produce more food than a single person requires.』",
+			"FOA_Ptr": "0x0003EF3E",
+			"FOA_Rva": "0x00051A3F"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x0003EF56",
+			"FOA_Rva": "0x00051AA2"
+		},
+		{
+			"Text_Raw": "『すなわち、食料調達の労力を必要としなくなった者が、木工加工や陶芸や服飾などの技術職、宗教や文化関連の職務に従事できるようになったのです』",
+			"Text_Tra": "『This means those freed from the toil of acquiring food can become crafters, working with wood, ceramics, or clothing, or work in other professions related to religion or culture.』",
+			"FOA_Ptr": "0x0003EF96",
+			"FOA_Rva": "0x00051AA9"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x0003EFAE",
+			"FOA_Rva": "0x00051B44"
+		},
+		{
+			"Text_Raw": "ＹＯＵが情報をまとめて発信する。",
+			"Text_Tra": "Yu provides an overview-or perhaps an “over-yu.』",
+			"FOA_Ptr": "0x0003EFEE",
+			"FOA_Rva": "0x00051B4B"
+		},
+		{
+			"Text_Raw": "「そうか……カントでも全員で農業をしてるわけではないですね」",
+			"Text_Tra": "『That makes sense. Not everyone in Kanto works in the fields.』",
+			"FOA_Ptr": "0x0003F046",
+			"FOA_Rva": "0x00051B6E"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003F05E",
+			"FOA_Rva": "0x00051BBB"
+		},
+		{
+			"Text_Raw": "「２、３００人は職人とか王宮の仕事に就いているんだよね。それを支えているのが農業従事者なわけだ」",
+			"Text_Tra": "『You have maybe a third of the population working as crafters or in the palace-people supported by the farmers.』",
+			"FOA_Ptr": "0x0003F09E",
+			"FOA_Rva": "0x00051BC2"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003F0B6",
+			"FOA_Rva": "0x00051C24"
+		},
+		{
+			"Text_Raw": "「なるほど。私は農地で働いているとき、なにも考えていませんでしたが、そういうことをしていたのですね」",
+			"Text_Tra": "『Interesting. I never really thought about this stuff, even when I was working in the fields myself.』",
+			"FOA_Ptr": "0x0003F156",
+			"FOA_Rva": "0x00051C2B"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003F16E",
+			"FOA_Rva": "0x00051CA0"
+		},
+		{
+			"Text_Raw": "過去の自分の仕事の意味を理解し、優里がまた感心する。",
+			"Text_Tra": "Yuri is impressed, realizing the true meaning of her work in the past.",
+			"FOA_Ptr": "0x0003F1AE",
+			"FOA_Rva": "0x00051CA7"
+		},
+		{
+			"Text_Raw": "『他にも、農業は面積あたりで収穫の見込みがわかりやすいため、住人数の調整もしやすいわけです』",
+			"Text_Tra": "『The harvest can also be estimated based on the volume of ground being farmed, making it easy to adjust for the required number of people.』",
+			"FOA_Ptr": "0x0003F206",
+			"FOA_Rva": "0x00051CDE"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x0003F21E",
+			"FOA_Rva": "0x00051D4B"
+		},
+		{
+			"Text_Raw": "「人を増やすには田畑を広げないとですね」",
+			"Text_Tra": "『More people means making more fields.』",
+			"FOA_Ptr": "0x0003F25E",
+			"FOA_Rva": "0x00051D52"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003F276",
+			"FOA_Rva": "0x00051D8B"
+		},
+		{
+			"Text_Raw": "「あ、そうか！　これが、最初の頃の授業のとき、春姫様が人を増やすにも食料が足りないと頭を抱えていたことなんですね！」",
+			"Text_Tra": "『Ah, now I get it! Back in one of the first lessons, Lady Haruhime was talking about not having enough food to expand the population!』",
+			"FOA_Ptr": "0x0003F316",
+			"FOA_Rva": "0x00051D92"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003F32E",
+			"FOA_Rva": "0x00051E17"
+		},
+		{
+			"Text_Raw": "知識と理解が深まり、優里が今度こそ嬉しそうな声をあげる。",
+			"Text_Tra": "Yuri gets more excited as her knowledge and understanding start to connect together.",
+			"FOA_Ptr": "0x0003F36E",
+			"FOA_Rva": "0x00051E1E"
+		},
+		{
+			"Text_Raw": "「そう。あのときの春姫の悩みを、優里は今、しっかりと理解したわけだね」",
+			"Text_Tra": "『That's right. Now you can understand what she was going through.』",
+			"FOA_Ptr": "0x0003F3C6",
+			"FOA_Rva": "0x00051E59"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003F3DE",
+			"FOA_Rva": "0x00051EA1"
+		},
+		{
+			"Text_Raw": "「ああ、すごいですね。あなたや春姫様たちは、こんなことまで考えていたのですね」",
+			"Text_Tra": "『This is amazing! So this is the kind of stuff you and Lady Haruhime think about all the time!』",
+			"FOA_Ptr": "0x0003F41E",
+			"FOA_Rva": "0x00051EA8"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003F436",
+			"FOA_Rva": "0x00051F07"
+		},
+		{
+			"Text_Raw": "誉め言葉のような感心を続ける優里に、僕は苦笑してしまう。",
+			"Text_Tra": "I give a wry laugh at how impressed Yuri is.",
+			"FOA_Ptr": "0x0003F476",
+			"FOA_Rva": "0x00051F0E"
+		},
+		{
+			"Text_Raw": "「春姫はすごいけど、僕はカントで目覚めなければ、こんなこと知識にあっても意識することなんてなかったよ」",
+			"Text_Tra": "『Haruhime is amazing, I'll give you that. I might have been aware of all this stuff, but if I hadn't awoken in Kanto, I probably wouldn't have given it a second thought.』",
+			"FOA_Ptr": "0x0003F4CE",
+			"FOA_Rva": "0x00051F49"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003F4E6",
+			"FOA_Rva": "0x00051FB1"
+		},
+		{
+			"Text_Raw": "『知識の継承ということなら、ここまでは、農業中心社会のカントでは、どなたでも１時間もかからず理解される内容でしょう』",
+			"Text_Tra": "『In terms of getting this information out there, Kanto is an agriculture-focused society, so most of the people will grasp these concepts quickly.』",
+			"FOA_Ptr": "0x0003F526",
+			"FOA_Rva": "0x00051FB8"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x0003F53E",
+			"FOA_Rva": "0x0005203D"
+		},
+		{
+			"Text_Raw": "ＹＯＵが僕に追随する。",
+			"Text_Tra": "Yu follows up on my comment.",
+			"FOA_Ptr": "0x0003F57E",
+			"FOA_Rva": "0x00052044"
+		},
+		{
+			"Text_Raw": "「まあ、ここまでを、ひとまずまとめよう」",
+			"Text_Tra": "『Well, let's recap.』",
+			"FOA_Ptr": "0x0003F5D6",
+			"FOA_Rva": "0x0005205D"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003F5EE",
+			"FOA_Rva": "0x00052087"
+		},
+		{
+			"Text_Raw": "僕は黒板に向き直る。",
+			"Text_Tra": "I turn back to the blackboard.",
+			"FOA_Ptr": "0x0003F662",
+			"FOA_Rva": "0x0005208E"
+		},
+		{
+			"Text_Raw": "『農業』と記していた場所から矢印をいくつか伸ばし、それぞれに『木工』『陶芸』『服飾』『宗教』と文字を記す。",
+			"Text_Tra": "I stretch out a number of arrows from the word “agriculture” to the words “woodworking,” “ceramics,” “clothing” and “religion.』",
+			"FOA_Ptr": "0x0003F6BA",
+			"FOA_Rva": "0x000520A5"
+		},
+		{
+			"Text_Raw": "うーん。",
+			"Text_Tra": "Hmmm.",
+			"FOA_Ptr": "0x0003F712",
+			"FOA_Rva": "0x00052112"
+		},
+		{
+			"Text_Raw": "カントの場合は『宗教（猫）』か？",
+			"Text_Tra": "What's the religion in Kanto called, anyway? Cattism?",
+			"FOA_Ptr": "0x0003F76A",
+			"FOA_Rva": "0x0005211D"
+		},
+		{
+			"Text_Raw": "「もちろん大雑把なものだけど、これが平地で暮らしているカントの最初の発展の流れだろうね」",
+			"Text_Tra": "『Of course, this is only a rough outline, but this must be how Kanto first developed, located here on the plains.』",
+			"FOA_Ptr": "0x0003F896",
+			"FOA_Rva": "0x00052140"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003F8AE",
+			"FOA_Rva": "0x0005219A"
+		},
+		{
+			"Text_Raw": "「場所によって変わるのですか？」",
+			"Text_Tra": "『The location makes a difference?』",
+			"FOA_Ptr": "0x0003F8EE",
+			"FOA_Rva": "0x000521A1"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003F906",
+			"FOA_Rva": "0x000521D2"
+		},
+		{
+			"Text_Raw": "『山地であれば牧畜や鉱山労働や金属加工が発展しやすく。海辺であれば漁業や海洋進出のための技術が先行するでしょう』",
+			"Text_Tra": "『In mountainous areas, livestock, mining, and metalwork are more likely to develop. By the ocean, fishing and advancing onto the water might take priority.』",
+			"FOA_Ptr": "0x0003F946",
+			"FOA_Rva": "0x000521D9"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x0003F95E",
+			"FOA_Rva": "0x0005225A"
+		},
+		{
+			"Text_Raw": "「なるほど。そういうことも生活する場所次第なのですね」",
+			"Text_Tra": "『I see. Everything comes down to location, location, location.』",
+			"FOA_Ptr": "0x0003F99E",
+			"FOA_Rva": "0x00052261"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003F9B6",
+			"FOA_Rva": "0x000522A8"
+		},
+		{
+			"Text_Raw": "「さて――」",
+			"Text_Tra": "『You'd make a great real estate agent.』",
+			"FOA_Ptr": "0x0003F9F6",
+			"FOA_Rva": "0x000522AF"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003FA0E",
+			"FOA_Rva": "0x000522BD"
+		},
+		{
+			"Text_Raw": "今日の本題はここからだ。",
+			"Text_Tra": "Now we get to the main topic for today.",
+			"FOA_Ptr": "0x0003FA4E",
+			"FOA_Rva": "0x000522C4"
+		},
+		{
+			"Text_Raw": "「第一期の古代、人類の発展最初期に、それぞれの場所で適した文明の基盤が成立したわけだけど」",
+			"Text_Tra": "『During the first civilization, the development phase for humanity, the foundations for suitable cultures were laid in each location.』",
+			"FOA_Ptr": "0x0003FAA6",
+			"FOA_Rva": "0x000522DF"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003FABE",
+			"FOA_Rva": "0x0005233B"
+		},
+		{
+			"Text_Raw": "「ここから、いくつかの集団同士が接触を始める」",
+			"Text_Tra": "『From there, various different groups started to come into contact with each other.』",
+			"FOA_Ptr": "0x0003FAFE",
+			"FOA_Rva": "0x00052342"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003FB16",
+			"FOA_Rva": "0x00052372"
+		},
+		{
+			"Text_Raw": "「以前に話していた、『カントではない別の集団』のようなものですね」",
+			"Text_Tra": "『You've talked about this before-contact with groups that aren't Kanto.』",
+			"FOA_Ptr": "0x0003FB56",
+			"FOA_Rva": "0x00052379"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003FB6E",
+			"FOA_Rva": "0x000523CC"
+		},
+		{
+			"Text_Raw": "その重要性や危険度を思い出し、優里が表情を引き締める。",
+			"Text_Tra": "Remembering how important-and dangerous-this concept is, Yuri's expressions tightens up.",
+			"FOA_Ptr": "0x0003FBAE",
+			"FOA_Rva": "0x000523D3"
+		},
+		{
+			"Text_Raw": "「そう。それぞれ人口の規模や技術発展の度合い、考え方の異なる集団の接触だ」",
+			"Text_Tra": "『That's right. Contact with groups of different sizes, at different stages of development, and with different ways of thinking.』",
+			"FOA_Ptr": "0x0003FC06",
+			"FOA_Rva": "0x0005240C"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003FC1E",
+			"FOA_Rva": "0x00052458"
+		},
+		{
+			"Text_Raw": "僕は黒板に書いていた技術群を大きな丸で囲み、その周囲にもいくつかの丸を記した。",
+			"Text_Tra": "I draw a large circle around the technology cluster on the blackboard, and then add a number of other circles in the vicinity.",
+			"FOA_Ptr": "0x0003FC5E",
+			"FOA_Rva": "0x0005245F"
+		},
+		{
+			"Text_Raw": "丸の１つずつが、異なる文明だ。",
+			"Text_Tra": "Each of these circles is a different culture.",
+			"FOA_Ptr": "0x0003FCB6",
+			"FOA_Rva": "0x000524B0"
+		},
+		{
+			"Text_Raw": "「ちょうど、さっき場所が違えば発展の仕方も違うという話をしたから例えにするけど――」",
+			"Text_Tra": "『I just talked about differences in development depending on location, so let's use that as an example.』",
+			"FOA_Ptr": "0x0003FD0E",
+			"FOA_Rva": "0x000524D1"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003FD26",
+			"FOA_Rva": "0x00052527"
+		},
+		{
+			"Text_Raw": "「カントではないどこかで、鉄鬼に襲われずに海を移動する技術を生み出した人たちがいたとする」",
+			"Text_Tra": "『Imagine that, somewhere other than Kanto, people have come up with a technology that allows movement across the ocean without being attacked by Tekki.』",
+			"FOA_Ptr": "0x0003FD66",
+			"FOA_Rva": "0x0005252E"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003FD7E",
+			"FOA_Rva": "0x0005258A"
+		},
+		{
+			"Text_Raw": "「そういう人たちと会えば、カントの米や野菜と交換に、魚をたくさんもらえるかもしれない」",
+			"Text_Tra": "『If we could meet with these people, we might be able to trade rice and vegetables from Kanto for lots of fish.』",
+			"FOA_Ptr": "0x0003FDBE",
+			"FOA_Rva": "0x00052591"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003FDD6",
+			"FOA_Rva": "0x000525E9"
+		},
+		{
+			"Text_Raw": "「お魚が定期的に食べられるようになれば、おかずの幅が広がり、春姫様が喜びますね」",
+			"Text_Tra": "『If we could eat fish more often, that would expand the menu in Kanto. Lady Haruhime would be thrilled.』",
+			"FOA_Ptr": "0x0003FE16",
+			"FOA_Rva": "0x000525F0"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0003FE2E",
+			"FOA_Rva": "0x00052651"
+		},
+		{
+			"Text_Raw": "優里は主君の腹ペコ要素も真面目に考えるようだ。",
+			"Text_Tra": "Yuri also appears to give serious consideration to the stomach of her ruler.",
+			"FOA_Ptr": "0x0003FE6E",
+			"FOA_Rva": "0x00052658"
+		},
+		{
+			"Text_Raw": "まあ、古代の日本でも文明の交流により、カレーや中華料理やイタ飯を美味しく頂いていたのだしな。",
+			"Text_Tra": "Well, such exchanges of ancient culture led to delicious dishes like curry, Chinese food, and Italian food coming into Japan.",
+			"FOA_Ptr": "0x0003FEC6",
+			"FOA_Rva": "0x00052689"
+		},
+		{
+			"Text_Raw": "「この、外の集団とのやりとりが、『経済』の続きとなる『貿易』だね」",
+			"Text_Tra": "『These exchanges with other groups are the continuation of the economy-the concept of trade.』",
+			"FOA_Ptr": "0x0003FF1E",
+			"FOA_Rva": "0x000526E8"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0003FF36",
+			"FOA_Rva": "0x0005272C"
+		},
+		{
+			"Text_Raw": "黒板に、丸と丸と繋ぐ線をひいて、そこに『貿易』という単語を書く。",
+			"Text_Tra": "I draw a line between the circles on the blackboard, and then write “trade.』",
+			"FOA_Ptr": "0x0003FF76",
+			"FOA_Rva": "0x00052733"
+		},
+		{
+			"Text_Raw": "『なお、カントで『通貨』が確立していれば、物々交換以外の貿易も可能となります』",
+			"Text_Tra": "『Establishing a currency in Kanto will allow for the easy exchange of things other than just physical objects.』",
+			"FOA_Ptr": "0x0003FFCE",
+			"FOA_Rva": "0x00052776"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x0003FFE6",
+			"FOA_Rva": "0x000527D5"
+		},
+		{
+			"Text_Raw": "「なるほど……意外と、なんとかなりそうな気はしますね」",
+			"Text_Tra": "『Very interesting. It makes what I'm doing seem more important after all!』",
+			"FOA_Ptr": "0x00040026",
+			"FOA_Rva": "0x000527DC"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004003E",
+			"FOA_Rva": "0x00052823"
+		},
+		{
+			"Text_Raw": "喫茶店の看板娘然り、自分のしていることを彼女が再確認し、理解できているとうなずく。",
+			"Text_Tra": "She gives a nod, reflecting on her role as the face of the café and now perhaps obtaining a better understanding of it.",
+			"FOA_Ptr": "0x0004007E",
+			"FOA_Rva": "0x0005282A"
+		},
+		{
+			"Text_Raw": "「いやいや、貿易と一言で済ましてるけど、実際は大変なんだ」",
+			"Text_Tra": "『Well, it's easy to just say 'trade,' but actual trade is quite a bit more complex.』",
+			"FOA_Ptr": "0x000400D6",
+			"FOA_Rva": "0x0005287F"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000400EE",
+			"FOA_Rva": "0x000528BB"
+		},
+		{
+			"Text_Raw": "思わず笑ってしまう。",
+			"Text_Tra": "I can't help but laugh.",
+			"FOA_Ptr": "0x0004012E",
+			"FOA_Rva": "0x000528C2"
+		},
+		{
+			"Text_Raw": "そろそろ、僕も説明が難しくなってくる。",
+			"Text_Tra": "We're getting into territory where I'm going to have trouble explaining.",
+			"FOA_Ptr": "0x00040186",
+			"FOA_Rva": "0x000528D9"
+		},
+		{
+			"Text_Raw": "「さっき交換と簡単に言ったけど、実際には、どのくらいの魚に、どのくらいの穀物や野菜を出せばいいかを考えたりしないといけない」",
+			"Text_Tra": "『Taking my example from before, what volume of fish is worth what volume of grains or vegetables?』",
+			"FOA_Ptr": "0x000401DE",
+			"FOA_Rva": "0x00052902"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000401F6",
+			"FOA_Rva": "0x00052980"
+		},
+		{
+			"Text_Raw": "「あ。あー、えーと……」",
+			"Text_Tra": "『Ah. Okay, give me a moment-』",
+			"FOA_Ptr": "0x00040236",
+			"FOA_Rva": "0x00052987"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004024E",
+			"FOA_Rva": "0x000529B0"
+		},
+		{
+			"Text_Raw": "「今は考えなくてもいいよ。お互いの事情によって、この量は変わるからね」",
+			"Text_Tra": "『No need to think of an answer now. That volume is going to change depending on all sorts of circumstances.』",
+			"FOA_Ptr": "0x0004028E",
+			"FOA_Rva": "0x000529B7"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000402A6",
+			"FOA_Rva": "0x000529FF"
+		},
+		{
+			"Text_Raw": "「あ、はい。そうですね。はい」",
+			"Text_Tra": "『Ah, yes. Okay. I see your point.』",
+			"FOA_Ptr": "0x000402E6",
+			"FOA_Rva": "0x00052A06"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000402FE",
+			"FOA_Rva": "0x00052A35"
+		},
+		{
+			"Text_Raw": "やはり難しいのか、優里が困惑しながらも、うなずく。",
+			"Text_Tra": "Yuri gives a nod, but she looks a little confused. This isn't easy for her.",
+			"FOA_Ptr": "0x0004033E",
+			"FOA_Rva": "0x00052A3C"
+		},
+		{
+			"Text_Raw": "カントが世界のすべてである住人にとって、外部勢力との接触は難しい要素だろう。",
+			"Text_Tra": "For these people, Kanto is their entire world. Contact with exterior forces is difficult for them to understand.",
+			"FOA_Ptr": "0x00040396",
+			"FOA_Rva": "0x00052A71"
+		},
+		{
+			"Text_Raw": "『貿易での交換において、釣り合うものや量を考えなければいけない――』",
+			"Text_Tra": "『When trading, you need to think about comparative value and volumes.』",
+			"FOA_Ptr": "0x000403EE",
+			"FOA_Rva": "0x00052AC0"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x00040406",
+			"FOA_Rva": "0x00052B15"
+		},
+		{
+			"Text_Raw": "『これが、必要性としての『数学』の発展や、交換条件を一定にたもつためのルールや罰則などを定めた『法律』の整備にも繋がります』",
+			"Text_Tra": "『This requires the development of mathematics, and also laws stating fixed conditions and punishments relating to exchanges.』",
+			"FOA_Ptr": "0x00040446",
+			"FOA_Rva": "0x00052B1C"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x0004045E",
+			"FOA_Rva": "0x00052BA9"
+		},
+		{
+			"Text_Raw": "『さらに、数学や法律の記録に必要な『紙』を、大量に安価に生産する需要も発生するでしょうし』",
+			"Text_Tra": "『We will also need large quantities of cheaply produced paper in order to record this math and these laws.』",
+			"FOA_Ptr": "0x0004049E",
+			"FOA_Rva": "0x00052BB0"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x000404B6",
+			"FOA_Rva": "0x00052C1B"
+		},
+		{
+			"Text_Raw": "『場合によっては相互理解を深めるために、互いの集団の歴史や記録をまとめた『文学』も重宝するでしょう』",
+			"Text_Tra": "『In order to achieve mutual understanding, records of the history of each group will also be very important.』",
+			"FOA_Ptr": "0x000404F6",
+			"FOA_Rva": "0x00052C22"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x0004050E",
+			"FOA_Rva": "0x00052C97"
+		},
+		{
+			"Text_Raw": "ＹＯＵの補足を聞きながら、僕はそれらの文字も黒板に書いていく。",
+			"Text_Tra": "While listening to Yu's supplements, I write more words on the blackboard.",
+			"FOA_Ptr": "0x0004054E",
+			"FOA_Rva": "0x00052C9E"
+		},
+		{
+			"Text_Raw": "「ＹＯＵ、ここで、軽く戦争にも触れよう」",
+			"Text_Tra": "『Yu, I think we should also touch upon warfare here.』",
+			"FOA_Ptr": "0x000405A6",
+			"FOA_Rva": "0x00052CDF"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000405BE",
+			"FOA_Rva": "0x00052D09"
+		},
+		{
+			"Text_Raw": "『そうですね。これら貿易の別の側面として――物々交換や経済交流ではなく、武力によって他の集団を従えるということも発生します』",
+			"Text_Tra": "『Indeed. This is different from trading-something that can occur when attempting to subjugate another group via military action, rather than trading or economic exchange.』",
+			"FOA_Ptr": "0x000405FE",
+			"FOA_Rva": "0x00052D10"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x00040616",
+			"FOA_Rva": "0x00052D9D"
+		},
+		{
+			"Text_Raw": "『各種『軍事技術』の発展、古代であれば刀剣や弓、馬術、火薬』",
+			"Text_Tra": "『From the perspective of the past, the development of military tactics would include swords, bows, mounted combat, and gunpowder.』",
+			"FOA_Ptr": "0x00040656",
+			"FOA_Rva": "0x00052DA4"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x0004066E",
+			"FOA_Rva": "0x00052DF1"
+		},
+		{
+			"Text_Raw": "『戦術を定めるための地形の把握としての『地図』も必要技術になるでしょう』",
+			"Text_Tra": "『Mapping technology will also prove important, to provide an understanding of the world when deciding tactics.』",
+			"FOA_Ptr": "0x000406AE",
+			"FOA_Rva": "0x00052DF8"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x000406C6",
+			"FOA_Rva": "0x00052E51"
+		},
+		{
+			"Text_Raw": "「地図は普通の貿易のほうで話すべきだったね」",
+			"Text_Tra": "『We can handle maps under normal trading.』",
+			"FOA_Ptr": "0x00040706",
+			"FOA_Rva": "0x00052E58"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004071E",
+			"FOA_Rva": "0x00052E86"
+		},
+		{
+			"Text_Raw": "『失礼しました。正直、貿易や交易については私も小島博士からの伝聞としての知識しか持ち合わせていないのです』",
+			"Text_Tra": "『Of course. To be honest, the only knowledge I have about trading comes from Dr. Kojima.』",
+			"FOA_Ptr": "0x0004075E",
+			"FOA_Rva": "0x00052E8D"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x00040776",
+			"FOA_Rva": "0x00052F08"
+		},
+		{
+			"Text_Raw": "「そういえば、ＹＯＵも鉄鬼が発生した後の時代に生まれたんだったね」",
+			"Text_Tra": "『I always forget that you were only created after the emergence of the Tekki.』",
+			"FOA_Ptr": "0x000407B6",
+			"FOA_Rva": "0x00052F0F"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000407CE",
+			"FOA_Rva": "0x00052F53"
+		},
+		{
+			"Text_Raw": "「おおおおお……すみません、少し、混乱してきました！」",
+			"Text_Tra": "『Oooh... I'm sorry, I'm starting to get a bit confused!』",
+			"FOA_Ptr": "0x0004086E",
+			"FOA_Rva": "0x00052F5A"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00040886",
+			"FOA_Rva": "0x00052FA1"
+		},
+		{
+			"Text_Raw": "僕とＹＯＵの掛け合いに、優里が思わずという声をあげる。",
+			"Text_Tra": "Yuri interjects as Yu and I head down the rabbit hole.",
+			"FOA_Ptr": "0x000408C6",
+			"FOA_Rva": "0x00052FA8"
+		},
+		{
+			"Text_Raw": "「慌てなくてもいいよ」",
+			"Text_Tra": "『No need to panic.』",
+			"FOA_Ptr": "0x0004091E",
+			"FOA_Rva": "0x00052FE1"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040936",
+			"FOA_Rva": "0x00052FF9"
+		},
+		{
+			"Text_Raw": "頭から湯気が出そうな優里に、僕は苦笑してしまう。",
+			"Text_Tra": "I give her a reassuring chuckle. It looks like smoke is about to start coming out of her ears.",
+			"FOA_Ptr": "0x00040976",
+			"FOA_Rva": "0x00053000"
+		},
+		{
+			"Text_Raw": "「はい。ええ。慌ててしまっていますが……知りたいと言ったのは私なので」",
+			"Text_Tra": "『Yes. Well. I am getting a bit flustered here... but I'm also the one who asked for this.』",
+			"FOA_Ptr": "0x000409CE",
+			"FOA_Rva": "0x00053033"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000409E6",
+			"FOA_Rva": "0x0005308A"
+		},
+		{
+			"Text_Raw": "彼女は眉をしかめながらも、黒板に目をやり、理解に務める。",
+			"Text_Tra": "She frowns, looking at the blackboard again, still attempting to understand.",
+			"FOA_Ptr": "0x00040A26",
+			"FOA_Rva": "0x00053091"
+		},
+		{
+			"Text_Raw": "元から文明や技術発展への最低限の知識のある僕に対し、優里は１つずつ新しい言葉と意味を追わねばならないのだ。",
+			"Text_Tra": "While I at least have a basic understanding of culture and technology, Yuri is starting from scratch-every word is something new.",
+			"FOA_Ptr": "0x00040A7E",
+			"FOA_Rva": "0x000530CC"
+		},
+		{
+			"Text_Raw": "もちろん、彼女自身がそれを知りたいと望んだ以上、真剣すぎるのも仕方ない。",
+			"Text_Tra": "Of course, she asked to know about all this, so I can understand why she's taking it all so seriously.",
+			"FOA_Ptr": "0x00040AD6",
+			"FOA_Rva": "0x00053139"
+		},
+		{
+			"Text_Raw": "「細かい１つずつの言葉は、今すぐではなく、後で順番に覚えればいいよ」",
+			"Text_Tra": "『All the details, every new word, you don't need to understand them all now. That'll come in time.』",
+			"FOA_Ptr": "0x00040B2E",
+			"FOA_Rva": "0x00053184"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040B46",
+			"FOA_Rva": "0x000531CA"
+		},
+		{
+			"Text_Raw": "「伝えたかったのは、僕は、こういう“ごちゃまぜの交流”が日常の世界にいた――そういう知識がある人間ってことだね」",
+			"Text_Tra": "『What I really wanted to get across was that I come from a time where these kinds of 'messy exchanges' were normal.』",
+			"FOA_Ptr": "0x00040B86",
+			"FOA_Rva": "0x000531D1"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040B9E",
+			"FOA_Rva": "0x00053243"
+		},
+		{
+			"Text_Raw": "彼女が望んだことは、知識そのものではなく『僕への理解』だ。",
+			"Text_Tra": "She isn't doing this for knowledge; she wants to understand me.",
+			"FOA_Ptr": "0x00040BDE",
+			"FOA_Rva": "0x0005324A"
+		},
+		{
+			"Text_Raw": "「なるほど。確かに『ごちゃまぜ』という感じですね」",
+			"Text_Tra": "『Right. Messy seems like the word for it.』",
+			"FOA_Ptr": "0x00040C36",
+			"FOA_Rva": "0x00053287"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00040C4E",
+			"FOA_Rva": "0x000532CA"
+		},
+		{
+			"Text_Raw": "黒板に記された色々なものを眺め、優里が軽くうなる。",
+			"Text_Tra": "Yuri looks over all the terms on the blackboard and gives a light moan.",
+			"FOA_Ptr": "0x00040C8E",
+			"FOA_Rva": "0x000532D1"
+		},
+		{
+			"Text_Raw": "もちろん、女の子はうなり声も可愛い。",
+			"Text_Tra": "Of course, I also appreciate the moans of a cute girl.",
+			"FOA_Ptr": "0x00040CE6",
+			"FOA_Rva": "0x00053306"
+		},
+		{
+			"Text_Raw": "「……なんだか、古代とは、難しくて忙しいところだったのですね」",
+			"Text_Tra": "『...Your time sounds pretty difficult and confusing. Busy, too.』",
+			"FOA_Ptr": "0x00040D3E",
+			"FOA_Rva": "0x0005332D"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00040D56",
+			"FOA_Rva": "0x0005337C"
+		},
+		{
+			"Text_Raw": "「あっはっは。そうだね」",
+			"Text_Tra": "『Ahaha. That's true.』",
+			"FOA_Ptr": "0x00040D96",
+			"FOA_Rva": "0x00053383"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040DAE",
+			"FOA_Rva": "0x0005339D"
+		},
+		{
+			"Text_Raw": "さすがに笑ってしまう。",
+			"Text_Tra": "I can't help but laugh.",
+			"FOA_Ptr": "0x00040DEE",
+			"FOA_Rva": "0x000533A4"
+		},
+		{
+			"Text_Raw": "カントの人間から見れば、古代は必要以上に忙しくて大変な世界に思えるだろう。",
+			"Text_Tra": "From the perspective of someone from Kanto, the past must seem needlessly convoluted.",
+			"FOA_Ptr": "0x00040E46",
+			"FOA_Rva": "0x000533BD"
+		},
+		{
+			"Text_Raw": "「でも、そういう難しくて忙しいことが、楽しい世界でもあったんだ」",
+			"Text_Tra": "『It was difficult and confusing, but it was also a lot of fun.』",
+			"FOA_Ptr": "0x00040E9E",
+			"FOA_Rva": "0x0005340A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040EB6",
+			"FOA_Rva": "0x0005344C"
+		},
+		{
+			"Text_Raw": "「……なんとなくは、わかります」",
+			"Text_Tra": "『...I think I understand.』",
+			"FOA_Ptr": "0x00040EF6",
+			"FOA_Rva": "0x00053453"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00040F0E",
+			"FOA_Rva": "0x00053484"
+		},
+		{
+			"Text_Raw": "「そう？」",
+			"Text_Tra": "『You do?』",
+			"FOA_Ptr": "0x00040F4E",
+			"FOA_Rva": "0x0005348B"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00040F66",
+			"FOA_Rva": "0x00053497"
+		},
+		{
+			"Text_Raw": "優里からすぐに同意を得られるとは思っていなかったので、僕は意外に感じてしまう。",
+			"Text_Tra": "I didn't expect her to pick up on all of this quite so quickly.",
+			"FOA_Ptr": "0x00040FA6",
+			"FOA_Rva": "0x0005349E"
+		},
+		{
+			"Text_Raw": "「難しいことに挑戦することには、価値があり、強い感情を抱けるのだということを、私は春姫様と手合わせしたことで実感しましたから」",
+			"Text_Tra": "『My fight with Lady Haruhime taught me that there is value and powerful emotion to be found by challenging something difficult.』",
+			"FOA_Ptr": "0x00040FFE",
+			"FOA_Rva": "0x000534EF"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00041016",
+			"FOA_Rva": "0x0005357E"
+		},
+		{
+			"Text_Raw": "「ああ……そうだね」",
+			"Text_Tra": "『Yeah... Well said, Yuri.』",
+			"FOA_Ptr": "0x00041056",
+			"FOA_Rva": "0x00053585"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004106E",
+			"FOA_Rva": "0x0005359B"
+		},
+		{
+			"Text_Raw": "本当に、そうだ、と納得する。",
+			"Text_Tra": "That was really well put...",
+			"FOA_Ptr": "0x000410AE",
+			"FOA_Rva": "0x000535A2"
+		},
+		{
+			"Text_Raw": "生きている時代や環境が違っても、人間の抱く感情は、変わらない。",
+			"Text_Tra": "The times we live in and the environment around us might change, but the emotions humans hold are unchanging.",
+			"FOA_Ptr": "0x00041106",
+			"FOA_Rva": "0x000535C1"
+		},
+		{
+			"Text_Raw": "そんな――物思いに耽ってしまいそうになる自分を律し、僕は優里への話に戻る。",
+			"Text_Tra": "I stop myself from getting too misty-eyed, and bring the conversation back to Yuri.",
+			"FOA_Ptr": "0x0004115E",
+			"FOA_Rva": "0x00053602"
+		},
+		{
+			"Text_Raw": "「ひとまず。ここまでが、僕の知ってる古代の知識の前半ってところかな」",
+			"Text_Tra": "『I'd say we're about halfway through everything I have to teach you about the past. A good place to stop, perhaps?』",
+			"FOA_Ptr": "0x000411B6",
+			"FOA_Rva": "0x0005364F"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000411CE",
+			"FOA_Rva": "0x00053695"
+		},
+		{
+			"Text_Raw": "区切りとして宣言しておく。",
+			"Text_Tra": "I draw a line to take a break.",
+			"FOA_Ptr": "0x0004120E",
+			"FOA_Rva": "0x0005369C"
+		},
+		{
+			"Text_Raw": "「はい。しかし、前半、ですか？」",
+			"Text_Tra": "『Okay. But that's only half?』",
+			"FOA_Ptr": "0x000412C6",
+			"FOA_Rva": "0x000536B9"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000412DE",
+			"FOA_Rva": "0x000536EA"
+		},
+		{
+			"Text_Raw": "これ以上はさすがに覚えきれないと、優里の顔に書いてあった。",
+			"Text_Tra": "It's written all over Yuri's face that she really can't handle any more knowledge today.",
+			"FOA_Ptr": "0x0004131E",
+			"FOA_Rva": "0x000536F1"
+		},
+		{
+			"Text_Raw": "意欲はあってもキャパオーバーだろう。",
+			"Text_Tra": "Even if she wants to, her capacity is currently maxed out.",
+			"FOA_Ptr": "0x00041376",
+			"FOA_Rva": "0x0005372E"
+		},
+		{
+			"Text_Raw": "『後半も、基本は変わりません。さらに規模の大きな異なる集団が交流して、ぶつかって、また新しい技術や考え方が生まれていく流れになります』",
+			"Text_Tra": "『The remaining half follows the same basic rules. Larger scale groups start similar exchanges, leading to the development of new technology and ideas.』",
+			"FOA_Ptr": "0x000413CE",
+			"FOA_Rva": "0x00053755"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x000413E6",
+			"FOA_Rva": "0x000537EC"
+		},
+		{
+			"Text_Raw": "「その中でも、最後にひとつだけ、興味深いことを話そう」",
+			"Text_Tra": "『Let's finish with one last, very interesting idea.』",
+			"FOA_Ptr": "0x00041426",
+			"FOA_Rva": "0x000537F3"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004143E",
+			"FOA_Rva": "0x0005382B"
+		},
+		{
+			"Text_Raw": "僕は、この授業を考えるにあたり、自分にも関係したひとつの技術に注目していた。",
+			"Text_Tra": "As I thought up this lesson, I placed a focus on another technology that is very relevant to me.",
+			"FOA_Ptr": "0x0004147E",
+			"FOA_Rva": "0x00053832"
+		},
+		{
+			"Text_Raw": "「それこそ、『言葉』という技術だね」",
+			"Text_Tra": "『I'm talking about the technology of words.』",
+			"FOA_Ptr": "0x000414D6",
+			"FOA_Rva": "0x00053881"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000414EE",
+			"FOA_Rva": "0x000538A7"
+		},
+		{
+			"Text_Raw": "「言葉？」",
+			"Text_Tra": "『Words?』",
+			"FOA_Ptr": "0x0004152E",
+			"FOA_Rva": "0x000538AE"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00041546",
+			"FOA_Rva": "0x000538C9"
+		},
+		{
+			"Text_Raw": "優里がきょとんとする。",
+			"Text_Tra": "Yuri looks puzzled.",
+			"FOA_Ptr": "0x00041586",
+			"FOA_Rva": "0x000538D0"
+		},
+		{
+			"Text_Raw": "おそらく彼女にとって、『言葉』は技術として認識されていないのだろう。",
+			"Text_Tra": "She probably doesn't have any awareness of words being technology.",
+			"FOA_Ptr": "0x000415DE",
+			"FOA_Rva": "0x000538E9"
+		},
+		{
+			"Text_Raw": "ここでいう『言葉』は、今後カントで広げようとしている識字率＝読み書きが出来るかどうか――ではない。",
+			"Text_Tra": "The “words” I'm talking about here aren't just the literacy rate-that is, people being able to read and write.",
+			"FOA_Ptr": "0x00041636",
+			"FOA_Rva": "0x00053930"
+		},
+		{
+			"Text_Raw": "「そもそも、他の集団と交流するにも、相手が自分たちと同じ言葉を使っていないということがあるんだ」",
+			"Text_Tra": "『When going into an exchange with other groups, they might not even use the same language as you.』",
+			"FOA_Ptr": "0x0004168E",
+			"FOA_Rva": "0x00053995"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000416A6",
+			"FOA_Rva": "0x000539F7"
+		},
+		{
+			"Text_Raw": "「同じ言葉を、使っていない……？」",
+			"Text_Tra": "『They might not? That's a thing?』",
+			"FOA_Ptr": "0x000416E6",
+			"FOA_Rva": "0x000539FE"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000416FE",
+			"FOA_Rva": "0x00053A31"
+		},
+		{
+			"Text_Raw": "やはり優里にはピンとこないらしい。",
+			"Text_Tra": "Yuri doesn't seem to get it, as I expected.",
+			"FOA_Ptr": "0x0004173E",
+			"FOA_Rva": "0x00053A38"
+		},
+		{
+			"Text_Raw": "カント以外の世界が存在しない彼女たちに、これは説明だけではわかりづらいだろう。",
+			"Text_Tra": "This is another topic hard for them to understand, what with Kanto being their entire world.",
+			"FOA_Ptr": "0x00041796",
+			"FOA_Rva": "0x00053A5D"
+		},
+		{
+			"Text_Raw": "だから僕は、笑顔でごく簡単な異言語を口にする。",
+			"Text_Tra": "So I give a smile and offer a simple greeting in another language.",
+			"FOA_Ptr": "0x000417EE",
+			"FOA_Rva": "0x00053AAE"
+		},
+		{
+			"Text_Raw": "「Ｇｏｏｄ　ｍｏｒｎｉｎｇ　優里。Ｈｏｗ　ａｒｅ　ｙｏｕ？」",
+			"Text_Tra": "『[Good morning, Yuri. How are you?]』",
+			"FOA_Ptr": "0x00041846",
+			"FOA_Rva": "0x00053ADF"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004185E",
+			"FOA_Rva": "0x00053B1D"
+		},
+		{
+			"Text_Raw": "「は？　え？」",
+			"Text_Tra": "『Huh? Excuse me?』",
+			"FOA_Ptr": "0x0004189E",
+			"FOA_Rva": "0x00053B24"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000418B6",
+			"FOA_Rva": "0x00053B43"
+		},
+		{
+			"Text_Raw": "突然のことに、優里が目を丸くする。",
+			"Text_Tra": "Yuri's eyes widen at this sudden new development.",
+			"FOA_Ptr": "0x000418F6",
+			"FOA_Rva": "0x00053B4A"
+		},
+		{
+			"Text_Raw": "「ぐもに？　はわゆ？」",
+			"Text_Tra": "『Goomoaning? Howayu?』",
+			"FOA_Ptr": "0x0004194E",
+			"FOA_Rva": "0x00053B6F"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00041966",
+			"FOA_Rva": "0x00053B96"
+		},
+		{
+			"Text_Raw": "「今のは古代の英語という言葉で、『おはよう、調子はどうだい？』って挨拶だよ」",
+			"Text_Tra": "『Just a simple greeting in an ancient language called English.』",
+			"FOA_Ptr": "0x000419A6",
+			"FOA_Rva": "0x00053B9D"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000419BE",
+			"FOA_Rva": "0x00053BEB"
+		},
+		{
+			"Text_Raw": "「はぁ……今の言葉の、どこが『おはよう』という意味なのか、まるでわかりませんね」",
+			"Text_Tra": "『I have no idea how those sounds could mean anything.』",
+			"FOA_Ptr": "0x000419FE",
+			"FOA_Rva": "0x00053BF2"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00041A16",
+			"FOA_Rva": "0x00053C53"
+		},
+		{
+			"Text_Raw": "びっくりしつつ、それでも面白いと彼女はうなずく。",
+			"Text_Tra": "She gives a nod, surprised, but still enjoying the conversation.",
+			"FOA_Ptr": "0x00041A56",
+			"FOA_Rva": "0x00053C5A"
+		},
+		{
+			"Text_Raw": "学習意欲は高い優里さんである。",
+			"Text_Tra": "Yuri is always keen to learn.",
+			"FOA_Ptr": "0x00041AAE",
+			"FOA_Rva": "0x00053C8D"
+		},
+		{
+			"Text_Raw": "「一応、カントでも、英語は部分的にカタカナ言葉として残っているんだけどね」",
+			"Text_Tra": "『Some English actually remains in Japanese, imported in from overseas.』",
+			"FOA_Ptr": "0x00041B06",
+			"FOA_Rva": "0x00053CAE"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041B1E",
+			"FOA_Rva": "0x00053CFA"
+		},
+		{
+			"Text_Raw": "『トイレなどですね』",
+			"Text_Tra": "『Things like 'toilet.'』",
+			"FOA_Ptr": "0x00041B5E",
+			"FOA_Rva": "0x00053D01"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x00041B76",
+			"FOA_Rva": "0x00053D26"
+		},
+		{
+			"Text_Raw": "目覚めてすぐの頃、春姫とやりとりした小話だ。",
+			"Text_Tra": "That recalls the episode I had with Haruhime just after I awoke.",
+			"FOA_Ptr": "0x00041BB6",
+			"FOA_Rva": "0x00053D2D"
+		},
+		{
+			"Text_Raw": "「え？　トイレとは、古代のエイゴという言葉なのですか？」",
+			"Text_Tra": "『Hold on? 'Toilet' is from an ancient language called Engwish?』",
+			"FOA_Ptr": "0x00041C0E",
+			"FOA_Rva": "0x00053D5C"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00041C26",
+			"FOA_Rva": "0x00053DA5"
+		},
+		{
+			"Text_Raw": "優里が実感のあるびっくりした様子を見せる。",
+			"Text_Tra": "Yuri looks surprised to learn this factoid.",
+			"FOA_Ptr": "0x00041C66",
+			"FOA_Rva": "0x00053DAC"
+		},
+		{
+			"Text_Raw": "「あれは英語のトイレットの省略のはずだよ」",
+			"Text_Tra": "『Yep. All part of the intermixing of language and culture.』",
+			"FOA_Ptr": "0x00041CBE",
+			"FOA_Rva": "0x00053DD9"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041CD6",
+			"FOA_Rva": "0x00053E05"
+		},
+		{
+			"Text_Raw": "「へえ。まったく知りませんでした」",
+			"Text_Tra": "『Wow. I had no idea.』",
+			"FOA_Ptr": "0x00041D16",
+			"FOA_Rva": "0x00053E0C"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00041D2E",
+			"FOA_Rva": "0x00053E3F"
+		},
+		{
+			"Text_Raw": "『好奇心による質問ですが、優里様やカントの皆さまにおいて、トイレとはどういう意味の言葉だと思われていたのですか？』",
+			"Text_Tra": "『I think we can all agree how lucky you are all that toilet technology remains in Kanto at all.』",
+			"FOA_Ptr": "0x00041D6E",
+			"FOA_Rva": "0x00053E46"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x00041D86",
+			"FOA_Rva": "0x00053EC9"
+		},
+		{
+			"Text_Raw": "「あれは、その、くさい匂いをその部屋にだけ封じるという意味での『戸入れ』だと思っていました」",
+			"Text_Tra": "『I guess I've taken so much for granted.』",
+			"FOA_Ptr": "0x00041DC6",
+			"FOA_Rva": "0x00053ED0"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00041DDE",
+			"FOA_Rva": "0x00053F3D"
+		},
+		{
+			"Text_Raw": "「もしくは、昔は外した戸をあそこに閉まっていたからとか」",
+			"Text_Tra": "『Even down in the fields, we do better than pits in the ground.』",
+			"FOA_Ptr": "0x00041E1E",
+			"FOA_Rva": "0x00053F44"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00041E36",
+			"FOA_Rva": "0x00053F8D"
+		},
+		{
+			"Text_Raw": "そう聞き及んでいたと優里が教えてくれる。",
+			"Text_Tra": "It's reached the point that toilets are expanding Yuri's mind.",
+			"FOA_Ptr": "0x00041E76",
+			"FOA_Rva": "0x00053F94"
+		},
+		{
+			"Text_Raw": "「なるほど、面白い」",
+			"Text_Tra": "『I'm glad to hear it.』",
+			"FOA_Ptr": "0x00041ECE",
+			"FOA_Rva": "0x00053FBF"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00041EE6",
+			"FOA_Rva": "0x00053FD5"
+		},
+		{
+			"Text_Raw": "ＹＯＵの訊いたことだが、好奇心が満たされる答えだ。",
+			"Text_Tra": "Yu is happy to raise topics about less-than-polite human bodily functions.",
+			"FOA_Ptr": "0x00041F26",
+			"FOA_Rva": "0x00053FDC"
+		},
+		{
+			"Text_Raw": "匂いを封じ込めるとは、古代の日本においてトイレを『不浄』とも呼んでいた感覚に近いのかもしれない。",
+			"Text_Tra": "But anything that can help to expand Yuri's thinking is welcome.",
+			"FOA_Ptr": "0x00041F7E",
+			"FOA_Rva": "0x00054011"
+		},
+		{
+			"Text_Raw": "「すごいなぁ。エイゴ、トイレット……今度、宿舎の他の人にも教えてあげよう」",
+			"Text_Tra": "『This is amazing. Engwish, toilets... I need to tell everyone in the dorms about this!』",
+			"FOA_Ptr": "0x00041FD6",
+			"FOA_Rva": "0x00054074"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00041FEE",
+			"FOA_Rva": "0x000540CF"
+		},
+		{
+			"Text_Raw": "世間話のネタを得たという様子で、優里がこくこくとうなずいている。",
+			"Text_Tra": "Yuri is nodding to herself, seemingly happy to have obtained more things to talk about.",
+			"FOA_Ptr": "0x0004202E",
+			"FOA_Rva": "0x000540D6"
+		},
+		{
+			"Text_Raw": "可愛い。",
+			"Text_Tra": "So cute.",
+			"FOA_Ptr": "0x00042086",
+			"FOA_Rva": "0x00054119"
+		},
+		{
+			"Text_Raw": "話の腰を折ってしまうが、この可愛い子が僕の彼女なのだ。",
+			"Text_Tra": "I hate to derail the conversation, but this cute girl-she's my girlfriend.",
+			"FOA_Ptr": "0x000420DE",
+			"FOA_Rva": "0x00054124"
+		},
+		{
+			"Text_Raw": "いやまあ、ちょっと、Ｈのときは過激な彼女なのだが……（やはり少しトラウマ化しているようだ）。",
+			"Text_Tra": "Well, she's pretty wild once the clothes come off-and I'm starting to think maybe that whole thing traumatized me a little.",
+			"FOA_Ptr": "0x00042136",
+			"FOA_Rva": "0x0005415D"
+		},
+		{
+			"Text_Raw": "「話を戻すけど――僕らが何気なく使っている『言葉』も技術のひとつの形であり」",
+			"Text_Tra": "『Getting back to my main point-the very words that we use every day, without even thinking about it, are another form of technology.』",
+			"FOA_Ptr": "0x0004218E",
+			"FOA_Rva": "0x000541BC"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000421A6",
+			"FOA_Rva": "0x0005420A"
+		},
+		{
+			"Text_Raw": "「最初は言葉の通じない相手のことも、理解し、繋がろうとする大事な気持ちのあらわれなんだね」",
+			"Text_Tra": "『Even if we can't understand someone to start with, working hard at reaching an understanding is absolutely vital.』",
+			"FOA_Ptr": "0x000421E6",
+			"FOA_Rva": "0x00054211"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000421FE",
+			"FOA_Rva": "0x0005426D"
+		},
+		{
+			"Text_Raw": "今日のまとめとして、にっこりと笑う。",
+			"Text_Tra": "I give a smile, seeking to wrap everything up for today.",
+			"FOA_Ptr": "0x0004223E",
+			"FOA_Rva": "0x00054274"
+		},
+		{
+			"Text_Raw": "「僕は、カントの皆と話せて嬉しい」",
+			"Text_Tra": "『I'm happy to be able to talk to everyone in Kanto.』",
+			"FOA_Ptr": "0x00042296",
+			"FOA_Rva": "0x0005429B"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000422AE",
+			"FOA_Rva": "0x000542BF"
+		},
+		{
+			"Text_Raw": "「優里と話せて嬉しいよ」",
+			"Text_Tra": "『Happy to be able to talk to Yuri.』",
+			"FOA_Ptr": "0x000422EE",
+			"FOA_Rva": "0x000542C6"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042306",
+			"FOA_Rva": "0x000542E0"
+		},
+		{
+			"Text_Raw": "「あ……その」",
+			"Text_Tra": "『Yes. Me too.』",
+			"FOA_Ptr": "0x00042346",
+			"FOA_Rva": "0x000542E7"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004235E",
+			"FOA_Rva": "0x00054306"
+		},
+		{
+			"Text_Raw": "「はい。私も、あなたとお話できて、とてもとても、嬉しいです」",
+			"Text_Tra": "『I'm very, very happy to be able to talk to you too.』",
+			"FOA_Ptr": "0x0004239E",
+			"FOA_Rva": "0x0005430D"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000423B6",
+			"FOA_Rva": "0x0005435A"
+		},
+		{
+			"Text_Raw": "彼女も満面の笑みで応えてくれる。",
+			"Text_Tra": "She responds with a wide, beaming smile.",
+			"FOA_Ptr": "0x000423F6",
+			"FOA_Rva": "0x00054361"
+		},
+		{
+			"Text_Raw": "なんて素直で、素敵で、可愛らしいのだろう。",
+			"Text_Tra": "What a lovely, sweet, cute girl she is.",
+			"FOA_Ptr": "0x0004244E",
+			"FOA_Rva": "0x00054384"
+		},
+		{
+			"Text_Raw": "言葉を紡ぐための唇に、キスをしたい。",
+			"Text_Tra": "I feel like stopping her talking by kissing her.",
+			"FOA_Ptr": "0x000424A6",
+			"FOA_Rva": "0x000543B1"
+		},
+		{
+			"Text_Raw": "そんなことを考えていると――",
+			"Text_Tra": "Even as I'm having these thoughts-",
+			"FOA_Ptr": "0x000424FE",
+			"FOA_Rva": "0x000543D8"
+		},
+		{
+			"Text_Raw": "「でも……口は、言葉を話すだけのものではありませんよね」",
+			"Text_Tra": "『Mouths aren't just for talking though, are they?』",
+			"FOA_Ptr": "0x00042556",
+			"FOA_Rva": "0x000543F7"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004256E",
+			"FOA_Rva": "0x00054440"
+		},
+		{
+			"Text_Raw": "優里がつぶやき、ひょいっと上半身を曲げる。",
+			"Text_Tra": "Yuri gives a sultry murmur, twisting her body around.",
+			"FOA_Ptr": "0x000425FE",
+			"FOA_Rva": "0x00054447"
+		},
+		{
+			"Text_Raw": "なにかと思う間もなく、１秒ほど視界が塞がり、それから彼女は元の姿勢に戻っていた。",
+			"Text_Tra": "I don't have time to think before my vision is temporarily blocked, and then she's back to her previous position.",
+			"FOA_Ptr": "0x0004272A",
+			"FOA_Rva": "0x00054474"
+		},
+		{
+			"Text_Raw": "「ふふ。相変わらず隙だらけですね」",
+			"Text_Tra": "『Hehe. You really need to work on keeping your guard up.』",
+			"FOA_Ptr": "0x00042782",
+			"FOA_Rva": "0x000544C7"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004279A",
+			"FOA_Rva": "0x000544FA"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x000427DA",
+			"FOA_Rva": "0x00054501"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000427F2",
+			"FOA_Rva": "0x0005450F"
+		},
+		{
+			"Text_Raw": "残るのは唇への柔らかい感触。",
+			"Text_Tra": "The only change is a soft feeling on my lips.",
+			"FOA_Ptr": "0x00042832",
+			"FOA_Rva": "0x00054516"
+		},
+		{
+			"Text_Raw": "ごく一瞬の、触れ合うだけのキス。",
+			"Text_Tra": "For just one moment, our lips touched.",
+			"FOA_Ptr": "0x0004288A",
+			"FOA_Rva": "0x00054535"
+		},
+		{
+			"Text_Raw": "したい、と思っていたことを、されてしまった。",
+			"Text_Tra": "The very thing I wanted to do, she did it to me first.",
+			"FOA_Ptr": "0x000428E2",
+			"FOA_Rva": "0x00054558"
+		},
+		{
+			"Text_Raw": "「まったく――」",
+			"Text_Tra": "『She really is-』",
+			"FOA_Ptr": "0x0004293A",
+			"FOA_Rva": "0x00054587"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042952",
+			"FOA_Rva": "0x00054599"
+		},
+		{
+			"Text_Raw": "最高の彼女だった。",
+			"Text_Tra": "The ultimate freaking girlfriend.",
+			"FOA_Ptr": "0x00042992",
+			"FOA_Rva": "0x000545A0"
+		},
+		{
+			"Text_Raw": "そして。",
+			"Text_Tra": "The morning passes.",
+			"FOA_Ptr": "0x00042ACE",
+			"FOA_Rva": "0x000545B5"
+		},
+		{
+			"Text_Raw": "優里との授業で時間が経ち、喫茶店の２日目を開店する１１時になった――が。",
+			"Text_Tra": "It's 11 a.m. once we finish our lesson, so we head over and open the café for the second day. However-",
+			"FOA_Ptr": "0x00042B26",
+			"FOA_Rva": "0x000545C0"
+		},
+		{
+			"Text_Raw": "「お、おおお……もう少し、お待ちください！」",
+			"Text_Tra": "『Oh, hold on! Give me a moment! Just a moment!』",
+			"FOA_Ptr": "0x00042BEA",
+			"FOA_Rva": "0x0005460B"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00042C02",
+			"FOA_Rva": "0x00054639"
+		},
+		{
+			"Text_Raw": "昨日に続き、途切れず伸び続ける行列と、店の混雑に、僕は目を回していた。",
+			"Text_Tra": "The line is almost as long as the previous day, the café super crowded, and my head spinning.",
+			"FOA_Ptr": "0x00042C42",
+			"FOA_Rva": "0x00054640"
+		},
+		{
+			"Text_Raw": "喫茶店やドーナツの物珍しさ以上に、春姫と競り合った優里を一目見ようという層が、まだまだ多いのだろう。",
+			"Text_Tra": "The café and the donuts are one thing-but lots of people are likely here to see Yuri, the girl who fought Haruhime.",
+			"FOA_Ptr": "0x00042C9A",
+			"FOA_Rva": "0x00054689"
+		},
+		{
+			"Text_Raw": "『いらっしゃいませ』『お金を受け取ります』『あちらの小屋にいる優里からドーナツとお茶を受け取ってください』――",
+			"Text_Tra": "『Welcome! I'll take your money! Head over to Yuri and get your tea and donut-』",
+			"FOA_Ptr": "0x00042CF2",
+			"FOA_Rva": "0x000546F0"
+		},
+		{
+			"Text_Raw": "『席がいっぱいです』『しばらくお待ちください』『しばらくお待ちください』『しばらくお待ちください』『しばらくお待ちください』――……",
+			"Text_Tra": "『We're at full capacity right now! Please be patient! Please wait! Please wait a moment! Please wait just a moment!』",
+			"FOA_Ptr": "0x00042D4A",
+			"FOA_Rva": "0x00054761"
+		},
+		{
+			"Text_Raw": "数十分のうちに、息つく間もなく百回以上と繰り返した言葉が、脳内でゲシュタルト崩壊しかけていた。",
+			"Text_Tra": "I must have repeated the same words hundreds of times since we opened, and they've reached Gestaltzerfall for me now, circling meaninglessly in my head.",
+			"FOA_Ptr": "0x00042DA2",
+			"FOA_Rva": "0x000547E8"
+		},
+		{
+			"Text_Raw": "難しい作業はなにもないが、慣れない接客業は精神にこたえる。",
+			"Text_Tra": "It's not difficult work, but I'm not very accustomed to dealing with customers, so it's pretty mentally draining.",
+			"FOA_Ptr": "0x00042DFA",
+			"FOA_Rva": "0x00054849"
+		},
+		{
+			"Text_Raw": "特に、並んでいる人たちが狐面というのが怖い。",
+			"Text_Tra": "It's especially scary that all the people lining up are wearing fox masks.",
+			"FOA_Ptr": "0x00042E52",
+			"FOA_Rva": "0x00054886"
+		},
+		{
+			"Text_Raw": "彼らは僕の『お待ちください』という言葉に無言で従い、腕を組み、どっしりと構えている。",
+			"Text_Tra": "They respond silently to my “Please wait a moment!” by crossing their arms and standing stoically in place.",
+			"FOA_Ptr": "0x00042EAA",
+			"FOA_Rva": "0x000548B5"
+		},
+		{
+			"Text_Raw": "そこまではよいのだが……。",
+			"Text_Tra": "That's fine, as a start-",
+			"FOA_Ptr": "0x00042F02",
+			"FOA_Rva": "0x0005490C"
+		},
+		{
+			"Text_Raw": "彼らは連れ立った仲間や友人と雑談もせず、まっすぐ僕を見つめたまま、本当にそのまま『待て』の解除を待つのだ。",
+			"Text_Tra": "But they proceed not to talk to anyone they bring with them, just staring right at me, and simply waiting in place.",
+			"FOA_Ptr": "0x00042F5A",
+			"FOA_Rva": "0x00054929"
+		},
+		{
+			"Text_Raw": "列の待ち方も知らず、『待て』を八剣からの命令と捉えているのかもしれない。",
+			"Text_Tra": "They don't even know how to line up, and are talking my “wait” as a literal order from a Sword.",
+			"FOA_Ptr": "0x00042FB2",
+			"FOA_Rva": "0x00054996"
+		},
+		{
+			"Text_Raw": "プレッシャーがすごいです……。",
+			"Text_Tra": "The pressure radiating off them is almost overwhelming.",
+			"FOA_Ptr": "0x0004300A",
+			"FOA_Rva": "0x000549E1"
+		},
+		{
+			"Text_Raw": "席がなかなか空かず、待たせている心苦しさもきつい。",
+			"Text_Tra": "The seats aren't opening up quickly, either, and it's starting to hurt me to keep them waiting.",
+			"FOA_Ptr": "0x00043062",
+			"FOA_Rva": "0x00054A02"
+		},
+		{
+			"Text_Raw": "「今日も、この喫茶店は活気があって素晴らしいことですね」",
+			"Text_Tra": "『The café is full of energy again today. Quite wonderful.』",
+			"FOA_Ptr": "0x0004315E",
+			"FOA_Rva": "0x00054A37"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00043176",
+			"FOA_Rva": "0x00054A80"
+		},
+		{
+			"Text_Raw": "ふいに、客に紛れて世間話をしていた春姫が近づいてきた。",
+			"Text_Tra": "Suddenly Haruhime comes over, fresh from mingling with the customers.",
+			"FOA_Ptr": "0x000431FA",
+			"FOA_Rva": "0x00054A87"
+		},
+		{
+			"Text_Raw": "客寄せとして八剣に顔を出して欲しいと頼んだが、彼女たちも喫茶店の様子が気になり、率先して訪れてくれているのだろう。",
+			"Text_Tra": "She was the one who asked the Swords to show their faces at the café, to help attract customers, and now she's setting an example by coming herself.",
+			"FOA_Ptr": "0x00043262",
+			"FOA_Rva": "0x00054AC0"
+		},
+		{
+			"Text_Raw": "冬人は小屋のそばで女性客たちと話しているし、双子は座席の間を飛び回り、愛想を振りまいてはドーナツをひとかけらずつもらって喜んでいたりする。",
+			"Text_Tra": "Fuyuhito is chatting with some of the female customers, closer to Yuri, and the twins are dashing between the seats and begging for pieces of donut.",
+			"FOA_Ptr": "0x000432BA",
+			"FOA_Rva": "0x00054B35"
+		},
+		{
+			"Text_Raw": "まあ、客寄せの効果が出すぎているとも言える。",
+			"Text_Tra": "Well, the “attracting customers” part is definitely working.",
+			"FOA_Ptr": "0x00043312",
+			"FOA_Rva": "0x00054BC2"
+		},
+		{
+			"Text_Raw": "「や、やあ、春姫」",
+			"Text_Tra": "『H-Hey, Haruhime.』",
+			"FOA_Ptr": "0x0004336A",
+			"FOA_Rva": "0x00054BF1"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043382",
+			"FOA_Rva": "0x00054C05"
+		},
+		{
+			"Text_Raw": "「大変そうですね」",
+			"Text_Tra": "『You've got your hands full.』",
+			"FOA_Ptr": "0x000433DE",
+			"FOA_Rva": "0x00054C0C"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000433F6",
+			"FOA_Rva": "0x00054C2F"
+		},
+		{
+			"Text_Raw": "長い行列に視線を流してから、彼女がくすりと笑う。",
+			"Text_Tra": "She gives a laugh, looking back along the queue of people.",
+			"FOA_Ptr": "0x00043436",
+			"FOA_Rva": "0x00054C36"
+		},
+		{
+			"Text_Raw": "どうやら僕の余裕のなさが目につき、気遣ってくれたらしい。",
+			"Text_Tra": "She definitely seems to have noticed how hard we're working.",
+			"FOA_Ptr": "0x0004348E",
+			"FOA_Rva": "0x00054C69"
+		},
+		{
+			"Text_Raw": "列で待っている者たちも、一之神である春姫と、いまいち正体不明だが八之神である僕の会話を邪魔することはない――というわけだ。",
+			"Text_Tra": "Those waiting in the line clearly don't want to interrupt the conversation between their Ichi-no-Kami, Haruhime, and the strange but still Hachi-no-Kami, myself.",
+			"FOA_Ptr": "0x000434E6",
+			"FOA_Rva": "0x00054CA4"
+		},
+		{
+			"Text_Raw": "「ふう」",
+			"Text_Tra": "『Phew.』",
+			"FOA_Ptr": "0x0004353E",
+			"FOA_Rva": "0x00054D21"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043556",
+			"FOA_Rva": "0x00054D2B"
+		},
+		{
+			"Text_Raw": "ありがたく、一息つかせてもらう。",
+			"Text_Tra": "Thank you. I would like a moment, just to catch my breath.",
+			"FOA_Ptr": "0x00043596",
+			"FOA_Rva": "0x00054D32"
+		},
+		{
+			"Text_Raw": "どのみち座席はいっぱいだし、列から視線を逸らせるだけでも、ありがたい。",
+			"Text_Tra": "The seats are all full, and I appreciate the chance to look away from the line of masks.",
+			"FOA_Ptr": "0x000435EE",
+			"FOA_Rva": "0x00054D55"
+		},
+		{
+			"Text_Raw": "「わたしにはわからないのですが、経済や店というものは、常にこれほど忙しいものなのですか？」",
+			"Text_Tra": "『I don't know about these things yet; is a place like this always so busy? Is this how an economy works?』",
+			"FOA_Ptr": "0x00043646",
+			"FOA_Rva": "0x00054D9E"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004365E",
+			"FOA_Rva": "0x00054E09"
+		},
+		{
+			"Text_Raw": "「いや、僕の知っている喫茶店は、普通はもっと落ち着いたものだよ」",
+			"Text_Tra": "『Nope, not really. The cafés I know are normally far calmer than this.』",
+			"FOA_Ptr": "0x0004369E",
+			"FOA_Rva": "0x00054E10"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000436B6",
+			"FOA_Rva": "0x00054E52"
+		},
+		{
+			"Text_Raw": "春姫の疑問に、苦笑いとともに答える。",
+			"Text_Tra": "I reply to Haruhime's question with a wry laugh.",
+			"FOA_Ptr": "0x000436F6",
+			"FOA_Rva": "0x00054E59"
+		},
+		{
+			"Text_Raw": "話題になっている人気店ならまだしも、普通の喫茶店は静かに時間を過ごせる場所だ。",
+			"Text_Tra": "A popular place with some buzz going, maybe, but cafés are normally quiet spots for a bit of relaxation.",
+			"FOA_Ptr": "0x0004374E",
+			"FOA_Rva": "0x00054E80"
+		},
+		{
+			"Text_Raw": "「単純に、昨日の春姫と優里の戦いの活気が残っているのと、今は店がここしかないから集中してしまうだけだろうね」",
+			"Text_Tra": "『This is because of the lingering excitement from your fight yesterday, Haruhime, and, well-because we're the only game in town right now.』",
+			"FOA_Ptr": "0x000437A6",
+			"FOA_Rva": "0x00054ED1"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000437BE",
+			"FOA_Rva": "0x00054F3F"
+		},
+		{
+			"Text_Raw": "「喫茶店を２軒、３軒と増やせば、ここにいる人間もそれだけ分散するということですね。安心しました」",
+			"Text_Tra": "『So if we made a few more café locations, that would split up the customers a little. That's good to know.』",
+			"FOA_Ptr": "0x000437FE",
+			"FOA_Rva": "0x00054F46"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00043816",
+			"FOA_Rva": "0x00054FB7"
+		},
+		{
+			"Text_Raw": "統治者である春姫としては、『経済』や『店』が今後もカントで運用できるのか心配なのだろう。",
+			"Text_Tra": "As ruler, Haruhime's main concerns are whether an economy and stores can function in Kanto going forward.",
+			"FOA_Ptr": "0x00043856",
+			"FOA_Rva": "0x00054FBE"
+		},
+		{
+			"Text_Raw": "店を構えるたびに、この騒ぎでは、使い物にならないと。",
+			"Text_Tra": "If this is how things go down each time a location opens, it's probably starting to look a little unrealistic.",
+			"FOA_Ptr": "0x000438AE",
+			"FOA_Rva": "0x00055019"
+		},
+		{
+			"Text_Raw": "『オーナーの補足をしますと、住民に配った紙幣は３枚から減り続けるので、日が経つほどに落ち着いていくものと推測します』",
+			"Text_Tra": "『To add some more context, the three bills given to each of the residents are going to continue to decrease, which should also help settle things down.』",
+			"FOA_Ptr": "0x00043906",
+			"FOA_Rva": "0x00055050"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x0004391E",
+			"FOA_Rva": "0x000550D5"
+		},
+		{
+			"Text_Raw": "「さらに安心しました。そうであれば、明日以降の様子を見て判断しましょう」",
+			"Text_Tra": "『That's even better. I'll make my decision based on how things look over the never few days.』",
+			"FOA_Ptr": "0x0004395E",
+			"FOA_Rva": "0x000550DC"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00043976",
+			"FOA_Rva": "0x00055135"
+		},
+		{
+			"Text_Raw": "春姫がにっこりと認めてくれる。",
+			"Text_Tra": "Haruhime gives a smile.",
+			"FOA_Ptr": "0x000439B6",
+			"FOA_Rva": "0x0005513C"
+		},
+		{
+			"Text_Raw": "「その確認をするために、春姫は僕に話しかけてきたのかな？」",
+			"Text_Tra": "『Is this why you came over to talk to me?』",
+			"FOA_Ptr": "0x00043A0E",
+			"FOA_Rva": "0x0005515D"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043A26",
+			"FOA_Rva": "0x00055199"
+		},
+		{
+			"Text_Raw": "「ああ、いえ、本題は、あまりにもお兄様と優里が大変そうなので、お手伝いをしようと思ったのですよ？」",
+			"Text_Tra": "『Ah, no, actually-it looks like you and Yuri are having a tough time of it, so I wondered if you wanted a hand.』",
+			"FOA_Ptr": "0x00043AC6",
+			"FOA_Rva": "0x000551A0"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00043ADE",
+			"FOA_Rva": "0x00055213"
+		},
+		{
+			"Text_Raw": "頬に手をあて、春姫が表情を柔らかくしながら言う。",
+			"Text_Tra": "She places her hands on her cheeks, with a soft expression on her face.",
+			"FOA_Ptr": "0x00043B1E",
+			"FOA_Rva": "0x0005521A"
+		},
+		{
+			"Text_Raw": "統治者の顔ではなく、春姫というひとりの少女の顔つきや声になっていた。",
+			"Text_Tra": "She doesn't have her ruler face on anymore; now she's using her “normal girl” face and voice.",
+			"FOA_Ptr": "0x00043B76",
+			"FOA_Rva": "0x0005524D"
+		},
+		{
+			"Text_Raw": "「そういうことか」",
+			"Text_Tra": "『Oh, I see.』",
+			"FOA_Ptr": "0x00043BCE",
+			"FOA_Rva": "0x00055294"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043BE6",
+			"FOA_Rva": "0x000552A8"
+		},
+		{
+			"Text_Raw": "春姫が本当に心配していたのは、店の運営や経済についてではなく、僕や優里という人間だった。",
+			"Text_Tra": "Haruhime wasn't worried about the stores or the economy as much as she was the people running them-Yuri and me.",
+			"FOA_Ptr": "0x00043C26",
+			"FOA_Rva": "0x000552AF"
+		},
+		{
+			"Text_Raw": "彼女は賢く、それ以上に、よい子だ。",
+			"Text_Tra": "She's smart, but even more than that, just a nice person.",
+			"FOA_Ptr": "0x00043C7E",
+			"FOA_Rva": "0x0005530A"
+		},
+		{
+			"Text_Raw": "「ごめん――いや、ありがとう。手伝ってくれるのは正直に助かるよ」",
+			"Text_Tra": "『Sorry-I mean, thanks. If you're willing to help out, honestly, that would be great.』",
+			"FOA_Ptr": "0x00043CD6",
+			"FOA_Rva": "0x0005532F"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043CEE",
+			"FOA_Rva": "0x00055371"
+		},
+		{
+			"Text_Raw": "謝罪より感謝のほうがよいだろうと、笑顔で受け入れる。",
+			"Text_Tra": "I decide gratitude is better than an apology, and so I change course and accept her aid with a smile.",
+			"FOA_Ptr": "0x00043D2E",
+			"FOA_Rva": "0x00055378"
+		},
+		{
+			"Text_Raw": "「はい。喜んで♪」",
+			"Text_Tra": "『Good. Happy to help! ♪』",
+			"FOA_Ptr": "0x00043D86",
+			"FOA_Rva": "0x000553AF"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00043D9E",
+			"FOA_Rva": "0x000553D2"
+		},
+		{
+			"Text_Raw": "「それじゃあ、なにを手伝ってもらおうかな――」",
+			"Text_Tra": "『Hmmm. Where to place you, though...』",
+			"FOA_Ptr": "0x00043E06",
+			"FOA_Rva": "0x000553D9"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00043E1E",
+			"FOA_Rva": "0x00055409"
+		},
+		{
+			"Text_Raw": "僕よりは優里のほうを手伝って欲しいなと、小屋のほうを確認しようと思ったが。",
+			"Text_Tra": "I look over toward Yuri, thinking she might need the help more.",
+			"FOA_Ptr": "0x00043E5E",
+			"FOA_Rva": "0x00055410"
+		},
+		{
+			"Text_Raw": "春姫が小首をかしげ、僕の視線をさえぎる。",
+			"Text_Tra": "Haruhime steps in front of me, tilting her head.",
+			"FOA_Ptr": "0x00043EB6",
+			"FOA_Rva": "0x0005545D"
+		},
+		{
+			"Text_Raw": "＝くっそ可愛い仕草だな。",
+			"Text_Tra": "My cat god, she's cute!",
+			"FOA_Ptr": "0x00043F0E",
+			"FOA_Rva": "0x00055488"
+		},
+		{
+			"Text_Raw": "「いえ、手伝ってよいということでしたら、お兄様と優里は、今日はもう店から離れてしまって結構ですよ」",
+			"Text_Tra": "『Now you've accepted my help, you and Yuri can leave.』",
+			"FOA_Ptr": "0x00043FC6",
+			"FOA_Rva": "0x000554A3"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00043FDE",
+			"FOA_Rva": "0x00055516"
+		},
+		{
+			"Text_Raw": "「え？　もう仕事をあがれってこと？」",
+			"Text_Tra": "『What? We're done for the day?』",
+			"FOA_Ptr": "0x0004401E",
+			"FOA_Rva": "0x0005551D"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044036",
+			"FOA_Rva": "0x00055543"
+		},
+		{
+			"Text_Raw": "「正直に言えば、お兄様より、優里を休ませたいのですよ」",
+			"Text_Tra": "『To be honest, rather than you-I want to give Yuri a break.』",
+			"FOA_Ptr": "0x00044076",
+			"FOA_Rva": "0x0005554A"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004408E",
+			"FOA_Rva": "0x00055591"
+		},
+		{
+			"Text_Raw": "春姫が苦笑を浮かべる。",
+			"Text_Tra": "Haruhime gives a wry laugh.",
+			"FOA_Ptr": "0x000440CE",
+			"FOA_Rva": "0x00055598"
+		},
+		{
+			"Text_Raw": "「よく考えれば、優里は昨日の私との手合わせのあと、ほとんど休むことなく昨日今日と喫茶店の仕事をしているのですよね」",
+			"Text_Tra": "『When I think about it, she went straight into working at the café after fighting me yesterday, and again today, without any break.』",
+			"FOA_Ptr": "0x00044126",
+			"FOA_Rva": "0x000555B1"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004413E",
+			"FOA_Rva": "0x00055634"
+		},
+		{
+			"Text_Raw": "「ああ、そうか」",
+			"Text_Tra": "『Ah, you're right.』",
+			"FOA_Ptr": "0x0004417E",
+			"FOA_Rva": "0x0005563B"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044196",
+			"FOA_Rva": "0x0005564D"
+		},
+		{
+			"Text_Raw": "僕の前にいるときの優里が元気だったので、その考えはなかった。",
+			"Text_Tra": "Yuri has been so full of energy around me, it hadn't even crossed my mind.",
+			"FOA_Ptr": "0x000441D6",
+			"FOA_Rva": "0x00055654"
+		},
+		{
+			"Text_Raw": "優里も昨日の興奮が尾を引いているのだろうが、身体には疲労やダメージが溜まっているだろう。",
+			"Text_Tra": "She's probably running on a high after yesterday, but her body must be suffering from exhaustion and damage.",
+			"FOA_Ptr": "0x0004422E",
+			"FOA_Rva": "0x00055693"
+		},
+		{
+			"Text_Raw": "しかも、昨夜は川辺でのアレもあったしな。",
+			"Text_Tra": "Not to mention what happened at the river after hours.",
+			"FOA_Ptr": "0x00044286",
+			"FOA_Rva": "0x000556EE"
+		},
+		{
+			"Text_Raw": "あまり休めていないというのは事実だ。",
+			"Text_Tra": "It's true, she hasn't had much of a break.",
+			"FOA_Ptr": "0x000442DE",
+			"FOA_Rva": "0x00055719"
+		},
+		{
+			"Text_Raw": "「そんな優里ですが、彼女はお兄様も一緒に店を離れなければ休んでくれないでしょう？」",
+			"Text_Tra": "『Yuri isn't going to be able to relax unless she leaves the café with you, is she?』",
+			"FOA_Ptr": "0x00044336",
+			"FOA_Rva": "0x00055740"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004434E",
+			"FOA_Rva": "0x000557A3"
+		},
+		{
+			"Text_Raw": "より優しく、仕方のない子ですねと春姫が笑みを深める。",
+			"Text_Tra": "Haruhime smiles, reflecting on how kind Yuri is.",
+			"FOA_Ptr": "0x0004438E",
+			"FOA_Rva": "0x000557AA"
+		},
+		{
+			"Text_Raw": "「それも、そうだね」",
+			"Text_Tra": "『True. That's true.』",
+			"FOA_Ptr": "0x000443E6",
+			"FOA_Rva": "0x000557E1"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000443FE",
+			"FOA_Rva": "0x000557F7"
+		},
+		{
+			"Text_Raw": "『優里様は、オーナー付きの護衛や世話役という立場ですしね』",
+			"Text_Tra": "『Yuri is supposed to protect and watch over you, Owner.』",
+			"FOA_Ptr": "0x0004443E",
+			"FOA_Rva": "0x000557FE"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x00044456",
+			"FOA_Rva": "0x00055849"
+		},
+		{
+			"Text_Raw": "「それもありますが、お兄様と優里は恋仲になられたのでしょう？」",
+			"Text_Tra": "『That's part of it, but you and Yuri have become lovers, correct?』",
+			"FOA_Ptr": "0x00044496",
+			"FOA_Rva": "0x00055850"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000444AE",
+			"FOA_Rva": "0x0005589F"
+		},
+		{
+			"Text_Raw": "「……う」",
+			"Text_Tra": "『...Ulp?』",
+			"FOA_Ptr": "0x000444EE",
+			"FOA_Rva": "0x000558A6"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044506",
+			"FOA_Rva": "0x000558B2"
+		},
+		{
+			"Text_Raw": "突然の指摘に、思わず喉を詰まらせてしまう。",
+			"Text_Tra": "My throat tightens at this sudden statement of fact.",
+			"FOA_Ptr": "0x00044546",
+			"FOA_Rva": "0x000558B9"
+		},
+		{
+			"Text_Raw": "「な、なんでそれを、もう知っているの？」",
+			"Text_Tra": "『How did you know?』",
+			"FOA_Ptr": "0x0004459E",
+			"FOA_Rva": "0x000558E6"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000445B6",
+			"FOA_Rva": "0x00055910"
+		},
+		{
+			"Text_Raw": "「なんでって、今朝、優里から報告として聞いているからですよ」",
+			"Text_Tra": "『How? Because Yuri reported to me this morning.』",
+			"FOA_Ptr": "0x000445F6",
+			"FOA_Rva": "0x00055917"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004460E",
+			"FOA_Rva": "0x00055964"
+		},
+		{
+			"Text_Raw": "わずかに呆れ顔で、春姫が答える。",
+			"Text_Tra": "Haruhime replies, with a slightly incredulous look on her face.",
+			"FOA_Ptr": "0x0004464E",
+			"FOA_Rva": "0x0005596B"
+		},
+		{
+			"Text_Raw": "「……早い」",
+			"Text_Tra": "『...That was quick.』",
+			"FOA_Ptr": "0x000446A6",
+			"FOA_Rva": "0x0005598E"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000446BE",
+			"FOA_Rva": "0x0005599C"
+		},
+		{
+			"Text_Raw": "おそらく、優里は僕との授業の前に、春姫に報告したのだろう。",
+			"Text_Tra": "She must have made her report before her lesson with me.",
+			"FOA_Ptr": "0x000446FE",
+			"FOA_Rva": "0x000559A3"
+		},
+		{
+			"Text_Raw": "「……それにしたって早すぎる」",
+			"Text_Tra": "『...But still too quick.』",
+			"FOA_Ptr": "0x00044756",
+			"FOA_Rva": "0x000559E0"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004476E",
+			"FOA_Rva": "0x00055A00"
+		},
+		{
+			"Text_Raw": "さすがに繰り返してしまう。",
+			"Text_Tra": "I can't help but repeat myself.",
+			"FOA_Ptr": "0x000447AE",
+			"FOA_Rva": "0x00055A07"
+		},
+		{
+			"Text_Raw": "そんな僕の様子を、春姫がきれいな目で見つめてくる。",
+			"Text_Tra": "Haruhime is watching me with those beautiful eyes.",
+			"FOA_Ptr": "0x00044806",
+			"FOA_Rva": "0x00055A24"
+		},
+		{
+			"Text_Raw": "「お兄様はなにか誤解されているようですが、優里の報告は、カントでは早すぎるということはなく当然のことですよ」",
+			"Text_Tra": "『You seem to have the wrong idea, Brother. There was nothing 'quick' about Yuri's report; in Kanto, it's perfectly normal.』",
+			"FOA_Ptr": "0x0004485E",
+			"FOA_Rva": "0x00055A59"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00044876",
+			"FOA_Rva": "0x00055AD6"
+		},
+		{
+			"Text_Raw": "「成り行きで恋仲になってしまった者たちがいる場合、すべてに優先して八剣へ報告するものなのです」",
+			"Text_Tra": "『When two people end up together, the first thing they have to do is report to the Swords.』",
+			"FOA_Ptr": "0x000448B6",
+			"FOA_Rva": "0x00055ADD"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000448CE",
+			"FOA_Rva": "0x00055B4C"
+		},
+		{
+			"Text_Raw": "「そうなんだ――あ、人口調整のためか」",
+			"Text_Tra": "『I see-because of population control.』",
+			"FOA_Ptr": "0x0004490E",
+			"FOA_Rva": "0x00055B53"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044926",
+			"FOA_Rva": "0x00055B7B"
+		},
+		{
+			"Text_Raw": "カントでなによりも警戒されていたことは、黒神に感知される人口を超えないことだ。",
+			"Text_Tra": "The thing Kanto has to worry about, more than anything, is exceeding the population that the Kurokami can detect.",
+			"FOA_Ptr": "0x00044966",
+			"FOA_Rva": "0x00055B82"
+		},
+		{
+			"Text_Raw": "だからこそ、ここでの恋愛や出産は、許可が必要なものだと染さんからも聞いていた。",
+			"Text_Tra": "That's why romance and giving birth all require prior permission here. I remember Somé explaining all that.",
+			"FOA_Ptr": "0x000449BE",
+			"FOA_Rva": "0x00055BD3"
+		},
+		{
+			"Text_Raw": "それでも――禁忌だとされていても、自然と惹かれあう男女があらわれることもあるのだ。",
+			"Text_Tra": "Even with those restrictions-there have to be couples who succumb to the heat of the moment.",
+			"FOA_Ptr": "0x00044A16",
+			"FOA_Rva": "0x00055C24"
+		},
+		{
+			"Text_Raw": "「もしかして、黒神が打倒されていなければ、僕と優里の関係は引き裂かれていたりしたのかな？」",
+			"Text_Tra": "『If the Kurokami hadn't been defeated, would you be tearing Yuri and me apart?』",
+			"FOA_Ptr": "0x00044A6E",
+			"FOA_Rva": "0x00055C79"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044A86",
+			"FOA_Rva": "0x00055CD5"
+		},
+		{
+			"Text_Raw": "怖い想像だったので、あえて軽く訊ねる。",
+			"Text_Tra": "I keep my tone light, to say how scary the idea is.",
+			"FOA_Ptr": "0x00044AC6",
+			"FOA_Rva": "0x00055CDC"
+		},
+		{
+			"Text_Raw": "春姫も軽く肩をすくめた。",
+			"Text_Tra": "Haruhime responds with an equally light shrug.",
+			"FOA_Ptr": "0x00044B1E",
+			"FOA_Rva": "0x00055D05"
+		},
+		{
+			"Text_Raw": "「そうなる可能性もありました、が」",
+			"Text_Tra": "『That's one possibility.』",
+			"FOA_Ptr": "0x00044B76",
+			"FOA_Rva": "0x00055D20"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00044B8E",
+			"FOA_Rva": "0x00055D53"
+		},
+		{
+			"Text_Raw": "「強い能力者、お兄様であれば言霊使いの子を成せるかもしれないなら、他の者よりも優先して恋愛や出産の許可を出したでしょう」",
+			"Text_Tra": "『But strong Powered-and with the Kotodama, you are one of the strongest, Brother-tend to get priority when it comes to having kids.』",
+			"FOA_Ptr": "0x00044BCE",
+			"FOA_Rva": "0x00055D5A"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00044BE6",
+			"FOA_Rva": "0x00055DE3"
+		},
+		{
+			"Text_Raw": "「……その代わりに、別の誰かの恋仲が引き裂かれたり、合わせ子が増えるわけか」",
+			"Text_Tra": "『...Which means other couples might get ripped apart, or there'll be an increase in adjustment children.』",
+			"FOA_Ptr": "0x00044C26",
+			"FOA_Rva": "0x00055DEA"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044C3E",
+			"FOA_Rva": "0x00055E38"
+		},
+		{
+			"Text_Raw": "「さもありなん」",
+			"Text_Tra": "『That's also possible.』",
+			"FOA_Ptr": "0x00044C7E",
+			"FOA_Rva": "0x00055E3F"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00044C96",
+			"FOA_Rva": "0x00055E60"
+		},
+		{
+			"Text_Raw": "そういうものだと春姫がうなずく。",
+			"Text_Tra": "Haruhime nods. That's just how things are here.",
+			"FOA_Ptr": "0x00044CD6",
+			"FOA_Rva": "0x00055E67"
+		},
+		{
+			"Text_Raw": "カントは力によって平定されている、か。",
+			"Text_Tra": "Strength is everything in Kanto.",
+			"FOA_Ptr": "0x00044D2E",
+			"FOA_Rva": "0x00055E8A"
+		},
+		{
+			"Text_Raw": "「まあ、黒神はすでに打倒されていますし、お兄様と優里の仲を裂くことなどありません」",
+			"Text_Tra": "『Well, the Kurokami has been defeated. There's no need to split you up now.』",
+			"FOA_Ptr": "0x00044D86",
+			"FOA_Rva": "0x00055EB3"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00044D9E",
+			"FOA_Rva": "0x00055F16"
+		},
+		{
+			"Text_Raw": "「今後のカントでは、誰もが想う相手と結ばれ、子を成すことが出来るでしょう」",
+			"Text_Tra": "『In Kanto's future, everyone should be able to have kids with whomever they please.』",
+			"FOA_Ptr": "0x00044DDE",
+			"FOA_Rva": "0x00055F1D"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00044DF6",
+			"FOA_Rva": "0x00055F78"
+		},
+		{
+			"Text_Raw": "「ご飯の量が許す限りですがね。わたしのおゆはんは守らねばなりません」",
+			"Text_Tra": "『At least as far as our food stores will allow. I can't allow anything to threaten my evening meals.』",
+			"FOA_Ptr": "0x00044E36",
+			"FOA_Rva": "0x00055F7F"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00044E4E",
+			"FOA_Rva": "0x00055FD4"
+		},
+		{
+			"Text_Raw": "「そこは大事だね」",
+			"Text_Tra": "『Yep, food is very important.』",
+			"FOA_Ptr": "0x00044E8E",
+			"FOA_Rva": "0x00055FDB"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00044EA6",
+			"FOA_Rva": "0x00055FEF"
+		},
+		{
+			"Text_Raw": "それこそ、優里とマンツーマンの授業で話していた、農業の重要なポイントだ。",
+			"Text_Tra": "Another indicator of how important agriculture is, as raised by my lesson that morning with Yuri.",
+			"FOA_Ptr": "0x00044EE6",
+			"FOA_Rva": "0x00055FF6"
+		},
+		{
+			"Text_Raw": "黒神が打倒されたからと、皆が子作りに励めば、数年後にはカントは食糧難で崩壊するだろう。",
+			"Text_Tra": "If everyone starts going at it like rabbits, just because the Kurokami is gone, it won't take many years for Kanto's food production to break under the strain.",
+			"FOA_Ptr": "0x00044F3E",
+			"FOA_Rva": "0x00056041"
+		},
+		{
+			"Text_Raw": "人口調整って大変だなー。",
+			"Text_Tra": "Population management is no joke.",
+			"FOA_Ptr": "0x00044F96",
+			"FOA_Rva": "0x0005609A"
+		},
+		{
+			"Text_Raw": "春姫もそれを理解しているからこそ、今はまだ、迂闊にその手の奨励を行ってはいないのだ。",
+			"Text_Tra": "Haruhime understands that all too well, which is why she isn't just letting the horny population go get busy.",
+			"FOA_Ptr": "0x00044FEE",
+			"FOA_Rva": "0x000560B5"
+		},
+		{
+			"Text_Raw": "「ともかく、お兄様と優里が結ばれたことは、おめでたいことです」",
+			"Text_Tra": "『At any rate, the union of Yuri and yourself is something to be celebrated.』",
+			"FOA_Ptr": "0x00045046",
+			"FOA_Rva": "0x0005610C"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004505E",
+			"FOA_Rva": "0x0005615B"
+		},
+		{
+			"Text_Raw": "「ありがとう」",
+			"Text_Tra": "『Thanks.』",
+			"FOA_Ptr": "0x0004509E",
+			"FOA_Rva": "0x00056162"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000450B6",
+			"FOA_Rva": "0x00056172"
+		},
+		{
+			"Text_Raw": "「もちろん、機会とその気があれば、お兄様は他の者とも子作りして、言霊使いの種をまいて頂ければとは思います」",
+			"Text_Tra": "『Of course, given the opportunity and inclination, I hope you will also have children with other women too, to further spread the seed of the Kotodama.』",
+			"FOA_Ptr": "0x000450F6",
+			"FOA_Rva": "0x00056179"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004510E",
+			"FOA_Rva": "0x000561F4"
+		},
+		{
+			"Text_Raw": "『確かに。女性の言霊使いである春姫様より、男性の言霊使いであるオーナーが複数の相手と性交渉するほうが、子の数は多く見込めますね』",
+			"Text_Tra": "『Good idea. As a male Kotodama user, Owner has certain advantages over a female when it comes to the number of progeny he can hope to leave behind.』",
+			"FOA_Ptr": "0x0004514E",
+			"FOA_Rva": "0x000561FB"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x00045166",
+			"FOA_Rva": "0x0005628C"
+		},
+		{
+			"Text_Raw": "「ん？　んん？」",
+			"Text_Tra": "『Hmmm? What's that now?』",
+			"FOA_Ptr": "0x000451A6",
+			"FOA_Rva": "0x00056293"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000451BE",
+			"FOA_Rva": "0x000562A5"
+		},
+		{
+			"Text_Raw": "今、なにか、不思議な話が……。",
+			"Text_Tra": "I think I just heard something very strange-",
+			"FOA_Ptr": "0x000451FE",
+			"FOA_Rva": "0x000562AC"
+		},
+		{
+			"Text_Raw": "いや、カントは、一夫一婦制じゃないんだもんな。",
+			"Text_Tra": "Although Kanto isn't really a monogamous society.",
+			"FOA_Ptr": "0x00045256",
+			"FOA_Rva": "0x000562CD"
+		},
+		{
+			"Text_Raw": "ここは天国か――などという冗談は、ただ考えるだけだとしても、品のない言葉か。",
+			"Text_Tra": "Sounds like paradise-I almost make the joke, but even just thinking it feels dirty, coming from my background.",
+			"FOA_Ptr": "0x000452AE",
+			"FOA_Rva": "0x000562FE"
+		},
+		{
+			"Text_Raw": "「話は理解したけど、今のところはなにをどうひっくり返しても、僕が優里以外の相手に目移りすることはないよ」",
+			"Text_Tra": "『I understand where you're coming from, but no matter how you twist it, I don't have eyes for anyone other than Yuri right now.』",
+			"FOA_Ptr": "0x00045306",
+			"FOA_Rva": "0x0005634D"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004531E",
+			"FOA_Rva": "0x000563B7"
+		},
+		{
+			"Text_Raw": "「そのようで」",
+			"Text_Tra": "『So it seems.』",
+			"FOA_Ptr": "0x0004535E",
+			"FOA_Rva": "0x000563BE"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00045376",
+			"FOA_Rva": "0x000563DD"
+		},
+		{
+			"Text_Raw": "澄ました顔だが、春姫が口元をにやつかせている。",
+			"Text_Tra": "Her face remains cool, but there's a smile hinting at her lips.",
+			"FOA_Ptr": "0x000453B6",
+			"FOA_Rva": "0x000563E4"
+		},
+		{
+			"Text_Raw": "この手のストレートすぎる下ネタは、千年経っても女性のほうが男よりも上手だな。",
+			"Text_Tra": "Even after 1,000 years, women still seem to have the upper hand when it comes to this kind of head-on comment about sex.",
+			"FOA_Ptr": "0x0004540E",
+			"FOA_Rva": "0x00056415"
+		},
+		{
+			"Text_Raw": "勝ち目のない戦いからは早めに撤退しよう。",
+			"Text_Tra": "I can't win this fight-best I just retreat as quickly as I can.",
+			"FOA_Ptr": "0x00045466",
+			"FOA_Rva": "0x00056464"
+		},
+		{
+			"Text_Raw": "「話を戻すけど――店を任せても大丈夫？」",
+			"Text_Tra": "『Getting back to the topic at hand-are you sure we can leave the café in your hands?』",
+			"FOA_Ptr": "0x000454BE",
+			"FOA_Rva": "0x0005648F"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000454D6",
+			"FOA_Rva": "0x000564B9"
+		},
+		{
+			"Text_Raw": "さすがに責任を感じるところであり、念押しで確認してしまう。",
+			"Text_Tra": "I definitely feel some responsibility for this place, and feel like I have to make sure.",
+			"FOA_Ptr": "0x00045516",
+			"FOA_Rva": "0x000564C0"
+		},
+		{
+			"Text_Raw": "春姫も長話をするつもりはないか、応じる。",
+			"Text_Tra": "Haruhime doesn't seem to want to make too big a thing of this, and so she briskly responds.",
+			"FOA_Ptr": "0x0004556E",
+			"FOA_Rva": "0x000564FD"
+		},
+		{
+			"Text_Raw": "「お兄様の様子をしばらく見ていたので、列のほうはわたしが対処できます」",
+			"Text_Tra": "『I've been watching you for a while, Brother, so I can handle the queue.』",
+			"FOA_Ptr": "0x000455C6",
+			"FOA_Rva": "0x00056528"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x000455DE",
+			"FOA_Rva": "0x0005657F"
+		},
+		{
+			"Text_Raw": "「それと、冬人」",
+			"Text_Tra": "『Fuyuhito, a moment.』",
+			"FOA_Ptr": "0x0004567E",
+			"FOA_Rva": "0x00056586"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00045696",
+			"FOA_Rva": "0x000565A7"
+		},
+		{
+			"Text_Raw": "彼女が通りのよい声をあげると、小屋のそばにいた冬人が顔をあげ、近づいてきた。",
+			"Text_Tra": "She raises her voice, cutting across the Kanto hubbub. Fuyuhito looks up and comes over.",
+			"FOA_Ptr": "0x000456FE",
+			"FOA_Rva": "0x000565AE"
+		},
+		{
+			"Text_Raw": "「なにかな？」",
+			"Text_Tra": "『Did you need something?』",
+			"FOA_Ptr": "0x000457F2",
+			"FOA_Rva": "0x000565FD"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x0004580A",
+			"FOA_Rva": "0x0005661C"
+		},
+		{
+			"Text_Raw": "「信から手伝いをしてもよいと許可を得ました。列の案内はわたしがやりますが、小屋のほうはあなたに任せてもよいですか？」",
+			"Text_Tra": "『Shin has given us permission to help out. I'll handle the queue, if you can handle the donuts.』",
+			"FOA_Ptr": "0x00045876",
+			"FOA_Rva": "0x00056623"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x0004588E",
+			"FOA_Rva": "0x000566A8"
+		},
+		{
+			"Text_Raw": "周囲の耳目を気にしたか、統治者としての態度で春姫が言う。",
+			"Text_Tra": "Haruhime has her ruler face on, perhaps paying heed to all the people around us.",
+			"FOA_Ptr": "0x000458CE",
+			"FOA_Rva": "0x000566AF"
+		},
+		{
+			"Text_Raw": "「問題ない。優里の様子を見ていたが、あれなら私でもなんとかなるだろう」",
+			"Text_Tra": "『No problem. I've been watching Yuri, so I can handle it.』",
+			"FOA_Ptr": "0x00045926",
+			"FOA_Rva": "0x000566EA"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x0004593E",
+			"FOA_Rva": "0x00056741"
+		},
+		{
+			"Text_Raw": "「結構」",
+			"Text_Tra": "『Good.』",
+			"FOA_Ptr": "0x0004597E",
+			"FOA_Rva": "0x00056748"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00045996",
+			"FOA_Rva": "0x00056761"
+		},
+		{
+			"Text_Raw": "「なるほど。僕に声をかける前から、手伝うための準備もしていたのか」",
+			"Text_Tra": "『I see. You were setting the stage before you even approached me.』",
+			"FOA_Ptr": "0x000459D6",
+			"FOA_Rva": "0x00056768"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000459EE",
+			"FOA_Rva": "0x000567AC"
+		},
+		{
+			"Text_Raw": "彼女たちのやりとりに呆れてしまう。",
+			"Text_Tra": "I shake my head at their exchange.",
+			"FOA_Ptr": "0x00045A2E",
+			"FOA_Rva": "0x000567B3"
+		},
+		{
+			"Text_Raw": "冬人が小屋のそばにいることは確認していたが、まったく、この兄妹も手際がよい。",
+			"Text_Tra": "Fuyuhito has been hanging out over by the donuts, and now I understand why.",
+			"FOA_Ptr": "0x00045A86",
+			"FOA_Rva": "0x000567D8"
+		},
+		{
+			"Text_Raw": "「まあまあ、気楽にお任せください。列の人たちを案内する仕事も楽しそうですしね♪」",
+			"Text_Tra": "『Well, you can leave this to us. Guiding in the people in the queue sounds like fun too! ♪』",
+			"FOA_Ptr": "0x00045ADE",
+			"FOA_Rva": "0x00056827"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00045AF6",
+			"FOA_Rva": "0x00056888"
+		},
+		{
+			"Text_Raw": "春姫が、これから自分が相手をするだろう行列に目をやる。",
+			"Text_Tra": "Haruhime looks at the line of people waiting to come in-the people she'll have to deal with.",
+			"FOA_Ptr": "0x00045B5E",
+			"FOA_Rva": "0x0005688F"
+		},
+		{
+			"Text_Raw": "なんてことのない仕草だったが――列の先頭にいる男たちが、春姫に視線を向けられただけで、たじろいだ。",
+			"Text_Tra": "It's a mild gesture, nothing significant-but the men at the front of the line all take a step back.",
+			"FOA_Ptr": "0x00045BB6",
+			"FOA_Rva": "0x000568C8"
+		},
+		{
+			"Text_Raw": "まあ、いまいち威厳のない八之神に比べ、言霊使いで統治者の一之神に案内されるなど、光栄というより恐れ多いと感じてしまうことだろう。",
+			"Text_Tra": "Having the Kotodama-using Ichi-no-Kami of Kanto showing them to their seats is probably a little more imposing than the weirdo Hachi-no-Kami.",
+			"FOA_Ptr": "0x00045C0E",
+			"FOA_Rva": "0x0005692D"
+		},
+		{
+			"Text_Raw": "「わかった。店は任せます。僕は優里を連れて撤収しよう」",
+			"Text_Tra": "『Okay, the café is in your hands. Yuri and I will excuse ourselves.』",
+			"FOA_Ptr": "0x00045C66",
+			"FOA_Rva": "0x000569B0"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00045C7E",
+			"FOA_Rva": "0x000569E8"
+		},
+		{
+			"Text_Raw": "「ええ。しばらくは優里の好きにさせてあげてください。彼女はカントの新しい英雄ですから」",
+			"Text_Tra": "『Good. Let her have some fun, would you? She's the new hero of Kanto, after all.』",
+			"FOA_Ptr": "0x00045CBE",
+			"FOA_Rva": "0x000569EF"
+		},
+		{
+			"Text_Raw": "春　姫",
+			"Text_Tra": "Haruhime",
+			"FOA_Ptr": "0x00045CD6",
+			"FOA_Rva": "0x00056A56"
+		},
+		{
+			"Text_Raw": "昨日の戦いには、それだけの価値があったと、春姫こそが認めていた。",
+			"Text_Tra": "Haruhime herself has placed that much importance on the battle from yesterday.",
+			"FOA_Ptr": "0x00045D16",
+			"FOA_Rva": "0x00056A5D"
+		},
+		{
+			"Text_Raw": "わかったと手を振り、僕は小屋のほうへ移動する。",
+			"Text_Tra": "I give her a wave, letting her know I agree, and then head over to Yuri's post.",
+			"FOA_Ptr": "0x00045D6E",
+			"FOA_Rva": "0x00056AA0"
+		},
+		{
+			"Text_Raw": "そこでは、優里が落ち着きのない様子で、きょろきょろと辺りに視線を動かしていた。",
+			"Text_Tra": "I find Yuri there, looking around, seemingly unable to calm down.",
+			"FOA_Ptr": "0x00045F62",
+			"FOA_Rva": "0x00056AD1"
+		},
+		{
+			"Text_Raw": "「優里」",
+			"Text_Tra": "『Yuri.』",
+			"FOA_Ptr": "0x00045FBA",
+			"FOA_Rva": "0x00056B22"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00045FD2",
+			"FOA_Rva": "0x00056B2C"
+		},
+		{
+			"Text_Raw": "僕はあまり目立たないように、声を抑えて呼びかける。",
+			"Text_Tra": "I move close to her, speaking quietly so that only she hears me.",
+			"FOA_Ptr": "0x00046012",
+			"FOA_Rva": "0x00056B33"
+		},
+		{
+			"Text_Raw": "「はい！　ドーナツの他に、お茶は温かいものと冷たいものがありますが、どちらがいいですか！？」",
+			"Text_Tra": "『Yes! In addition to donuts, we have both hot and cold tea! Which would you prefer?』",
+			"FOA_Ptr": "0x000460D2",
+			"FOA_Rva": "0x00056B68"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000460EA",
+			"FOA_Rva": "0x00056BD5"
+		},
+		{
+			"Text_Raw": "彼女は慌てながら声をあげた。",
+			"Text_Tra": "She sounds very flustered as she responds.",
+			"FOA_Ptr": "0x0004613A",
+			"FOA_Rva": "0x00056BDC"
+		},
+		{
+			"Text_Raw": "どうやら、あまりの忙しさと余裕のなさで、声をかけてくる相手をまともに認識出来ていないらしい。",
+			"Text_Tra": "She's so busy, she isn't even aware of who she's talking to.",
+			"FOA_Ptr": "0x00046192",
+			"FOA_Rva": "0x00056BFB"
+		},
+		{
+			"Text_Raw": "行列の案内をしていた僕と同じように、返事が条件反射になってしまっているのだろう。",
+			"Text_Tra": "Just like when I was working the line, her reply is a total knee-jerk reaction.",
+			"FOA_Ptr": "0x000461EA",
+			"FOA_Rva": "0x00056C5A"
+		},
+		{
+			"Text_Raw": "「いや、僕だよ、優里」",
+			"Text_Tra": "『No, Yuri, it's me.』",
+			"FOA_Ptr": "0x00046242",
+			"FOA_Rva": "0x00056CAD"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004625A",
+			"FOA_Rva": "0x00056CC5"
+		},
+		{
+			"Text_Raw": "両手をぱたぱたと振り、落ち着いてと示す。",
+			"Text_Tra": "I gently flap both my hands, trying to calm her down a little.",
+			"FOA_Ptr": "0x0004629A",
+			"FOA_Rva": "0x00056CCC"
+		},
+		{
+			"Text_Raw": "「あ？　あれ、信様？」",
+			"Text_Tra": "『Huh? Oh? Master Shin?』",
+			"FOA_Ptr": "0x000462F2",
+			"FOA_Rva": "0x00056CF7"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004630A",
+			"FOA_Rva": "0x00056D1E"
+		},
+		{
+			"Text_Raw": "優里が目の焦点をあわせ、きょとんとする。",
+			"Text_Tra": "Her eyes come back into focus, but she still looks puzzled at my presence.",
+			"FOA_Ptr": "0x0004634A",
+			"FOA_Rva": "0x00056D25"
+		},
+		{
+			"Text_Raw": "「どうしました？　まだドーナツは半分ほど残っていますが、なにか問題でもありましたか？」",
+			"Text_Tra": "『What's wrong? We still have more than half the donuts left. Is something the matter?』",
+			"FOA_Ptr": "0x000463A2",
+			"FOA_Rva": "0x00056D50"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000463BA",
+			"FOA_Rva": "0x00056DB7"
+		},
+		{
+			"Text_Raw": "「問題はないよ。ただ、僕たちがあまりに忙しそうだから、春姫や冬人さんが店の仕事を手伝ってくれることになったんだ」",
+			"Text_Tra": "『Nope. But we're so busy, Haruhime and Fuyuhito are going to help out with the café.』",
+			"FOA_Ptr": "0x000463FA",
+			"FOA_Rva": "0x00056DBE"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00046412",
+			"FOA_Rva": "0x00056E30"
+		},
+		{
+			"Text_Raw": "「春姫様たちが！？　いや、そんな恐れ多いことは……！」",
+			"Text_Tra": "『Lady Haruhime is?! I can't allow her to-』",
+			"FOA_Ptr": "0x00046452",
+			"FOA_Rva": "0x00056E37"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004646A",
+			"FOA_Rva": "0x00056E7E"
+		},
+		{
+			"Text_Raw": "これも反射的に断ろうとして、優里が言葉と動きを止める。",
+			"Text_Tra": "She starts out reflexively replying, but then she stops in her tracks.",
+			"FOA_Ptr": "0x000464AA",
+			"FOA_Rva": "0x00056E85"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x00046502",
+			"FOA_Rva": "0x00056EBE"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004651A",
+			"FOA_Rva": "0x00056EDB"
+		},
+		{
+			"Text_Raw": "「……あー」",
+			"Text_Tra": "『...Ah.』",
+			"FOA_Ptr": "0x0004655A",
+			"FOA_Rva": "0x00056EE2"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00046572",
+			"FOA_Rva": "0x00056EFF"
+		},
+		{
+			"Text_Raw": "「……うーん」",
+			"Text_Tra": "『...Hmmm.』",
+			"FOA_Ptr": "0x000465B2",
+			"FOA_Rva": "0x00056F06"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000465CA",
+			"FOA_Rva": "0x00056F25"
+		},
+		{
+			"Text_Raw": "彼女が考えこみ、数秒後、がっくりと肩を落とす。",
+			"Text_Tra": "She thinks for a moment, and after a few seconds, her shoulders slump.",
+			"FOA_Ptr": "0x0004660A",
+			"FOA_Rva": "0x00056F2C"
+		},
+		{
+			"Text_Raw": "「……手伝って頂ければ助かりますね」",
+			"Text_Tra": "『...They'll be a big help.』",
+			"FOA_Ptr": "0x00046662",
+			"FOA_Rva": "0x00056F5D"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004667A",
+			"FOA_Rva": "0x00056F92"
+		},
+		{
+			"Text_Raw": "「素直でいいことだと思うよ」",
+			"Text_Tra": "『That's the response I was looking for.』",
+			"FOA_Ptr": "0x000466BA",
+			"FOA_Rva": "0x00056F99"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000466D2",
+			"FOA_Rva": "0x00056FB7"
+		},
+		{
+			"Text_Raw": "正直な回答に、笑ってしまう。",
+			"Text_Tra": "I laugh at her honesty.",
+			"FOA_Ptr": "0x00046712",
+			"FOA_Rva": "0x00056FBE"
+		},
+		{
+			"Text_Raw": "「それで、僕と優里は、今日はこれで店の仕事は終わりってことになったんだ」",
+			"Text_Tra": "『This means you and I can take the rest of the day off.』",
+			"FOA_Ptr": "0x0004676A",
+			"FOA_Rva": "0x00056FDD"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00046782",
+			"FOA_Rva": "0x00057027"
+		},
+		{
+			"Text_Raw": "「え？　でも……」",
+			"Text_Tra": "『We can? Hold on-』",
+			"FOA_Ptr": "0x000467C2",
+			"FOA_Rva": "0x0005702E"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000467DA",
+			"FOA_Rva": "0x00057051"
+		},
+		{
+			"Text_Raw": "「無理は禁物だよ。古代の店でも忙しいときは、働く人を増やしたり、交代で休みをいれたりしたんだ」",
+			"Text_Tra": "『You're pushing yourself too hard. When a café got too busy in the past, they would bring in extra people, or take it in turns to take a break.』",
+			"FOA_Ptr": "0x0004681A",
+			"FOA_Rva": "0x00057058"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00046832",
+			"FOA_Rva": "0x000570B8"
+		},
+		{
+			"Text_Raw": "「そう、なんですか」",
+			"Text_Tra": "『Oh. Okay.』",
+			"FOA_Ptr": "0x00046872",
+			"FOA_Rva": "0x000570BF"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004688A",
+			"FOA_Rva": "0x000570E4"
+		},
+		{
+			"Text_Raw": "古代でもそうであったと聞けば、優里は素直に納得してしまう。",
+			"Text_Tra": "Yuri accepts it easily when I frame this as coming from the past.",
+			"FOA_Ptr": "0x000468CA",
+			"FOA_Rva": "0x000570EB"
+		},
+		{
+			"Text_Raw": "もちろん例外的な対処だが――こうでも言わなければ、律儀な優里は店から離れることを認めないだろう。",
+			"Text_Tra": "Of course, that wasn't all the time-but I'm saying what I need to in order for Yuri to leave the café.",
+			"FOA_Ptr": "0x00046922",
+			"FOA_Rva": "0x00057128"
+		},
+		{
+			"Text_Raw": "「春姫と互角に戦った、話題の可愛い看板娘がいなくなるのは、お客さんには寂しいことかもしれないけどね」",
+			"Text_Tra": "『Although the customers might be sad to see the face of the café ending her shift; the cute girl who fought toe-to-toe with Haruhime.』",
+			"FOA_Ptr": "0x0004697A",
+			"FOA_Rva": "0x0005718B"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00046992",
+			"FOA_Rva": "0x000571F1"
+		},
+		{
+			"Text_Raw": "「可愛いというのは心外です。世辞であれば、せめて強いと言ってください」",
+			"Text_Tra": "『No need for the 'cute' part. If you're looking to compliment me, at least go with 'strong.'』",
+			"FOA_Ptr": "0x000469D2",
+			"FOA_Rva": "0x000571F8"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000469EA",
+			"FOA_Rva": "0x0005724F"
+		},
+		{
+			"Text_Raw": "むふん、と優里が胸を張る。",
+			"Text_Tra": "Yuri puffs herself up proudly.",
+			"FOA_Ptr": "0x00046A2A",
+			"FOA_Rva": "0x00057256"
+		},
+		{
+			"Text_Raw": "可愛い制服姿のわりには強気すぎる態度だが――とても似合っていた。",
+			"Text_Tra": "She's acting pretty tough in contrast to her cute uniform, but boy-it really suits her.",
+			"FOA_Ptr": "0x00046A82",
+			"FOA_Rva": "0x00057273"
+		},
+		{
+			"Text_Raw": "「わかった。強くて可愛い看板娘だね」",
+			"Text_Tra": "『Okay. The strong, cute face of the café.』",
+			"FOA_Ptr": "0x00046ADA",
+			"FOA_Rva": "0x000572B6"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00046AF2",
+			"FOA_Rva": "0x000572DC"
+		},
+		{
+			"Text_Raw": "降参すると笑顔で手をあげる。",
+			"Text_Tra": "I raise my hands, giving up.",
+			"FOA_Ptr": "0x00046B32",
+			"FOA_Rva": "0x000572E3"
+		},
+		{
+			"Text_Raw": "『カントの女性への誉め言葉は難しいですね』",
+			"Text_Tra": "『It is difficult to discern what kind of compliments Kanto women like.』",
+			"FOA_Ptr": "0x00046B8A",
+			"FOA_Rva": "0x00057302"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x00046BA2",
+			"FOA_Rva": "0x0005733D"
+		},
+		{
+			"Text_Raw": "「まったくだ」",
+			"Text_Tra": "『You're telling me.』",
+			"FOA_Ptr": "0x00046BE2",
+			"FOA_Rva": "0x00057344"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00046BFA",
+			"FOA_Rva": "0x00057354"
+		},
+		{
+			"Text_Raw": "「さて。話は済んだかな？」",
+			"Text_Tra": "『Okay. Are you finished here?』",
+			"FOA_Ptr": "0x00046CD6",
+			"FOA_Rva": "0x0005735B"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x00046CEE",
+			"FOA_Rva": "0x00057386"
+		},
+		{
+			"Text_Raw": "僕らの様子をうかがっていた冬人が、優里と代わるために声をかけてきた。",
+			"Text_Tra": "Fuyuhito has been giving us some respectful distance, but now he steps in to switch with Yuri.",
+			"FOA_Ptr": "0x00046D3E",
+			"FOA_Rva": "0x0005738D"
+		},
+		{
+			"Text_Raw": "「冬人様、お手をわずらわせてしまい大変申し訳ありませんが、よろしくお願いいたします」",
+			"Text_Tra": "『Master Fuyuhito, my apologies for causing you all this trouble. Thank you so much.』",
+			"FOA_Ptr": "0x00046DB2",
+			"FOA_Rva": "0x000573D4"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00046DCA",
+			"FOA_Rva": "0x00057439"
+		},
+		{
+			"Text_Raw": "「気にすることはない。本来、カントで責任を負うべきは私たち八剣なんだからね」",
+			"Text_Tra": "『No need for that. The Swords are the ones responsible for the future of Kanto.』",
+			"FOA_Ptr": "0x00046E0A",
+			"FOA_Rva": "0x00057440"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x00046E22",
+			"FOA_Rva": "0x0005749D"
+		},
+		{
+			"Text_Raw": "冬人が穏やかな大人の対応で応える。",
+			"Text_Tra": "Fuyuhito gives a calm, mature response.",
+			"FOA_Ptr": "0x00046E62",
+			"FOA_Rva": "0x000574A4"
+		},
+		{
+			"Text_Raw": "「そうであれば、信様も八之神となりますが」",
+			"Text_Tra": "『If that's so, Master Shin is also the Hachi-no-Kami.』",
+			"FOA_Ptr": "0x00046EBA",
+			"FOA_Rva": "0x000574C9"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00046ED2",
+			"FOA_Rva": "0x00057504"
+		},
+		{
+			"Text_Raw": "他意はなく、言葉を言葉の通りに聞いてしまう優里が、僕へと視線を向けた。",
+			"Text_Tra": "Yuri takes his words at face value, and looks over at me.",
+			"FOA_Ptr": "0x00046F12",
+			"FOA_Rva": "0x0005750B"
+		},
+		{
+			"Text_Raw": "「はは。彼の役目は身体を動かすことではないからね。それ以上に頭を使ってもらうほうがよいのだろう」",
+			"Text_Tra": "『Haha. His primary role isn't a physical one. We need him using his head, not his body.』",
+			"FOA_Ptr": "0x00046F6A",
+			"FOA_Rva": "0x00057554"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x00046F82",
+			"FOA_Rva": "0x000575C5"
+		},
+		{
+			"Text_Raw": "「その通りですね」",
+			"Text_Tra": "『That's true.』",
+			"FOA_Ptr": "0x00046FC2",
+			"FOA_Rva": "0x000575CC"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00046FDA",
+			"FOA_Rva": "0x000575EF"
+		},
+		{
+			"Text_Raw": "優里まで素直に納得する。",
+			"Text_Tra": "Yuri accepts that smoothly.",
+			"FOA_Ptr": "0x0004701A",
+			"FOA_Rva": "0x000575F6"
+		},
+		{
+			"Text_Raw": "「まあ、向き不向きなら、僕も思考作業のほうが性に合っているけど」",
+			"Text_Tra": "『Well, everyone is good at different things. I'm best suited to thinking.』",
+			"FOA_Ptr": "0x00047072",
+			"FOA_Rva": "0x00057611"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004708A",
+			"FOA_Rva": "0x00057653"
+		},
+		{
+			"Text_Raw": "色々とあって力もつけたが、それでも、戦うよりは人の役に立つことを考えるほうが好みなのは変わらない。",
+			"Text_Tra": "I've become stronger, in many ways, but I still prefer helping others out rather than fighting.",
+			"FOA_Ptr": "0x000470CA",
+			"FOA_Rva": "0x0005765A"
+		},
+		{
+			"Text_Raw": "「さあ、２人とも。皆に注目されないよう、そろそろ行きなさい」",
+			"Text_Tra": "『Okay, you two. Get out of here before everyone notices you leaving.』",
+			"FOA_Ptr": "0x00047122",
+			"FOA_Rva": "0x000576BF"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x0004713A",
+			"FOA_Rva": "0x0005770C"
+		},
+		{
+			"Text_Raw": "『確かに、周囲に比べれば目立つ会話の輪ですね――主に優里様の服装の影響ですが』",
+			"Text_Tra": "『You are starting to attract attention, standing around talking like this-although Yuri's clothing might be the major contributing factor.』",
+			"FOA_Ptr": "0x0004717A",
+			"FOA_Rva": "0x00057713"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x00047192",
+			"FOA_Rva": "0x00057772"
+		},
+		{
+			"Text_Raw": "「……別に、私が着ることを望んだわけではありませんよ」",
+			"Text_Tra": "『...I'm not wearing this because I want to.』",
+			"FOA_Ptr": "0x000471D2",
+			"FOA_Rva": "0x00057779"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000471EA",
+			"FOA_Rva": "0x000577C0"
+		},
+		{
+			"Text_Raw": "今さら自分の服装を思い出し、優里が照れる。",
+			"Text_Tra": "Yuri remembers what she's wearing, and gets embarrassed again.",
+			"FOA_Ptr": "0x0004722A",
+			"FOA_Rva": "0x000577C7"
+		},
+		{
+			"Text_Raw": "可愛い。",
+			"Text_Tra": "So cute.",
+			"FOA_Ptr": "0x00047282",
+			"FOA_Rva": "0x000577F4"
+		},
+		{
+			"Text_Raw": "やはり照れている女の子は最高だな。それが普段は真面目な子であれば最高の最高だ。",
+			"Text_Tra": "Girls really are the best when they're embarrassed-and even better when they are so serious the rest of the time.",
+			"FOA_Ptr": "0x000472DA",
+			"FOA_Rva": "0x000577FF"
+		},
+		{
+			"Text_Raw": "「とにかく、ここを離れるのでしたら着替えてきます」",
+			"Text_Tra": "『If we're leaving, I'll go and get changed.』",
+			"FOA_Ptr": "0x00047332",
+			"FOA_Rva": "0x00057850"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004734A",
+			"FOA_Rva": "0x00057893"
+		},
+		{
+			"Text_Raw": "そそくさと優里が小屋の中へと消える。",
+			"Text_Tra": "Yuri hurries off at once.",
+			"FOA_Ptr": "0x000473E2",
+			"FOA_Rva": "0x0005789A"
+		},
+		{
+			"Text_Raw": "「あの服のままでもよかったのに」",
+			"Text_Tra": "『She didn't have to change on my account.』",
+			"FOA_Ptr": "0x0004743A",
+			"FOA_Rva": "0x000578C1"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00047452",
+			"FOA_Rva": "0x000578E3"
+		},
+		{
+			"Text_Raw": "『普段着のようにして汚すのが忍びないのでしょう』",
+			"Text_Tra": "『She probably does not want to get her uniform dirty.』",
+			"FOA_Ptr": "0x00047492",
+			"FOA_Rva": "0x000578EA"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x000474AA",
+			"FOA_Rva": "0x0005792B"
+		},
+		{
+			"Text_Raw": "「なるほど」",
+			"Text_Tra": "『Ah, I see.』",
+			"FOA_Ptr": "0x000474EA",
+			"FOA_Rva": "0x00057932"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00047502",
+			"FOA_Rva": "0x00057940"
+		},
+		{
+			"Text_Raw": "あれはあれで、優里も自分だけの特別な服に愛着があるのだな。",
+			"Text_Tra": "Yuri might act all embarrassed about it, but her uniform has special meaning for her.",
+			"FOA_Ptr": "0x00047542",
+			"FOA_Rva": "0x00057947"
+		},
+		{
+			"Text_Raw": "愛する少女であるからこそ、もっと色々と着せてあげたいものだ。",
+			"Text_Tra": "Because I love her so much, I'm also interested in putting her in all sorts of different outfits.",
+			"FOA_Ptr": "0x0004759A",
+			"FOA_Rva": "0x00057984"
+		},
+		{
+			"Text_Raw": "今度、染さんとまた相談してみよう。",
+			"Text_Tra": "I need to pay Somé another visit.",
+			"FOA_Ptr": "0x000475F2",
+			"FOA_Rva": "0x000579C3"
+		},
+		{
+			"Text_Raw": "メイド服の文化とか、カントでも復活させたいよなー（個人的な趣味）。",
+			"Text_Tra": "Maybe I could bring maid culture back to Kanto as well. It's all a matter of personal taste.",
+			"FOA_Ptr": "0x0004764A",
+			"FOA_Rva": "0x000579E8"
+		},
+		{
+			"Text_Raw": "「そうだ。信くんに、春から伝え忘れていたという話があったんだ」",
+			"Text_Tra": "『Ah, Shin. Haru had one last thing she forgot to tell you.』",
+			"FOA_Ptr": "0x000476F2",
+			"FOA_Rva": "0x00057A2D"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x0004770A",
+			"FOA_Rva": "0x00057A7C"
+		},
+		{
+			"Text_Raw": "残された冬人が、最後の伝言という感じで告げる。",
+			"Text_Tra": "Fuyuhito sets me up for a parting exchange.",
+			"FOA_Ptr": "0x0004775A",
+			"FOA_Rva": "0x00057A83"
+		},
+		{
+			"Text_Raw": "「君の鉄鬼の力を引き出す訓練だが、茜と葵にも、しばらく中止すると伝えてあるそうだ。安心して優里を休ませてあげてくれ――と」",
+			"Text_Tra": "『She let Akane and Aoi know that you'll be taking a break from your training to draw out your Tekki powers, so you don't have to worry about that while you relax with Yuri.』",
+			"FOA_Ptr": "0x000477B2",
+			"FOA_Rva": "0x00057AB4"
+		},
+		{
+			"Text_Raw": "冬　人",
+			"Text_Tra": "Fuyuhito",
+			"FOA_Ptr": "0x000477CA",
+			"FOA_Rva": "0x00057B3F"
+		},
+		{
+			"Text_Raw": "「どこまでも手際がよいですね」",
+			"Text_Tra": "『She's got the whole thing planned out.』",
+			"FOA_Ptr": "0x0004780A",
+			"FOA_Rva": "0x00057B46"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00047822",
+			"FOA_Rva": "0x00057B66"
+		},
+		{
+			"Text_Raw": "八剣全員が僕と優里の関係を知っていて、外堀を埋めているザマだった。",
+			"Text_Tra": "All of the Swords know about Yuri and me, and they're all working to allow us to spend time together.",
+			"FOA_Ptr": "0x00047862",
+			"FOA_Rva": "0x00057B6D"
+		},
+		{
+			"Text_Raw": "いや、もはや外堀を埋めるどころか、外堀を埋めたところに柵を建てて畑を作って一面の農地にするつもりかもしれない。",
+			"Text_Tra": "Well, more than “spend time together”-they are building the bedroom and installing the bed.",
+			"FOA_Ptr": "0x000478BA",
+			"FOA_Rva": "0x00057BB2"
+		},
+		{
+			"Text_Raw": "戦いが終われば、堀などいらないからな。",
+			"Text_Tra": "I guess this is how things work once the fighting ends.",
+			"FOA_Ptr": "0x00047912",
+			"FOA_Rva": "0x00057C23"
+		},
+		{
+			"Text_Raw": "「お待たせしました」",
+			"Text_Tra": "『Sorry to keep you waiting.』",
+			"FOA_Ptr": "0x00047ABE",
+			"FOA_Rva": "0x00057C4C"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00047AD6",
+			"FOA_Rva": "0x00057C71"
+		},
+		{
+			"Text_Raw": "たいして待つことなく、いつもの和服に着替えた優里が戻ってきた。",
+			"Text_Tra": "Yuri is back shortly, after changing into her normal clothing.",
+			"FOA_Ptr": "0x00047B16",
+			"FOA_Rva": "0x00057C78"
+		},
+		{
+			"Text_Raw": "それを確認し、冬人は穏やかに笑い、小屋での接客に向かう。",
+			"Text_Tra": "Fuyuhito gives a quiet smile, and then heads over to start taking care of customers.",
+			"FOA_Ptr": "0x00047B6E",
+			"FOA_Rva": "0x00057CB9"
+		},
+		{
+			"Text_Raw": "「じゃあ、行こうか」",
+			"Text_Tra": "『Come on then. Let's go.』",
+			"FOA_Ptr": "0x00047BC6",
+			"FOA_Rva": "0x00057CF4"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00047BDE",
+			"FOA_Rva": "0x00057D0A"
+		},
+		{
+			"Text_Raw": "「はい」",
+			"Text_Tra": "『I'm ready!』",
+			"FOA_Ptr": "0x00047C1E",
+			"FOA_Rva": "0x00057D11"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00047C36",
+			"FOA_Rva": "0x00057D2A"
+		},
+		{
+			"Text_Raw": "この場で、これ以上の話すことはなく、僕らは喫茶店を立ち去ることにした。",
+			"Text_Tra": "Rather than hold a longer discussion here, we decide to leave the café behind.",
+			"FOA_Ptr": "0x00047C76",
+			"FOA_Rva": "0x00057D31"
+		},
+		{
+			"Text_Raw": "ちなみに、列の案内をはじめた春姫や、小屋で茶を配りだした冬人に、皆の視線が集まり、僕や優里の離脱は驚くほど注意を引かなかった。",
+			"Text_Tra": "Everyone is so fixated on Haruhime guiding people in, and Fuyuhito giving out the tea and donuts, it's actually surprising how easily Yuri and I slip away.",
+			"FOA_Ptr": "0x00047CCE",
+			"FOA_Rva": "0x00057D7A"
+		},
+		{
+			"Text_Raw": "が――",
+			"Text_Tra": "That said-",
+			"FOA_Ptr": "0x00047D5A",
+			"FOA_Rva": "0x00057DFB"
+		},
+		{
+			"Text_Raw": "「…………？」",
+			"Text_Tra": "『...?』",
+			"FOA_Ptr": "0x00047DB2",
+			"FOA_Rva": "0x00057E04"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00047DCA",
+			"FOA_Rva": "0x00057E14"
+		},
+		{
+			"Text_Raw": "僕は強い視線を感じて足を止めた。",
+			"Text_Tra": "I do feel a pair of intense eyes fixed upon me.",
+			"FOA_Ptr": "0x00047E0A",
+			"FOA_Rva": "0x00057E1B"
+		},
+		{
+			"Text_Raw": "見渡すと、他の面の者たちと異なり、僕や優里をまっすぐに見つめる男がいた。",
+			"Text_Tra": "I look around, and notice one man standing differently from the others-one man, looking right at Yuri and me.",
+			"FOA_Ptr": "0x00047F9A",
+			"FOA_Rva": "0x00057E4D"
+		},
+		{
+			"Text_Raw": "誰もが狐面で顔を隠しているせいもあるが、特別、目立った特徴がある者ではない。",
+			"Text_Tra": "All of them are hiding their faces behind fox masks, so he doesn't have any particular distinguishing characteristics.",
+			"FOA_Ptr": "0x00047FF2",
+			"FOA_Rva": "0x00057E98"
+		},
+		{
+			"Text_Raw": "ただ、行列にも並ばず、かといって喫茶店で食事を終えたという感じでもなく、ただ道端に立って僕らを見つめていることは奇妙だった。",
+			"Text_Tra": "He isn't lining up, but also doesn't seem to have just finished dining in the café; he's just standing at the side of the road, looking at us.",
+			"FOA_Ptr": "0x0004804A",
+			"FOA_Rva": "0x00057EE7"
+		},
+		{
+			"Text_Raw": "「どうしました？」",
+			"Text_Tra": "『Is something the matter?』",
+			"FOA_Ptr": "0x000481AA",
+			"FOA_Rva": "0x00057F66"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000481C2",
+			"FOA_Rva": "0x00057F89"
+		},
+		{
+			"Text_Raw": "立ち止まった僕に気づかず先行していた優里が、戻ってくる。",
+			"Text_Tra": "Yuri, who moved on ahead, comes back toward me.",
+			"FOA_Ptr": "0x00048202",
+			"FOA_Rva": "0x00057F90"
+		},
+		{
+			"Text_Raw": "「いや、なんかあの人に、じっと見られている気が――あれ？」",
+			"Text_Tra": "『Maybe, maybe not. That guy there seems to be staring right at us-Huh?』",
+			"FOA_Ptr": "0x0004825A",
+			"FOA_Rva": "0x00057FCB"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00048272",
+			"FOA_Rva": "0x00058007"
+		},
+		{
+			"Text_Raw": "優里に意識を向けている間に、男の姿は消えていた。",
+			"Text_Tra": "In the brief time I was looking at Yuri, the man has vanished.",
+			"FOA_Ptr": "0x000482E6",
+			"FOA_Rva": "0x0005800E"
+		},
+		{
+			"Text_Raw": "高速移動したとかではなく、他の面の者たちに紛れて見失ってしまったようだ。",
+			"Text_Tra": "Rather than some kind of enhanced mobility, he probably just mixed back in among the other masks.",
+			"FOA_Ptr": "0x0004834E",
+			"FOA_Rva": "0x00058041"
+		},
+		{
+			"Text_Raw": "「ふむ。見られていたことが気になったと言っても、信様はまだまだ正体不明の八剣様ではあるので、注目している者はいますよ？」",
+			"Text_Tra": "『Hmmm. There's still a lot of people that don't know about you as a Sword, Master Shin. That's probably all it was.』",
+			"FOA_Ptr": "0x000483C2",
+			"FOA_Rva": "0x0005808C"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000483DA",
+			"FOA_Rva": "0x00058115"
+		},
+		{
+			"Text_Raw": "優里が自然なことだと言う。",
+			"Text_Tra": "Yuri's assumption is perfectly natural.",
+			"FOA_Ptr": "0x0004841A",
+			"FOA_Rva": "0x0005811C"
+		},
+		{
+			"Text_Raw": "「そうかな」",
+			"Text_Tra": "『Maybe.』",
+			"FOA_Ptr": "0x000484A6",
+			"FOA_Rva": "0x00058139"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000484BE",
+			"FOA_Rva": "0x00058147"
+		},
+		{
+			"Text_Raw": "『現在は、オーナーより優里様のほうが注目度は高そうですが』",
+			"Text_Tra": "『I think people are more interested in Yuri than you at the moment, Owner.』",
+			"FOA_Ptr": "0x0004850E",
+			"FOA_Rva": "0x0005814E"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x00048526",
+			"FOA_Rva": "0x00058199"
+		},
+		{
+			"Text_Raw": "「ああ……それもあるかもしれません」",
+			"Text_Tra": "『Yeah. That might be it too.』",
+			"FOA_Ptr": "0x00048582",
+			"FOA_Rva": "0x000581A0"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004859A",
+			"FOA_Rva": "0x000581D5"
+		},
+		{
+			"Text_Raw": "優里は自分のこととなると嫌そうな顔をするが、素直に認める。",
+			"Text_Tra": "Yuri normally doesn't like it when things come back to her, but she accepts this one smoothly.",
+			"FOA_Ptr": "0x000485DA",
+			"FOA_Rva": "0x000581DC"
+		},
+		{
+			"Text_Raw": "八剣に付き従う一般人から、昨日の戦いに、この喫茶店での服がカントでは別格に目立つことなどなど、注目の理由には事欠かない。",
+			"Text_Tra": "From a regular girl who happens to be working with the Swords, to someone who wears a flashy uniform and fights Haruhime; there's plenty of reasons for her to be getting attention.",
+			"FOA_Ptr": "0x00048632",
+			"FOA_Rva": "0x00058219"
+		},
+		{
+			"Text_Raw": "「優里に惚れた男がいても、まったく不思議じゃないしね」",
+			"Text_Tra": "『I wouldn't be surprised if you've got some admirers, Yuri.』",
+			"FOA_Ptr": "0x0004868A",
+			"FOA_Rva": "0x00058294"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000486A2",
+			"FOA_Rva": "0x000582CC"
+		},
+		{
+			"Text_Raw": "「……なぜ、それを、にやにやと言われますかね？」",
+			"Text_Tra": "『...Why are you grinning as you say that?』",
+			"FOA_Ptr": "0x000486E2",
+			"FOA_Rva": "0x000582D3"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000486FA",
+			"FOA_Rva": "0x00058314"
+		},
+		{
+			"Text_Raw": "「いや、皆に注目されている優里が僕の彼女なんだから、自然と優越感は抱くものだよ」",
+			"Text_Tra": "『Because everyone is looking at you, Yuri, and you're my girlfriend. That makes me feel so superior.』",
+			"FOA_Ptr": "0x0004873A",
+			"FOA_Rva": "0x0005831B"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00048752",
+			"FOA_Rva": "0x0005836D"
+		},
+		{
+			"Text_Raw": "顔もにやけてしまうというものだ。",
+			"Text_Tra": "I can't wipe the smile off my face.",
+			"FOA_Ptr": "0x00048792",
+			"FOA_Rva": "0x00058374"
+		},
+		{
+			"Text_Raw": "そんな僕に、優里は睨んでいた目を見開く。",
+			"Text_Tra": "Yuri's glaring eyes open wide.",
+			"FOA_Ptr": "0x000487EA",
+			"FOA_Rva": "0x00058397"
+		},
+		{
+			"Text_Raw": "「ほ、本当に！　あなたは、すぐ、恥ずかしいことを言いますね！」",
+			"Text_Tra": "『You really do say the most embarrassing things! Really!』",
+			"FOA_Ptr": "0x000488AA",
+			"FOA_Rva": "0x000583C2"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000488C2",
+			"FOA_Rva": "0x00058411"
+		},
+		{
+			"Text_Raw": "「言霊使いは嘘がつけないんでね」",
+			"Text_Tra": "『Kotodama users can't lie.』",
+			"FOA_Ptr": "0x00048912",
+			"FOA_Rva": "0x00058418"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004892A",
+			"FOA_Rva": "0x0005843A"
+		},
+		{
+			"Text_Raw": "「それは関係ありません！　同じ言霊使いでも春姫様はちゃんと慎ましくされています！」",
+			"Text_Tra": "『That's got nothing to do with this! Lady Haruhime is a Kotodama user, but she's not like you at all!』",
+			"FOA_Ptr": "0x0004896A",
+			"FOA_Rva": "0x00058441"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00048982",
+			"FOA_Rva": "0x000584A4"
+		},
+		{
+			"Text_Raw": "「あはは」",
+			"Text_Tra": "『Ahaha!』",
+			"FOA_Ptr": "0x000489C2",
+			"FOA_Rva": "0x000584AB"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000489DA",
+			"FOA_Rva": "0x000584B7"
+		},
+		{
+			"Text_Raw": "笑いながら、僕は歩き出す。",
+			"Text_Tra": "I give a chuckle as I start walking.",
+			"FOA_Ptr": "0x00048A1A",
+			"FOA_Rva": "0x000584BE"
+		},
+		{
+			"Text_Raw": "「もう！　待ってください！」",
+			"Text_Tra": "『Hey! Hold on a moment!』",
+			"FOA_Ptr": "0x00048A72",
+			"FOA_Rva": "0x000584DB"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00048A8A",
+			"FOA_Rva": "0x00058508"
+		},
+		{
+			"Text_Raw": "ぷりぷりしながら優里が追ってくるが――それすらも可愛いなと、僕はわざと早足に通りまで出ることにした。",
+			"Text_Tra": "Yuri comes after me, in a cute little huff-everything she does is so cute, it actually makes me want to speed up.",
+			"FOA_Ptr": "0x00048B22",
+			"FOA_Rva": "0x0005850F"
+		},
+		{
+			"Text_Raw": "「ふう。こっちは人が少なくて落ち着くね」",
+			"Text_Tra": "『Phew. There's less people around here. Calming.』",
+			"FOA_Ptr": "0x00048C6E",
+			"FOA_Rva": "0x00058576"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00048C86",
+			"FOA_Rva": "0x000585A0"
+		},
+		{
+			"Text_Raw": "いつもは活気があると感じる職人街も、喫茶店に比べればスカスカに思えてしまう。",
+			"Text_Tra": "The normally lively crafters' district feels desolate when compared to the café.",
+			"FOA_Ptr": "0x00048CC6",
+			"FOA_Rva": "0x000585A7"
+		},
+		{
+			"Text_Raw": "もちろん、住人の半数以上は、今も普通にお仕事中であります。",
+			"Text_Tra": "Of course, more than half of the population are still hard at work.",
+			"FOA_Ptr": "0x00048D1E",
+			"FOA_Rva": "0x000585F6"
+		},
+		{
+			"Text_Raw": "「それで、どうしますか？　王宮に戻って書き物仕事でもしますか？」",
+			"Text_Tra": "『What shall we do? Back to the palace to do some writing?』",
+			"FOA_Ptr": "0x00048E1A",
+			"FOA_Rva": "0x00058633"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00048E32",
+			"FOA_Rva": "0x00058684"
+		},
+		{
+			"Text_Raw": "彼女を休ませるための配慮だということを知らず、優里が別の仕事を探そうとしている。",
+			"Text_Tra": "Yuri doesn't know that this is all to help her relax, and she's already looking for more work.",
+			"FOA_Ptr": "0x00048E82",
+			"FOA_Rva": "0x0005868B"
+		},
+		{
+			"Text_Raw": "「いや、今日は休もうと思っているんだ」",
+			"Text_Tra": "『No. I think I'm going to take the day off.』",
+			"FOA_Ptr": "0x00048EDA",
+			"FOA_Rva": "0x000586DE"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00048EF2",
+			"FOA_Rva": "0x00058706"
+		},
+		{
+			"Text_Raw": "「休む？　体調でも悪いのですか？」",
+			"Text_Tra": "『You are? Are you feeling unwell?』",
+			"FOA_Ptr": "0x00048F32",
+			"FOA_Rva": "0x0005870D"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00048F4A",
+			"FOA_Rva": "0x00058740"
+		},
+		{
+			"Text_Raw": "「元気だよ。でも、昨日の春姫との手合わせまで、僕も優里もずっと訓練とかしていたし、一息つきたいなって思ったんだ」",
+			"Text_Tra": "『I'm fine. But I've been training with you for so long, until your fight with Haruhime yesterday, so I just need a bit of a breather.』",
+			"FOA_Ptr": "0x00048F8A",
+			"FOA_Rva": "0x00058747"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00048FA2",
+			"FOA_Rva": "0x000587B9"
+		},
+		{
+			"Text_Raw": "「なるほど。そういえば信様にも訓練で苦労をかけてしまいましたね」",
+			"Text_Tra": "『I see. My training has placed strain on you as well, Master Shin.』",
+			"FOA_Ptr": "0x00048FE2",
+			"FOA_Rva": "0x000587C0"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00048FFA",
+			"FOA_Rva": "0x00058811"
+		},
+		{
+			"Text_Raw": "こういう話では、八剣としての僕を立ててくれる優里である。",
+			"Text_Tra": "Yuri is still thinking of me as a Sword.",
+			"FOA_Ptr": "0x0004903A",
+			"FOA_Rva": "0x00058818"
+		},
+		{
+			"Text_Raw": "「それなら全力で休みましょう！」",
+			"Text_Tra": "『So let's really blow off some steam!』",
+			"FOA_Ptr": "0x00049092",
+			"FOA_Rva": "0x00058853"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000490AA",
+			"FOA_Rva": "0x00058884"
+		},
+		{
+			"Text_Raw": "なにかの準備運動でもするように、優里が腕を組んだり手指を握ったりする。",
+			"Text_Tra": "Yuri flexes her arms and squeezes her fingers, as though warming up for something.",
+			"FOA_Ptr": "0x000490EA",
+			"FOA_Rva": "0x0005888B"
+		},
+		{
+			"Text_Raw": "「いや……ここは気合を入れるところじゃなくて、気を抜くところだよ」",
+			"Text_Tra": "『Hold on. You shouldn't be limbering up, you should be limbering... down?』",
+			"FOA_Ptr": "0x00049142",
+			"FOA_Rva": "0x000588D4"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004915A",
+			"FOA_Rva": "0x00058918"
+		},
+		{
+			"Text_Raw": "「ん？　そうですか。私は休むときにも気合を入れますが」",
+			"Text_Tra": "『Huh? You think so? I put my all into everything-even taking a rest.』",
+			"FOA_Ptr": "0x0004919A",
+			"FOA_Rva": "0x0005891F"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000491B2",
+			"FOA_Rva": "0x00058966"
+		},
+		{
+			"Text_Raw": "「生真面目にすぎるなー」",
+			"Text_Tra": "『You really do take things so seriously!』",
+			"FOA_Ptr": "0x000491F2",
+			"FOA_Rva": "0x0005896D"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004920A",
+			"FOA_Rva": "0x00058987"
+		},
+		{
+			"Text_Raw": "古代人の感覚として、カントは真面目な人が多いとは思うのだが、その中でも優里は群を抜いていると思う。",
+			"Text_Tra": "From my ancient perspective there are a lot of serious people in Kanto, but Yuri takes the top spot with a bullet.",
+			"FOA_Ptr": "0x0004924A",
+			"FOA_Rva": "0x0005898E"
+		},
+		{
+			"Text_Raw": "「それより、優里、せっかく時間が出来たんだしデートしようか？」",
+			"Text_Tra": "『Hey, now we've got some time together, Yuri, how about we go on a date?』",
+			"FOA_Ptr": "0x000492A2",
+			"FOA_Rva": "0x000589F3"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000492BA",
+			"FOA_Rva": "0x00058A33"
+		},
+		{
+			"Text_Raw": "「……デート？」",
+			"Text_Tra": "『...A date?』",
+			"FOA_Ptr": "0x000492FA",
+			"FOA_Rva": "0x00058A3A"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00049312",
+			"FOA_Rva": "0x00058A5B"
+		},
+		{
+			"Text_Raw": "優里がきょとんとしながら繰り返す。",
+			"Text_Tra": "Yuri turns around, looking puzzled.",
+			"FOA_Ptr": "0x00049352",
+			"FOA_Rva": "0x00058A62"
+		},
+		{
+			"Text_Raw": "なにを言われたのか、まだ理解できていないのだろう。",
+			"Text_Tra": "What I just said doesn't seem to have filtered down yet.",
+			"FOA_Ptr": "0x000493AA",
+			"FOA_Rva": "0x00058A87"
+		},
+		{
+			"Text_Raw": "僕は笑顔で、彼女の反応を待つ。",
+			"Text_Tra": "I just smile and wait for her reaction.",
+			"FOA_Ptr": "0x00049402",
+			"FOA_Rva": "0x00058ABC"
+		},
+		{
+			"Text_Raw": "３、２、１――",
+			"Text_Tra": "3, 2, 1-",
+			"FOA_Ptr": "0x0004945A",
+			"FOA_Rva": "0x00058ADD"
+		},
+		{
+			"Text_Raw": "「ええ！？」",
+			"Text_Tra": "『What?!』",
+			"FOA_Ptr": "0x0004957E",
+			"FOA_Rva": "0x00058AEE"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00049596",
+			"FOA_Rva": "0x00058B0B"
+		},
+		{
+			"Text_Raw": "優里が顔を赤くしながら、たじろぐ。",
+			"Text_Tra": "She almost leaps backward, her face flaming red.",
+			"FOA_Ptr": "0x000495DA",
+			"FOA_Rva": "0x00058B12"
+		},
+		{
+			"Text_Raw": "いつか冗談めかして口にした『デート』だが、今こそ、ぴったりな状態だろう。",
+			"Text_Tra": "I joked in the past about going on a date, but this seems like the perfect time to realize it.",
+			"FOA_Ptr": "0x00049632",
+			"FOA_Rva": "0x00058B37"
+		},
+		{
+			"Text_Raw": "「嫌かな？」",
+			"Text_Tra": "『You don't want to?』",
+			"FOA_Ptr": "0x0004968A",
+			"FOA_Rva": "0x00058B82"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000496A2",
+			"FOA_Rva": "0x00058B90"
+		},
+		{
+			"Text_Raw": "「い、嫌ではありませんが……突然で心の準備が……」",
+			"Text_Tra": "『Of course I want to... This is all just a bit sudden...』",
+			"FOA_Ptr": "0x00049716",
+			"FOA_Rva": "0x00058B97"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004972E",
+			"FOA_Rva": "0x00058BDA"
+		},
+		{
+			"Text_Raw": "優里が困った顔を浮かべようとする、が。",
+			"Text_Tra": "Yuri struggles with it for a moment, but-",
+			"FOA_Ptr": "0x0004976E",
+			"FOA_Rva": "0x00058BE1"
+		},
+		{
+			"Text_Raw": "その口元が、先ほどの僕のように、にやつきかけていた。",
+			"Text_Tra": "Her mouth is having trouble hiding its smile, just like mine was before.",
+			"FOA_Ptr": "0x000497C6",
+			"FOA_Rva": "0x00058C0A"
+		},
+		{
+			"Text_Raw": "「もう恋仲になっているけど、僕は優里とデートしたい」",
+			"Text_Tra": "『We're together now, so I want to go on a date.』",
+			"FOA_Ptr": "0x0004981E",
+			"FOA_Rva": "0x00058C41"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00049836",
+			"FOA_Rva": "0x00058C77"
+		},
+		{
+			"Text_Raw": "「あ、あああ、もう！　あなたは、また、そうやって恥ずかしいことばかり言いますね！」",
+			"Text_Tra": "『Ahh, aaaahh, mmnn! You always come out with this embarrassing stuff!』",
+			"FOA_Ptr": "0x000498AA",
+			"FOA_Rva": "0x00058C7E"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x000498C2",
+			"FOA_Rva": "0x00058CE1"
+		},
+		{
+			"Text_Raw": "優里がさらに顔を赤らめ、結局、ちょっと怒ったような表情を浮かべる。",
+			"Text_Tra": "Yuri turns even redder, and something resembling an angry scowl spreads across her face.",
+			"FOA_Ptr": "0x00049902",
+			"FOA_Rva": "0x00058CE8"
+		},
+		{
+			"Text_Raw": "「私もしたいです！　デート！　是非ともしましょう！」",
+			"Text_Tra": "『But I want to go on a date too! Let's do it!』",
+			"FOA_Ptr": "0x0004995A",
+			"FOA_Rva": "0x00058D2D"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00049972",
+			"FOA_Rva": "0x00058D72"
+		},
+		{
+			"Text_Raw": "「あはは。気合がはいってるね」",
+			"Text_Tra": "『Ahaha! You definitely sound worked up for it!』",
+			"FOA_Ptr": "0x000499B2",
+			"FOA_Rva": "0x00058D79"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x000499CA",
+			"FOA_Rva": "0x00058D99"
+		},
+		{
+			"Text_Raw": "今度も、僕は声をあげて笑ってしまう。",
+			"Text_Tra": "I let out another chuckle.",
+			"FOA_Ptr": "0x00049A0A",
+			"FOA_Rva": "0x00058DA0"
+		},
+		{
+			"Text_Raw": "「もう！　もう！」",
+			"Text_Tra": "『Mmmm! Mmmnnn!』",
+			"FOA_Ptr": "0x00049A62",
+			"FOA_Rva": "0x00058DC7"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00049A7A",
+			"FOA_Rva": "0x00058DEA"
+		},
+		{
+			"Text_Raw": "『牛ですかね』",
+			"Text_Tra": "『Are you struggling with something? You sound like a cow.』",
+			"FOA_Ptr": "0x00049ABA",
+			"FOA_Rva": "0x00058DF1"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x00049AD2",
+			"FOA_Rva": "0x00058E10"
+		},
+		{
+			"Text_Raw": "僕の代わりにＹＯＵがツッコミを入れる。",
+			"Text_Tra": "I thought about taking the shot, but Yu takes it for me.",
+			"FOA_Ptr": "0x00049B12",
+			"FOA_Rva": "0x00058E17"
+		},
+		{
+			"Text_Raw": "「誰が牛ですか！」",
+			"Text_Tra": "『Hey! Who are you calling a cow?!』",
+			"FOA_Ptr": "0x00049B86",
+			"FOA_Rva": "0x00058E40"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00049B9E",
+			"FOA_Rva": "0x00058E63"
+		},
+		{
+			"Text_Raw": "「着やせしてるだけで優里の胸のサイズは牛と――」",
+			"Text_Tra": "『You're very thin, but you do have some impressive udders-』",
+			"FOA_Ptr": "0x00049BE2",
+			"FOA_Rva": "0x00058E6A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00049BFA",
+			"FOA_Rva": "0x00058E9C"
+		},
+		{
+			"Text_Raw": "反射的に漏れてしまったボケだったが。",
+			"Text_Tra": "I can't help it. It just slips out.",
+			"FOA_Ptr": "0x00049C3A",
+			"FOA_Rva": "0x00058EA3"
+		},
+		{
+			"Text_Raw": "口にしている途中、優里が拳を握りしめ、わずかに腕を引いたのを視界の端に捉えた。",
+			"Text_Tra": "Even as I finish my comment-which ultimately was intended as a compliment-I see Yuri tucking in her fist and preparing to attack.",
+			"FOA_Ptr": "0x00049C92",
+			"FOA_Rva": "0x00058ECA"
+		},
+		{
+			"Text_Raw": "回避ィ！",
+			"Text_Tra": "Emergency evasion!",
+			"FOA_Ptr": "0x00049CEA",
+			"FOA_Rva": "0x00058F1B"
+		},
+		{
+			"Text_Raw": "慌てて身体を傾けた僕の、もともと頭のあった位置を、優里の鋭い拳が突き抜ける。",
+			"Text_Tra": "I barely move my body in time, as Yuri's speeding fist punches through the air where my head was just a moment ago.",
+			"FOA_Ptr": "0x00049D42",
+			"FOA_Rva": "0x00058F26"
+		},
+		{
+			"Text_Raw": "「ちっ……加速していなくても避けましたか」",
+			"Text_Tra": "『Bah. You avoided that even without speeding up.』",
+			"FOA_Ptr": "0x00049DCE",
+			"FOA_Rva": "0x00058F75"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00049DE6",
+			"FOA_Rva": "0x00058FB0"
+		},
+		{
+			"Text_Raw": "「舌打ちしたか！？　今、舌打ちした！？」",
+			"Text_Tra": "『Hey! You said 'bah!' I just heard a 'bah!' Bah, bah, bah!』",
+			"FOA_Ptr": "0x00049E26",
+			"FOA_Rva": "0x00058FB7"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00049E3E",
+			"FOA_Rva": "0x00058FE1"
+		},
+		{
+			"Text_Raw": "かすったのか、熱を帯びた頬をさすりながら、僕は叫ぶ。",
+			"Text_Tra": "I felt something on my cheek, I'm sure, and hold it while I shout in sheep-like protest.",
+			"FOA_Ptr": "0x00049E7E",
+			"FOA_Rva": "0x00058FE8"
+		},
+		{
+			"Text_Raw": "いくら再生能力があっても、彼女の拳の威力を知る身としては、恐怖しかない。",
+			"Text_Tra": "I might have regenerative powers but I also know how powerful her fists are.",
+			"FOA_Ptr": "0x00049ED6",
+			"FOA_Rva": "0x0005901F"
+		},
+		{
+			"Text_Raw": "「気のせいですよ」",
+			"Text_Tra": "『Now who sounds like a farm animal?』",
+			"FOA_Ptr": "0x00049F2E",
+			"FOA_Rva": "0x0005906A"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00049F46",
+			"FOA_Rva": "0x0005908D"
+		},
+		{
+			"Text_Raw": "「百歩譲って舌打ちは聞き流しても、殴りかかってきたのは事実だよね！？」",
+			"Text_Tra": "『Even if I let the 'bah' go, you still tried to punch me!』",
+			"FOA_Ptr": "0x00049F86",
+			"FOA_Rva": "0x00059094"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x00049F9E",
+			"FOA_Rva": "0x000590DC"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x00049FDE",
+			"FOA_Rva": "0x000590E3"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x00049FF6",
+			"FOA_Rva": "0x00059100"
+		},
+		{
+			"Text_Raw": "「いくら恋仲になったとはいえ、あまり過ぎた冗談を口にしないほうがいいですよ。他の八剣様の品位にも関わります」",
+			"Text_Tra": "『Even if we are together, you would do well to refrain from taking your jokes too far. You wouldn't want to drag down the good name of all of the Swords.』",
+			"FOA_Ptr": "0x0004A06A",
+			"FOA_Rva": "0x00059107"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004A082",
+			"FOA_Rva": "0x00059184"
+		},
+		{
+			"Text_Raw": "優里が目を細めたまま、言う。",
+			"Text_Tra": "Yuri narrows her eyes, her tone sharp.",
+			"FOA_Ptr": "0x0004A0C2",
+			"FOA_Rva": "0x0005918B"
+		},
+		{
+			"Text_Raw": "カントの拳は男女平等である。",
+			"Text_Tra": "There's equality in fighting in Kanto too.",
+			"FOA_Ptr": "0x0004A11A",
+			"FOA_Rva": "0x000591AA"
+		},
+		{
+			"Text_Raw": "「うーん。まあ、実際のところ、確かに僕の失言だったね。ごめん」",
+			"Text_Tra": "『Hmmm. Well, I did start it with the udders comment. I'm sorry.』",
+			"FOA_Ptr": "0x0004A232",
+			"FOA_Rva": "0x000591C9"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004A24A",
+			"FOA_Rva": "0x00059209"
+		},
+		{
+			"Text_Raw": "「こちらこそ失礼しました」",
+			"Text_Tra": "『And I'm sorry too.』",
+			"FOA_Ptr": "0x0004A2F2",
+			"FOA_Rva": "0x00059210"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004A30A",
+			"FOA_Rva": "0x0005923B"
+		},
+		{
+			"Text_Raw": "きちんと謝罪すると、優里もあっさりと許してくれる。",
+			"Text_Tra": "I give a proper apology, and Yuri forgives me on the spot.",
+			"FOA_Ptr": "0x0004A34A",
+			"FOA_Rva": "0x00059242"
+		},
+		{
+			"Text_Raw": "それどころか、笑顔まで浮かべた。",
+			"Text_Tra": "In fact, she actually starts smiling.",
+			"FOA_Ptr": "0x0004A3A2",
+			"FOA_Rva": "0x00059277"
+		},
+		{
+			"Text_Raw": "「それと、あなたのそういう素直なところは、好きです♪」",
+			"Text_Tra": "『On the subject of honest, I do love that side of you! ♪』",
+			"FOA_Ptr": "0x0004A3FA",
+			"FOA_Rva": "0x0005929A"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004A412",
+			"FOA_Rva": "0x000592E1"
+		},
+		{
+			"Text_Raw": "「僕も好きだよ」",
+			"Text_Tra": "『And I love that about you, too.』",
+			"FOA_Ptr": "0x0004A452",
+			"FOA_Rva": "0x000592E8"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004A46A",
+			"FOA_Rva": "0x000592FA"
+		},
+		{
+			"Text_Raw": "「ふふ」",
+			"Text_Tra": "『Hehe.』",
+			"FOA_Ptr": "0x0004A4AA",
+			"FOA_Rva": "0x00059301"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004A4C2",
+			"FOA_Rva": "0x0005931A"
+		},
+		{
+			"Text_Raw": "『カントらしく、まっすぐいちゃついていらっしゃいますね』",
+			"Text_Tra": "『You seem to be taking the Kanto approach to sweet talk-just going for the throat.』",
+			"FOA_Ptr": "0x0004A502",
+			"FOA_Rva": "0x00059321"
+		},
+		{
+			"Text_Raw": "ＹＯＵ",
+			"Text_Tra": "Yu",
+			"FOA_Ptr": "0x0004A51A",
+			"FOA_Rva": "0x0005936A"
+		},
+		{
+			"Text_Raw": "僕らの様子に、ＹＯＵがのんきな声をあげた。",
+			"Text_Tra": "Yu makes another lighthearted comment from the sidelines.",
+			"FOA_Ptr": "0x0004A55A",
+			"FOA_Rva": "0x00059371"
+		},
+		{
+			"Text_Raw": "「おっと、一応でも、あまり通りで遊ぶものじゃないか」",
+			"Text_Tra": "『Ahh, but we probably shouldn't be doing this out in the open.』",
+			"FOA_Ptr": "0x0004A5B2",
+			"FOA_Rva": "0x0005939E"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004A5CA",
+			"FOA_Rva": "0x000593D4"
+		},
+		{
+			"Text_Raw": "「そ、そう言われれば、そうですね」",
+			"Text_Tra": "『Now that you mention it, good point.』",
+			"FOA_Ptr": "0x0004A60A",
+			"FOA_Rva": "0x000593DB"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004A622",
+			"FOA_Rva": "0x0005940E"
+		},
+		{
+			"Text_Raw": "あまり自分らしくないことをしていたと気づいたか、優里が恥ずかしさを匂わせながら、周囲を見渡す。",
+			"Text_Tra": "Yuri realizes she hasn't quite been acting like herself, and pulls herself back under control.",
+			"FOA_Ptr": "0x0004A662",
+			"FOA_Rva": "0x00059415"
+		},
+		{
+			"Text_Raw": "運が良いと言えるのか、僕らを見ている者はいなかったようだ。",
+			"Text_Tra": "Luckily for us, there wasn't anyone around to see us.",
+			"FOA_Ptr": "0x0004A6BA",
+			"FOA_Rva": "0x00059476"
+		},
+		{
+			"Text_Raw": "「どうしましょう。川原にでも行きますか？」",
+			"Text_Tra": "『What shall we actually do, then? Go down to the river?』",
+			"FOA_Ptr": "0x0004A712",
+			"FOA_Rva": "0x000594B3"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004A72A",
+			"FOA_Rva": "0x000594EE"
+		},
+		{
+			"Text_Raw": "「それでも構わないけど、どこか優里が行きたい場所があるなら、そこでもいいよ」",
+			"Text_Tra": "『That would be fine, if you like, but is there anywhere else you want to go?』",
+			"FOA_Ptr": "0x0004A76A",
+			"FOA_Rva": "0x000594F5"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004A782",
+			"FOA_Rva": "0x00059543"
+		},
+		{
+			"Text_Raw": "人目を避けることだけを目的に移動するより、堂々としていたい。",
+			"Text_Tra": "I want to do more than just find a quiet spot away from other people.",
+			"FOA_Ptr": "0x0004A7C2",
+			"FOA_Rva": "0x0005954A"
+		},
+		{
+			"Text_Raw": "優里を好きだという自分の気持ちには、なんの曇りもないのだから。",
+			"Text_Tra": "Nothing can cloud my feelings of love for Yuri.",
+			"FOA_Ptr": "0x0004A81A",
+			"FOA_Rva": "0x00059589"
+		},
+		{
+			"Text_Raw": "そういう気持ちを抜きにしても、今の裏の目的が、優里の休みも兼ねて自由にさせてあげるということでもある。",
+			"Text_Tra": "Even without that element to the proceedings, I want her to be free to do whatever she wants. This is a (secret) break for her, after all.",
+			"FOA_Ptr": "0x0004A872",
+			"FOA_Rva": "0x000595CA"
+		},
+		{
+			"Text_Raw": "「行きたい場所……ですか」",
+			"Text_Tra": "『Somewhere... I want to go...』",
+			"FOA_Ptr": "0x0004A8CA",
+			"FOA_Rva": "0x00059633"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004A8E2",
+			"FOA_Rva": "0x0005965E"
+		},
+		{
+			"Text_Raw": "優里がきょろきょろとあたりを見渡す。",
+			"Text_Tra": "Yuri looks around, a finger on her lips.",
+			"FOA_Ptr": "0x0004A922",
+			"FOA_Rva": "0x00059665"
+		},
+		{
+			"Text_Raw": "限られた土地であるカントで、そう思い当たる場所はないだろうが。",
+			"Text_Tra": "There's not much going on in Kanto, so she doesn't have many places to choose form.",
+			"FOA_Ptr": "0x0004A97A",
+			"FOA_Rva": "0x0005968C"
+		},
+		{
+			"Text_Raw": "と。",
+			"Text_Tra": "It takes her a moment-",
+			"FOA_Ptr": "0x0004A9D2",
+			"FOA_Rva": "0x000596CD"
+		},
+		{
+			"Text_Raw": "優里がある方向へ視線を向けたまま、止まる。",
+			"Text_Tra": "Yuri stops moving after looking in a certain direction.",
+			"FOA_Ptr": "0x0004AA2A",
+			"FOA_Rva": "0x000596D4"
+		},
+		{
+			"Text_Raw": "南だ。",
+			"Text_Tra": "South.",
+			"FOA_Ptr": "0x0004AA82",
+			"FOA_Rva": "0x00059701"
+		},
+		{
+			"Text_Raw": "農地――いや、さらにその先か。",
+			"Text_Tra": "The fields-no, beyond them.",
+			"FOA_Ptr": "0x0004AADA",
+			"FOA_Rva": "0x0005970A"
+		},
+		{
+			"Text_Raw": "「そういえば、優里は海が好きとか言っていたね」",
+			"Text_Tra": "『You did say that you like the ocean.』",
+			"FOA_Ptr": "0x0004AB32",
+			"FOA_Rva": "0x0005972B"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004AB4A",
+			"FOA_Rva": "0x0005975B"
+		},
+		{
+			"Text_Raw": "「え？　あ、その、はい、そうですが」",
+			"Text_Tra": "『Huh? Oh, yes, I did say that.』",
+			"FOA_Ptr": "0x0004ABEA",
+			"FOA_Rva": "0x00059762"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004AC02",
+			"FOA_Rva": "0x00059797"
+		},
+		{
+			"Text_Raw": "気持ちを読まれ、優里がわずかに驚く。",
+			"Text_Tra": "Yuri is a little surprised at me reading her intentions.",
+			"FOA_Ptr": "0x0004AC42",
+			"FOA_Rva": "0x0005979E"
+		},
+		{
+			"Text_Raw": "「しかし、カントの外は危ないですからね」",
+			"Text_Tra": "『But it might be dangerous outside Kanto.』",
+			"FOA_Ptr": "0x0004AC9A",
+			"FOA_Rva": "0x000597C5"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004ACB2",
+			"FOA_Rva": "0x000597FE"
+		},
+		{
+			"Text_Raw": "「でも、行ってみようか」",
+			"Text_Tra": "『I think we can handle it. Let's go take a look.』",
+			"FOA_Ptr": "0x0004ACF2",
+			"FOA_Rva": "0x00059805"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004AD0A",
+			"FOA_Rva": "0x0005981F"
+		},
+		{
+			"Text_Raw": "僕は軽い雰囲気のまま、言う。",
+			"Text_Tra": "I keep things light.",
+			"FOA_Ptr": "0x0004AD4A",
+			"FOA_Rva": "0x00059826"
+		},
+		{
+			"Text_Raw": "優里がぽかんとする。",
+			"Text_Tra": "Yuri looks even more surprised.",
+			"FOA_Ptr": "0x0004ADA2",
+			"FOA_Rva": "0x00059845"
+		},
+		{
+			"Text_Raw": "「行く、って、海へですか？」",
+			"Text_Tra": "『Take a look-at the ocean?』",
+			"FOA_Ptr": "0x0004ADFA",
+			"FOA_Rva": "0x0005985C"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004AE12",
+			"FOA_Rva": "0x00059889"
+		},
+		{
+			"Text_Raw": "「そうだよ。茜ちゃんや葵ちゃんたちと行ったときの感じなら、気をつけていけば僕たちだけでも大丈夫だと思う」",
+			"Text_Tra": "『Yeah. Judging from our last trip with Akane and Aoi, I think we could handle it, if we take care.』",
+			"FOA_Ptr": "0x0004AE52",
+			"FOA_Rva": "0x00059890"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004AE6A",
+			"FOA_Rva": "0x000598FA"
+		},
+		{
+			"Text_Raw": "「し、しかし、あなたを危険にさらすわけにはいけませんし、せめて春姫様の許可を得て、茜様か葵様に護衛についてもらうべきでしょう」",
+			"Text_Tra": "『But I shouldn't be putting you in that kind of danger. We should get permission from Lady Haruhime, and have Lady Akane and Lady Aoi accompany us.』",
+			"FOA_Ptr": "0x0004AEAA",
+			"FOA_Rva": "0x00059901"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004AEC2",
+			"FOA_Rva": "0x00059990"
+		},
+		{
+			"Text_Raw": "優里の答えは模範解答だった。",
+			"Text_Tra": "Yuri isn't wrong.",
+			"FOA_Ptr": "0x0004AF02",
+			"FOA_Rva": "0x00059997"
+		},
+		{
+			"Text_Raw": "僕もそれが正しいとは思う。",
+			"Text_Tra": "I think that would be safer too.",
+			"FOA_Ptr": "0x0004AF5A",
+			"FOA_Rva": "0x000599B6"
+		},
+		{
+			"Text_Raw": "でも――",
+			"Text_Tra": "But in the face of that-",
+			"FOA_Ptr": "0x0004AFB2",
+			"FOA_Rva": "0x000599D3"
+		},
+		{
+			"Text_Raw": "「僕は優里と２人で海へ行ってみたい」",
+			"Text_Tra": "『I want to go to the beach, just the two of us.』",
+			"FOA_Ptr": "0x0004B00A",
+			"FOA_Rva": "0x000599DE"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004B022",
+			"FOA_Rva": "0x00059A04"
+		},
+		{
+			"Text_Raw": "感情を波立たせず、僕は笑う。",
+			"Text_Tra": "My smile remains in place, my emotions unchanging.",
+			"FOA_Ptr": "0x0004B062",
+			"FOA_Rva": "0x00059A0B"
+		},
+		{
+			"Text_Raw": "「せっかくのデートだし――なによりも、君が行きたい場所があるなら、僕の力で連れて行ってあげたい」",
+			"Text_Tra": "『It's a date, for just the two of us. And if there's somewhere you want to go, I want to use my abilities to take you there.』",
+			"FOA_Ptr": "0x0004B0BA",
+			"FOA_Rva": "0x00059A2A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004B0D2",
+			"FOA_Rva": "0x00059A8C"
+		},
+		{
+			"Text_Raw": "「君の笑顔を、ひとり占めしたい」",
+			"Text_Tra": "『I want your smile all to myself.』",
+			"FOA_Ptr": "0x0004B112",
+			"FOA_Rva": "0x00059A93"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004B12A",
+			"FOA_Rva": "0x00059AB5"
+		},
+		{
+			"Text_Raw": "「……っ！」",
+			"Text_Tra": "『...!』",
+			"FOA_Ptr": "0x0004B16A",
+			"FOA_Rva": "0x00059ABC"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004B182",
+			"FOA_Rva": "0x00059AD9"
+		},
+		{
+			"Text_Raw": "わかりやすいほど、優里が顔を赤くする。",
+			"Text_Tra": "Yuri face burns bright red.",
+			"FOA_Ptr": "0x0004B1C2",
+			"FOA_Rva": "0x00059AE0"
+		},
+		{
+			"Text_Raw": "彼女はすぐに声を返してはこない。",
+			"Text_Tra": "She doesn't reply right away.",
+			"FOA_Ptr": "0x0004B21A",
+			"FOA_Rva": "0x00059B09"
+		},
+		{
+			"Text_Raw": "僕の言葉に喜んでいるが、それでも生来の生真面目さは、僕を危険にさらすわけにはいかないと立場を捨てきれずにいるのだろう。",
+			"Text_Tra": "She's caught between feeling happy at my comment and her naturally serious nature, warning her not to put me in danger.",
+			"FOA_Ptr": "0x0004B272",
+			"FOA_Rva": "0x00059B2C"
+		},
+		{
+			"Text_Raw": "「ぅ……っ……！」",
+			"Text_Tra": "『Ah... oh...!』",
+			"FOA_Ptr": "0x0004B2CA",
+			"FOA_Rva": "0x00059BA5"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004B2E2",
+			"FOA_Rva": "0x00059BC8"
+		},
+		{
+			"Text_Raw": "『はい』とも『いいえ』とも答えられず、彼女は声を詰まらせていた。",
+			"Text_Tra": "She can't say yes or no, and is stuck in the middle, unable to speak.",
+			"FOA_Ptr": "0x0004B322",
+			"FOA_Rva": "0x00059BCF"
+		},
+		{
+			"Text_Raw": "「優里、春姫の許可も、双子ちゃんの護衛もいらないんだよ」",
+			"Text_Tra": "『Yuri, we don't need Haruhime's permission, and we don't need the twins to protect us.』",
+			"FOA_Ptr": "0x0004B37A",
+			"FOA_Rva": "0x00059C12"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004B392",
+			"FOA_Rva": "0x00059C4C"
+		},
+		{
+			"Text_Raw": "「僕は八之神だ」",
+			"Text_Tra": "『I'm the Hachi-no-Kami.』",
+			"FOA_Ptr": "0x0004B3D2",
+			"FOA_Rva": "0x00059C53"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004B3EA",
+			"FOA_Rva": "0x00059C65"
+		},
+		{
+			"Text_Raw": "僕は初めて、自分のカントでの立場をはっきりと示した。",
+			"Text_Tra": "This is the first time I've clearly stated my position in Kanto.",
+			"FOA_Ptr": "0x0004B42A",
+			"FOA_Rva": "0x00059C6C"
+		},
+		{
+			"Text_Raw": "鉄鬼を単独で打倒する戦力。",
+			"Text_Tra": "I have the ability to defeat a Tekki on my own.",
+			"FOA_Ptr": "0x0004B482",
+			"FOA_Rva": "0x00059CA3"
+		},
+		{
+			"Text_Raw": "自分の望むことをする権限。",
+			"Text_Tra": "I have the authority to do what I want.",
+			"FOA_Ptr": "0x0004B4DA",
+			"FOA_Rva": "0x00059CC0"
+		},
+		{
+			"Text_Raw": "そのどちらも、僕は最初からもっているのだ。",
+			"Text_Tra": "I've had both of those things since the beginning.",
+			"FOA_Ptr": "0x0004B532",
+			"FOA_Rva": "0x00059CDD"
+		},
+		{
+			"Text_Raw": "「……ああ」",
+			"Text_Tra": "『...Okay.』",
+			"FOA_Ptr": "0x0004B58A",
+			"FOA_Rva": "0x00059D0A"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004B5A2",
+			"FOA_Rva": "0x00059D27"
+		},
+		{
+			"Text_Raw": "優里が驚きや迷いを消し――僕をじっと見つめる。",
+			"Text_Tra": "Yuri's surprise and hesitation is gone, and she just looks at me intently.",
+			"FOA_Ptr": "0x0004B5E2",
+			"FOA_Rva": "0x00059D2E"
+		},
+		{
+			"Text_Raw": "僕は古代の知識や感覚をもっているけれど、今はカントにいて、君と生きていくと決めたのだ。",
+			"Text_Tra": "-I have knowledge and sensibilities from the ancient past, but I've decided to be here in Kanto, and spend my life with you.",
+			"FOA_Ptr": "0x0004B63A",
+			"FOA_Rva": "0x00059D5F"
+		},
+		{
+			"Text_Raw": "「信じて欲しい。なにがあっても僕は君を守るよ」",
+			"Text_Tra": "『I want you to believe me. Whatever happens, I will protect you.』",
+			"FOA_Ptr": "0x0004B692",
+			"FOA_Rva": "0x00059DB8"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004B6AA",
+			"FOA_Rva": "0x00059DE8"
+		},
+		{
+			"Text_Raw": "僕は手をさしだす。",
+			"Text_Tra": "I offer my hand.",
+			"FOA_Ptr": "0x0004B6EA",
+			"FOA_Rva": "0x00059DEF"
+		},
+		{
+			"Text_Raw": "自由に行こうと。",
+			"Text_Tra": "-Let's do this. Let's be free.",
+			"FOA_Ptr": "0x0004B742",
+			"FOA_Rva": "0x00059E04"
+		},
+		{
+			"Text_Raw": "優里がその手を見つめる。",
+			"Text_Tra": "Yuri looks at it.",
+			"FOA_Ptr": "0x0004B79A",
+			"FOA_Rva": "0x00059E17"
+		},
+		{
+			"Text_Raw": "そして――彼女らしく、ほとんど迷わず、その手をとってくれた。",
+			"Text_Tra": "And then-just as I'd expect from her, with almost no hesitation, she takes it.",
+			"FOA_Ptr": "0x0004B7F2",
+			"FOA_Rva": "0x00059E32"
+		},
+		{
+			"Text_Raw": "「わかりました。行きます」",
+			"Text_Tra": "『Very well. Let's go.』",
+			"FOA_Ptr": "0x0004B84A",
+			"FOA_Rva": "0x00059E71"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004B862",
+			"FOA_Rva": "0x00059E9C"
+		},
+		{
+			"Text_Raw": "嬉しさをにじませながら、優里が僕の手を強く握る。",
+			"Text_Tra": "Melting into happiness, she squeezes my hand hard.",
+			"FOA_Ptr": "0x0004B8A2",
+			"FOA_Rva": "0x00059EA3"
+		},
+		{
+			"Text_Raw": "「しかし、ひとつだけお言葉を訂正してもらいます」",
+			"Text_Tra": "『But allow me to make one correction.』",
+			"FOA_Ptr": "0x0004B8FA",
+			"FOA_Rva": "0x00059ED6"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004B912",
+			"FOA_Rva": "0x00059F17"
+		},
+		{
+			"Text_Raw": "「ん、なにを？」",
+			"Text_Tra": "『Yep. What is it?』",
+			"FOA_Ptr": "0x0004B952",
+			"FOA_Rva": "0x00059F1E"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004B96A",
+			"FOA_Rva": "0x00059F30"
+		},
+		{
+			"Text_Raw": "訂正されることなどあったかと、僕は首をかしげてしまう。",
+			"Text_Tra": "I tilt my head, wondering what she could have taken exception to.",
+			"FOA_Ptr": "0x0004B9AA",
+			"FOA_Rva": "0x00059F37"
+		},
+		{
+			"Text_Raw": "そんな僕に、彼女ははっきりと言い切った。",
+			"Text_Tra": "She doesn't wait around, but spells it out pretty plainly.",
+			"FOA_Ptr": "0x0004BA02",
+			"FOA_Rva": "0x00059F70"
+		},
+		{
+			"Text_Raw": "「私もあなたを守ります。なにかあれば一緒に戦います」",
+			"Text_Tra": "『I will protect you too. I'll fight alongside you.』",
+			"FOA_Ptr": "0x0004BA5A",
+			"FOA_Rva": "0x00059F9B"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004BA72",
+			"FOA_Rva": "0x00059FE0"
+		},
+		{
+			"Text_Raw": "そして、僕は初めて、他の八剣をともなわずにカントの外へ出た。",
+			"Text_Tra": "And so I take my first trip outside of Kanto without any of the other Swords along.",
+			"FOA_Ptr": "0x0004BB9A",
+			"FOA_Rva": "0x00059FE7"
+		},
+		{
+			"Text_Raw": "農地を抜けて、湖の見える丘へ。",
+			"Text_Tra": "We pass through the fields and reach the hills overlooking the lake.",
+			"FOA_Ptr": "0x0004BBF2",
+			"FOA_Rva": "0x0005A026"
+		},
+		{
+			"Text_Raw": "「ああ、海が見えました」",
+			"Text_Tra": "『Hey, I can see the ocean.』",
+			"FOA_Ptr": "0x0004BCB2",
+			"FOA_Rva": "0x0005A047"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004BCCA",
+			"FOA_Rva": "0x0005A070"
+		},
+		{
+			"Text_Raw": "しばらくの上り坂を抜け、見晴らしのよい場所で優里が声をあげた。",
+			"Text_Tra": "After the lengthy uphill slope to reach this point, Yuri sounds happy to have reached such a view.",
+			"FOA_Ptr": "0x0004BD0A",
+			"FOA_Rva": "0x0005A077"
+		},
+		{
+			"Text_Raw": "ここまでは鉄鬼への警戒に集中していたが、これだけ視界がひらけていれば、安心も出来るだろう。",
+			"Text_Tra": "I was focused on potential Tekki around us, but with this scenery around us, now I can let my guard down a little.",
+			"FOA_Ptr": "0x0004BD62",
+			"FOA_Rva": "0x0005A0B8"
+		},
+		{
+			"Text_Raw": "「見える範囲で……鉄鬼は２つか」",
+			"Text_Tra": "『Let's take a look... Well, I count two Tekki.』",
+			"FOA_Ptr": "0x0004BE1E",
+			"FOA_Rva": "0x0005A124"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004BE36",
+			"FOA_Rva": "0x0005A146"
+		},
+		{
+			"Text_Raw": "僕は警戒をとくまえに、あたりを見渡しておく。",
+			"Text_Tra": "Before letting my guard down too much, I take a look around.",
+			"FOA_Ptr": "0x0004BE76",
+			"FOA_Rva": "0x0005A14D"
+		},
+		{
+			"Text_Raw": "鉄鬼は２つ――とはいえ、進行方向とはなんの関係もなく、豆粒ほどにしか見えない距離の話だ。",
+			"Text_Tra": "There are two Tekki, but it doesn't look like we'll cross paths, and they are so far away to just be black dots.",
+			"FOA_Ptr": "0x0004BECE",
+			"FOA_Rva": "0x0005A17C"
+		},
+		{
+			"Text_Raw": "「地上に鉄鬼がいなくとも、地面から出てくることもあるので注意しないといけませんが」",
+			"Text_Tra": "『Even if there aren't any above ground, we have to watch for them popping up from below.』",
+			"FOA_Ptr": "0x0004BF5A",
+			"FOA_Rva": "0x0005A1D7"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004BF72",
+			"FOA_Rva": "0x0005A23A"
+		},
+		{
+			"Text_Raw": "「まあ、その時はその時で」",
+			"Text_Tra": "『Well, we'll deal with that if and when it happens.』",
+			"FOA_Ptr": "0x0004BFB2",
+			"FOA_Rva": "0x0005A241"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004BFCA",
+			"FOA_Rva": "0x0005A25D"
+		},
+		{
+			"Text_Raw": "僕も遅れて一息つく。",
+			"Text_Tra": "I take a moment and let out a relaxed breath.",
+			"FOA_Ptr": "0x0004C00A",
+			"FOA_Rva": "0x0005A264"
+		},
+		{
+			"Text_Raw": "「うん。いいね。海はきれいだし、気分がいい」",
+			"Text_Tra": "『Phew. This is nice. The ocean is beautiful, and I'm feeling good.』",
+			"FOA_Ptr": "0x0004C062",
+			"FOA_Rva": "0x0005A27B"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004C07A",
+			"FOA_Rva": "0x0005A2A9"
+		},
+		{
+			"Text_Raw": "優里の希望でここまで来たが、夏の日差しにキラキラと輝いている海は、僕の心にも惹かれるものだった。",
+			"Text_Tra": "It was Yuri's idea to come out here, but the sight of the ocean glittering in the summer sun soothes my heart too.",
+			"FOA_Ptr": "0x0004C0BA",
+			"FOA_Rva": "0x0005A2B0"
+		},
+		{
+			"Text_Raw": "「本当に、２人だけでカントの外へ来てしまったのですね」",
+			"Text_Tra": "『We really have left Kanto. Just the two of us!』",
+			"FOA_Ptr": "0x0004C112",
+			"FOA_Rva": "0x0005A313"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004C12A",
+			"FOA_Rva": "0x0005A35A"
+		},
+		{
+			"Text_Raw": "彼女はカントのほうに視線を向けてから、すぐに、僕に笑顔を向けてくれる。",
+			"Text_Tra": "Yuri looks back toward Kanto and then at me, with a smile on her face.",
+			"FOA_Ptr": "0x0004C16A",
+			"FOA_Rva": "0x0005A361"
+		},
+		{
+			"Text_Raw": "「怖いということではなく、ドキドキしますね！」",
+			"Text_Tra": "『I'm not scared, just excited!』",
+			"FOA_Ptr": "0x0004C1C2",
+			"FOA_Rva": "0x0005A3AA"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004C1DA",
+			"FOA_Rva": "0x0005A3E9"
+		},
+		{
+			"Text_Raw": "「うん」",
+			"Text_Tra": "『Me too.』",
+			"FOA_Ptr": "0x0004C21A",
+			"FOA_Rva": "0x0005A3F0"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004C232",
+			"FOA_Rva": "0x0005A3FA"
+		},
+		{
+			"Text_Raw": "見たかった優里の笑顔を目にして、僕の心も幸せを覚える。",
+			"Text_Tra": "This is exactly the smile I've been wanting to see, and it makes me so happy.",
+			"FOA_Ptr": "0x0004C272",
+			"FOA_Rva": "0x0005A401"
+		},
+		{
+			"Text_Raw": "「ここで一休みしてもいいですが、海までもう少しですし、行ってしまいましょう！」",
+			"Text_Tra": "『We could take a break here, but the ocean is so close. Let's keep going!』",
+			"FOA_Ptr": "0x0004C2CA",
+			"FOA_Rva": "0x0005A43A"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004C2E2",
+			"FOA_Rva": "0x0005A499"
+		},
+		{
+			"Text_Raw": "優里は足を止めていることが我慢できないというように、僕の手をとった。",
+			"Text_Tra": "Yuri takes my hand, unable to stop and stand around.",
+			"FOA_Ptr": "0x0004C322",
+			"FOA_Rva": "0x0005A4A0"
+		},
+		{
+			"Text_Raw": "断る理由もない。",
+			"Text_Tra": "There's no reason not to follow her.",
+			"FOA_Ptr": "0x0004C37A",
+			"FOA_Rva": "0x0005A4E7"
+		},
+		{
+			"Text_Raw": "「望むままに」",
+			"Text_Tra": "『As you wish.』",
+			"FOA_Ptr": "0x0004C3D2",
+			"FOA_Rva": "0x0005A4FA"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004C3EA",
+			"FOA_Rva": "0x0005A50A"
+		},
+		{
+			"Text_Raw": "答えて、僕は進もうとする。",
+			"Text_Tra": "I answer, and start moving forward.",
+			"FOA_Ptr": "0x0004C452",
+			"FOA_Rva": "0x0005A511"
+		},
+		{
+			"Text_Raw": "が。",
+			"Text_Tra": "However-",
+			"FOA_Ptr": "0x0004C4AA",
+			"FOA_Rva": "0x0005A52E"
+		},
+		{
+			"Text_Raw": "優里と僕で進行方向が微妙にズレていて、互いの手を引っ張りあってしまう。",
+			"Text_Tra": "We aren't moving in the same direction, and our joined hands jolt together.",
+			"FOA_Ptr": "0x0004C502",
+			"FOA_Rva": "0x0005A535"
+		},
+		{
+			"Text_Raw": "「む？」",
+			"Text_Tra": "『Huh?』",
+			"FOA_Ptr": "0x0004C55A",
+			"FOA_Rva": "0x0005A57E"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004C572",
+			"FOA_Rva": "0x0005A597"
+		},
+		{
+			"Text_Raw": "向かって左へ行こうとした優里が、僕を不穏な目で見る。",
+			"Text_Tra": "Yuri, who was heading to the left, gives me a frown.",
+			"FOA_Ptr": "0x0004C5B2",
+			"FOA_Rva": "0x0005A59E"
+		},
+		{
+			"Text_Raw": "僕は右を指さす。",
+			"Text_Tra": "I point to the right.",
+			"FOA_Ptr": "0x0004C60A",
+			"FOA_Rva": "0x0005A5D5"
+		},
+		{
+			"Text_Raw": "「崖をおりて峡谷から行ったほうが早いよ？」",
+			"Text_Tra": "『Shouldn't we go down the valley? Isn't that way faster?』",
+			"FOA_Ptr": "0x0004C662",
+			"FOA_Rva": "0x0005A5E8"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004C67A",
+			"FOA_Rva": "0x0005A614"
+		},
+		{
+			"Text_Raw": "「地上です！　今回は地上を歩いていくんです！」",
+			"Text_Tra": "『Above ground! We're staying firmly above ground this time!』",
+			"FOA_Ptr": "0x0004C6BA",
+			"FOA_Rva": "0x0005A61B"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004C6D2",
+			"FOA_Rva": "0x0005A65A"
+		},
+		{
+			"Text_Raw": "前回の崖下りがトラウマになっているのか、優里が僕を湖の向かって左へ回り込むように引っ張っていこうとする。",
+			"Text_Tra": "Our descent last time must have really freaked her out, because she pulls me toward circling around the left side of the lake.",
+			"FOA_Ptr": "0x0004C712",
+			"FOA_Rva": "0x0005A661"
+		},
+		{
+			"Text_Raw": "女の子の叫び声はいいものなんだがな、と思いながら、僕は素直に引きずられていくことにした。",
+			"Text_Tra": "I had been hoping to hear her sweet screams again, but I just let her drag me along.",
+			"FOA_Ptr": "0x0004C76A",
+			"FOA_Rva": "0x0005A6CC"
+		},
+		{
+			"Text_Raw": "３０分ほど素直に歩き続け、海へと着いた。",
+			"Text_Tra": "After walking for about thirty minutes, we arrive at the ocean.",
+			"FOA_Ptr": "0x0004C8AA",
+			"FOA_Rva": "0x0005A727"
+		},
+		{
+			"Text_Raw": "「ああ、海の匂いがします」",
+			"Text_Tra": "『Ah, the smell of the sea.』",
+			"FOA_Ptr": "0x0004C96A",
+			"FOA_Rva": "0x0005A752"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004C982",
+			"FOA_Rva": "0x0005A77D"
+		},
+		{
+			"Text_Raw": "さえぎるものがなく吹きつける海風を全身に受け、優里が大きく息を吸い込む。",
+			"Text_Tra": "With nothing impeding the breeze blowing off the water, Yuri takes a deep breath.",
+			"FOA_Ptr": "0x0004C9DE",
+			"FOA_Rva": "0x0005A784"
+		},
+		{
+			"Text_Raw": "カントの中ではあまり目にしない、彼女の根っこにある柔らかい雰囲気だった。",
+			"Text_Tra": "She looks so gentle and relaxed, a side of her I don't really see in Kanto.",
+			"FOA_Ptr": "0x0004CA36",
+			"FOA_Rva": "0x0005A7CF"
+		},
+		{
+			"Text_Raw": "僕も潮の香りを肺で楽しみ、ざぁざぁと打ち寄せる波の音を耳に楽しむ。",
+			"Text_Tra": "I enjoy the scent of the sea, the bracing air in my lungs, and the washing of the waves.",
+			"FOA_Ptr": "0x0004CB1A",
+			"FOA_Rva": "0x0005A81A"
+		},
+		{
+			"Text_Raw": "「海だね」",
+			"Text_Tra": "『The sea.』",
+			"FOA_Ptr": "0x0004CB82",
+			"FOA_Rva": "0x0005A85F"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004CB9A",
+			"FOA_Rva": "0x0005A86B"
+		},
+		{
+			"Text_Raw": "それ以外の言葉の必要ない、大きな自然への憧憬を覚える。",
+			"Text_Tra": "There's nothing else to say, faced with this vast expression of nature.",
+			"FOA_Ptr": "0x0004CBDA",
+			"FOA_Rva": "0x0005A872"
+		},
+		{
+			"Text_Raw": "知識にはあっても、僕にとっても生まれて二度目の海。",
+			"Text_Tra": "I know about the place, of course, but this is only my second time here since I was born.",
+			"FOA_Ptr": "0x0004CC32",
+			"FOA_Rva": "0x0005A8AB"
+		},
+		{
+			"Text_Raw": "波が大きくうねっている。",
+			"Text_Tra": "The waves are rolling in.",
+			"FOA_Ptr": "0x0004CC8A",
+			"FOA_Rva": "0x0005A8E0"
+		},
+		{
+			"Text_Raw": "太陽をより激しく反射して輝いている。",
+			"Text_Tra": "They glitter in the bright, harsh sunlight.",
+			"FOA_Ptr": "0x0004CCE2",
+			"FOA_Rva": "0x0005A8FB"
+		},
+		{
+			"Text_Raw": "地平線と水平線の、どちらもが青すぎるほどに、青い。",
+			"Text_Tra": "The horizon is brilliantly blue, the sky blending with the ocean.",
+			"FOA_Ptr": "0x0004CD3A",
+			"FOA_Rva": "0x0005A922"
+		},
+		{
+			"Text_Raw": "その青さが、夏の大きな雲の白さを、より際立たせている。",
+			"Text_Tra": "That blue only brings out the massive summer clouds in even more stark relief.",
+			"FOA_Ptr": "0x0004CD92",
+			"FOA_Rva": "0x0005A957"
+		},
+		{
+			"Text_Raw": "「信様」",
+			"Text_Tra": "『Master Shin.』",
+			"FOA_Ptr": "0x0004CE12",
+			"FOA_Rva": "0x0005A990"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004CE2A",
+			"FOA_Rva": "0x0005A9A9"
+		},
+		{
+			"Text_Raw": "ふいに、名前を呼ばれる。",
+			"Text_Tra": "Yuri suddenly calls my name.",
+			"FOA_Ptr": "0x0004CE6A",
+			"FOA_Rva": "0x0005A9B0"
+		},
+		{
+			"Text_Raw": "気がつけば、すぐそばにいる優里のことも忘れ、僕は海を見つめてしまっていたようだ。",
+			"Text_Tra": "As I stared off into the ocean, I'd forgotten that Yuri was even there.",
+			"FOA_Ptr": "0x0004CF5E",
+			"FOA_Rva": "0x0005A9CB"
+		},
+		{
+			"Text_Raw": "「ああ、ごめん、ぼーっとしていた。平和に見えても鉄鬼がいるかもだしね」",
+			"Text_Tra": "『Sorry. I spaced out for a moment. It looks so peaceful, but there could be Tekki out there.』",
+			"FOA_Ptr": "0x0004CFC6",
+			"FOA_Rva": "0x0005AA1E"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004CFDE",
+			"FOA_Rva": "0x0005AA66"
+		},
+		{
+			"Text_Raw": "「それは構いません」",
+			"Text_Tra": "『That's not why I called your name.』",
+			"FOA_Ptr": "0x0004D01E",
+			"FOA_Rva": "0x0005AA6D"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004D036",
+			"FOA_Rva": "0x0005AA92"
+		},
+		{
+			"Text_Raw": "僕の様子に、くすくすと優里が笑う。",
+			"Text_Tra": "Yuri giggles at my response.",
+			"FOA_Ptr": "0x0004D076",
+			"FOA_Rva": "0x0005AA99"
+		},
+		{
+			"Text_Raw": "「私はただ、あなたに、海へ連れて来てくださってありがとうございますと――」",
+			"Text_Tra": "『I just wanted to say something.』",
+			"FOA_Ptr": "0x0004D0CE",
+			"FOA_Rva": "0x0005AABE"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004D0E6",
+			"FOA_Rva": "0x0005AB19"
+		},
+		{
+			"Text_Raw": "「そう、お伝えしたかっただけです」",
+			"Text_Tra": "『Thank you for bringing me to the ocean.』",
+			"FOA_Ptr": "0x0004D126",
+			"FOA_Rva": "0x0005AB20"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004D13E",
+			"FOA_Rva": "0x0005AB53"
+		},
+		{
+			"Text_Raw": "彼女はどこまでも素直でまっすぐだった。",
+			"Text_Tra": "She's so honest, and so straight forward, all the time.",
+			"FOA_Ptr": "0x0004D17E",
+			"FOA_Rva": "0x0005AB5A"
+		},
+		{
+			"Text_Raw": "「いいんだ。僕も海へ来れてよかった」",
+			"Text_Tra": "『No problem. I'm happy to be here too.』",
+			"FOA_Ptr": "0x0004D1D6",
+			"FOA_Rva": "0x0005AB83"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004D1EE",
+			"FOA_Rva": "0x0005ABA9"
+		},
+		{
+			"Text_Raw": "別に、海まで来ても特別なものはない。",
+			"Text_Tra": "Nothing of note happened on the way here.",
+			"FOA_Ptr": "0x0004D22E",
+			"FOA_Rva": "0x0005ABB0"
+		},
+		{
+			"Text_Raw": "道中も問題はなかった。",
+			"Text_Tra": "We didn't encounter any issues.",
+			"FOA_Ptr": "0x0004D286",
+			"FOA_Rva": "0x0005ABD7"
+		},
+		{
+			"Text_Raw": "それでも、誰にも行先を告げず、八之神という自分の判断でここへ来たことは、ひとつの区切りのように思えた。",
+			"Text_Tra": "But even so, this feels like a clear line in the sand; I made my own decision to come here, without letting anyone else know, under the authority of the Hachi-no-Kami.",
+			"FOA_Ptr": "0x0004D2DE",
+			"FOA_Rva": "0x0005ABF0"
+		},
+		{
+			"Text_Raw": "自立の一歩か。",
+			"Text_Tra": "A step toward independence.",
+			"FOA_Ptr": "0x0004D336",
+			"FOA_Rva": "0x0005AC59"
+		},
+		{
+			"Text_Raw": "「まあ、感傷だな」",
+			"Text_Tra": "『Well, that's pretty sentimental.』",
+			"FOA_Ptr": "0x0004D38E",
+			"FOA_Rva": "0x0005AC6A"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004D3A6",
+			"FOA_Rva": "0x0005AC7E"
+		},
+		{
+			"Text_Raw": "苦笑してしまう。",
+			"Text_Tra": "I give a wry laugh.",
+			"FOA_Ptr": "0x0004D3E6",
+			"FOA_Rva": "0x0005AC85"
+		},
+		{
+			"Text_Raw": "僕の脳みそは小賢しすぎて、感情にどっぷりと浸ることは出来ないようだ。",
+			"Text_Tra": "It seems my brain is too ironic to let myself sink completely into sentiment.",
+			"FOA_Ptr": "0x0004D43E",
+			"FOA_Rva": "0x0005AC98"
+		},
+		{
+			"Text_Raw": "僕は、それでいいと思う。",
+			"Text_Tra": "But I'm glad about this.",
+			"FOA_Ptr": "0x0004D496",
+			"FOA_Rva": "0x0005ACDF"
+		},
+		{
+			"Text_Raw": "「あまり長居をする気はありませんが、少しだけ、２人でここにいましょう」",
+			"Text_Tra": "『We don't need to spend too long here, but let's enjoy this moment together.』",
+			"FOA_Ptr": "0x0004D4EE",
+			"FOA_Rva": "0x0005ACFA"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004D506",
+			"FOA_Rva": "0x0005AD51"
+		},
+		{
+			"Text_Raw": "しっかりしている優里は、自戒も込めて『長居しない』と言ったのだろう。",
+			"Text_Tra": "Yuri is always on alert, suggesting we don't stay too long.",
+			"FOA_Ptr": "0x0004D546",
+			"FOA_Rva": "0x0005AD58"
+		},
+		{
+			"Text_Raw": "その意見には賛成だ。",
+			"Text_Tra": "I agree with her assessment.",
+			"FOA_Ptr": "0x0004D59E",
+			"FOA_Rva": "0x0005AD9F"
+		},
+		{
+			"Text_Raw": "「ちなみに、僕が鉄鬼がいるか注意してるから、優里は波打ち際で遊んだりしてもいいよ」",
+			"Text_Tra": "『I'll keep an eye out for Tekki, so you can go down to the water.』",
+			"FOA_Ptr": "0x0004D5F6",
+			"FOA_Rva": "0x0005ADB6"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004D60E",
+			"FOA_Rva": "0x0005AE0A"
+		},
+		{
+			"Text_Raw": "僕は、海と言えばの定番を口にする。",
+			"Text_Tra": "The gold standard for coming to the beach.",
+			"FOA_Ptr": "0x0004D64E",
+			"FOA_Rva": "0x0005AE11"
+		},
+		{
+			"Text_Raw": "女の子がスカート――カントでは和服だが、裾をつまんで波打ち際でキャッキャとするのは、よい光景だろう。",
+			"Text_Tra": "A girl, running along in the spray, lifting her skirt by the hem. Okay, it doesn't work so well with all this Japanese-themed clothing.",
+			"FOA_Ptr": "0x0004D6A6",
+			"FOA_Rva": "0x0005AE36"
+		},
+		{
+			"Text_Raw": "優里が無邪気にそういうことをする姿を見たい。",
+			"Text_Tra": "But that's what I want to see Yuri doing, cute and carefree.",
+			"FOA_Ptr": "0x0004D6FE",
+			"FOA_Rva": "0x0005AE9D"
+		},
+		{
+			"Text_Raw": "しかし、彼女は首をかしげた。",
+			"Text_Tra": "Yuri tilts her head, unconvinced.",
+			"FOA_Ptr": "0x0004D756",
+			"FOA_Rva": "0x0005AECC"
+		},
+		{
+			"Text_Raw": "「そんなことをすれば足が汚れますよ？」",
+			"Text_Tra": "『That's going to get my feet all wet and dirty.』",
+			"FOA_Ptr": "0x0004D7AE",
+			"FOA_Rva": "0x0005AEEB"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004D7C6",
+			"FOA_Rva": "0x0005AF22"
+		},
+		{
+			"Text_Raw": "「なるほど……海での遊びについて、僕とカントは、やはりわかりあえないらしい」",
+			"Text_Tra": "『I see. As I feared-Kanto and I aren't going to get along when it comes to playing by the water.』",
+			"FOA_Ptr": "0x0004D806",
+			"FOA_Rva": "0x0005AF29"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004D81E",
+			"FOA_Rva": "0x0005AF77"
+		},
+		{
+			"Text_Raw": "カントの人間にとって、海はとにかく危険な場所であり、足を踏み入れて楽しむものではないのだ。",
+			"Text_Tra": "For the people of Kanto, the ocean is a dangerous place, rather than something to go into and enjoy.",
+			"FOA_Ptr": "0x0004D85E",
+			"FOA_Rva": "0x0005AF7E"
+		},
+		{
+			"Text_Raw": "これは感性の問題で、どう説明しても理解されないことだろう。",
+			"Text_Tra": "I wonder how I can hope to explain this difference in my sensibilities.",
+			"FOA_Ptr": "0x0004D8B6",
+			"FOA_Rva": "0x0005AFDB"
+		},
+		{
+			"Text_Raw": "いや……カントの男女観が逆なら、僕が波打ち際で遊ぶ役なのか？",
+			"Text_Tra": "Although, hold on-if men and women are flipped in Kanto, maybe I should be the one running through the spray?",
+			"FOA_Ptr": "0x0004D90E",
+			"FOA_Rva": "0x0005B018"
+		},
+		{
+			"Text_Raw": "勘弁して欲しい。",
+			"Text_Tra": "No thanks.",
+			"FOA_Ptr": "0x0004D966",
+			"FOA_Rva": "0x0005B057"
+		},
+		{
+			"Text_Raw": "「なにか眉をしかめているところで悪いのですが――信様、ひとつ質問をしてもよろしいですか？」",
+			"Text_Tra": "『You look you've got something on your mind, but can I ask you a question, Master Shin?』",
+			"FOA_Ptr": "0x0004D9BE",
+			"FOA_Rva": "0x0005B06A"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004D9D6",
+			"FOA_Rva": "0x0005B0D5"
+		},
+		{
+			"Text_Raw": "僕が考え込む姿に慣れている優里が、もはや眉をしかめた理由すら問わず、言う。",
+			"Text_Tra": "Yuri is accustomed to me slipping off into my own mental interludes, and doesn't even ask what that was about.",
+			"FOA_Ptr": "0x0004DA16",
+			"FOA_Rva": "0x0005B0DC"
+		},
+		{
+			"Text_Raw": "「質問？」",
+			"Text_Tra": "『A question?』",
+			"FOA_Ptr": "0x0004DA6E",
+			"FOA_Rva": "0x0005B129"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004DA86",
+			"FOA_Rva": "0x0005B135"
+		},
+		{
+			"Text_Raw": "「最近、私はあなたの書いた古代の知識を読んでいるのですが、男女の仲は今とは異なるのですよね？」",
+			"Text_Tra": "『I've been reading the pages you've written for us, and the relationships between men and women were very different in the past, weren't they?』",
+			"FOA_Ptr": "0x0004DAC6",
+			"FOA_Rva": "0x0005B13C"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004DADE",
+			"FOA_Rva": "0x0005B1AB"
+		},
+		{
+			"Text_Raw": "優里はいつもの様子で、疑問をぶつけてくる。",
+			"Text_Tra": "Yuri just hits me with it.",
+			"FOA_Ptr": "0x0004DB1E",
+			"FOA_Rva": "0x0005B1B2"
+		},
+		{
+			"Text_Raw": "もちろん、この話の発露は僕と恋仲になったことにあり、色気がないわけではない。",
+			"Text_Tra": "Of course, I expected this to come up sooner or later, now that we're together.",
+			"FOA_Ptr": "0x0004DB76",
+			"FOA_Rva": "0x0005B1DF"
+		},
+		{
+			"Text_Raw": "「そうだね。カントでは子作りがとにかく念頭にあるんだろうけど、昔の日本の恋愛はそれだけじゃなかったよ」",
+			"Text_Tra": "『That's right. In Kanto, you think first and foremost about having children, but in ancient Japan, it was about a lot more than that.』",
+			"FOA_Ptr": "0x0004DBCE",
+			"FOA_Rva": "0x0005B22E"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004DBE6",
+			"FOA_Rva": "0x0005B296"
+		},
+		{
+			"Text_Raw": "今回は授業ではなく雑談という感じで、軽く言う。",
+			"Text_Tra": "I keep things light, not wanting to turn this into another lesson.",
+			"FOA_Ptr": "0x0004DC26",
+			"FOA_Rva": "0x0005B29D"
+		},
+		{
+			"Text_Raw": "どうやら優里は、『僕＝古代の恋愛観』を尊重してくれるために疑問を発したらしい。",
+			"Text_Tra": "It seems Yuri is asking because she wants to respect me = the ancient ways of love.",
+			"FOA_Ptr": "0x0004DC7E",
+			"FOA_Rva": "0x0005B2CE"
+		},
+		{
+			"Text_Raw": "彼女の気遣いが嬉しい。",
+			"Text_Tra": "Her thoughtfulness makes me happy.",
+			"FOA_Ptr": "0x0004DCD6",
+			"FOA_Rva": "0x0005B31F"
+		},
+		{
+			"Text_Raw": "「カントでも自然と男女が好きあう関係はありますし、互いを認め合うところまでは私もわかるのですが――」",
+			"Text_Tra": "『Men and women can come together naturally in Kanto, too, and I understand that respect for each other-』",
+			"FOA_Ptr": "0x0004DD2E",
+			"FOA_Rva": "0x0005B338"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004DD46",
+			"FOA_Rva": "0x0005B3AD"
+		},
+		{
+			"Text_Raw": "「その後は、かなり違いますよね」",
+			"Text_Tra": "『But things were quite different beyond that, weren't they?』",
+			"FOA_Ptr": "0x0004DD86",
+			"FOA_Rva": "0x0005B3B4"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004DD9E",
+			"FOA_Rva": "0x0005B3E5"
+		},
+		{
+			"Text_Raw": "「そうだね。古代だと付き合いだしてからも先があって、国や周囲からも認められる『結婚』という最終目的地を目指す――かな」",
+			"Text_Tra": "『That's right. Being together was just the start; one of the final destinations was marriage, which was recognized by other people and even the country they lived in.』",
+			"FOA_Ptr": "0x0004DDDE",
+			"FOA_Rva": "0x0005B3EC"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004DDF6",
+			"FOA_Rva": "0x0005B464"
+		},
+		{
+			"Text_Raw": "「……血痕？　血を用いた関係ですか？」",
+			"Text_Tra": "『Maw-ridge? That sounds like some kind of horrible mouth malfunction.』",
+			"FOA_Ptr": "0x0004DE36",
+			"FOA_Rva": "0x0005B46B"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004DE4E",
+			"FOA_Rva": "0x0005B4A2"
+		},
+		{
+			"Text_Raw": "「いやいや、そういう物騒な言葉じゃないから」",
+			"Text_Tra": "『No, no, it's nothing like that.』",
+			"FOA_Ptr": "0x0004DE8E",
+			"FOA_Rva": "0x0005B4A9"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004DEA6",
+			"FOA_Rva": "0x0005B4D7"
+		},
+		{
+			"Text_Raw": "僕はそのへんに落ちていた棒切れを広い、砂に『結婚』という文字を書く。",
+			"Text_Tra": "I pick up a stick and write out “marriage” in the sand. I guess this is turning into a lesson after all.",
+			"FOA_Ptr": "0x0004DEE6",
+			"FOA_Rva": "0x0005B4DE"
+		},
+		{
+			"Text_Raw": "「婚のほうはよくわかりませんが、結ばれるという字はわかりますね」",
+			"Text_Tra": "『Oh, marriage. So it's about the union of two people...』",
+			"FOA_Ptr": "0x0004DF76",
+			"FOA_Rva": "0x0005B525"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004DF8E",
+			"FOA_Rva": "0x0005B576"
+		},
+		{
+			"Text_Raw": "文字を見下ろし、優里がうなずく。",
+			"Text_Tra": "Yuri looks down, and then gives a nod.",
+			"FOA_Ptr": "0x0004DFCE",
+			"FOA_Rva": "0x0005B57D"
+		},
+		{
+			"Text_Raw": "「カントと古代の最大の違いは、恋仲になった２人が子作りを関係の終わりとせず、結婚という誓いによって互いが死ぬまで一緒に暮らすことかな」",
+			"Text_Tra": "『The biggest difference with modern Kanto was that having children wasn't the end. People would get married, and vow to love each other until death.』",
+			"FOA_Ptr": "0x0004E026",
+			"FOA_Rva": "0x0005B5A0"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004E03E",
+			"FOA_Rva": "0x0005B628"
+		},
+		{
+			"Text_Raw": "「死ぬまで一緒と誓いあうとは……古代の風習もなかなか恐ろしいものですね」",
+			"Text_Tra": "『Vowing love until death? That's pretty hardcore.』",
+			"FOA_Ptr": "0x0004E07E",
+			"FOA_Rva": "0x0005B62F"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004E096",
+			"FOA_Rva": "0x0005B688"
+		},
+		{
+			"Text_Raw": "言葉をそのまま受け取った優里が、わずかに真剣な表情を浮かべる。",
+			"Text_Tra": "Yuri takes this at face value, and seems pretty serious about it.",
+			"FOA_Ptr": "0x0004E0D6",
+			"FOA_Rva": "0x0005B68F"
+		},
+		{
+			"Text_Raw": "「あはは。確かに世界のだいたいのところでそういう誓いをするんだけど、実際には結婚した後に関係を絶つこともあったよ」",
+			"Text_Tra": "『Hahaha. Most places in the world made that same vow, but there were some married couple who would end up separating.』",
+			"FOA_Ptr": "0x0004E12E",
+			"FOA_Rva": "0x0005B6D0"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004E146",
+			"FOA_Rva": "0x0005B744"
+		},
+		{
+			"Text_Raw": "「あ、言霊のような強制力のあるものではないのですね」",
+			"Text_Tra": "『Ah. So it's not something as binding as, say, the Kotodama.』",
+			"FOA_Ptr": "0x0004E186",
+			"FOA_Rva": "0x0005B74B"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004E19E",
+			"FOA_Rva": "0x0005B790"
+		},
+		{
+			"Text_Raw": "「うん」",
+			"Text_Tra": "『No, nothing like that.』",
+			"FOA_Ptr": "0x0004E1DE",
+			"FOA_Rva": "0x0005B797"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004E1F6",
+			"FOA_Rva": "0x0005B7A1"
+		},
+		{
+			"Text_Raw": "神様の前で永遠を誓っても、人間は自分たちの都合で離婚することもある。",
+			"Text_Tra": "Humans might be bound before God, but more mortal affairs-in some case literally speaking-could lead to them getting a divorce.",
+			"FOA_Ptr": "0x0004E236",
+			"FOA_Rva": "0x0005B7A8"
+		},
+		{
+			"Text_Raw": "非難ではなく、その都合のよさが人間らしくて僕は面白いと思う。",
+			"Text_Tra": "The convenience of the system feels very human to me.",
+			"FOA_Ptr": "0x0004E28E",
+			"FOA_Rva": "0x0005B7EF"
+		},
+		{
+			"Text_Raw": "もちろん、僕の知る過去も、どこかの時代のどこかの地域では、離婚が認められないこともあったかもしれない。",
+			"Text_Tra": "Of course, even in the past, some time or region I don't know about might not have allowed for divorce.",
+			"FOA_Ptr": "0x0004E2E6",
+			"FOA_Rva": "0x0005B82E"
+		},
+		{
+			"Text_Raw": "「それなら、結婚という部分を抜きにすれば、今のところ私はあなたを不安にさせたりはしていないのですかね？」",
+			"Text_Tra": "『So, apart from this marriage stuff, I'm not upsetting you at the moment, am I?』",
+			"FOA_Ptr": "0x0004E33E",
+			"FOA_Rva": "0x0005B897"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004E356",
+			"FOA_Rva": "0x0005B910"
+		},
+		{
+			"Text_Raw": "やはり優里は、僕の気持ちや知識を大事にするために確認をしていたようだ。",
+			"Text_Tra": "Yuri is trying to respect my feelings and knowledge from the past.",
+			"FOA_Ptr": "0x0004E396",
+			"FOA_Rva": "0x0005B917"
+		},
+		{
+			"Text_Raw": "「大丈夫。僕はなにも不安に思っていないよ」",
+			"Text_Tra": "『No, you're doing fine. I'm not worried about anything.』",
+			"FOA_Ptr": "0x0004E3EE",
+			"FOA_Rva": "0x0005B960"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004E406",
+			"FOA_Rva": "0x0005B98C"
+		},
+		{
+			"Text_Raw": "嘘偽りないことを笑顔で示す。",
+			"Text_Tra": "I reply with the truth, and a smile.",
+			"FOA_Ptr": "0x0004E446",
+			"FOA_Rva": "0x0005B993"
+		},
+		{
+			"Text_Raw": "「そうですか。それならよかったです」",
+			"Text_Tra": "『I see. That's good.』",
+			"FOA_Ptr": "0x0004E49E",
+			"FOA_Rva": "0x0005B9B2"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004E4B6",
+			"FOA_Rva": "0x0005B9E7"
+		},
+		{
+			"Text_Raw": "「逆に、僕に対して、優里がカントの恋愛感覚でおかしいと思うところはある？」",
+			"Text_Tra": "『Let me ask you, then. Am I doing anything strange when it comes to relationships in Kanto?』",
+			"FOA_Ptr": "0x0004E4F6",
+			"FOA_Rva": "0x0005B9EE"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004E50E",
+			"FOA_Rva": "0x0005BA3A"
+		},
+		{
+			"Text_Raw": "気持ちのお返しとして、確認しておく。",
+			"Text_Tra": "I turn it around and ask her the same thing.",
+			"FOA_Ptr": "0x0004E54E",
+			"FOA_Rva": "0x0005BA41"
+		},
+		{
+			"Text_Raw": "「うーん」",
+			"Text_Tra": "『Hmmm.』",
+			"FOA_Ptr": "0x0004E5A6",
+			"FOA_Rva": "0x0005BA68"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004E5BE",
+			"FOA_Rva": "0x0005BA83"
+		},
+		{
+			"Text_Raw": "彼女も軽い調子で、考えながら僕を見つめる。",
+			"Text_Tra": "Yuri is keeping things light too, looking me over as she thinks.",
+			"FOA_Ptr": "0x0004E5FE",
+			"FOA_Rva": "0x0005BA8A"
+		},
+		{
+			"Text_Raw": "「私自身、初めて好きになった男性があなただったので、恋仲になった男女の普通がどういうものかわからないところはありますが」",
+			"Text_Tra": "『You're the first person I've fallen for, so I don't know much about what normally goes on-』",
+			"FOA_Ptr": "0x0004E656",
+			"FOA_Rva": "0x0005BAB7"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004E66E",
+			"FOA_Rva": "0x0005BB40"
+		},
+		{
+			"Text_Raw": "「カントの基準で考えると、あなたは隙だらけですね」",
+			"Text_Tra": "『But thinking about how things normally go in Kanto, you leave yourself pretty wide open.』",
+			"FOA_Ptr": "0x0004E6AE",
+			"FOA_Rva": "0x0005BB47"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004E6C6",
+			"FOA_Rva": "0x0005BB8A"
+		},
+		{
+			"Text_Raw": "「う」",
+			"Text_Tra": "『Ulp.』",
+			"FOA_Ptr": "0x0004E706",
+			"FOA_Rva": "0x0005BB91"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004E71E",
+			"FOA_Rva": "0x0005BB99"
+		},
+		{
+			"Text_Raw": "昨日のことを思い出し、興奮と羞恥に同時に襲われる。",
+			"Text_Tra": "I remember what happened yesterday, and I'm filled with a confusing mix of arousal and embarrassment.",
+			"FOA_Ptr": "0x0004E75E",
+			"FOA_Rva": "0x0005BBA0"
+		},
+		{
+			"Text_Raw": "「もちろん、カントの普通の男性より隙が大きいというだけで、悪いことではありません」",
+			"Text_Tra": "『Of course, that's not necessarily a bad thing, when compared to a normal guy from Kanto.』",
+			"FOA_Ptr": "0x0004E7B6",
+			"FOA_Rva": "0x0005BBD5"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004E7CE",
+			"FOA_Rva": "0x0005BC38"
+		},
+		{
+			"Text_Raw": "「むしろ私としては、あなたが私の下で普段の冷静さを失っていたり、気持ちよさに漏れそうになる声をこらえる様子は、たまらないものがありました」",
+			"Text_Tra": "『In fact, having you lose your cool beneath me, and unable to control your moans in pleasure, really turned me on.』",
+			"FOA_Ptr": "0x0004E80E",
+			"FOA_Rva": "0x0005BC3F"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004E826",
+			"FOA_Rva": "0x0005BCDA"
+		},
+		{
+			"Text_Raw": "「……そ、そうなんだ」",
+			"Text_Tra": "『Oh... G-Glad to hear it.』",
+			"FOA_Ptr": "0x0004E866",
+			"FOA_Rva": "0x0005BCE1"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004E87E",
+			"FOA_Rva": "0x0005BCF9"
+		},
+		{
+			"Text_Raw": "優里の評価に、問題はないということだが顔が熱くなってしまう。",
+			"Text_Tra": "Yuri seems quite pleased with my performance, which makes my face blush red again.",
+			"FOA_Ptr": "0x0004E8BE",
+			"FOA_Rva": "0x0005BD00"
+		},
+		{
+			"Text_Raw": "カントの性行為への容赦のなさというか、生々しさは、まだ僕には恥ずかしい。",
+			"Text_Tra": "I'm still a little embarrassed by how direct Kanto can be when it comes to sex stuff.",
+			"FOA_Ptr": "0x0004E916",
+			"FOA_Rva": "0x0005BD3F"
+		},
+		{
+			"Text_Raw": "「ああ……その顔ですね」",
+			"Text_Tra": "『Yes. That's the face.』",
+			"FOA_Ptr": "0x0004E96E",
+			"FOA_Rva": "0x0005BD8A"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004E986",
+			"FOA_Rva": "0x0005BDB3"
+		},
+		{
+			"Text_Raw": "思わずといった様子で、優里が薄い微笑みを浮かべる。",
+			"Text_Tra": "A smile drifts onto Yuri's lips, almost out of her control.",
+			"FOA_Ptr": "0x0004E9C6",
+			"FOA_Rva": "0x0005BDBA"
+		},
+		{
+			"Text_Raw": "「い、いや！　待った！　ここではさすがに待った！」",
+			"Text_Tra": "『Ah, hold on! Wait! Not here, wait!』",
+			"FOA_Ptr": "0x0004EA1E",
+			"FOA_Rva": "0x0005BDEF"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004EA36",
+			"FOA_Rva": "0x0005BE23"
+		},
+		{
+			"Text_Raw": "また押し倒されるかと、思わず慌ててしまう。",
+			"Text_Tra": "I panic, thinking she's about to push me down again.",
+			"FOA_Ptr": "0x0004EA76",
+			"FOA_Rva": "0x0005BE2A"
+		},
+		{
+			"Text_Raw": "ダメだと思うのだが、彼女に迫られたら、自分がこばみきれないという思いもあり。",
+			"Text_Tra": "I know we can't do it here, but I also know if she were to pounce on me again, I wouldn't be able to resist.",
+			"FOA_Ptr": "0x0004EACE",
+			"FOA_Rva": "0x0005BE57"
+		},
+		{
+			"Text_Raw": "くそ――これ、完全に僕のほうが女の子ムーブじゃないか！？",
+			"Text_Tra": "Dammit! I really am wearing the panties in this relationship!",
+			"FOA_Ptr": "0x0004EB26",
+			"FOA_Rva": "0x0005BEA6"
+		},
+		{
+			"Text_Raw": "しかし、優里がすぐに表情を戻す。",
+			"Text_Tra": "But Yuri's face quickly returns to normal.",
+			"FOA_Ptr": "0x0004EB7E",
+			"FOA_Rva": "0x0005BEE1"
+		},
+		{
+			"Text_Raw": "「はい。わかっています。さすがの私も、こんなところで無防備にまぐわう気はありません」",
+			"Text_Tra": "『Yes. I know. I'm not going to leave us so defenseless in a place like this.』",
+			"FOA_Ptr": "0x0004EBD6",
+			"FOA_Rva": "0x0005BF04"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004EBEE",
+			"FOA_Rva": "0x0005BF69"
+		},
+		{
+			"Text_Raw": "けろっと答えられてしまう。",
+			"Text_Tra": "She responds smoothly.",
+			"FOA_Ptr": "0x0004EC2E",
+			"FOA_Rva": "0x0005BF70"
+		},
+		{
+			"Text_Raw": "「そ、そうだよね」",
+			"Text_Tra": "『Y-Yeah, I wouldn't want any dangly bits getting... removed.』",
+			"FOA_Ptr": "0x0004EC86",
+			"FOA_Rva": "0x0005BF8D"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004EC9E",
+			"FOA_Rva": "0x0005BFA1"
+		},
+		{
+			"Text_Raw": "安心と。",
+			"Text_Tra": "Phew.",
+			"FOA_Ptr": "0x0004ECDE",
+			"FOA_Rva": "0x0005BFA8"
+		},
+		{
+			"Text_Raw": "わずかな残念な気持ちがあることは認めるしかない。",
+			"Text_Tra": "Although I have to admit, I'm a little disappointed.",
+			"FOA_Ptr": "0x0004ED36",
+			"FOA_Rva": "0x0005BFB3"
+		},
+		{
+			"Text_Raw": "「とにかく、今のところは私たちは大丈夫ですね」",
+			"Text_Tra": "『We're in a good place, I think. That's good. For now.』",
+			"FOA_Ptr": "0x0004ED8E",
+			"FOA_Rva": "0x0005BFE6"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004EDA6",
+			"FOA_Rva": "0x0005C025"
+		},
+		{
+			"Text_Raw": "優里が話を戻して、うんうんと納得している。",
+			"Text_Tra": "Yuri returns to what we were talking about, nodding to herself.",
+			"FOA_Ptr": "0x0004EDE6",
+			"FOA_Rva": "0x0005C02C"
+		},
+		{
+			"Text_Raw": "『今のところは』",
+			"Text_Tra": "『For now.』",
+			"FOA_Ptr": "0x0004EE3E",
+			"FOA_Rva": "0x0005C059"
+		},
+		{
+			"Text_Raw": "カントの感覚では、あとは子作りを成せば終わる。",
+			"Text_Tra": "From the Kanto perspective, once we have a kid, we're finished.",
+			"FOA_Ptr": "0x0004EE96",
+			"FOA_Rva": "0x0005C06C"
+		},
+		{
+			"Text_Raw": "だが、僕の感覚では、さらに先がある。",
+			"Text_Tra": "But from my perspective, there's more beyond that.",
+			"FOA_Ptr": "0x0004EEEE",
+			"FOA_Rva": "0x0005C09D"
+		},
+		{
+			"Text_Raw": "彼女としては、自分の知らない、先のことを気にしているのだろう。",
+			"Text_Tra": "She must be thinking about that too-the future stuff she doesn't quite understand yet.",
+			"FOA_Ptr": "0x0004EF46",
+			"FOA_Rva": "0x0005C0C4"
+		},
+		{
+			"Text_Raw": "そうであれば――",
+			"Text_Tra": "In which case-",
+			"FOA_Ptr": "0x0004EF9E",
+			"FOA_Rva": "0x0005C105"
+		},
+		{
+			"Text_Raw": "「優里、結婚しようか」",
+			"Text_Tra": "『Yuri, shall we get married?』",
+			"FOA_Ptr": "0x0004F022",
+			"FOA_Rva": "0x0005C118"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004F03A",
+			"FOA_Rva": "0x0005C130"
+		},
+		{
+			"Text_Raw": "自分でも驚くほど自然に、その言葉を口にしていた。",
+			"Text_Tra": "I say it so smoothly, so naturally, it surprises me too.",
+			"FOA_Ptr": "0x0004F07A",
+			"FOA_Rva": "0x0005C137"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x0004F0D2",
+			"FOA_Rva": "0x0005C16A"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004F0EA",
+			"FOA_Rva": "0x0005C187"
+		},
+		{
+			"Text_Raw": "優里が、また、僕を見つめる。",
+			"Text_Tra": "Yuri looks at me again.",
+			"FOA_Ptr": "0x0004F12A",
+			"FOA_Rva": "0x0005C18E"
+		},
+		{
+			"Text_Raw": "今日、一番、驚いただろう。",
+			"Text_Tra": "That's the most surprised she's been all day.",
+			"FOA_Ptr": "0x0004F182",
+			"FOA_Rva": "0x0005C1AD"
+		},
+		{
+			"Text_Raw": "僕も今さら、自分の『結婚しよう』というプロポーズの言葉に驚いてしまった。",
+			"Text_Tra": "I have also surprised myself-and with hardly the most elegant proposal ever.",
+			"FOA_Ptr": "0x0004F1DA",
+			"FOA_Rva": "0x0005C1CA"
+		},
+		{
+			"Text_Raw": "だけど、なんの問題もない。",
+			"Text_Tra": "But that's not a problem.",
+			"FOA_Ptr": "0x0004F232",
+			"FOA_Rva": "0x0005C215"
+		},
+		{
+			"Text_Raw": "青い青い海のそばで。",
+			"Text_Tra": "Beside the blue, blue sea.",
+			"FOA_Ptr": "0x0004F28A",
+			"FOA_Rva": "0x0005C232"
+		},
+		{
+			"Text_Raw": "青い青い空の下で。",
+			"Text_Tra": "Beneath the blue, blue sky.",
+			"FOA_Ptr": "0x0004F2E2",
+			"FOA_Rva": "0x0005C249"
+		},
+		{
+			"Text_Raw": "優里にプロポーズすることに、なんの問題があるだろう。",
+			"Text_Tra": "How could there possibly be a problem with me proposing to Yuri?",
+			"FOA_Ptr": "0x0004F33A",
+			"FOA_Rva": "0x0005C25E"
+		},
+		{
+			"Text_Raw": "「優里、僕と結婚してくれませんか？」",
+			"Text_Tra": "『Yuri. Will you please do me the honor of marrying me?』",
+			"FOA_Ptr": "0x0004F392",
+			"FOA_Rva": "0x0005C295"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004F3AA",
+			"FOA_Rva": "0x0005C2BB"
+		},
+		{
+			"Text_Raw": "僕は改めて、意識して彼女に結婚を申し込む。",
+			"Text_Tra": "I give it another try, ironing out the rough edges this time.",
+			"FOA_Ptr": "0x0004F3EA",
+			"FOA_Rva": "0x0005C2C2"
+		},
+		{
+			"Text_Raw": "優里の唇が、わずかに開いた。",
+			"Text_Tra": "Yuri's lips move, just a little.",
+			"FOA_Ptr": "0x0004F442",
+			"FOA_Rva": "0x0005C2EF"
+		},
+		{
+			"Text_Raw": "「あの……」",
+			"Text_Tra": "『Hey...』",
+			"FOA_Ptr": "0x0004F49E",
+			"FOA_Rva": "0x0005C30E"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004F4B6",
+			"FOA_Rva": "0x0005C32B"
+		},
+		{
+			"Text_Raw": "「血の誓い、でしたっけ？」",
+			"Text_Tra": "『Maw-ridge still sounds kinda painful to me.』",
+			"FOA_Ptr": "0x0004F4F6",
+			"FOA_Rva": "0x0005C332"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004F50E",
+			"FOA_Rva": "0x0005C35D"
+		},
+		{
+			"Text_Raw": "「いや、そうじゃなくて――そうか、そもそも結婚の中身が伝わっていないんだったな」",
+			"Text_Tra": "『Nope, that's not-ah, but I guess I haven't imparted what marriage really means.』",
+			"FOA_Ptr": "0x0004F54E",
+			"FOA_Rva": "0x0005C364"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004F566",
+			"FOA_Rva": "0x0005C3B6"
+		},
+		{
+			"Text_Raw": "ズレに気づいて頭を抱えてしまう。",
+			"Text_Tra": "I grip my head, thinking.",
+			"FOA_Ptr": "0x0004F5A6",
+			"FOA_Rva": "0x0005C3BD"
+		},
+		{
+			"Text_Raw": "なんて締まらないオチだ。",
+			"Text_Tra": "That was a dud then.",
+			"FOA_Ptr": "0x0004F5FE",
+			"FOA_Rva": "0x0005C3E0"
+		},
+		{
+			"Text_Raw": "僕としてはしっかりプロポーズしたし、断られることはないと確信していたが、そもそも意味が伝わっていない。",
+			"Text_Tra": "I gave it a proper go, and was pretty sure she wasn't going to turn me down, but she didn't even understand what I was asking.",
+			"FOA_Ptr": "0x0004F656",
+			"FOA_Rva": "0x0005C3FB"
+		},
+		{
+			"Text_Raw": "つまり――",
+			"Text_Tra": "In other words-",
+			"FOA_Ptr": "0x0004F6AE",
+			"FOA_Rva": "0x0005C464"
+		},
+		{
+			"Text_Raw": "「新しくやることが決まったな！」",
+			"Text_Tra": "『Looks like I've got a new goal!』",
+			"FOA_Ptr": "0x0004F706",
+			"FOA_Rva": "0x0005C471"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004F71E",
+			"FOA_Rva": "0x0005C493"
+		},
+		{
+			"Text_Raw": "僕は抱えていた頭をあげ、優里に告げる。",
+			"Text_Tra": "I lift my head back up and let Yuri know the good news.",
+			"FOA_Ptr": "0x0004F75E",
+			"FOA_Rva": "0x0005C49A"
+		},
+		{
+			"Text_Raw": "「優里、カントで『結婚』を作るぞ！」",
+			"Text_Tra": "『Yuri! I'm going to bring marriage to Kanto!』",
+			"FOA_Ptr": "0x0004F7B6",
+			"FOA_Rva": "0x0005C4C3"
+		},
+		{
+			"Text_Raw": "　信　",
+			"Text_Tra": "Shin",
+			"FOA_Ptr": "0x0004F7CE",
+			"FOA_Rva": "0x0005C4E9"
+		},
+		{
+			"Text_Raw": "「…………」",
+			"Text_Tra": "『...』",
+			"FOA_Ptr": "0x0004F80E",
+			"FOA_Rva": "0x0005C4F0"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004F826",
+			"FOA_Rva": "0x0005C50D"
+		},
+		{
+			"Text_Raw": "「はぁ」",
+			"Text_Tra": "『Huh.』",
+			"FOA_Ptr": "0x0004F866",
+			"FOA_Rva": "0x0005C514"
+		},
+		{
+			"Text_Raw": "優　里",
+			"Text_Tra": "Yuri",
+			"FOA_Ptr": "0x0004F87E",
+			"FOA_Rva": "0x0005C52D"
+		},
+		{
+			"Text_Raw": "優里はぽかんとしている。",
+			"Text_Tra": "Yuri doesn't seem all that impressed.",
+			"FOA_Ptr": "0x0004F8BE",
+			"FOA_Rva": "0x0005C534"
+		},
+		{
+			"Text_Raw": "やはり、あまり締まらない、笑い話のような状況だった。",
+			"Text_Tra": "I think I've got my work cut out for me.",
+			"FOA_Ptr": "0x0004F916",
+			"FOA_Rva": "0x0005C54F"
+		}
+	]
+}
